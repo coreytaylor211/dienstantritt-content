@@ -26,13 +26,6 @@
     },
     {
       "id": "rf-1-4",
-      "note": "offizielle Quelle/Stand nötig; öffentliche Angaben nennen einen Verpflegungswert von rund 10 € pro Tag, dies bitte amtlich bestätigen",
-      "raw": "[PRÜFEN: Genaue Regelung zu kostenfreier Verpflegung bzw. Verpflegungsgeld im Neuen Wehrdienst — offizielle Quelle/Stand nötig; öffentliche Angaben nennen einen Verpflegungswert von rund 10 € pro Tag, dies bitte amtlich bestätigen]",
-      "sectionId": "1.6",
-      "topic": "Genaue Regelung zu kostenfreier Verpflegung bzw. Verpflegungsgeld im Neuen Wehrdienst"
-    },
-    {
-      "id": "rf-1-5",
       "note": "variieren je Einheit, keine offizielle bundesweite Vorgabe; nicht als feste Zeiten darstellen",
       "raw": "[PRÜFEN: Konkrete Uhrzeiten für Wecken, Dienstbeginn und Dienstschluss in der Grundausbildung — variieren je Einheit, keine offizielle bundesweite Vorgabe; nicht als feste Zeiten darstellen]",
       "sectionId": "1.6",
@@ -390,11 +383,7 @@
                 "text": "Essenszeiten:"
               },
               {
-                "text": " Frühstück, Mittagessen, Abendessen in der Truppenküche/Mensa. Die Verpflegung ist gestellt. "
-              },
-              {
-                "reviewFlagId": "rf-1-4",
-                "text": "[PRÜFEN: Genaue Regelung zu kostenfreier Verpflegung bzw. Verpflegungsgeld im Neuen Wehrdienst — offizielle Quelle/Stand nötig; öffentliche Angaben nennen einen Verpflegungswert von rund 10 € pro Tag, dies bitte amtlich bestätigen]"
+                "text": " Frühstück, Mittagessen, Abendessen in der Truppenküche. Laut Bundeswehr servieren die Truppenküchen dreimal täglich Mahlzeiten; für die Rundum-Verpflegung fallen „etwa zehn Euro täglich\" an (Sachbezugswert) – die Verpflegung ist also nicht völlig kostenlos, sondern wird als Sachbezug bewertet (Quelle: bundeswehr.de, „Neuer Wehrdienst\", abgerufen 2026). Wie das genau mit deinen Bezügen verrechnet wird, klärt deine Bezügestelle."
               }
             ],
             [
@@ -413,7 +402,7 @@
         {
           "spans": [
             {
-              "reviewFlagId": "rf-1-5",
+              "reviewFlagId": "rf-1-4",
               "text": "[PRÜFEN: Konkrete Uhrzeiten für Wecken, Dienstbeginn und Dienstschluss in der Grundausbildung — variieren je Einheit, keine offizielle bundesweite Vorgabe; nicht als feste Zeiten darstellen]"
             }
           ],
@@ -531,10 +520,13 @@
       "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Unterbringung/Vergütung."
     },
     {
-      "label": "Bundeswehr: „Neuer Wehrdienst\" und „Grundausbildung\" (bundeswehr.de), abgerufen 2026."
+      "label": "Bundeswehr: „Neuer Wehrdienst der Bundeswehr: Ablauf, Dauer, Bedingungen\" (bundeswehr.de/de/menschen-karrieren/neuer-wehrdienst), abgerufen 2026-06-01 – Verpflegung „etwa zehn Euro täglich\" (Sachbezug), Truppenküche dreimal täglich."
     },
     {
-      "label": "Konkrete Tagesabläufe, Einkleidungslisten und Stubenbelegung sind nicht bundeseinheitlich offiziell festgelegt und mit `[PRÜFEN]` markiert."
+      "label": "Bundeswehr: „Grundausbildung\" (bundeswehr.de), abgerufen 2026-06-01."
+    },
+    {
+      "label": "Konkrete Tagesabläufe, Einkleidungslisten, Stubenbelegung und die Erstattung von Anreisekosten sind nicht bundeseinheitlich offiziell veröffentlicht und mit `[PRÜFEN]` markiert."
     }
   ],
   "title": "Ankommen & erste Tage",

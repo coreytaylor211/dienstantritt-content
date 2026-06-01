@@ -6,47 +6,26 @@
     {
       "id": "rf-3-1",
       "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Vollständige Liste aller Einstiegsdienstgrad-Bezeichnungen je Teilstreitkraft/Truppengattung — offizielle Quelle/Stand nötig]",
-      "sectionId": "3.2.1",
-      "topic": "Vollständige Liste aller Einstiegsdienstgrad-Bezeichnungen je Teilstreitkraft/Truppengattung"
-    },
-    {
-      "id": "rf-3-2",
-      "note": "offizielle Quelle/Stand nötig",
       "raw": "[PRÜFEN: Konkrete Beförderungszeitpunkte und erreichbare Mannschaftsdienstgrade im Neuen Wehrdienst (FWDL/SaZ) — offizielle Quelle/Stand nötig]",
       "sectionId": "3.2.2",
       "topic": "Konkrete Beförderungszeitpunkte und erreichbare Mannschaftsdienstgrade im Neuen Wehrdienst (FWDL/SaZ)"
     },
     {
-      "id": "rf-3-3",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Genaue Definition und Ebene des Disziplinarvorgesetzten nach Wehrdisziplinarordnung — offizielle Quelle/Stand nötig]",
-      "sectionId": "3.3.4",
-      "topic": "Genaue Definition und Ebene des Disziplinarvorgesetzten nach Wehrdisziplinarordnung"
-    },
-    {
-      "id": "rf-3-4",
+      "id": "rf-3-2",
       "note": "offizielle Quelle (z. B. Vorgesetztenverordnung / Dienstvorschriften) / Stand nötig",
       "raw": "[PRÜFEN: Verbindliche Details der Anredeformen und Meldeformeln (z. B. genaue Wortlaute) — offizielle Quelle (z. B. Vorgesetztenverordnung / Dienstvorschriften) / Stand nötig]",
       "sectionId": "3.4.3",
       "topic": "Verbindliche Details der Anredeformen und Meldeformeln (z. B. genaue Wortlaute)"
     },
     {
-      "id": "rf-3-5",
+      "id": "rf-3-3",
       "note": "offizielle Quelle/Stand nötig; hier nur Grundprinzip, keine verbindlichen Detailregeln",
       "raw": "[PRÜFEN: Genaue Grußregeln (mit/ohne Kopfbedeckung, drinnen/draußen, Ausnahmen) nach gültiger Dienstvorschrift — offizielle Quelle/Stand nötig; hier nur Grundprinzip, keine verbindlichen Detailregeln]",
       "sectionId": "3.5.3",
       "topic": "Genaue Grußregeln (mit/ohne Kopfbedeckung, drinnen/draußen, Ausnahmen) nach gültiger Dienstvorschrift"
     },
     {
-      "id": "rf-3-6",
-      "note": "offizielle Quelle (Soldatengesetz/Wehrstrafgesetz) / Stand nötig",
-      "raw": "[PRÜFEN: Genaue rechtliche Grenzen von Befehl und Gehorsam — offizielle Quelle (Soldatengesetz/Wehrstrafgesetz) / Stand nötig]",
-      "sectionId": "3.6.2",
-      "topic": "Genaue rechtliche Grenzen von Befehl und Gehorsam"
-    },
-    {
-      "id": "rf-3-7",
+      "id": "rf-3-4",
       "note": "offizielle Quelle/Stand nötig",
       "raw": "[PRÜFEN: Exakte Beschreibung der Mannschafts-Dienstgradabzeichen je Teilstreitkraft (Anzahl/Form der Winkel/Sterne) — offizielle Quelle/Stand nötig]",
       "sectionId": "3.7",
@@ -158,11 +137,97 @@
             {
               "spans": [
                 {
-                  "text": "Hinweis: Der Einstiegsdienstgrad heißt nicht überall „Schütze\". Je nach Teilstreitkraft/Truppengattung kann er anders lauten (z. B. in der Luftwaffe „Flieger\", in der Marine „Matrose\", im Sanitätsdienst „Sanitätssoldat\"). "
-                },
+                  "text": "Hinweis: Der unterste Mannschaftsdienstgrad heißt nicht überall „Schütze\". Je nach Teilstreitkraft und Truppengattung lautet er anders (Quelle: bundeswehr.de, „Dienstgrade\" / „Laufbahn der Mannschaften\", abgerufen 2026). Beispiele für Einstiegsdienstgrade:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "items": [
+                [
+                  {
+                    "bold": true,
+                    "text": "Heer (allgemein):"
+                  },
+                  {
+                    "text": " Schütze"
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Luftwaffe:"
+                  },
+                  {
+                    "text": " Flieger"
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Marine:"
+                  },
+                  {
+                    "text": " Matrose"
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Sanitätsdienst:"
+                  },
+                  {
+                    "text": " Sanitätssoldat"
+                  }
+                ],
+                [
+                  {
+                    "text": "nach Truppengattung im Heer u. a.: "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Jäger"
+                  },
+                  {
+                    "text": " (Jägertruppe), "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Grenadier"
+                  },
+                  {
+                    "text": " (Panzergrenadiere), "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Kanonier"
+                  },
+                  {
+                    "text": " (Artillerie), "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Pionier"
+                  },
+                  {
+                    "text": " (Pioniere), "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Funker"
+                  },
+                  {
+                    "text": " (Fernmelder)"
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            },
+            {
+              "spans": [
                 {
-                  "reviewFlagId": "rf-3-1",
-                  "text": "[PRÜFEN: Vollständige Liste aller Einstiegsdienstgrad-Bezeichnungen je Teilstreitkraft/Truppengattung — offizielle Quelle/Stand nötig]"
+                  "text": "Bis zur ersten Beförderung werden diese als „Mannschaften im niedrigsten Dienstgrad\" zusammengefasst."
                 }
               ],
               "type": "paragraph"
@@ -179,7 +244,7 @@
                   "text": "Nach der Grundausbildung ist eine erste Beförderung üblich – in öffentlichen Darstellungen wird häufig die Beförderung zum Gefreiten nach rund drei Monaten genannt, verbunden mit etwas mehr Sold. Wie weit du innerhalb der Mannschaftslaufbahn während deiner Wehrdienstzeit aufsteigen kannst, hängt von Dienstdauer, Eignung und Verwendung ab. "
                 },
                 {
-                  "reviewFlagId": "rf-3-2",
+                  "reviewFlagId": "rf-3-1",
                   "text": "[PRÜFEN: Konkrete Beförderungszeitpunkte und erreichbare Mannschaftsdienstgrade im Neuen Wehrdienst (FWDL/SaZ) — offizielle Quelle/Stand nötig]"
                 }
               ],
@@ -254,11 +319,7 @@
             {
               "spans": [
                 {
-                  "text": "Das ist die Person, die disziplinarrechtliche Befugnisse über dich hat (z. B. Anerkennungen aussprechen oder Disziplinarmaßnahmen verhängen kann). Wer dein:e Disziplinarvorgesetzte:r ist, wird dir genannt – das ist eine zentrale Bezugsperson für formale Angelegenheiten. "
-                },
-                {
-                  "reviewFlagId": "rf-3-3",
-                  "text": "[PRÜFEN: Genaue Definition und Ebene des Disziplinarvorgesetzten nach Wehrdisziplinarordnung — offizielle Quelle/Stand nötig]"
+                  "text": "Das ist die Person, die disziplinarrechtliche Befugnisse über dich hat (z. B. Anerkennungen aussprechen oder Disziplinarmaßnahmen verhängen kann). Nach § 27 der Wehrdisziplinarordnung (WDO) sind Disziplinarvorgesetzte die Vorgesetzten, denen Disziplinarbefugnis verliehen ist, sowie ihre Vorgesetzten in der Befehlskette; die Befugnis ist an die Dienststellung gebunden und nicht übertragbar (sie geht aber auf die Vertretung über). Höchster Disziplinarvorgesetzter ist die:der Bundesminister:in der Verteidigung. Wer konkret dein:e Disziplinarvorgesetzte:r ist, wird dir genannt – das ist eine zentrale Bezugsperson für formale Angelegenheiten. (Quelle: gesetze-im-internet.de, § 27 WDO, abgerufen 2026-06-01)"
                 }
               ],
               "type": "paragraph"
@@ -381,7 +442,7 @@
             {
               "spans": [
                 {
-                  "reviewFlagId": "rf-3-4",
+                  "reviewFlagId": "rf-3-2",
                   "text": "[PRÜFEN: Verbindliche Details der Anredeformen und Meldeformeln (z. B. genaue Wortlaute) — offizielle Quelle (z. B. Vorgesetztenverordnung / Dienstvorschriften) / Stand nötig]"
                 }
               ],
@@ -474,7 +535,7 @@
             {
               "spans": [
                 {
-                  "reviewFlagId": "rf-3-5",
+                  "reviewFlagId": "rf-3-3",
                   "text": "[PRÜFEN: Genaue Grußregeln (mit/ohne Kopfbedeckung, drinnen/draußen, Ausnahmen) nach gültiger Dienstvorschrift — offizielle Quelle/Stand nötig; hier nur Grundprinzip, keine verbindlichen Detailregeln]"
                 }
               ],
@@ -523,11 +584,42 @@
                 ],
                 [
                   {
-                    "text": "Befehl und Gehorsam haben Grenzen: Befehle, die gegen die Menschenwürde verstoßen oder zu Straftaten auffordern, sind nicht zu befolgen. Diese Grenzen lernst du im Rechtsunterricht (siehe Modul 2). "
+                    "text": "Befehl und Gehorsam haben Grenzen (§ 11 Soldatengesetz): Du musst Befehle „nach besten Kräften vollständig, gewissenhaft und unverzüglich\" ausführen. Ein Befehl muss aber "
                   },
                   {
-                    "reviewFlagId": "rf-3-6",
-                    "text": "[PRÜFEN: Genaue rechtliche Grenzen von Befehl und Gehorsam — offizielle Quelle (Soldatengesetz/Wehrstrafgesetz) / Stand nötig]"
+                    "bold": true,
+                    "text": "nicht"
+                  },
+                  {
+                    "text": " befolgt werden, wenn er die "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Menschenwürde verletzt"
+                  },
+                  {
+                    "text": " oder "
+                  },
+                  {
+                    "bold": true,
+                    "text": "nicht zu dienstlichen Zwecken"
+                  },
+                  {
+                    "text": " erteilt wurde – das ist dann kein Ungehorsam. Und ein Befehl "
+                  },
+                  {
+                    "bold": true,
+                    "text": "darf nicht"
+                  },
+                  {
+                    "text": " befolgt werden, wenn dadurch eine "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Straftat"
+                  },
+                  {
+                    "text": " begangen würde. Diese Grenzen lernst du im Rechtsunterricht (siehe Modul 2). (Quelle: gesetze-im-internet.de, § 11 SG, abgerufen 2026-06-01; keine Rechtsberatung – im Ernstfall offizielle Stellen einbeziehen)"
                   }
                 ]
               ],
@@ -602,7 +694,7 @@
         {
           "spans": [
             {
-              "reviewFlagId": "rf-3-7",
+              "reviewFlagId": "rf-3-4",
               "text": "[PRÜFEN: Exakte Beschreibung der Mannschafts-Dienstgradabzeichen je Teilstreitkraft (Anzahl/Form der Winkel/Sterne) — offizielle Quelle/Stand nötig]"
             }
           ],
@@ -616,10 +708,16 @@
   ],
   "sources": [
     {
-      "label": "Bundeswehr: „Dienstgrade der Bundeswehr (Heer, Luftwaffe, Marine, Sanität)\" (bundeswehr.de), abgerufen 2026 – Reihenfolge der Mannschaftsdienstgrade, sieben Dienstgradgruppen, Anredeform „Frau + männliche Dienstgradform\"."
+      "label": "Bundeswehr: „Dienstgrade der Bundeswehr (Heer, Luftwaffe, Marine, Sanität)\" und „Die Laufbahn der Mannschaften\" (bundeswehr.de), abgerufen 2026-06-01 – Reihenfolge der Mannschaftsdienstgrade, sieben Dienstgradgruppen, Einstiegsdienstgrade je Teilstreitkraft/Truppengattung (Schütze, Flieger, Matrose, Sanitätssoldat, Jäger, Grenadier, Kanonier, Pionier, Funker …), Anredeform „Frau + männliche Dienstgradform\"."
     },
     {
-      "label": "Detailregeln zu Grußpflicht, Meldeformeln, Disziplinarvorgesetztem, Abzeichen und Beförderungszeitpunkten sind in Dienstvorschriften/Gesetzen geregelt und mit `[PRÜFEN]` markiert."
+      "label": "gesetze-im-internet.de: § 27 Wehrdisziplinarordnung (WDO), abgerufen 2026-06-01 – Definition Disziplinarvorgesetzte."
+    },
+    {
+      "label": "gesetze-im-internet.de: § 11 Soldatengesetz (SG), abgerufen 2026-06-01 – Gehorsam und seine Grenzen (Menschenwürde, dienstlicher Zweck, Straftat)."
+    },
+    {
+      "label": "Detailregeln zu Grußpflicht, genauen Meldeformeln, der grafischen Gestaltung der Dienstgradabzeichen und zu konkreten Beförderungszeitpunkten sind in nicht öffentlich einsehbaren Dienstvorschriften geregelt und bleiben mit `[PRÜFEN]` markiert."
     }
   ],
   "title": "Dienstgrade, Vorgesetzte & Umgangsformen",

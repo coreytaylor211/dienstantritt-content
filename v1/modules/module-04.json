@@ -26,41 +26,13 @@
     },
     {
       "id": "rf-4-4",
-      "note": "kostenfreie Verpflegung vs. Verpflegungsgeld/Sachbezug und dessen Wert (öffentlich kursiert ein Wert von rund 10 €/Tag) im Neuen Wehrdienst — offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Genaue Regelung – kostenfreie Verpflegung vs. Verpflegungsgeld/Sachbezug und dessen Wert (öffentlich kursiert ein Wert von rund 10 €/Tag) im Neuen Wehrdienst — offizielle Quelle/Stand nötig]",
-      "sectionId": "4.4",
-      "topic": "Genaue Regelung"
-    },
-    {
-      "id": "rf-4-5",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Genauer Umfang der freien Heilfürsorge/truppenärztlichen Versorgung für FWDL/SaZ — offizielle Quelle/Stand nötig]",
-      "sectionId": "4.4",
-      "topic": "Genauer Umfang der freien Heilfürsorge/truppenärztlichen Versorgung für FWDL/SaZ"
-    },
-    {
-      "id": "rf-4-6",
       "note": "offizielle Quelle/Stand nötig",
       "raw": "[PRÜFEN: Ob und in welchen Fällen Heimfahrten/Familienheimfahrten erstattet werden — offizielle Quelle/Stand nötig]",
       "sectionId": "4.5",
       "topic": "Ob und in welchen Fällen Heimfahrten/Familienheimfahrten erstattet werden"
     },
     {
-      "id": "rf-4-7",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Aktuelle Voraussetzungen und genaue Abdeckung (Fern-/Regionalverkehr, Verkehrsverbünde) — offizielle Quelle/Stand nötig]",
-      "sectionId": "4.6.1",
-      "topic": "Aktuelle Voraussetzungen und genaue Abdeckung (Fern-/Regionalverkehr, Verkehrsverbünde)"
-    },
-    {
-      "id": "rf-4-8",
-      "note": "offizielle Quelle/Stand nötig; oben genannte Fristen anhand bundeswehr.de/„Führerschein\" final gegenprüfen",
-      "raw": "[PRÜFEN: Feinheiten der Antrags- und Nachweispflichten zum Führerschein-Zuschuss — offizielle Quelle/Stand nötig; oben genannte Fristen anhand bundeswehr.de/„Führerschein\" final gegenprüfen]",
-      "sectionId": "4.6.2",
-      "topic": "Feinheiten der Antrags- und Nachweispflichten zum Führerschein-Zuschuss"
-    },
-    {
-      "id": "rf-4-9",
+      "id": "rf-4-5",
       "note": "offizielle Quelle/Stand nötig",
       "raw": "[PRÜFEN: Genauer Auszahlungsrhythmus/-zeitpunkt (z. B. monatlich im Voraus/zum Monatsende) der Bezüge im Wehrdienst — offizielle Quelle/Stand nötig]",
       "sectionId": "4.7.1",
@@ -309,11 +281,7 @@
                 "text": "Verpflegung:"
               },
               {
-                "text": " Es gibt Verpflegung in der Truppe. "
-              },
-              {
-                "reviewFlagId": "rf-4-4",
-                "text": "[PRÜFEN: Genaue Regelung – kostenfreie Verpflegung vs. Verpflegungsgeld/Sachbezug und dessen Wert (öffentlich kursiert ein Wert von rund 10 €/Tag) im Neuen Wehrdienst — offizielle Quelle/Stand nötig]"
+                "text": " Die Truppenküchen servieren dreimal täglich Mahlzeiten. Für die Rundum-Verpflegung fallen laut Bundeswehr „etwa zehn Euro täglich\" an – sie wird also als Sachbezug bewertet und ist nicht völlig kostenlos (Quelle: bundeswehr.de, „Neuer Wehrdienst\", abgerufen 2026). Wie das mit deinen Bezügen verrechnet wird, klärt deine Bezügestelle."
               }
             ],
             [
@@ -331,11 +299,7 @@
                 "text": "Medizinische Versorgung:"
               },
               {
-                "text": " Du wirst durch den Sanitätsdienst der Bundeswehr versorgt; eigene Krankenkassenbeiträge fallen dafür nicht an (unentgeltliche truppenärztliche Versorgung). "
-              },
-              {
-                "reviewFlagId": "rf-4-5",
-                "text": "[PRÜFEN: Genauer Umfang der freien Heilfürsorge/truppenärztlichen Versorgung für FWDL/SaZ — offizielle Quelle/Stand nötig]"
+                "text": " Du wirst durch den Sanitätsdienst der Bundeswehr versorgt; eigene Krankenkassenbeiträge fallen dafür nicht an (unentgeltliche truppenärztliche Versorgung bzw. Heilfürsorge nach § 69a Bundesbesoldungsgesetz und der Heilfürsorgeverordnung BwHFV). Erfasst sind grundsätzlich die medizinisch notwendigen und wirtschaftlich angemessenen Leistungen (mindestens auf dem Niveau der gesetzlichen Krankenversicherung); Leistungen werden in der Regel als Sach-/Dienstleistung erbracht. Nicht erfasst sind z. B. Leistungen von Heilpraktiker:innen. (Quelle: gesetze-im-internet.de, § 69a BBesG / BwHFV, abgerufen 2026-06-01)"
               }
             ]
           ],
@@ -378,7 +342,7 @@
                 "text": " In Uniform fährst du mit der Deutschen Bahn kostenlos (siehe unten). Für private Fahrten in Zivil oder mit dem eigenen Auto trägst du die Kosten in der Regel selbst – außer es greift eine dienstliche Erstattung (z. B. Wegstreckenentschädigung in bestimmten Fällen). "
               },
               {
-                "reviewFlagId": "rf-4-6",
+                "reviewFlagId": "rf-4-4",
                 "text": "[PRÜFEN: Ob und in welchen Fällen Heimfahrten/Familienheimfahrten erstattet werden — offizielle Quelle/Stand nötig]"
               }
             ],
@@ -410,11 +374,49 @@
             {
               "spans": [
                 {
-                  "text": "Soldatinnen und Soldaten fahren in Uniform kostenlos mit der Deutschen Bahn – im Fern- und im Großteil des Regionalverkehrs, auch privat in der Freizeit. Voraussetzung sind ein gültiger Truppenausweis und das Tragen der Uniform; die Buchung läuft über eine eigene Lösung/App der Bundeswehr (Quelle: bmvg.de / bundeswehr.de, abgerufen 2026). "
+                  "text": "Soldatinnen und Soldaten fahren in Uniform kostenlos mit der Deutschen Bahn, auch privat in der Freizeit. Das Ticket gilt im "
                 },
                 {
-                  "reviewFlagId": "rf-4-7",
-                  "text": "[PRÜFEN: Aktuelle Voraussetzungen und genaue Abdeckung (Fern-/Regionalverkehr, Verkehrsverbünde) — offizielle Quelle/Stand nötig]"
+                  "bold": true,
+                  "text": "Fernverkehr"
+                },
+                {
+                  "text": " (ICE, IC/EC) innerhalb Deutschlands; im Vor- oder Nachlauf können auch "
+                },
+                {
+                  "bold": true,
+                  "text": "Nahverkehrszüge"
+                },
+                {
+                  "text": " (RE, RB, IR, S-Bahn) genutzt werden. Seit der Ausweitung 2020 sind über "
+                },
+                {
+                  "bold": true,
+                  "text": "90 % der Nahverkehrsverbindungen"
+                },
+                {
+                  "text": " einbezogen (verbundfreie und verbundübergreifende Strecken). Du brauchst dafür drei Dinge: einen gültigen "
+                },
+                {
+                  "bold": true,
+                  "text": "Truppenausweis"
+                },
+                {
+                  "text": " (oder vorläufigen Truppenausweis mit Personalausweis), das "
+                },
+                {
+                  "bold": true,
+                  "text": "Tragen der Uniform"
+                },
+                {
+                  "text": " während der gesamten Fahrt und ein "
+                },
+                {
+                  "bold": true,
+                  "text": "Bahnticket"
+                },
+                {
+                  "text": "; die Buchung läuft über das Buchungsportal der Bundeswehr/Bahn. Die Tickets sind personalisiert. (Quelle: bundeswehr.de „Freie Bahnfahrt für Soldatinnen und Soldaten\", bahn.de „Bundeswehr – Fragen & Antworten\", abgerufen 2026-06-01)"
                 }
               ],
               "type": "paragraph"
@@ -533,8 +535,7 @@
             {
               "spans": [
                 {
-                  "reviewFlagId": "rf-4-8",
-                  "text": "[PRÜFEN: Feinheiten der Antrags- und Nachweispflichten zum Führerschein-Zuschuss — offizielle Quelle/Stand nötig; oben genannte Fristen anhand bundeswehr.de/„Führerschein\" final gegenprüfen]"
+                  "text": "Für den Antrag brauchst du laut Bundeswehr das ausgefüllte Antragsformular, die Rechnung der Fahrschule über die erbrachten Leistungen und Fotos/Scans beider Seiten des Führerscheins; bei bereits beendetem Dienst zusätzlich eine Wehrdienstzeitbescheinigung. Der Antrag muss spätestens zwölf Monate nach Erreichen aller Voraussetzungen gestellt werden. (Quelle: bundeswehr.de, „Führerschein: Zuschuss von der Bundeswehr\", abgerufen 2026-06-01 – Beträge, Fristen und Nachweispflichten bestätigt)"
                 }
               ],
               "type": "paragraph"
@@ -560,7 +561,7 @@
                   "text": "Dein Sold wird auf das Bankkonto überwiesen, dessen Daten du bei den ersten Formalitäten angegeben hast (siehe Modul 1). Gib deine korrekte IBAN frühzeitig an, damit die erste Zahlung nicht hängt. "
                 },
                 {
-                  "reviewFlagId": "rf-4-9",
+                  "reviewFlagId": "rf-4-5",
                   "text": "[PRÜFEN: Genauer Auszahlungsrhythmus/-zeitpunkt (z. B. monatlich im Voraus/zum Monatsende) der Bezüge im Wehrdienst — offizielle Quelle/Stand nötig]"
                 }
               ],
@@ -644,13 +645,22 @@
       "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Vergütung mind. 2.600 € brutto inkl. Unterbringung, FWDL/SaZ."
     },
     {
-      "label": "Bundeswehr: „Neuer Wehrdienst\" und „Führerschein: Zuschuss von der Bundeswehr\" (bundeswehr.de), abgerufen 2026 – Führerschein-Zuschuss, Beträge und Fristen."
+      "label": "Bundeswehr: „Neuer Wehrdienst der Bundeswehr\" (bundeswehr.de), abgerufen 2026-06-01 – FWDL „etwa 2.600 € brutto\", SaZ „rund 2.700 € brutto\", Verpflegung „etwa zehn Euro täglich\" (Sachbezug), unentgeltliche truppenärztliche Versorgung."
+    },
+    {
+      "label": "Bundeswehr: „Führerschein: Zuschuss von der Bundeswehr\" (bundeswehr.de), abgerufen 2026-06-01 – Beträge (B bis 3.500 €, C/C1 bis 5.000 €), Mindestdienst 12 Monate, Fristen und Nachweispflichten."
+    },
+    {
+      "label": "gesetze-im-internet.de: § 69a Bundesbesoldungsgesetz (BBesG) und BwHFV, abgerufen 2026-06-01 – Umfang der Heilfürsorge."
+    },
+    {
+      "label": "Bundeswehr „Freie Bahnfahrt für Soldatinnen und Soldaten\" und bahn.de „Bundeswehr – Fragen & Antworten\", abgerufen 2026-06-01 – Abdeckung Fern-/Nahverkehr (>90 % Nahverkehr), Voraussetzungen."
     },
     {
       "label": "BMVg/Bundeswehr: kostenloses Bahnfahren in Uniform (bmvg.de/bundeswehr.de), abgerufen 2026."
     },
     {
-      "label": "Alle konkreten Netto-Beträge, Zulagen-, Trennungsgeld-, Verpflegungs- und Auszahlungsdetails sind individuell/änderbar und mit `[PRÜFEN]` markiert."
+      "label": "Konkrete Netto-Beträge, Zulagen-, Trennungsgeld-/Wegstrecken-, Heimfahrt- und Auszahlungsdetails (Rhythmus/Zeitpunkt) sowie die genaue Sold-Staffelung nach Dienstgrad sind nicht amtlich öffentlich beziffert/individuell und bleiben mit `[PRÜFEN]` markiert."
     }
   ],
   "title": "Geld – Sold, Bezahlung & was frei ist",

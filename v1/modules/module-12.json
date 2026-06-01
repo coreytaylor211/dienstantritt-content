@@ -5,55 +5,27 @@
   "reviewFlags": [
     {
       "id": "rf-12-1",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Genaue Rolle/Rechte der Vertrauensperson nach Soldatinnen- und Soldatenbeteiligungsgesetz — offizielle Quelle/Stand nötig]",
-      "sectionId": "12.2.2",
-      "topic": "Genaue Rolle/Rechte der Vertrauensperson nach Soldatinnen- und Soldatenbeteiligungsgesetz"
-    },
-    {
-      "id": "rf-12-2",
       "note": "keine Nummern erfinden, offizielle Quelle/Stand nötig",
       "raw": "[PRÜFEN: Aktuelle Kontaktdaten (Telefon/Adresse) der genannten Stellen — keine Nummern erfinden, offizielle Quelle/Stand nötig]",
       "sectionId": "12.2.7",
       "topic": "Aktuelle Kontaktdaten (Telefon/Adresse) der genannten Stellen"
     },
     {
-      "id": "rf-12-3",
+      "id": "rf-12-2",
       "note": "richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste",
       "raw": "[PRÜFEN: Verbindliche „Mitzubringen\"-Liste für den ersten Diensttag im Neuen Wehrdienst — richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste]",
       "sectionId": "12.3",
       "topic": "Verbindliche „Mitzubringen\"-Liste für den ersten Diensttag im Neuen Wehrdienst"
     },
     {
-      "id": "rf-12-4",
+      "id": "rf-12-3",
       "note": "variieren, keine bundeseinheitliche offizielle Liste",
       "raw": "[PRÜFEN: Verbindliche „erste Woche\"-Pflichten je Dienststelle — variieren, keine bundeseinheitliche offizielle Liste]",
       "sectionId": "12.4",
       "topic": "Verbindliche „erste Woche\"-Pflichten je Dienststelle"
     },
     {
-      "id": "rf-12-5",
-      "note": "",
-      "raw": "[PRÜFEN: genaue Funktion/Bezeichnung]",
-      "sectionId": "12.5",
-      "topic": "genaue Funktion/Bezeichnung"
-    },
-    {
-      "id": "rf-12-6",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: genaue Bezeichnung/Geltung — offizielle Quelle/Stand nötig]",
-      "sectionId": "12.5",
-      "topic": "genaue Bezeichnung/Geltung"
-    },
-    {
-      "id": "rf-12-7",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: genaue offizielle Funktion „Kompaniefeldwebel\" — offizielle Quelle/Stand nötig]",
-      "sectionId": "12.6",
-      "topic": "genaue offizielle Funktion „Kompaniefeldwebel\""
-    },
-    {
-      "id": "rf-12-8",
+      "id": "rf-12-4",
       "note": "offizielle Quelle/Stand nötig, keine Nummern erfinden",
       "raw": "[PRÜFEN: Aktuelle offizielle Kontakt-/Notfallnummern der Bundeswehr-Stellen — offizielle Quelle/Stand nötig, keine Nummern erfinden]",
       "sectionId": "12.8",
@@ -118,11 +90,7 @@
                   "text": "Vertrauensperson"
                 },
                 {
-                  "text": ". Sie vertritt die Interessen der Truppe gegenüber den Vorgesetzten und ist Ansprechpartnerin bei Problemen, Beschwerden und im Miteinander. Eine gute erste Adresse, wenn du etwas ansprechen willst, aber nicht direkt zur Führung gehen möchtest. "
-                },
-                {
-                  "reviewFlagId": "rf-12-1",
-                  "text": "[PRÜFEN: Genaue Rolle/Rechte der Vertrauensperson nach Soldatinnen- und Soldatenbeteiligungsgesetz — offizielle Quelle/Stand nötig]"
+                  "text": ". Mannschaften, Unteroffiziere und Offiziere bilden dabei jeweils eine eigene Wählergruppe; jede Gruppe mit mindestens fünf Soldatinnen und Soldaten wählt eine Vertrauensperson und mindestens zwei Stellvertretungen (Quelle: gesetze-im-internet.de, Soldatinnen- und Soldatenbeteiligungsgesetz – SBG, abgerufen 2026-06-01). Die Vertrauensperson vertritt die Interessen der Truppe gegenüber den Vorgesetzten und ist Ansprechpartnerin bei Anliegen, Beschwerden und im Miteinander. Sie darf in der Ausübung ihrer Befugnisse nicht behindert und wegen ihrer Tätigkeit nicht benachteiligt werden. Eine gute erste Adresse, wenn du etwas ansprechen willst, aber nicht direkt zur Führung gehen möchtest."
                 }
               ],
               "type": "paragraph"
@@ -210,7 +178,7 @@
                   "text": "Konkrete Telefonnummern und Adressen erfährst du über deine Einheit oder die offiziellen Webseiten. "
                 },
                 {
-                  "reviewFlagId": "rf-12-2",
+                  "reviewFlagId": "rf-12-1",
                   "text": "[PRÜFEN: Aktuelle Kontaktdaten (Telefon/Adresse) der genannten Stellen — keine Nummern erfinden, offizielle Quelle/Stand nötig]"
                 }
               ],
@@ -335,7 +303,7 @@
       ],
       "reviewFlags": [
         {
-          "id": "rf-12-3",
+          "id": "rf-12-2",
           "note": "richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste",
           "raw": "[PRÜFEN: Verbindliche „Mitzubringen\"-Liste für den ersten Diensttag im Neuen Wehrdienst — richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste]",
           "sectionId": "12.3",
@@ -440,7 +408,7 @@
       ],
       "reviewFlags": [
         {
-          "id": "rf-12-4",
+          "id": "rf-12-3",
           "note": "variieren, keine bundeseinheitliche offizielle Liste",
           "raw": "[PRÜFEN: Verbindliche „erste Woche\"-Pflichten je Dienststelle — variieren, keine bundeseinheitliche offizielle Liste]",
           "sectionId": "12.4",
@@ -522,20 +490,7 @@
           "id": "12.5-abbreviations-uvd",
           "meaning": [
             {
-              "text": "Unteroffizier vom Dienst — Diensthabende:r Unteroffizier:in mit Aufsichts-/Ordnungsaufgaben. "
-            },
-            {
-              "reviewFlagId": "rf-12-5",
-              "text": "[PRÜFEN: genaue Funktion/Bezeichnung]"
-            }
-          ],
-          "reviewFlags": [
-            {
-              "id": "rf-12-5",
-              "note": "",
-              "raw": "[PRÜFEN: genaue Funktion/Bezeichnung]",
-              "sectionId": "12.5",
-              "topic": "genaue Funktion/Bezeichnung"
+              "text": "Unteroffizier vom Dienst — Diensthabende:r Unteroffizier:in mit Aufsichts- und Ordnungsaufgaben in der Einheit (Dienstposten im Innendienst)."
             }
           ]
         },
@@ -553,20 +508,7 @@
           "id": "12.5-abbreviations-sazv",
           "meaning": [
             {
-              "text": "(Soldatenarbeitszeitverordnung) — Regelt Arbeitszeit von Soldat:innen. "
-            },
-            {
-              "reviewFlagId": "rf-12-6",
-              "text": "[PRÜFEN: genaue Bezeichnung/Geltung — offizielle Quelle/Stand nötig]"
-            }
-          ],
-          "reviewFlags": [
-            {
-              "id": "rf-12-6",
-              "note": "offizielle Quelle/Stand nötig",
-              "raw": "[PRÜFEN: genaue Bezeichnung/Geltung — offizielle Quelle/Stand nötig]",
-              "sectionId": "12.5",
-              "topic": "genaue Bezeichnung/Geltung"
+              "text": "Soldatenarbeitszeitverordnung — Verordnung über die Arbeitszeit der Soldatinnen und Soldaten; gilt für Soldat:innen im Geschäftsbereich des BMVg (Quelle: gesetze-im-internet.de, SAZV, abgerufen 2026-06-01)."
             }
           ]
         },
@@ -626,23 +568,17 @@
         {
           "explanation": [
             {
-              "text": "umgangssprachlich für den Kompaniefeldwebel (zentrale organisatorische Bezugsperson der Kompanie). "
+              "text": "umgangssprachlich (auch „Mutter der Kompanie\") für den "
             },
             {
-              "reviewFlagId": "rf-12-7",
-              "text": "[PRÜFEN: genaue offizielle Funktion „Kompaniefeldwebel\" — offizielle Quelle/Stand nötig]"
+              "bold": true,
+              "text": "Kompaniefeldwebel"
+            },
+            {
+              "text": ". Offiziell leitet er/sie den Innendienst, ist Führer:in des Unteroffizierkorps und enge:r Berater:in des Kompaniechefs; zuständig u. a. für Unterkünfte, Verpflegung, Personalangelegenheiten und das Wohl der Soldatinnen und Soldaten – oft erste Anlaufstelle bei Sorgen (Quelle: bundeswehr.de, „Spieße – die Mütter der Kompanien\", abgerufen 2026-06-01)."
             }
           ],
           "id": "12.6-slang-spiess",
-          "reviewFlags": [
-            {
-              "id": "rf-12-7",
-              "note": "offizielle Quelle/Stand nötig",
-              "raw": "[PRÜFEN: genaue offizielle Funktion „Kompaniefeldwebel\" — offizielle Quelle/Stand nötig]",
-              "sectionId": "12.6",
-              "topic": "genaue offizielle Funktion „Kompaniefeldwebel\""
-            }
-          ],
           "term": "Spieß"
         },
         {
@@ -839,7 +775,7 @@
               "text": "Aus gutem Grund nennen wir hier keine spezifischen dienstlichen Telefonnummern – die erfährst du verbindlich über deine Einheit und die offiziellen Webseiten. "
             },
             {
-              "reviewFlagId": "rf-12-8",
+              "reviewFlagId": "rf-12-4",
               "text": "[PRÜFEN: Aktuelle offizielle Kontakt-/Notfallnummern der Bundeswehr-Stellen — offizielle Quelle/Stand nötig, keine Nummern erfinden]"
             }
           ],
@@ -862,7 +798,16 @@
       "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Status/Bedarfswehrpflicht."
     },
     {
-      "label": "Abkürzungen, Slang-Begriffe, Checklisten und Kontaktdaten variieren je Dienststelle und sind, wo nicht amtlich belegt, mit `[PRÜFEN]` markiert."
+      "label": "gesetze-im-internet.de: Soldatinnen- und Soldatenbeteiligungsgesetz (SBG), abgerufen 2026-06-01 – Wahl/Schutz der Vertrauensperson."
+    },
+    {
+      "label": "gesetze-im-internet.de: Soldatenarbeitszeitverordnung (SAZV), abgerufen 2026-06-01 – genaue Bezeichnung/Geltung."
+    },
+    {
+      "label": "Bundeswehr: „Spieße – die Mütter der Kompanien\" (bundeswehr.de), abgerufen 2026-06-01 – Funktion Kompaniefeldwebel."
+    },
+    {
+      "label": "Konkrete Telefonnummern, Adressen und dienststellenspezifische Checklisten werden bewusst nicht erfunden und bleiben mit `[PRÜFEN]` markiert."
     }
   ],
   "title": "Praktisches, Orga & Nachschlagewerk",

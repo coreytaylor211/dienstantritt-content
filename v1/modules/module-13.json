@@ -19,10 +19,10 @@
     },
     {
       "id": "rf-13-3",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Konkrete Regelungen/Fristen zu Abbruch, Probezeit und vorzeitiger Beendigung für FWDL und SaZ im Neuen Wehrdienst — offizielle Quelle/Stand nötig]",
+      "note": "offizielle Quelle/Stand nötig; keine Rechtsberatung",
+      "raw": "[PRÜFEN: Ob das Wehrdienstmodernisierungsgesetz (ab 01.01.2026) die Probezeit-/Beendigungsregelungen gegenüber § 58b/§ 55 SG verändert hat — offizielle Quelle/Stand nötig; keine Rechtsberatung]",
       "sectionId": "13.2",
-      "topic": "Konkrete Regelungen/Fristen zu Abbruch, Probezeit und vorzeitiger Beendigung für FWDL und SaZ im Neuen Wehrdienst"
+      "topic": "Ob das Wehrdienstmodernisierungsgesetz (ab 01.01.2026) die Probezeit-/Beendigungsregelungen gegenüber § 58b/§ 55 SG verändert hat"
     },
     {
       "id": "rf-13-4",
@@ -48,26 +48,12 @@
     {
       "id": "rf-13-7",
       "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Konkreter Urlaubsanspruch (Tage) und Urlaubsregelungen für FWDL/SaZ — offizielle Quelle/Stand nötig]",
-      "sectionId": "13.2",
-      "topic": "Konkreter Urlaubsanspruch (Tage) und Urlaubsregelungen für FWDL/SaZ"
-    },
-    {
-      "id": "rf-13-8",
-      "note": "offizielle Quelle/Stand nötig",
       "raw": "[PRÜFEN: Verfahren/Fristen für Verlängerung und Wechsel FWDL → SaZ — offizielle Quelle/Stand nötig]",
       "sectionId": "13.2",
       "topic": "Verfahren/Fristen für Verlängerung und Wechsel FWDL → SaZ"
     },
     {
-      "id": "rf-13-9",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Aktuelle Voraussetzungen/Abdeckung — offizielle Quelle/Stand nötig]",
-      "sectionId": "13.2",
-      "topic": "Aktuelle Voraussetzungen/Abdeckung"
-    },
-    {
-      "id": "rf-13-10",
+      "id": "rf-13-8",
       "note": "variiert je Dienststelle, offizielle Quelle/Stand nötig",
       "raw": "[PRÜFEN: Konkrete Stuben-/Hausordnung und verbotene Gegenstände — variiert je Dienststelle, offizielle Quelle/Stand nötig]",
       "sectionId": "13.2",
@@ -159,11 +145,18 @@
         {
           "answer": [
             {
-              "text": "Der Neue Wehrdienst ist freiwillig, hat aber eine Mindestdauer von 6 Monaten, und du gehst eine Verpflichtung ein. Es gibt eine Anfangsphase, in der ein Ausstieg leichter möglich ist, sowie geregelte Gründe für eine vorzeitige Beendigung. Welche Fristen und Bedingungen für dich gelten, hängt von deinem Status (FWDL/SaZ) und deinem Vertrag ab – kläre das mit der zuständigen Stelle, bevor du etwas entscheidest. "
+              "text": "Der Neue Wehrdienst ist freiwillig, hat aber eine Mindestdauer von 6 Monaten, und du gehst eine Verpflichtung ein. Für den freiwilligen Wehrdienst (FWDL) gelten nach § 58b Soldatengesetz die "
+            },
+            {
+              "bold": true,
+              "text": "ersten sechs Monate als Probezeit"
+            },
+            {
+              "text": "; die Dienstzeit reicht von mindestens 6 bis längstens 11 Monaten (Quelle: gesetze-im-internet.de, § 58b SG, abgerufen 2026-06-01). Daneben gibt es geregelte Gründe für eine vorzeitige Beendigung – etwa eine Entlassung auf eigenen Antrag, wenn das Verbleiben im Dienst eine besondere Härte bedeuten würde (für SaZ vgl. § 55 Abs. 3 SG). Welche Fristen und Bedingungen konkret für dich gelten, hängt von deinem Status (FWDL/SaZ) und deinem Vertrag ab – kläre das mit der zuständigen Stelle, bevor du etwas entscheidest. "
             },
             {
               "reviewFlagId": "rf-13-3",
-              "text": "[PRÜFEN: Konkrete Regelungen/Fristen zu Abbruch, Probezeit und vorzeitiger Beendigung für FWDL und SaZ im Neuen Wehrdienst — offizielle Quelle/Stand nötig]"
+              "text": "[PRÜFEN: Ob das Wehrdienstmodernisierungsgesetz (ab 01.01.2026) die Probezeit-/Beendigungsregelungen gegenüber § 58b/§ 55 SG verändert hat — offizielle Quelle/Stand nötig; keine Rechtsberatung]"
             }
           ],
           "id": "13.2-faq-kann-ich-den-dienst-vorzeitig-beenden",
@@ -171,10 +164,10 @@
           "reviewFlags": [
             {
               "id": "rf-13-3",
-              "note": "offizielle Quelle/Stand nötig",
-              "raw": "[PRÜFEN: Konkrete Regelungen/Fristen zu Abbruch, Probezeit und vorzeitiger Beendigung für FWDL und SaZ im Neuen Wehrdienst — offizielle Quelle/Stand nötig]",
+              "note": "offizielle Quelle/Stand nötig; keine Rechtsberatung",
+              "raw": "[PRÜFEN: Ob das Wehrdienstmodernisierungsgesetz (ab 01.01.2026) die Probezeit-/Beendigungsregelungen gegenüber § 58b/§ 55 SG verändert hat — offizielle Quelle/Stand nötig; keine Rechtsberatung]",
               "sectionId": "13.2",
-              "topic": "Konkrete Regelungen/Fristen zu Abbruch, Probezeit und vorzeitiger Beendigung für FWDL und SaZ im Neuen Wehrdienst"
+              "topic": "Ob das Wehrdienstmodernisierungsgesetz (ab 01.01.2026) die Probezeit-/Beendigungsregelungen gegenüber § 58b/§ 55 SG verändert hat"
             }
           ]
         },
@@ -247,24 +240,25 @@
         {
           "answer": [
             {
-              "text": "Als Soldat:in hast du Anspruch auf Erholungsurlaub. Wie viel und wann genau du ihn nehmen kannst, hängt von Dienstdauer, Ausbildungsstand und Dienstplan ab. In der Grundausbildung ist die Phase oft durchgetaktet. "
+              "text": "Als Soldat:in hast du Anspruch auf Erholungsurlaub. Für Soldatinnen und Soldaten gelten dabei die Vorschriften für Bundesbeamtinnen und -beamte entsprechend (Soldatinnen- und Soldatenurlaubsverordnung – SUV); das sind bei einer 5-Tage-Woche "
             },
             {
-              "reviewFlagId": "rf-13-7",
-              "text": "[PRÜFEN: Konkreter Urlaubsanspruch (Tage) und Urlaubsregelungen für FWDL/SaZ — offizielle Quelle/Stand nötig]"
+              "bold": true,
+              "text": "30 Arbeitstage"
+            },
+            {
+              "text": " pro vollem Urlaubsjahr (§ 5 EUrlV). Trittst du unterjährig ein, bekommst du für jeden vollen Dienstmonat "
+            },
+            {
+              "bold": true,
+              "text": "ein Zwölftel"
+            },
+            {
+              "text": " des Jahresurlaubs. Wann genau du Urlaub nehmen kannst, hängt von Ausbildungsstand und Dienstplan ab – in der Grundausbildung ist die Phase oft durchgetaktet. (Quelle: gesetze-im-internet.de, SUV i. V. m. § 5 EUrlV, abgerufen 2026-06-01)"
             }
           ],
           "id": "13.2-faq-bekomme-ich-urlaub",
-          "question": "Bekomme ich Urlaub?",
-          "reviewFlags": [
-            {
-              "id": "rf-13-7",
-              "note": "offizielle Quelle/Stand nötig",
-              "raw": "[PRÜFEN: Konkreter Urlaubsanspruch (Tage) und Urlaubsregelungen für FWDL/SaZ — offizielle Quelle/Stand nötig]",
-              "sectionId": "13.2",
-              "topic": "Konkreter Urlaubsanspruch (Tage) und Urlaubsregelungen für FWDL/SaZ"
-            }
-          ]
+          "question": "Bekomme ich Urlaub?"
         },
         {
           "answer": [
@@ -272,7 +266,7 @@
               "text": "Ja, das ist gerade der Sinn des gestaffelten Modells: Du kannst kürzer (6–11 Monate, FWDL) bleiben oder dich für 12 Monate oder länger als SaZ verpflichten – mit etwas höherem Sold und Zugang zu Extras wie dem Führerschein-Zuschuss (ab 12 Monaten). Besprich eine Verlängerung rechtzeitig mit der zuständigen Stelle. "
             },
             {
-              "reviewFlagId": "rf-13-8",
+              "reviewFlagId": "rf-13-7",
               "text": "[PRÜFEN: Verfahren/Fristen für Verlängerung und Wechsel FWDL → SaZ — offizielle Quelle/Stand nötig]"
             }
           ],
@@ -280,7 +274,7 @@
           "question": "Darf ich nach 6 Monaten verlängern oder Soldat:in auf Zeit werden?",
           "reviewFlags": [
             {
-              "id": "rf-13-8",
+              "id": "rf-13-7",
               "note": "offizielle Quelle/Stand nötig",
               "raw": "[PRÜFEN: Verfahren/Fristen für Verlängerung und Wechsel FWDL → SaZ — offizielle Quelle/Stand nötig]",
               "sectionId": "13.2",
@@ -321,24 +315,11 @@
         {
           "answer": [
             {
-              "text": "Ja. In Uniform fährst du mit der Deutschen Bahn kostenlos – im Fern- und im Großteil des Regionalverkehrs, auch in der Freizeit. Voraussetzung: gültiger Truppenausweis und Uniform; die Buchung läuft über eine Lösung/App der Bundeswehr (Quelle: bmvg.de/bundeswehr.de, abgerufen 2026). "
-            },
-            {
-              "reviewFlagId": "rf-13-9",
-              "text": "[PRÜFEN: Aktuelle Voraussetzungen/Abdeckung — offizielle Quelle/Stand nötig]"
+              "text": "Ja. In Uniform fährst du mit der Deutschen Bahn kostenlos – im Fernverkehr (ICE, IC/EC) und über die Vor-/Nachlauf-Regelung auch im Nahverkehr (RE, RB, S-Bahn); seit der Ausweitung 2020 sind über 90 % der Nahverkehrsverbindungen einbezogen, auch in der Freizeit. Voraussetzung: gültiger Truppenausweis, getragene Uniform während der ganzen Fahrt und ein (kostenfrei gebuchtes, personalisiertes) Bahnticket; die Buchung läuft über das Buchungsportal der Bundeswehr/Bahn (Quelle: bundeswehr.de „Freie Bahnfahrt für Soldatinnen und Soldaten\" / bahn.de „Bundeswehr – Fragen & Antworten\", abgerufen 2026-06-01)."
             }
           ],
           "id": "13.2-faq-stimmt-es-dass-ich-kostenlos-bahn-fahren-kann",
-          "question": "Stimmt es, dass ich kostenlos Bahn fahren kann?",
-          "reviewFlags": [
-            {
-              "id": "rf-13-9",
-              "note": "offizielle Quelle/Stand nötig",
-              "raw": "[PRÜFEN: Aktuelle Voraussetzungen/Abdeckung — offizielle Quelle/Stand nötig]",
-              "sectionId": "13.2",
-              "topic": "Aktuelle Voraussetzungen/Abdeckung"
-            }
-          ]
+          "question": "Stimmt es, dass ich kostenlos Bahn fahren kann?"
         },
         {
           "answer": [
@@ -355,7 +336,7 @@
               "text": "Persönliche Dinge sind in der Regel erlaubt, aber es gibt Vorgaben zu Ordnung, Sicherheit und verbotenen Gegenständen (z. B. Waffen, bestimmte Substanzen). Was konkret erlaubt ist, sagt dir deine Einheit – im Zweifel nachfragen. "
             },
             {
-              "reviewFlagId": "rf-13-10",
+              "reviewFlagId": "rf-13-8",
               "text": "[PRÜFEN: Konkrete Stuben-/Hausordnung und verbotene Gegenstände — variiert je Dienststelle, offizielle Quelle/Stand nötig]"
             }
           ],
@@ -363,7 +344,7 @@
           "question": "Was darf ich auf der Stube haben – und was nicht?",
           "reviewFlags": [
             {
-              "id": "rf-13-10",
+              "id": "rf-13-8",
               "note": "variiert je Dienststelle, offizielle Quelle/Stand nötig",
               "raw": "[PRÜFEN: Konkrete Stuben-/Hausordnung und verbotene Gegenstände — variiert je Dienststelle, offizielle Quelle/Stand nötig]",
               "sectionId": "13.2",
@@ -406,13 +387,16 @@
       "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Freiwilligkeit, FWDL/SaZ, Bedarfswehrpflicht, Vergütung."
     },
     {
-      "label": "Bundeswehr: „Neuer Wehrdienst\", „Führerschein\", „Grundausbildung\", „Sozialdienst/Militärseelsorge\" (bundeswehr.de), abgerufen 2026."
+      "label": "Bundeswehr: „Neuer Wehrdienst\", „Führerschein\", „Grundausbildung\", „Sozialdienst/Militärseelsorge\" (bundeswehr.de), abgerufen 2026-06-01."
     },
     {
-      "label": "BMVg/Bundeswehr: kostenloses Bahnfahren in Uniform (bmvg.de/bundeswehr.de), abgerufen 2026."
+      "label": "BMVg/Bundeswehr/bahn.de: kostenloses Bahnfahren in Uniform, abgerufen 2026-06-01 – Abdeckung Fern-/Nahverkehr, Voraussetzungen."
     },
     {
-      "label": "Antworten zu Abbruch, Urlaub, Krankmeldung, Wochenende, Handy- und Stubenregeln hängen von Status und Dienststelle ab und sind, wo nicht amtlich belegt, mit `[PRÜFEN]` markiert."
+      "label": "gesetze-im-internet.de: § 58b SG (Probezeit/Dauer freiwilliger Wehrdienst), § 55 Abs. 3 SG (Entlassung auf Antrag), SUV i. V. m. § 5 EUrlV (30 Arbeitstage Urlaub), abgerufen 2026-06-01."
+    },
+    {
+      "label": "Antworten zu Netto-Gehalt, Krankmeldung, Wochenende/Heimfahrten, BFT-Wiederholung, Handy- und Stubenregeln hängen von Status und Dienststelle ab oder sind nicht amtlich beziffert/öffentlich und bleiben, wo nicht belegt, mit `[PRÜFEN]` markiert."
     }
   ],
   "title": "FAQ für Neue",

@@ -6,47 +6,12 @@
     {
       "id": "rf-2-1",
       "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Genaue Dauer der Grundausbildung im Heer und ob die Dauer im Neuen Wehrdienst von diesen Angaben abweicht — offizielle Quelle/Stand nötig]",
-      "sectionId": "2.2.2",
-      "topic": "Genaue Dauer der Grundausbildung im Heer und ob die Dauer im Neuen Wehrdienst von diesen Angaben abweicht"
-    },
-    {
-      "id": "rf-2-2",
-      "note": "offizielle Quelle/Stand nötig; keine Modellbezeichnung raten",
-      "raw": "[PRÜFEN: Verwendete Standard-Handwaffe in der aktuellen Grundausbildung — offizielle Quelle/Stand nötig; keine Modellbezeichnung raten]",
-      "sectionId": "2.3.2",
-      "topic": "Verwendete Standard-Handwaffe in der aktuellen Grundausbildung"
-    },
-    {
-      "id": "rf-2-3",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Genaue Ausrichtung/Schwerpunkte der Ausbildung im Neuen Wehrdienst (Heimatschutz) — offizielle Quelle/Stand nötig]",
-      "sectionId": "2.3.5",
-      "topic": "Genaue Ausrichtung/Schwerpunkte der Ausbildung im Neuen Wehrdienst (Heimatschutz)"
-    },
-    {
-      "id": "rf-2-4",
-      "note": "offizielle Quelle/Stand nötig; öffentlich kursierende Werte wie „Sprint unter 60 s\" bzw. „Klimmhang mind. 5 s\" bitte amtlich bestätigen",
-      "raw": "[PRÜFEN: Genaue Mindestanforderungen/Bestehensgrenzen des BFT für Wehrdienstleistende (Sekunden/Wiederholungen/Punkte) — offizielle Quelle/Stand nötig; öffentlich kursierende Werte wie „Sprint unter 60 s\" bzw. „Klimmhang mind. 5 s\" bitte amtlich bestätigen]",
-      "sectionId": "2.4.1",
-      "topic": "Genaue Mindestanforderungen/Bestehensgrenzen des BFT für Wehrdienstleistende (Sekunden/Wiederholungen/Punkte)"
-    },
-    {
-      "id": "rf-2-5",
-      "note": "offizielle Quelle/Stand nötig",
       "raw": "[PRÜFEN: Konkrete Liste der verpflichtenden Leistungsnachweise/Prüfungen in der Grundausbildung — offizielle Quelle/Stand nötig]",
       "sectionId": "2.4.2",
       "topic": "Konkrete Liste der verpflichtenden Leistungsnachweise/Prüfungen in der Grundausbildung"
     },
     {
-      "id": "rf-2-6",
-      "note": "offizielle Quelle (Soldatengesetz) / Stand nötig",
-      "raw": "[PRÜFEN: Genauer Wortlaut von Gelöbnis und Diensteid sowie Zuordnung nach Status im Neuen Wehrdienst — offizielle Quelle (Soldatengesetz) / Stand nötig]",
-      "sectionId": "2.5.2",
-      "topic": "Genauer Wortlaut von Gelöbnis und Diensteid sowie Zuordnung nach Status im Neuen Wehrdienst"
-    },
-    {
-      "id": "rf-2-7",
+      "id": "rf-2-2",
       "note": "offizielle Quelle/Stand nötig",
       "raw": "[PRÜFEN: Konkrete Regelungen zu Wiederholung nicht bestandener Prüfungen/BFT im Wehrdienst — offizielle Quelle/Stand nötig]",
       "sectionId": "2.6.4",
@@ -103,18 +68,21 @@
             {
               "spans": [
                 {
-                  "text": "Die Dauer der Grundausbildung hängt vom Bereich ab. Nach Angaben der Bundeswehr (bundeswehr.de, Stand 2026) dauert sie in Luftwaffe, Marine, Cyber- und Informationsraum sowie im Unterstützungsbereich rund "
+                  "text": "Die Dauer der Grundausbildung hängt vom Bereich ab. Nach Angaben der Bundeswehr (bundeswehr.de, „Grundausbildung kurz zusammengefasst\", abgerufen 2026) bieten Luftwaffe, Marine, Cyber- und Informationsraum sowie der Unterstützungsbereich eine "
                 },
                 {
                   "bold": true,
-                  "text": "drei Monate"
+                  "text": "dreimonatige"
                 },
                 {
-                  "text": "; im Heer ist die Basisausbildung länger angelegt. "
+                  "text": " Grundausbildung mit anschließender Spezialgrundausbildung; das Heer vermittelt die militärischen Grundlagen dagegen in einer "
                 },
                 {
-                  "reviewFlagId": "rf-2-1",
-                  "text": "[PRÜFEN: Genaue Dauer der Grundausbildung im Heer und ob die Dauer im Neuen Wehrdienst von diesen Angaben abweicht — offizielle Quelle/Stand nötig]"
+                  "bold": true,
+                  "text": "sechsmonatigen Basisausbildung"
+                },
+                {
+                  "text": ". Ein Großteil der Inhalte ist über alle Teilbereiche hinweg gleich, die Schwerpunkte unterscheiden sich (z. B. im Heer Fitness und Waffenausbildung, in der Marine die Vorbereitung auf den Dienst an Bord)."
                 }
               ],
               "type": "paragraph"
@@ -214,11 +182,14 @@
             {
               "spans": [
                 {
-                  "text": "Du lernst den sicheren Umgang mit deiner Dienstwaffe: Handhabung, Sicherheitsregeln, Zerlegen, Reinigen (Waffenpflege) und Schießen unter Aufsicht. Sicherheit steht über allem – die Regeln im Umgang mit der Waffe sind strikt und werden konsequent durchgesetzt. "
+                  "text": "Du lernst den sicheren Umgang mit deiner Dienstwaffe: Handhabung, Sicherheitsregeln, Zerlegen, Reinigen (Waffenpflege) und Schießen unter Aufsicht. Sicherheit steht über allem – die Regeln im Umgang mit der Waffe sind strikt und werden konsequent durchgesetzt. Das "
                 },
                 {
-                  "reviewFlagId": "rf-2-2",
-                  "text": "[PRÜFEN: Verwendete Standard-Handwaffe in der aktuellen Grundausbildung — offizielle Quelle/Stand nötig; keine Modellbezeichnung raten]"
+                  "bold": true,
+                  "text": "G95"
+                },
+                {
+                  "text": " löst als neues Standard-Sturmgewehr der Bundeswehr schrittweise das jahrzehntelang genutzte G36 ab (Quelle: bundeswehr.de, „Das Gewehr G95 ist das neue Standardgewehr der Bundeswehr\", abgerufen 2026). Welche Waffe in deiner konkreten Ausbildung eingesetzt wird, hängt vom Ausstattungsstand deiner Einheit ab – die Umrüstung läuft."
                 }
               ],
               "type": "paragraph"
@@ -293,11 +264,14 @@
             {
               "spans": [
                 {
-                  "text": "Im Neuen Wehrdienst liegt ein Schwerpunkt auf Fähigkeiten des Heimatschutzes, etwa Wach- und Sicherungstätigkeiten. "
+                  "text": "Im Neuen Wehrdienst liegt ein Schwerpunkt auf Fähigkeiten des Heimatschutzes: Alle Wehrdienstleistenden werden zu "
                 },
                 {
-                  "reviewFlagId": "rf-2-3",
-                  "text": "[PRÜFEN: Genaue Ausrichtung/Schwerpunkte der Ausbildung im Neuen Wehrdienst (Heimatschutz) — offizielle Quelle/Stand nötig]"
+                  "bold": true,
+                  "text": "Wach- und Sicherungssoldatinnen und -soldaten"
+                },
+                {
+                  "text": " ausgebildet und erhalten eine erweiterte Befähigung für den Heimatschutz; der Akzent der Spezialausbildung liegt auf Wach- und Sicherungsaufgaben (z. B. Schutz kritischer Infrastruktur). (Quelle: bundeswehr.de, „Neuer Wehrdienst\", abgerufen 2026)"
                 }
               ],
               "type": "paragraph"
@@ -375,8 +349,69 @@
             {
               "spans": [
                 {
-                  "reviewFlagId": "rf-2-4",
-                  "text": "[PRÜFEN: Genaue Mindestanforderungen/Bestehensgrenzen des BFT für Wehrdienstleistende (Sekunden/Wiederholungen/Punkte) — offizielle Quelle/Stand nötig; öffentlich kursierende Werte wie „Sprint unter 60 s\" bzw. „Klimmhang mind. 5 s\" bitte amtlich bestätigen]"
+                  "text": "Zum Bestehen musst du in jeder Disziplin die Mindestanforderung (jeweils 100 Punkte) erreichen. Diese liegen laut Bundeswehr bei (Quelle: bundeswehr.de, „Basis-Fitness-Test\", abgerufen 2026):"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "items": [
+                [
+                  {
+                    "bold": true,
+                    "text": "Sprinttest (11 × 10 m):"
+                  },
+                  {
+                    "text": " in höchstens "
+                  },
+                  {
+                    "bold": true,
+                    "text": "60 Sekunden"
+                  },
+                  {
+                    "text": "."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Klimmhang:"
+                  },
+                  {
+                    "text": " mindestens "
+                  },
+                  {
+                    "bold": true,
+                    "text": "5 Sekunden"
+                  },
+                  {
+                    "text": " halten."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "1.000-m-Lauf:"
+                  },
+                  {
+                    "text": " unter "
+                  },
+                  {
+                    "bold": true,
+                    "text": "6:30 Minuten"
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Der gesamte BFT ist innerhalb von 90 Minuten zu absolvieren. Im Heer gilt, dass die Mindestanforderungen nach den ersten sechs Wochen der Grundausbildung erreicht werden sollen."
                 }
               ],
               "type": "paragraph"
@@ -401,7 +436,7 @@
                   "text": "Neben dem BFT gibt es weitere Nachweise und Überprüfungen, etwa im Schießen, in der Waffenhandhabung und in den ausgebildeten Grundfertigkeiten, oft abschließend in einer Rekrutenbesichtigung. "
                 },
                 {
-                  "reviewFlagId": "rf-2-5",
+                  "reviewFlagId": "rf-2-1",
                   "text": "[PRÜFEN: Konkrete Liste der verpflichtenden Leistungsnachweise/Prüfungen in der Grundausbildung — offizielle Quelle/Stand nötig]"
                 }
               ],
@@ -454,7 +489,7 @@
                     "text": "feierliche Gelöbnis"
                   },
                   {
-                    "text": " legen Wehrdienstleistende (FWDL) ab. Es ist ein feierliches Versprechen."
+                    "text": " legen Wehrdienstleistende ab. Es ist ein feierliches Versprechen. Der gesetzliche Wortlaut (§ 9 Abs. 2 Soldatengesetz) lautet: *„Ich gelobe, der Bundesrepublik Deutschland treu zu dienen und das Recht und die Freiheit des deutschen Volkes tapfer zu verteidigen.\"*"
                   }
                 ],
                 [
@@ -466,7 +501,7 @@
                     "text": "Diensteid"
                   },
                   {
-                    "text": " („Ich schwöre, …\"). Der Eid ist die rechtlich-feierliche Form für die längere Verpflichtung."
+                    "text": " (§ 9 Abs. 1 Soldatengesetz): *„Ich schwöre, der Bundesrepublik Deutschland treu zu dienen und das Recht und die Freiheit des deutschen Volkes tapfer zu verteidigen, so wahr mir Gott helfe.\"* Die Worte „so wahr mir Gott helfe\" können weggelassen werden; aus Glaubens- oder Gewissensgründen ist statt „ich schwöre\" eine andere Beteuerungsformel möglich."
                   }
                 ]
               ],
@@ -476,11 +511,7 @@
             {
               "spans": [
                 {
-                  "text": "Welche Form für dich gilt, hängt von deinem Status ab (FWDL bei 6–11 Monaten, SaZ ab 12 Monaten). "
-                },
-                {
-                  "reviewFlagId": "rf-2-6",
-                  "text": "[PRÜFEN: Genauer Wortlaut von Gelöbnis und Diensteid sowie Zuordnung nach Status im Neuen Wehrdienst — offizielle Quelle (Soldatengesetz) / Stand nötig]"
+                  "text": "Welche Form für dich gilt, hängt von deinem Status ab (FWDL bei 6–11 Monaten, SaZ ab 12 Monaten). (Quelle: gesetze-im-internet.de, § 9 Soldatengesetz, abgerufen 2026-06-01)"
                 }
               ],
               "type": "paragraph"
@@ -600,7 +631,7 @@
                   "text": "Einen Test nicht direkt zu bestehen, ist nicht das Ende. Häufig gibt es Wiederholungsmöglichkeiten und gezielte Unterstützung. Sprich offen mit deiner Ausbildung darüber, woran es hakt. Wichtiger als ein perfekter erster Versuch ist, dass du dranbleibst und dich verbesserst. "
                 },
                 {
-                  "reviewFlagId": "rf-2-7",
+                  "reviewFlagId": "rf-2-2",
                   "text": "[PRÜFEN: Konkrete Regelungen zu Wiederholung nicht bestandener Prüfungen/BFT im Wehrdienst — offizielle Quelle/Stand nötig]"
                 }
               ],
@@ -617,16 +648,25 @@
   ],
   "sources": [
     {
-      "label": "Bundeswehr: „Grundausbildung bei der Bundeswehr\" (bundeswehr.de), abgerufen 2026 – Ziel, Dauer, Ablauf, Inhalte, Gelöbnis."
+      "label": "Bundeswehr: „Grundausbildung bei der Bundeswehr\" und „Die Grundausbildung kurz zusammengefasst\" (bundeswehr.de), abgerufen 2026-06-01 – Ziel, Dauer (Heer sechs Monate, übrige rund drei Monate), Ablauf, Inhalte, Gelöbnis."
     },
     {
-      "label": "Bundeswehr: „Der Basis-Fitness-Test der Bundeswehr (BFT)\" (bundeswehr.de), abgerufen 2026 – Aufbau des BFT."
+      "label": "Bundeswehr: „Der Basis-Fitness-Test der Bundeswehr (BFT)\" (bundeswehr.de), abgerufen 2026-06-01 – Aufbau und Mindestanforderungen (Sprint ≤60 s, Klimmhang ≥5 s, 1.000 m <6:30 min, je 100 Punkte; 90 Min. Gesamtzeit)."
+    },
+    {
+      "label": "Bundeswehr: „Das Gewehr G95 ist das neue Standardgewehr der Bundeswehr\" (bundeswehr.de), abgerufen 2026-06-01 – Standard-Sturmgewehr G95 (Ablösung G36)."
+    },
+    {
+      "label": "Bundeswehr: „Neuer Wehrdienst\" (bundeswehr.de), abgerufen 2026-06-01 – Schwerpunkt Heimatschutz / Wach- und Sicherungssoldaten."
+    },
+    {
+      "label": "gesetze-im-internet.de: § 9 Soldatengesetz (SG), abgerufen 2026-06-01 – Wortlaut Diensteid und feierliches Gelöbnis."
     },
     {
       "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Status FWDL/SaZ."
     },
     {
-      "label": "Konkrete Mindestwerte, Prüfungslisten, Waffenmodelle und der Wortlaut von Gelöbnis/Eid sind nicht abschließend amtlich entnommen und mit `[PRÜFEN]` markiert."
+      "label": "Eine bundeseinheitlich veröffentlichte Liste aller Pflicht-Leistungsnachweise sowie konkrete Wiederholungsregelungen sind nicht amtlich greifbar und bleiben mit `[PRÜFEN]` markiert."
     }
   ],
   "title": "Allgemeine Grundausbildung (AGA)",
