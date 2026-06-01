@@ -1,0 +1,635 @@
+{
+  "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
+  "id": 2,
+  "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-2-1",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Genaue Dauer der Grundausbildung im Heer und ob die Dauer im Neuen Wehrdienst von diesen Angaben abweicht — offizielle Quelle/Stand nötig]",
+      "sectionId": "2.2.2",
+      "topic": "Genaue Dauer der Grundausbildung im Heer und ob die Dauer im Neuen Wehrdienst von diesen Angaben abweicht"
+    },
+    {
+      "id": "rf-2-2",
+      "note": "offizielle Quelle/Stand nötig; keine Modellbezeichnung raten",
+      "raw": "[PRÜFEN: Verwendete Standard-Handwaffe in der aktuellen Grundausbildung — offizielle Quelle/Stand nötig; keine Modellbezeichnung raten]",
+      "sectionId": "2.3.2",
+      "topic": "Verwendete Standard-Handwaffe in der aktuellen Grundausbildung"
+    },
+    {
+      "id": "rf-2-3",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Genaue Ausrichtung/Schwerpunkte der Ausbildung im Neuen Wehrdienst (Heimatschutz) — offizielle Quelle/Stand nötig]",
+      "sectionId": "2.3.5",
+      "topic": "Genaue Ausrichtung/Schwerpunkte der Ausbildung im Neuen Wehrdienst (Heimatschutz)"
+    },
+    {
+      "id": "rf-2-4",
+      "note": "offizielle Quelle/Stand nötig; öffentlich kursierende Werte wie „Sprint unter 60 s\" bzw. „Klimmhang mind. 5 s\" bitte amtlich bestätigen",
+      "raw": "[PRÜFEN: Genaue Mindestanforderungen/Bestehensgrenzen des BFT für Wehrdienstleistende (Sekunden/Wiederholungen/Punkte) — offizielle Quelle/Stand nötig; öffentlich kursierende Werte wie „Sprint unter 60 s\" bzw. „Klimmhang mind. 5 s\" bitte amtlich bestätigen]",
+      "sectionId": "2.4.1",
+      "topic": "Genaue Mindestanforderungen/Bestehensgrenzen des BFT für Wehrdienstleistende (Sekunden/Wiederholungen/Punkte)"
+    },
+    {
+      "id": "rf-2-5",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Konkrete Liste der verpflichtenden Leistungsnachweise/Prüfungen in der Grundausbildung — offizielle Quelle/Stand nötig]",
+      "sectionId": "2.4.2",
+      "topic": "Konkrete Liste der verpflichtenden Leistungsnachweise/Prüfungen in der Grundausbildung"
+    },
+    {
+      "id": "rf-2-6",
+      "note": "offizielle Quelle (Soldatengesetz) / Stand nötig",
+      "raw": "[PRÜFEN: Genauer Wortlaut von Gelöbnis und Diensteid sowie Zuordnung nach Status im Neuen Wehrdienst — offizielle Quelle (Soldatengesetz) / Stand nötig]",
+      "sectionId": "2.5.2",
+      "topic": "Genauer Wortlaut von Gelöbnis und Diensteid sowie Zuordnung nach Status im Neuen Wehrdienst"
+    },
+    {
+      "id": "rf-2-7",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Konkrete Regelungen zu Wiederholung nicht bestandener Prüfungen/BFT im Wehrdienst — offizielle Quelle/Stand nötig]",
+      "sectionId": "2.6.4",
+      "topic": "Konkrete Regelungen zu Wiederholung nicht bestandener Prüfungen/BFT im Wehrdienst"
+    }
+  ],
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Die Allgemeine Grundausbildung (AGA) ist dein Einstieg in den Soldatenberuf. Hier lernst du die militärischen Grundlagen, die alle beherrschen müssen – egal, was danach kommt. Dieses Modul erklärt dir, was dich erwartet, welche Inhalte trainiert werden, welche Leistungsnachweise es gibt und wie du gut durchkommst."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Ehrlich gesagt: Die AGA ist anstrengend – körperlich und mental. Aber sie ist machbar, und sie ist so aufgebaut, dass dich niemand allein lässt. Du wächst da gemeinsam mit deiner Gruppe rein."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "2.1",
+      "title": "Worum es in diesem Modul geht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Was ist die Grundausbildung? Ziel, Dauer, Ablauf",
+      "blocks": [],
+      "id": "2.2",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Die Grundausbildung vermittelt die wichtigsten militärischen Grundlagen, die jede Soldatin und jeder Soldat beherrschen muss (Quelle: bundeswehr.de, „Grundausbildung\", Stand 2026). Du lernst, dich in der militärischen Ordnung zu bewegen, mit Ausrüstung und Waffe sicher umzugehen, dich und andere zu schützen und im Team zu funktionieren. Am Ende sollst du als Soldatin/Soldat einsatzfähig in den Grundfertigkeiten sein."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.2.1",
+          "title": "Ziel"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Die Dauer der Grundausbildung hängt vom Bereich ab. Nach Angaben der Bundeswehr (bundeswehr.de, Stand 2026) dauert sie in Luftwaffe, Marine, Cyber- und Informationsraum sowie im Unterstützungsbereich rund "
+                },
+                {
+                  "bold": true,
+                  "text": "drei Monate"
+                },
+                {
+                  "text": "; im Heer ist die Basisausbildung länger angelegt. "
+                },
+                {
+                  "reviewFlagId": "rf-2-1",
+                  "text": "[PRÜFEN: Genaue Dauer der Grundausbildung im Heer und ob die Dauer im Neuen Wehrdienst von diesen Angaben abweicht — offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Beachte: Der Neue Wehrdienst hat eine Mindestdienstdauer von 6 Monaten. Die Grundausbildung ist der erste Abschnitt dieser Dienstzeit, nicht die gesamte Dienstzeit."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.2.2",
+          "title": "Dauer"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Die Bundeswehr stellt einen typischen Ablauf grob so dar (bundeswehr.de, Stand 2026):"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "items": [
+                [
+                  {
+                    "bold": true,
+                    "text": "Anfang:"
+                  },
+                  {
+                    "text": " Einkleidung, Formaldienst, erste Waffenausbildung."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Mitte:"
+                  },
+                  {
+                    "text": " Schießausbildung, feierliches Gelöbnis, Gefechtsdienst."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Ende:"
+                  },
+                  {
+                    "text": " vertiefter Gefechtsdienst, abschließende Besichtigung/Überprüfung der Rekruten."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Das ist ein grobes Muster – dein konkreter Ausbildungsplan kann abweichen und wird von deiner Einheit vorgegeben."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.2.3",
+          "title": "Grober Ablauf"
+        }
+      ],
+      "title": "Was ist die Grundausbildung? Ziel, Dauer, Ablauf",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Ausbildungsinhalte",
+      "blocks": [],
+      "id": "2.3",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Formaldienst ist das geordnete Bewegen und Verhalten in der Gruppe: Antreten, Ausrichten, Marschieren im Gleichschritt, Wendungen, Grußformen. Klingt nach Förmlichkeit – trainiert aber Disziplin, Aufmerksamkeit und das Funktionieren als Verband. Du lernst hier auch die korrekten militärischen Umgangsformen."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.3.1",
+          "title": "Formaldienst"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Du lernst den sicheren Umgang mit deiner Dienstwaffe: Handhabung, Sicherheitsregeln, Zerlegen, Reinigen (Waffenpflege) und Schießen unter Aufsicht. Sicherheit steht über allem – die Regeln im Umgang mit der Waffe sind strikt und werden konsequent durchgesetzt. "
+                },
+                {
+                  "reviewFlagId": "rf-2-2",
+                  "text": "[PRÜFEN: Verwendete Standard-Handwaffe in der aktuellen Grundausbildung — offizielle Quelle/Stand nötig; keine Modellbezeichnung raten]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.3.2",
+          "title": "Waffen- und Schießausbildung & Waffenpflege"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Du lernst lebensrettende Sofortmaßnahmen und militärische Erste Hilfe – also wie du dir und Kameraden im Ernstfall hilfst. Das ist eine der praktisch wichtigsten Fähigkeiten, die du mitnimmst."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.3.3",
+          "title": "Sanitätsausbildung / Erste Hilfe"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "ABC steht für atomare, biologische und chemische Gefahren. In der Selbstschutz-/ABC-Ausbildung lernst du, dich gegen solche Bedrohungen zu schützen – unter anderem den Umgang mit der ABC-Schutzmaske und Schutzausstattung. Erwarte praktische Übungen, die fordernd sein können."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.3.4",
+          "title": "ABC-/Selbstschutz"
+        },
+        {
+          "blocks": [
+            {
+              "items": [
+                [
+                  {
+                    "bold": true,
+                    "text": "Wachdienst:"
+                  },
+                  {
+                    "text": " Bewachen und Sichern von Objekten – Aufgaben, Verhalten, Wachregeln."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Geländedienst / Gefechtsdienst:"
+                  },
+                  {
+                    "text": " Bewegen, Tarnen, Verhalten im Gelände, einfache taktische Grundlagen."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Marschdienst:"
+                  },
+                  {
+                    "text": " Märsche zu Fuß mit Gepäck. Hier zahlt sich gute Vorbereitung (eingelaufene Stiefel, Fußpflege) aus."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Im Neuen Wehrdienst liegt ein Schwerpunkt auf Fähigkeiten des Heimatschutzes, etwa Wach- und Sicherungstätigkeiten. "
+                },
+                {
+                  "reviewFlagId": "rf-2-3",
+                  "text": "[PRÜFEN: Genaue Ausrichtung/Schwerpunkte der Ausbildung im Neuen Wehrdienst (Heimatschutz) — offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.3.5",
+          "title": "Wach-, Gelände- und Marschdienst"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Du bekommst Unterricht zu den rechtlichen Grundlagen des Soldatenberufs und zur „Inneren Führung\" – dem Leitbild der Bundeswehr vom „Staatsbürger in Uniform\". Themen sind unter anderem deine Rechte und Pflichten als Soldat:in, Befehl und Gehorsam und seine Grenzen, sowie Werte und Verhalten. Das ist kein trockenes Beiwerk: Es bestimmt, wie in der Bundeswehr miteinander umgegangen wird."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.3.6",
+          "title": "Rechts- und Innere-Führung-Unterricht"
+        }
+      ],
+      "title": "Ausbildungsinhalte",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Leistungsnachweise",
+      "blocks": [],
+      "id": "2.4",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Der Basis-Fitness-Test (BFT) überprüft deine körperliche Grundfitness. Er besteht laut Bundeswehr (bundeswehr.de, „Basis-Fitness-Test\", Stand 2026) aus drei Teilen:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "items": [
+                [
+                  {
+                    "bold": true,
+                    "text": "Sprinttest (11 × 10 Meter):"
+                  },
+                  {
+                    "text": " Aus der Bauchlage startend läufst du um eine 10 Meter entfernte Markierung und wieder zurück, legst dich erneut hin – insgesamt mehrere Bahnen so schnell wie möglich."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Klimmhang:"
+                  },
+                  {
+                    "text": " Du hältst dich mit dem Kinn über der Stange möglichst lange frei hängend."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "1.000-Meter-Lauf:"
+                  },
+                  {
+                    "text": " Abschließender Ausdauerlauf (in bestimmten Fällen ersatzweise auf einem Ergometer)."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            },
+            {
+              "spans": [
+                {
+                  "reviewFlagId": "rf-2-4",
+                  "text": "[PRÜFEN: Genaue Mindestanforderungen/Bestehensgrenzen des BFT für Wehrdienstleistende (Sekunden/Wiederholungen/Punkte) — offizielle Quelle/Stand nötig; öffentlich kursierende Werte wie „Sprint unter 60 s\" bzw. „Klimmhang mind. 5 s\" bitte amtlich bestätigen]"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Der BFT wird üblicherweise während der Grundausbildung absolviert und regelmäßig wiederholt. Tipp: Geh nicht „kalt\" rein – mit etwas Lauf- und Kraftvorbereitung tust du dir leichter."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.4.1",
+          "title": "Basis-Fitness-Test (BFT)"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Neben dem BFT gibt es weitere Nachweise und Überprüfungen, etwa im Schießen, in der Waffenhandhabung und in den ausgebildeten Grundfertigkeiten, oft abschließend in einer Rekrutenbesichtigung. "
+                },
+                {
+                  "reviewFlagId": "rf-2-5",
+                  "text": "[PRÜFEN: Konkrete Liste der verpflichtenden Leistungsnachweise/Prüfungen in der Grundausbildung — offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.4.2",
+          "title": "Weitere Prüfungen"
+        }
+      ],
+      "title": "Leistungsnachweise",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Gelöbnis und Vereidigung",
+      "blocks": [],
+      "id": "2.5",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Höhepunkt der Grundausbildung ist häufig das "
+                },
+                {
+                  "bold": true,
+                  "text": "feierliche Gelöbnis"
+                },
+                {
+                  "text": ". Dabei bekennen sich die Rekrutinnen und Rekruten zur Verteidigung der freiheitlich-demokratischen Grundordnung Deutschlands und werden symbolisch in die soldatische Gemeinschaft aufgenommen (Quelle: bundeswehr.de, „Grundausbildung\", Stand 2026). Es ist ein formeller, oft öffentlicher Akt – für viele ein emotionaler Moment, zu dem Angehörige eingeladen werden können."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.5.1",
+          "title": "Das feierliche Gelöbnis"
+        },
+        {
+          "blocks": [
+            {
+              "items": [
+                [
+                  {
+                    "text": "Das "
+                  },
+                  {
+                    "bold": true,
+                    "text": "feierliche Gelöbnis"
+                  },
+                  {
+                    "text": " legen Wehrdienstleistende (FWDL) ab. Es ist ein feierliches Versprechen."
+                  }
+                ],
+                [
+                  {
+                    "text": "Soldatinnen und Soldaten auf Zeit (SaZ) sowie Berufssoldat:innen leisten den "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Diensteid"
+                  },
+                  {
+                    "text": " („Ich schwöre, …\"). Der Eid ist die rechtlich-feierliche Form für die längere Verpflichtung."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Welche Form für dich gilt, hängt von deinem Status ab (FWDL bei 6–11 Monaten, SaZ ab 12 Monaten). "
+                },
+                {
+                  "reviewFlagId": "rf-2-6",
+                  "text": "[PRÜFEN: Genauer Wortlaut von Gelöbnis und Diensteid sowie Zuordnung nach Status im Neuen Wehrdienst — offizielle Quelle (Soldatengesetz) / Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.5.2",
+          "title": "Unterschied Gelöbnis ↔ Diensteid"
+        }
+      ],
+      "title": "Gelöbnis und Vereidigung",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Wie du gut durchkommst",
+      "blocks": [],
+      "id": "2.6",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Erwartet werden Pünktlichkeit, Zuverlässigkeit, Lernbereitschaft und Teamfähigkeit – nicht Perfektion ab Tag 1. Die Ausbildung baut systematisch auf. Wer mitmacht, zuhört und dranbleibt, schafft das."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.6.1",
+          "title": "Was erwartet wird"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Die AGA fordert dich. Frühes Aufstehen, körperliche Anstrengung, wenig Privatsphäre, viel Neues gleichzeitig. Das ist anstrengend, aber zeitlich begrenzt und kein Dauerzustand. Die meisten kommen besser durch, als sie anfangs dachten."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.6.2",
+          "title": "Belastung – ehrlich gesagt"
+        },
+        {
+          "blocks": [
+            {
+              "items": [
+                [
+                  {
+                    "bold": true,
+                    "text": "Körper vorbereiten:"
+                  },
+                  {
+                    "text": " Wenn du vor Dienstbeginn etwas läufst und Kraft trainierst, fällt dir der Start leichter."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Auf die Füße achten:"
+                  },
+                  {
+                    "text": " Stiefel einlaufen, Socken und Fußpflege ernst nehmen – Blasen sind ein echter Bremsklotz."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Schlaf nutzen:"
+                  },
+                  {
+                    "text": " Erholung ist Teil der Leistung. Geh früh genug schlafen."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Im Team denken:"
+                  },
+                  {
+                    "text": " Helft euch gegenseitig. Eine Gruppe ist nur so schnell wie ihr langsamstes Mitglied – also unterstützt euch."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Fragen statt raten:"
+                  },
+                  {
+                    "text": " Unklar, wie etwas geht? Frag die Ausbildung. Das ist erwünscht."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Probleme früh melden:"
+                  },
+                  {
+                    "text": " Gesundheitliche oder private Sorgen gehören gemeldet – an Vorgesetzte, Sanitätsbereich oder die Ansprechpersonen aus Modul 12."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            }
+          ],
+          "id": "2.6.3",
+          "title": "Praktische Tipps"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Einen Test nicht direkt zu bestehen, ist nicht das Ende. Häufig gibt es Wiederholungsmöglichkeiten und gezielte Unterstützung. Sprich offen mit deiner Ausbildung darüber, woran es hakt. Wichtiger als ein perfekter erster Versuch ist, dass du dranbleibst und dich verbesserst. "
+                },
+                {
+                  "reviewFlagId": "rf-2-7",
+                  "text": "[PRÜFEN: Konkrete Regelungen zu Wiederholung nicht bestandener Prüfungen/BFT im Wehrdienst — offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.6.4",
+          "title": "Wenn du etwas nicht bestehst"
+        }
+      ],
+      "title": "Wie du gut durchkommst",
+      "type": "text"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Bundeswehr: „Grundausbildung bei der Bundeswehr\" (bundeswehr.de), abgerufen 2026 – Ziel, Dauer, Ablauf, Inhalte, Gelöbnis."
+    },
+    {
+      "label": "Bundeswehr: „Der Basis-Fitness-Test der Bundeswehr (BFT)\" (bundeswehr.de), abgerufen 2026 – Aufbau des BFT."
+    },
+    {
+      "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Status FWDL/SaZ."
+    },
+    {
+      "label": "Konkrete Mindestwerte, Prüfungslisten, Waffenmodelle und der Wortlaut von Gelöbnis/Eid sind nicht abschließend amtlich entnommen und mit `[PRÜFEN]` markiert."
+    }
+  ],
+  "title": "Allgemeine Grundausbildung (AGA)",
+  "updateNeed": "mittel",
+  "version": "1.0.0"
+}

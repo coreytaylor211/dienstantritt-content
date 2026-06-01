@@ -1,0 +1,63 @@
+{
+  "contentVersion": "2026.06.01",
+  "generatedAt": "2026-06-01T00:00:00Z",
+  "keyId": "k1",
+  "modules": [
+    {
+      "bytes": 20871,
+      "checksum": "sha256:7cb46e429bdc09810cd3aa62ef3ed2589d99251a1a36cc6f796b684a4ca39d71",
+      "file": "modules/module-01.json",
+      "id": 1,
+      "title": "Ankommen & erste Tage",
+      "updateNeed": "mittel",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 24582,
+      "checksum": "sha256:914fd2c37885c5b7c9998cc337aac572eb1c04718d5fe3179876a6115080b832",
+      "file": "modules/module-02.json",
+      "id": 2,
+      "title": "Allgemeine Grundausbildung (AGA)",
+      "updateNeed": "mittel",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 22824,
+      "checksum": "sha256:904fede7483817da21fed6920737f6fab80ee9de76d59d03b05011e9774de8cb",
+      "file": "modules/module-03.json",
+      "id": 3,
+      "title": "Dienstgrade, Vorgesetzte & Umgangsformen",
+      "updateNeed": "niedrig",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 24153,
+      "checksum": "sha256:e467597ba6b5c697e061cb2f98ca861a97d41b11a25c0c2206b7326690485e79",
+      "file": "modules/module-04.json",
+      "id": 4,
+      "title": "Geld – Sold, Bezahlung & was frei ist",
+      "updateNeed": "hoch",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 28639,
+      "checksum": "sha256:6cd9345ffb67dad215286f754bf0e786d031149ace84c4af0e1a2dd735de2fdb",
+      "file": "modules/module-12.json",
+      "id": 12,
+      "title": "Praktisches, Orga & Nachschlagewerk",
+      "updateNeed": "mittel",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 20784,
+      "checksum": "sha256:7fcb11422fba2e96b812ba5ea4e6f96cf9b0fe9a6b8489b31ace1bfa864b00e4",
+      "file": "modules/module-13.json",
+      "id": 13,
+      "title": "FAQ für Neue",
+      "updateNeed": "mittel",
+      "version": "1.0.0"
+    }
+  ],
+  "schemaVersion": 1,
+  "signatureAlg": "ed25519"
+}

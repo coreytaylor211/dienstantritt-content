@@ -1,0 +1,543 @@
+{
+  "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
+  "id": 1,
+  "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-1-1",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Ob/wie Anreisekosten zum ersten Diensttag erstattet werden — offizielle Quelle/Stand nötig]",
+      "sectionId": "1.2.1",
+      "topic": "Ob/wie Anreisekosten zum ersten Diensttag erstattet werden"
+    },
+    {
+      "id": "rf-1-2",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Genaue Liste der gestellten Bekleidungs- und Ausrüstungsstücke bei Einkleidung — offizielle Quelle/Stand nötig]",
+      "sectionId": "1.3.1",
+      "topic": "Genaue Liste der gestellten Bekleidungs- und Ausrüstungsstücke bei Einkleidung"
+    },
+    {
+      "id": "rf-1-3",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Typische Belegungsstärke einer Rekrutenstube — offizielle Quelle/Stand nötig]",
+      "sectionId": "1.4.1",
+      "topic": "Typische Belegungsstärke einer Rekrutenstube"
+    },
+    {
+      "id": "rf-1-4",
+      "note": "offizielle Quelle/Stand nötig; öffentliche Angaben nennen einen Verpflegungswert von rund 10 € pro Tag, dies bitte amtlich bestätigen",
+      "raw": "[PRÜFEN: Genaue Regelung zu kostenfreier Verpflegung bzw. Verpflegungsgeld im Neuen Wehrdienst — offizielle Quelle/Stand nötig; öffentliche Angaben nennen einen Verpflegungswert von rund 10 € pro Tag, dies bitte amtlich bestätigen]",
+      "sectionId": "1.6",
+      "topic": "Genaue Regelung zu kostenfreier Verpflegung bzw. Verpflegungsgeld im Neuen Wehrdienst"
+    },
+    {
+      "id": "rf-1-5",
+      "note": "variieren je Einheit, keine offizielle bundesweite Vorgabe; nicht als feste Zeiten darstellen",
+      "raw": "[PRÜFEN: Konkrete Uhrzeiten für Wecken, Dienstbeginn und Dienstschluss in der Grundausbildung — variieren je Einheit, keine offizielle bundesweite Vorgabe; nicht als feste Zeiten darstellen]",
+      "sectionId": "1.6",
+      "topic": "Konkrete Uhrzeiten für Wecken, Dienstbeginn und Dienstschluss in der Grundausbildung"
+    }
+  ],
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Du hast unterschrieben, jetzt geht es los. Dieses Modul begleitet dich durch die ersten Stunden und Tage in der Kaserne: Anreise, Empfang, Einkleidung, deine Stube, die ersten Formalitäten und der neue Tagesrhythmus. Ziel ist, dass du am ersten Tag weißt, was passiert, dich nicht verloren fühlst und keine vermeidbaren Fehler machst."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Eines vorweg: Niemand erwartet, dass du am ersten Tag schon irgendetwas „können\" musst. Genau dafür ist die Anfangszeit da. Erscheine pünktlich, sei höflich, hör zu – das reicht für den Start."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "1.1",
+      "title": "Worum es in diesem Modul geht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Der erste Tag: Anreise, Anmeldung, Empfang",
+      "blocks": [],
+      "id": "1.2",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Du bekommst vor Dienstbeginn eine schriftliche Einberufung bzw. ein Einberufungsschreiben mit Datum, Uhrzeit und genauer Dienststelle (Kaserne). Halte dich exakt an die genannte Uhrzeit – „pünktlich\" heißt beim Bund eher „etwas früher als nötig\". Plane deine Anreise mit Puffer."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Wenn du in Uniform reist, fährst du mit der Deutschen Bahn kostenlos – das gilt aber erst, wenn du eingekleidet bist und einen gültigen Truppenausweis hast. Am ersten Tag reist du also in der Regel noch ganz normal in Zivil an. "
+                },
+                {
+                  "reviewFlagId": "rf-1-1",
+                  "text": "[PRÜFEN: Ob/wie Anreisekosten zum ersten Diensttag erstattet werden — offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Nimm die Dokumente und Unterlagen mit, die in deinem Einberufungsschreiben verlangt werden (z. B. Personalausweis, Bankverbindung, ggf. Impfpass, Bescheinigungen). Was genau gefordert wird, steht in deinen persönlichen Unterlagen – richte dich danach. Die Packliste für den ersten Tag findest du in Modul 12."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.2.1",
+          "title": "Anreise"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Vor Ort gibt es üblicherweise eine zentrale Anlaufstelle bzw. einen Empfang für die neuen Rekrutinnen und Rekruten. Dort wirst du registriert und einer Einheit zugeteilt. Du triffst auf andere „Neue\", die genauso aufgeregt sind wie du – das gleicht sich schnell aus."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Wem du zuerst begegnest, sind in der Regel die Ausbilderinnen und Ausbilder deiner Einheit sowie deine direkten Vorgesetzten (z. B. Gruppen- und Zugführung). Sie erklären dir die ersten Schritte. Merke dir Namen und Dienstgrade so gut du kannst – wie die Anrede funktioniert, steht in Modul 3."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.2.2",
+          "title": "Anmeldung und Empfang"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Der erste Tag ist vor allem Organisation: Anmeldung, erste Belehrungen, Zuteilung von Stube und Spind, Beginn der Einkleidung und erste Formalitäten. Viel Warten, viel Information auf einmal. Das ist normal. Schreib dir wichtige Dinge auf – ein kleiner Notizblock ist Gold wert."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.2.3",
+          "title": "Was am ersten Tag typischerweise passiert"
+        }
+      ],
+      "title": "Der erste Tag: Anreise, Anmeldung, Empfang",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Einkleidung: Was gestellt wird und wie es abläuft",
+      "blocks": [],
+      "id": "1.3",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Uniform, Dienstkleidung und persönliche Ausrüstung werden dir kostenlos gestellt – das musst du nicht selbst kaufen. Dazu gehören typischerweise Feldanzug, Stiefel, Kopfbedeckung, Feldausrüstung und weitere Ausstattung. "
+                },
+                {
+                  "reviewFlagId": "rf-1-2",
+                  "text": "[PRÜFEN: Genaue Liste der gestellten Bekleidungs- und Ausrüstungsstücke bei Einkleidung — offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Die Kleidung wird dir nach Maß bzw. Größe ausgegeben. Probiere alles in Ruhe an und sag Bescheid, wenn etwas nicht passt – schlecht sitzende Stiefel rächen sich spätestens beim Marsch."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.3.1",
+          "title": "Was du gestellt bekommst"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Die Einkleidung läuft meist über eine zentrale Bekleidungsausgabe (oft „Kammer\" genannt). Du gehst Station für Station durch und bekommst deine Sachen ausgehändigt. Du quittierst, was du erhältst – du bist anschließend für deine Ausrüstung verantwortlich."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Behandle alles pfleglich. Was du beschädigst oder verlierst, kann unter Umständen ersetzt werden müssen. Beschrifte deine Sachen so, wie es deine Einheit vorgibt."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.3.2",
+          "title": "Ablauf der Einkleidung"
+        }
+      ],
+      "title": "Einkleidung: Was gestellt wird und wie es abläuft",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Die Stube: Unterbringung, Spind, Stubenordnung",
+      "blocks": [],
+      "id": "1.4",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Während der Grundausbildung wohnst du in der Regel in einer Stube (Mehrbettzimmer) in der Kaserne, gemeinsam mit anderen Rekrutinnen und Rekruten. Die Unterkunft ist kostenlos (Quelle: Bundesregierung, „Fragen und Antworten zum Neuen Wehrdienst\", Stand 2026 – die monatliche Vergütung von mind. 2.600 € brutto ist „Unterbringung eingeschlossen\"). Wie viele Personen sich eine Stube teilen, ist je nach Standort unterschiedlich. "
+                },
+                {
+                  "reviewFlagId": "rf-1-3",
+                  "text": "[PRÜFEN: Typische Belegungsstärke einer Rekrutenstube — offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.4.1",
+          "title": "Unterbringung"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Du bekommst einen Spind (abschließbarer Schrank) für deine Ausrüstung und persönlichen Sachen. In vielen Einheiten gibt es Vorgaben, wie der Spind und die Stube auszusehen haben („Stubenordnung\", teils mit fester Anordnung der Kleidung). Das wirkt am Anfang kleinlich, hat aber einen Sinn: Ordnung, Gleichbehandlung und schnelles Auffinden von Material."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Praktische Grundregeln:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "items": [
+                [
+                  {
+                    "text": "Halte deinen Bereich sauber und aufgeräumt."
+                  }
+                ],
+                [
+                  {
+                    "text": "Schließ deinen Spind ab – auch unter Kameraden."
+                  }
+                ],
+                [
+                  {
+                    "text": "Frag im Zweifel nach, wie etwas einzuräumen ist, bevor du es falsch machst."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            }
+          ],
+          "id": "1.4.2",
+          "title": "Spind und Ordnung"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Du teilst dir Raum, Bad und Alltag mit Menschen, die du dir nicht ausgesucht hast. Rücksicht, Absprachen und ein offener, fairer Umgang machen die Zeit für alle leichter. In der Grundausbildung entsteht oft ein starker Zusammenhalt – ihr steckt gemeinsam drin."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.4.3",
+          "title": "Mitbewohner"
+        }
+      ],
+      "title": "Die Stube: Unterbringung, Spind, Stubenordnung",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Erste Formalitäten",
+      "blocks": [],
+      "id": "1.5",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "In den ersten Tagen wird dein Truppenausweis erstellt – dein dienstlicher Ausweis. Du brauchst ihn unter anderem für den Zutritt zur Kaserne und für das kostenlose Bahnfahren in Uniform. Behandle ihn wie einen wichtigen Ausweis und melde Verlust sofort."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Deine Personaldaten werden erfasst bzw. abgeglichen. Halte die in deinem Einberufungsschreiben geforderten Unterlagen griffbereit."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.5.1",
+          "title": "Truppenausweis und Personalpapiere"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Damit dein Sold (Gehalt) gezahlt werden kann, brauchst du ein Bankkonto und gibst deine Kontoverbindung (IBAN) an. Bring deine Bankdaten von Anfang an mit – das beschleunigt die erste Zahlung."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.5.2",
+          "title": "Kontodaten"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Du gibst eine Person als Notfallkontakt an (z. B. Eltern, Partner:in). Überleg dir vorher, wen du angibst, und informiere diese Person, dass sie als Kontakt benannt ist."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.5.3",
+          "title": "Notfallkontakt"
+        }
+      ],
+      "title": "Erste Formalitäten",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Tagesrhythmus: Wie ein Diensttag aussieht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Der genaue Tagesablauf wird von deiner Einheit festgelegt und kann je nach Standort, Ausbildungsabschnitt und Wochentag abweichen. Erfinde dir keinen festen Stundenplan – der gilt dann doch anders. Grob orientierst du dich an diesem Muster:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Wecken / Aufstehen"
+              },
+              {
+                "text": " früh am Morgen."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Antreten:"
+              },
+              {
+                "text": " Ihr versammelt euch als Gruppe/Zug, es wird die Vollzähligkeit geprüft und der Tag besprochen. Antreten gibt es mehrfach am Tag."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Dienstbeginn:"
+              },
+              {
+                "text": " Beginn der Ausbildung (Unterricht, Formaldienst, Sport, praktische Ausbildung)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Essenszeiten:"
+              },
+              {
+                "text": " Frühstück, Mittagessen, Abendessen in der Truppenküche/Mensa. Die Verpflegung ist gestellt. "
+              },
+              {
+                "reviewFlagId": "rf-1-4",
+                "text": "[PRÜFEN: Genaue Regelung zu kostenfreier Verpflegung bzw. Verpflegungsgeld im Neuen Wehrdienst — offizielle Quelle/Stand nötig; öffentliche Angaben nennen einen Verpflegungswert von rund 10 € pro Tag, dies bitte amtlich bestätigen]"
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Dienstschluss:"
+              },
+              {
+                "text": " Ende des Dienstes; danach Freizeit, Vorbereitung für den nächsten Tag (Ausrüstung reinigen, Sachen richten)."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "reviewFlagId": "rf-1-5",
+              "text": "[PRÜFEN: Konkrete Uhrzeiten für Wecken, Dienstbeginn und Dienstschluss in der Grundausbildung — variieren je Einheit, keine offizielle bundesweite Vorgabe; nicht als feste Zeiten darstellen]"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Wichtig: Antreten ist verbindlich. „Pünktlich\" heißt vorbereitet und vollständig vor der genannten Zeit da sein."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "1.6",
+      "title": "Tagesrhythmus: Wie ein Diensttag aussieht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Typische Anfängerfehler und wie du sie vermeidest",
+      "blocks": [],
+      "id": "1.7",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Der Klassiker. Pünktlichkeit ist beim Bund nicht verhandelbar. Plane Puffer ein, sei lieber zu früh."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.7.1",
+          "title": "Zu spät kommen"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Ausrüstung, die du quittiert hast, ist deine Verantwortung. Beschrifte alles nach Vorgabe und schließ deinen Spind ab."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.7.2",
+          "title": "Sachen verlieren oder nicht beschriften"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Niemand erwartet, dass du alles sofort weißt. Wer fragt, macht weniger falsch. Lieber einmal zu viel nachfragen als etwas Wichtiges falsch machen."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.7.3",
+          "title": "Nicht nachfragen"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Am Anfang prasselt viel auf dich ein. Notiere Termine, Vorgaben und Namen."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.7.4",
+          "title": "Informationen nicht aufschreiben"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Ihr lebt eng zusammen. Sprich Probleme früh und sachlich an, statt sie schwelen zu lassen."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.7.5",
+          "title": "Konflikte auf der Stube eskalieren lassen"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Wenn etwas drückt – Stiefel, Gesundheit, private Sorgen – melde es. Dafür gibt es Vorgesetzte, den Sanitätsbereich und Ansprechpersonen (siehe Modul 12). Wegschauen macht es nur schlimmer."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "1.7.6",
+          "title": "Probleme verschweigen"
+        }
+      ],
+      "title": "Typische Anfängerfehler und wie du sie vermeidest",
+      "type": "text"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Unterbringung/Vergütung."
+    },
+    {
+      "label": "Bundeswehr: „Neuer Wehrdienst\" und „Grundausbildung\" (bundeswehr.de), abgerufen 2026."
+    },
+    {
+      "label": "Konkrete Tagesabläufe, Einkleidungslisten und Stubenbelegung sind nicht bundeseinheitlich offiziell festgelegt und mit `[PRÜFEN]` markiert."
+    }
+  ],
+  "title": "Ankommen & erste Tage",
+  "updateNeed": "mittel",
+  "version": "1.0.0"
+}

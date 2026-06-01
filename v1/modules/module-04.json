@@ -1,0 +1,659 @@
+{
+  "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechts-, Steuer- oder Finanzberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich sind immer die offiziellen Stellen und deine Bezügeabrechnung.",
+  "id": 4,
+  "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-4-1",
+      "note": "offizielle Quelle/Stand nötig; nicht schätzen",
+      "raw": "[PRÜFEN: Konkrete Netto-Beträge bzw. genaue Abzüge (Steuer/Sozialabgaben) für FWDL und SaZ im Neuen Wehrdienst — offizielle Quelle/Stand nötig; nicht schätzen]",
+      "sectionId": "4.2.4",
+      "topic": "Konkrete Netto-Beträge bzw. genaue Abzüge (Steuer/Sozialabgaben) für FWDL und SaZ im Neuen Wehrdienst"
+    },
+    {
+      "id": "rf-4-2",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Genaue Gehaltsstaffelung nach Dienstdauer/Dienstgrad und Beförderungszeitpunkte — offizielle Quelle/Stand nötig]",
+      "sectionId": "4.2.5",
+      "topic": "Genaue Gehaltsstaffelung nach Dienstdauer/Dienstgrad und Beförderungszeitpunkte"
+    },
+    {
+      "id": "rf-4-3",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Welche Zulagen/Zuschläge und welche Trennungsgeld-/Wegstreckenregelungen für FWDL/SaZ im Neuen Wehrdienst gelten, inkl. Beträge und Voraussetzungen — offizielle Quelle/Stand nötig]",
+      "sectionId": "4.3",
+      "topic": "Welche Zulagen/Zuschläge und welche Trennungsgeld-/Wegstreckenregelungen für FWDL/SaZ im Neuen Wehrdienst gelten, inkl. Beträge und Voraussetzungen"
+    },
+    {
+      "id": "rf-4-4",
+      "note": "kostenfreie Verpflegung vs. Verpflegungsgeld/Sachbezug und dessen Wert (öffentlich kursiert ein Wert von rund 10 €/Tag) im Neuen Wehrdienst — offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Genaue Regelung – kostenfreie Verpflegung vs. Verpflegungsgeld/Sachbezug und dessen Wert (öffentlich kursiert ein Wert von rund 10 €/Tag) im Neuen Wehrdienst — offizielle Quelle/Stand nötig]",
+      "sectionId": "4.4",
+      "topic": "Genaue Regelung"
+    },
+    {
+      "id": "rf-4-5",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Genauer Umfang der freien Heilfürsorge/truppenärztlichen Versorgung für FWDL/SaZ — offizielle Quelle/Stand nötig]",
+      "sectionId": "4.4",
+      "topic": "Genauer Umfang der freien Heilfürsorge/truppenärztlichen Versorgung für FWDL/SaZ"
+    },
+    {
+      "id": "rf-4-6",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Ob und in welchen Fällen Heimfahrten/Familienheimfahrten erstattet werden — offizielle Quelle/Stand nötig]",
+      "sectionId": "4.5",
+      "topic": "Ob und in welchen Fällen Heimfahrten/Familienheimfahrten erstattet werden"
+    },
+    {
+      "id": "rf-4-7",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Aktuelle Voraussetzungen und genaue Abdeckung (Fern-/Regionalverkehr, Verkehrsverbünde) — offizielle Quelle/Stand nötig]",
+      "sectionId": "4.6.1",
+      "topic": "Aktuelle Voraussetzungen und genaue Abdeckung (Fern-/Regionalverkehr, Verkehrsverbünde)"
+    },
+    {
+      "id": "rf-4-8",
+      "note": "offizielle Quelle/Stand nötig; oben genannte Fristen anhand bundeswehr.de/„Führerschein\" final gegenprüfen",
+      "raw": "[PRÜFEN: Feinheiten der Antrags- und Nachweispflichten zum Führerschein-Zuschuss — offizielle Quelle/Stand nötig; oben genannte Fristen anhand bundeswehr.de/„Führerschein\" final gegenprüfen]",
+      "sectionId": "4.6.2",
+      "topic": "Feinheiten der Antrags- und Nachweispflichten zum Führerschein-Zuschuss"
+    },
+    {
+      "id": "rf-4-9",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Genauer Auszahlungsrhythmus/-zeitpunkt (z. B. monatlich im Voraus/zum Monatsende) der Bezüge im Wehrdienst — offizielle Quelle/Stand nötig]",
+      "sectionId": "4.7.1",
+      "topic": "Genauer Auszahlungsrhythmus/-zeitpunkt (z. B. monatlich im Voraus/zum Monatsende) der Bezüge im Wehrdienst"
+    }
+  ],
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Geld ist konkret, und du willst wissen, was hinten rauskommt. Dieses Modul erklärt dir, wie viel du im Neuen Wehrdienst verdienst, was der Unterschied zwischen FWDL und SaZ ist, was kostenlos gestellt wird, was du selbst zahlst – und welche Extras es gibt (z. B. Führerschein-Zuschuss, kostenlose Bahn)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Ein wichtiger Hinweis vorab: Beträge, Zulagen und Abzüge sind genau die Werte, die sich am ehesten ändern und am stärksten von deiner individuellen Situation abhängen. Verlass dich für „dein\" Geld immer auf deine offizielle Bezügeabrechnung und die zuständige Bezügestelle, nicht auf gerundete Beispielwerte."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "4.1",
+      "title": "Worum es in diesem Modul geht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Einstiegsgehalt: FWDL vs. SaZ",
+      "blocks": [],
+      "id": "4.2",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Im Neuen Wehrdienst beträgt die monatliche Vergütung "
+                },
+                {
+                  "bold": true,
+                  "text": "mindestens 2.600 € brutto"
+                },
+                {
+                  "text": " – „Unterbringung eingeschlossen\" (Quelle: Bundesregierung, „Fragen und Antworten zum Neuen Wehrdienst\", bundesregierung.de, Stand 2026)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "4.2.1",
+          "title": "Die Grundzahl"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Wenn du dich für eine Dienstzeit zwischen 6 und 11 Monaten entscheidest, hast du den Status "
+                },
+                {
+                  "bold": true,
+                  "text": "Freiwillig Wehrdienstleistende:r (FWDL)"
+                },
+                {
+                  "text": " und erhältst rund "
+                },
+                {
+                  "bold": true,
+                  "text": "2.600 € brutto pro Monat"
+                },
+                {
+                  "text": " (Quelle: bundesregierung.de / bundeswehr.de, Stand 2026)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "4.2.2",
+          "title": "FWDL (6 bis 11 Monate)"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Wenn du dich für "
+                },
+                {
+                  "bold": true,
+                  "text": "12 Monate oder länger"
+                },
+                {
+                  "text": " verpflichtest, wirst du "
+                },
+                {
+                  "bold": true,
+                  "text": "Soldat:in auf Zeit (SaZ)"
+                },
+                {
+                  "text": " und erhältst nach öffentlichen Angaben rund "
+                },
+                {
+                  "bold": true,
+                  "text": "2.700 € brutto pro Monat"
+                },
+                {
+                  "text": " – also etwas mehr als FWDL (Quelle: bundesregierung.de / bundeswehr.de, Stand 2026). Die Mindestdienstzeit für SaZ wurde auf 12 Monate gesenkt."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "4.2.3",
+          "title": "SaZ (ab 12 Monaten)"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "„Brutto\" heißt: vor Abzügen. Was netto auf deinem Konto landet, hängt von Steuern, Sozialabgaben und deiner persönlichen Situation ab. Verlass dich auf deine Abrechnung. "
+                },
+                {
+                  "reviewFlagId": "rf-4-1",
+                  "text": "[PRÜFEN: Konkrete Netto-Beträge bzw. genaue Abzüge (Steuer/Sozialabgaben) für FWDL und SaZ im Neuen Wehrdienst — offizielle Quelle/Stand nötig; nicht schätzen]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "4.2.4",
+          "title": "Brutto ist nicht netto"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "In öffentlichen Darstellungen wird genannt, dass nach der Grundausbildung eine erste Beförderung (z. B. zum Gefreiten) üblich ist, die mit etwas mehr Sold einhergeht. "
+                },
+                {
+                  "reviewFlagId": "rf-4-2",
+                  "text": "[PRÜFEN: Genaue Gehaltsstaffelung nach Dienstdauer/Dienstgrad und Beförderungszeitpunkte — offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "4.2.5",
+          "title": "Steigt das Geld mit der Zeit?"
+        }
+      ],
+      "title": "Einstiegsgehalt: FWDL vs. SaZ",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Zulagen, Zuschläge und Entschädigungen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Zusätzlich zur Grundvergütung kann es – je nach Verwendung, Einsatz und Lebenssituation – weitere Zahlungen geben, zum Beispiel:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Zulagen"
+              },
+              {
+                "text": " für bestimmte Tätigkeiten oder Belastungen,"
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Trennungsgeld"
+              },
+              {
+                "text": " bzw. "
+              },
+              {
+                "bold": true,
+                "text": "Wegstreckenentschädigung"
+              },
+              {
+                "text": ", wenn du aus dienstlichen Gründen getrennt von deinem Wohnort untergebracht bist bzw. fährst."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Ob und in welcher Höhe dir solche Zahlungen zustehen, hängt stark von deinem konkreten Fall ab. Das ist nichts, was du pauschal „bekommst\". Frag bei deiner zuständigen Verwaltung/Bezügestelle nach, was für dich gilt. "
+            },
+            {
+              "reviewFlagId": "rf-4-3",
+              "text": "[PRÜFEN: Welche Zulagen/Zuschläge und welche Trennungsgeld-/Wegstreckenregelungen für FWDL/SaZ im Neuen Wehrdienst gelten, inkl. Beträge und Voraussetzungen — offizielle Quelle/Stand nötig]"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "4.3",
+      "title": "Zulagen, Zuschläge und Entschädigungen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Was kostenlos ist",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Vieles, was du im zivilen Leben selbst zahlen müsstest, ist im Dienst gestellt:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Unterkunft:"
+              },
+              {
+                "text": " Die Unterbringung in der Kaserne ist kostenlos (in der Vergütung „eingeschlossen\"; Quelle: bundesregierung.de, Stand 2026)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Verpflegung:"
+              },
+              {
+                "text": " Es gibt Verpflegung in der Truppe. "
+              },
+              {
+                "reviewFlagId": "rf-4-4",
+                "text": "[PRÜFEN: Genaue Regelung – kostenfreie Verpflegung vs. Verpflegungsgeld/Sachbezug und dessen Wert (öffentlich kursiert ein Wert von rund 10 €/Tag) im Neuen Wehrdienst — offizielle Quelle/Stand nötig]"
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Dienstkleidung & Ausrüstung:"
+              },
+              {
+                "text": " Uniform, Feldausrüstung und Ausstattung werden unentgeltlich gestellt."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Medizinische Versorgung:"
+              },
+              {
+                "text": " Du wirst durch den Sanitätsdienst der Bundeswehr versorgt; eigene Krankenkassenbeiträge fallen dafür nicht an (unentgeltliche truppenärztliche Versorgung). "
+              },
+              {
+                "reviewFlagId": "rf-4-5",
+                "text": "[PRÜFEN: Genauer Umfang der freien Heilfürsorge/truppenärztlichen Versorgung für FWDL/SaZ — offizielle Quelle/Stand nötig]"
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "4.4",
+      "title": "Was kostenlos ist",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Was du selbst zahlst",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Trotz vieler kostenloser Leistungen gibt es Dinge, die du privat trägst:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Persönliche Ausgaben"
+              },
+              {
+                "text": " (Hygieneartikel über den Standard hinaus, Snacks, Freizeit, Handyvertrag, private Kleidung)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Heimfahrten:"
+              },
+              {
+                "text": " In Uniform fährst du mit der Deutschen Bahn kostenlos (siehe unten). Für private Fahrten in Zivil oder mit dem eigenen Auto trägst du die Kosten in der Regel selbst – außer es greift eine dienstliche Erstattung (z. B. Wegstreckenentschädigung in bestimmten Fällen). "
+              },
+              {
+                "reviewFlagId": "rf-4-6",
+                "text": "[PRÜFEN: Ob und in welchen Fällen Heimfahrten/Familienheimfahrten erstattet werden — offizielle Quelle/Stand nötig]"
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Eventuelle Beiträge/Versicherungen"
+              },
+              {
+                "text": ", die deine persönliche Situation betreffen."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "4.5",
+      "title": "Was du selbst zahlst",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Extra-Leistungen",
+      "blocks": [],
+      "id": "4.6",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Soldatinnen und Soldaten fahren in Uniform kostenlos mit der Deutschen Bahn – im Fern- und im Großteil des Regionalverkehrs, auch privat in der Freizeit. Voraussetzung sind ein gültiger Truppenausweis und das Tragen der Uniform; die Buchung läuft über eine eigene Lösung/App der Bundeswehr (Quelle: bmvg.de / bundeswehr.de, abgerufen 2026). "
+                },
+                {
+                  "reviewFlagId": "rf-4-7",
+                  "text": "[PRÜFEN: Aktuelle Voraussetzungen und genaue Abdeckung (Fern-/Regionalverkehr, Verkehrsverbünde) — offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "4.6.1",
+          "title": "Kostenlose Bahnfahrten in Uniform"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Wer mindestens "
+                },
+                {
+                  "bold": true,
+                  "text": "zwölf Monate"
+                },
+                {
+                  "text": " Dienst leistet, kann einen einmaligen Zuschuss zum erstmaligen Erwerb eines Führerscheins erhalten (Quelle: bundeswehr.de, „Führerschein\", abgerufen 2026):"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "items": [
+                [
+                  {
+                    "bold": true,
+                    "text": "Klasse B (Pkw):"
+                  },
+                  {
+                    "text": " bis zu "
+                  },
+                  {
+                    "bold": true,
+                    "text": "3.500 €"
+                  },
+                  {
+                    "text": "."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Klasse C/C1 (Lkw):"
+                  },
+                  {
+                    "text": " bis zu "
+                  },
+                  {
+                    "bold": true,
+                    "text": "5.000 €"
+                  },
+                  {
+                    "text": "."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Wichtige Bedingungen laut Bundeswehr (Stand 2026):"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "items": [
+                [
+                  {
+                    "text": "Erstattet werden "
+                  },
+                  {
+                    "bold": true,
+                    "text": "nachgewiesene Kosten"
+                  },
+                  {
+                    "text": " bis zum jeweiligen Höchstbetrag."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Pkw-Führerschein:"
+                  },
+                  {
+                    "text": " Erwerb innerhalb von 12 Monaten vor Dienstbeginn, während des Dienstes oder bis spätestens 12 Monate nach Dienstende. Beim "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Lkw-Führerschein"
+                  },
+                  {
+                    "text": " verlängert sich die Frist auf bis zu 36 Monate nach Dienstende."
+                  }
+                ],
+                [
+                  {
+                    "text": "Der Dienst muss nach dem 01.01.2026 begonnen haben; der Führerschein nach dem 01.01.2025 erworben sein."
+                  }
+                ],
+                [
+                  {
+                    "text": "Antragstellung frühestens ab 01.01.2027 und spätestens 12 Monate nach Erfüllen aller Voraussetzungen."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            },
+            {
+              "spans": [
+                {
+                  "reviewFlagId": "rf-4-8",
+                  "text": "[PRÜFEN: Feinheiten der Antrags- und Nachweispflichten zum Führerschein-Zuschuss — offizielle Quelle/Stand nötig; oben genannte Fristen anhand bundeswehr.de/„Führerschein\" final gegenprüfen]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "4.6.2",
+          "title": "Führerschein-Zuschuss (ab 12 Monaten Dienst)"
+        }
+      ],
+      "title": "Extra-Leistungen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Praxis: Wann und wohin wird gezahlt, Abrechnung lesen",
+      "blocks": [],
+      "id": "4.7",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Dein Sold wird auf das Bankkonto überwiesen, dessen Daten du bei den ersten Formalitäten angegeben hast (siehe Modul 1). Gib deine korrekte IBAN frühzeitig an, damit die erste Zahlung nicht hängt. "
+                },
+                {
+                  "reviewFlagId": "rf-4-9",
+                  "text": "[PRÜFEN: Genauer Auszahlungsrhythmus/-zeitpunkt (z. B. monatlich im Voraus/zum Monatsende) der Bezüge im Wehrdienst — offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "4.7.1",
+          "title": "Auszahlung"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Du erhältst eine Bezügeabrechnung. Achte auf:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "items": [
+                [
+                  {
+                    "bold": true,
+                    "text": "Brutto:"
+                  },
+                  {
+                    "text": " Grundbezug plus etwaige Zulagen."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Abzüge:"
+                  },
+                  {
+                    "text": " Steuern und Sozialabgaben (abhängig von deinem Fall)."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Netto / Auszahlungsbetrag:"
+                  },
+                  {
+                    "text": " Das, was tatsächlich überwiesen wird."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Erstattungen/Sonderzahlungen:"
+                  },
+                  {
+                    "text": " z. B. Trennungsgeld, falls dir zustehend."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Wenn etwas unklar ist oder fehlt, wende dich an die zuständige Bezüge-/Verwaltungsstelle deiner Einheit – nicht an inoffizielle Quellen. Hebe deine Abrechnungen auf."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "4.7.2",
+          "title": "Die Abrechnung lesen"
+        }
+      ],
+      "title": "Praxis: Wann und wohin wird gezahlt, Abrechnung lesen",
+      "type": "text"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Vergütung mind. 2.600 € brutto inkl. Unterbringung, FWDL/SaZ."
+    },
+    {
+      "label": "Bundeswehr: „Neuer Wehrdienst\" und „Führerschein: Zuschuss von der Bundeswehr\" (bundeswehr.de), abgerufen 2026 – Führerschein-Zuschuss, Beträge und Fristen."
+    },
+    {
+      "label": "BMVg/Bundeswehr: kostenloses Bahnfahren in Uniform (bmvg.de/bundeswehr.de), abgerufen 2026."
+    },
+    {
+      "label": "Alle konkreten Netto-Beträge, Zulagen-, Trennungsgeld-, Verpflegungs- und Auszahlungsdetails sind individuell/änderbar und mit `[PRÜFEN]` markiert."
+    }
+  ],
+  "title": "Geld – Sold, Bezahlung & was frei ist",
+  "updateNeed": "hoch",
+  "version": "1.0.0"
+}

@@ -1,0 +1,871 @@
+{
+  "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Telefonnummern, Adressen und Zuständigkeiten erfährst du verbindlich über deine Einheit und die offiziellen Stellen.",
+  "id": 12,
+  "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-12-1",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Genaue Rolle/Rechte der Vertrauensperson nach Soldatinnen- und Soldatenbeteiligungsgesetz — offizielle Quelle/Stand nötig]",
+      "sectionId": "12.2.2",
+      "topic": "Genaue Rolle/Rechte der Vertrauensperson nach Soldatinnen- und Soldatenbeteiligungsgesetz"
+    },
+    {
+      "id": "rf-12-2",
+      "note": "keine Nummern erfinden, offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: Aktuelle Kontaktdaten (Telefon/Adresse) der genannten Stellen — keine Nummern erfinden, offizielle Quelle/Stand nötig]",
+      "sectionId": "12.2.7",
+      "topic": "Aktuelle Kontaktdaten (Telefon/Adresse) der genannten Stellen"
+    },
+    {
+      "id": "rf-12-3",
+      "note": "richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste",
+      "raw": "[PRÜFEN: Verbindliche „Mitzubringen\"-Liste für den ersten Diensttag im Neuen Wehrdienst — richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste]",
+      "sectionId": "12.3",
+      "topic": "Verbindliche „Mitzubringen\"-Liste für den ersten Diensttag im Neuen Wehrdienst"
+    },
+    {
+      "id": "rf-12-4",
+      "note": "variieren, keine bundeseinheitliche offizielle Liste",
+      "raw": "[PRÜFEN: Verbindliche „erste Woche\"-Pflichten je Dienststelle — variieren, keine bundeseinheitliche offizielle Liste]",
+      "sectionId": "12.4",
+      "topic": "Verbindliche „erste Woche\"-Pflichten je Dienststelle"
+    },
+    {
+      "id": "rf-12-5",
+      "note": "",
+      "raw": "[PRÜFEN: genaue Funktion/Bezeichnung]",
+      "sectionId": "12.5",
+      "topic": "genaue Funktion/Bezeichnung"
+    },
+    {
+      "id": "rf-12-6",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: genaue Bezeichnung/Geltung — offizielle Quelle/Stand nötig]",
+      "sectionId": "12.5",
+      "topic": "genaue Bezeichnung/Geltung"
+    },
+    {
+      "id": "rf-12-7",
+      "note": "offizielle Quelle/Stand nötig",
+      "raw": "[PRÜFEN: genaue offizielle Funktion „Kompaniefeldwebel\" — offizielle Quelle/Stand nötig]",
+      "sectionId": "12.6",
+      "topic": "genaue offizielle Funktion „Kompaniefeldwebel\""
+    },
+    {
+      "id": "rf-12-8",
+      "note": "offizielle Quelle/Stand nötig, keine Nummern erfinden",
+      "raw": "[PRÜFEN: Aktuelle offizielle Kontakt-/Notfallnummern der Bundeswehr-Stellen — offizielle Quelle/Stand nötig, keine Nummern erfinden]",
+      "sectionId": "12.8",
+      "topic": "Aktuelle offizielle Kontakt-/Notfallnummern der Bundeswehr-Stellen"
+    }
+  ],
+  "schemaVersion": 1,
+  "sections": [
+    {
+      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Dieses Modul ist dein Nachschlagewerk: Wer hilft dir wobei, was musst du erledigen, und was bedeuten all die Abkürzungen und Begriffe, die plötzlich um dich herumschwirren? Nutze es als Spickzettel – du musst nicht alles auswendig können."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "12.1",
+      "title": "Worum es in diesem Modul geht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Wichtige Ansprechpartner",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Du bist nicht auf dich allein gestellt. Für unterschiedliche Anliegen gibt es unterschiedliche Stellen:"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "12.2",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Deine zentrale Bezugsperson für dienstliche und disziplinarrechtliche Angelegenheiten. Wer das konkret ist, wird dir zu Dienstbeginn genannt. (Siehe auch Modul 3.)"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "12.2.1",
+          "title": "Disziplinarvorgesetzte:r"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Soldatinnen und Soldaten wählen aus ihren Reihen eine "
+                },
+                {
+                  "bold": true,
+                  "text": "Vertrauensperson"
+                },
+                {
+                  "text": ". Sie vertritt die Interessen der Truppe gegenüber den Vorgesetzten und ist Ansprechpartnerin bei Problemen, Beschwerden und im Miteinander. Eine gute erste Adresse, wenn du etwas ansprechen willst, aber nicht direkt zur Führung gehen möchtest. "
+                },
+                {
+                  "reviewFlagId": "rf-12-1",
+                  "text": "[PRÜFEN: Genaue Rolle/Rechte der Vertrauensperson nach Soldatinnen- und Soldatenbeteiligungsgesetz — offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "12.2.2",
+          "title": "Vertrauensperson"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Der Sozialdienst berät und betreut Bundeswehrangehörige und ihre Familien in sozialen Angelegenheiten – bundesweit (Quelle: bundeswehr.de, „Der Sozialdienst der Bundeswehr\", abgerufen 2026). Anlaufstelle bei finanziellen, familiären oder persönlichen Sorgen."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "12.2.3",
+          "title": "Sozialdienst der Bundeswehr"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Evangelische, katholische und jüdische Militärseelsorge bieten Begleitung und Gespräche an – im Alltag, in der Ausbildung und im Einsatz, unabhängig von Konfession und auch für Konfessionslose (Quelle: bundeswehr.de, „Die Militärseelsorge in der Bundeswehr\", abgerufen 2026). Gespräche sind vertraulich."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "12.2.4",
+          "title": "Militärseelsorge"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Für gesundheitliche Themen ist der Sanitätsbereich deiner Dienststelle zuständig (Truppenarzt/Truppenärztin). Erste Adresse bei Krankheit, Verletzung und gesundheitlichen Fragen."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "12.2.5",
+          "title": "Sanitätsbereich / truppenärztliche Versorgung"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Sanitätsdienst, Sozialdienst, Militärseelsorge und Psychologischer Dienst bilden zusammen ein Netzwerk – „für jedes Thema die richtige Ansprechperson\" (Quelle: bundeswehr.de, abgerufen 2026)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "12.2.6",
+          "title": "Psychosoziales Netzwerk"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Jede Soldatin und jeder Soldat kann sich mit einer Eingabe "
+                },
+                {
+                  "bold": true,
+                  "text": "direkt"
+                },
+                {
+                  "text": " an die:den Wehrbeauftragte:n wenden – ohne Einhaltung des Dienstwegs (Quelle: bundestag.de, „Wehrbeauftragter\", abgerufen 2026). Zuständig u. a. für die Wahrung der Grundrechte und der Inneren Führung."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Konkrete Telefonnummern und Adressen erfährst du über deine Einheit oder die offiziellen Webseiten. "
+                },
+                {
+                  "reviewFlagId": "rf-12-2",
+                  "text": "[PRÜFEN: Aktuelle Kontaktdaten (Telefon/Adresse) der genannten Stellen — keine Nummern erfinden, offizielle Quelle/Stand nötig]"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "12.2.7",
+          "title": "Wehrbeauftragte:r des Deutschen Bundestages"
+        }
+      ],
+      "title": "Wichtige Ansprechpartner",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Checkliste „Packliste erster Tag\"",
+      "id": "12.3",
+      "items": [
+        {
+          "id": "12.3-checklist-einberufungsschreiben-unterlagen-wie-verlangt",
+          "label": [
+            {
+              "text": "Einberufungsschreiben/Unterlagen, wie verlangt"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-personalausweis-gueltig",
+          "label": [
+            {
+              "text": "Personalausweis (gültig)"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-bankverbindung-iban-fuer-die-sold-zahlung",
+          "label": [
+            {
+              "text": "Bankverbindung / IBAN (für die Sold-Zahlung)"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-krankenversicherungs-gesundheitsunterlagen-falls",
+          "label": [
+            {
+              "text": "Krankenversicherungs-/Gesundheitsunterlagen, falls verlangt (z. B. Impfpass)"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-ggf-weitere-geforderte-bescheinigungen-zeugnisse",
+          "label": [
+            {
+              "text": "ggf. weitere geforderte Bescheinigungen/Zeugnisse"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-brille-kontaktlinsen-ersatz-falls-noetig",
+          "label": [
+            {
+              "text": "Brille/Kontaktlinsen + Ersatz, falls nötig"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-persoenliche-medikamente-aerztliche-bescheinigun",
+          "label": [
+            {
+              "text": "persönliche Medikamente + ärztliche Bescheinigung dazu"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-hygieneartikel-fuer-die-ersten-tage",
+          "label": [
+            {
+              "text": "Hygieneartikel für die ersten Tage"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-etwas-bargeld-girocard",
+          "label": [
+            {
+              "text": "etwas Bargeld / Girocard"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-handy-ladegeraet",
+          "label": [
+            {
+              "text": "Handy + Ladegerät"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-notizblock-und-stift",
+          "label": [
+            {
+              "text": "Notizblock und Stift"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-bequeme-zivile-kleidung-fuer-die-anreise",
+          "label": [
+            {
+              "text": "bequeme zivile Kleidung für die Anreise"
+            }
+          ]
+        },
+        {
+          "id": "12.3-checklist-schloss-fuer-den-spind-falls-vorgegeben-vorher-k",
+          "label": [
+            {
+              "text": "Schloss für den Spind, falls vorgegeben (vorher klären)"
+            }
+          ]
+        }
+      ],
+      "reviewFlags": [
+        {
+          "id": "rf-12-3",
+          "note": "richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste",
+          "raw": "[PRÜFEN: Verbindliche „Mitzubringen\"-Liste für den ersten Diensttag im Neuen Wehrdienst — richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste]",
+          "sectionId": "12.3",
+          "topic": "Verbindliche „Mitzubringen\"-Liste für den ersten Diensttag im Neuen Wehrdienst"
+        }
+      ],
+      "title": "Checkliste „Packliste erster Tag\"",
+      "type": "checklist"
+    },
+    {
+      "anchorSearchTitle": "Checkliste „Erste Woche – was muss erledigt sein\"",
+      "id": "12.4",
+      "items": [
+        {
+          "id": "12.4-checklist-bei-der-einheit-angemeldet-und-zugeteilt",
+          "label": [
+            {
+              "text": "Bei der Einheit angemeldet und zugeteilt"
+            }
+          ]
+        },
+        {
+          "id": "12.4-checklist-einkleidung-abgeschlossen-ausruestung-quittiert",
+          "label": [
+            {
+              "text": "Einkleidung abgeschlossen, Ausrüstung quittiert"
+            }
+          ]
+        },
+        {
+          "id": "12.4-checklist-stube-spind-eingerichtet-nach-vorgabe",
+          "label": [
+            {
+              "text": "Stube/Spind eingerichtet nach Vorgabe"
+            }
+          ]
+        },
+        {
+          "id": "12.4-checklist-truppenausweis-erhalten-bzw-beantragt",
+          "label": [
+            {
+              "text": "Truppenausweis erhalten bzw. beantragt"
+            }
+          ]
+        },
+        {
+          "id": "12.4-checklist-kontodaten-fuer-den-sold-abgegeben",
+          "label": [
+            {
+              "text": "Kontodaten für den Sold abgegeben"
+            }
+          ]
+        },
+        {
+          "id": "12.4-checklist-notfallkontakt-hinterlegt",
+          "label": [
+            {
+              "text": "Notfallkontakt hinterlegt"
+            }
+          ]
+        },
+        {
+          "id": "12.4-checklist-tagesrhythmus-und-antrete-zeiten-verstanden",
+          "label": [
+            {
+              "text": "Tagesrhythmus und Antrete-Zeiten verstanden"
+            }
+          ]
+        },
+        {
+          "id": "12.4-checklist-namen-und-dienstgrade-der-direkten-vorgesetzten",
+          "label": [
+            {
+              "text": "Namen und Dienstgrade der direkten Vorgesetzten gemerkt"
+            }
+          ]
+        },
+        {
+          "id": "12.4-checklist-wichtige-ansprechpartner-sanitaetsbereich-vertra",
+          "label": [
+            {
+              "text": "Wichtige Ansprechpartner (Sanitätsbereich, Vertrauensperson) bekannt"
+            }
+          ]
+        },
+        {
+          "id": "12.4-checklist-erste-belehrungen-unterweisungen-wahrgenommen",
+          "label": [
+            {
+              "text": "erste Belehrungen/Unterweisungen wahrgenommen"
+            }
+          ]
+        },
+        {
+          "id": "12.4-checklist-offene-fragen-notiert-und-gestellt",
+          "label": [
+            {
+              "text": "offene Fragen notiert und gestellt"
+            }
+          ]
+        }
+      ],
+      "reviewFlags": [
+        {
+          "id": "rf-12-4",
+          "note": "variieren, keine bundeseinheitliche offizielle Liste",
+          "raw": "[PRÜFEN: Verbindliche „erste Woche\"-Pflichten je Dienststelle — variieren, keine bundeseinheitliche offizielle Liste]",
+          "sectionId": "12.4",
+          "topic": "Verbindliche „erste Woche\"-Pflichten je Dienststelle"
+        }
+      ],
+      "title": "Checkliste „Erste Woche – was muss erledigt sein\"",
+      "type": "checklist"
+    },
+    {
+      "anchorSearchTitle": "Abkürzungs-Lexikon",
+      "id": "12.5",
+      "items": [
+        {
+          "abbr": "AGA",
+          "id": "12.5-abbreviations-aga",
+          "meaning": [
+            {
+              "text": "Allgemeine Grundausbildung — Militärische Basisausbildung am Anfang deiner Dienstzeit (siehe Modul 2)."
+            }
+          ]
+        },
+        {
+          "abbr": "FWDL",
+          "id": "12.5-abbreviations-fwdl",
+          "meaning": [
+            {
+              "text": "Freiwillig Wehrdienstleistende:r — Status bei 6–11 Monaten Dienst im Neuen Wehrdienst."
+            }
+          ]
+        },
+        {
+          "abbr": "SaZ",
+          "id": "12.5-abbreviations-saz",
+          "meaning": [
+            {
+              "text": "Soldat:in auf Zeit — Status ab 12 Monaten Verpflichtung; im Neuen Wehrdienst auf min. 12 Monate gesenkt."
+            }
+          ]
+        },
+        {
+          "abbr": "BFT",
+          "id": "12.5-abbreviations-bft",
+          "meaning": [
+            {
+              "text": "Basis-Fitness-Test — Test der körperlichen Grundfitness (Sprint, Klimmhang, 1.000-m-Lauf)."
+            }
+          ]
+        },
+        {
+          "abbr": "BMVg",
+          "id": "12.5-abbreviations-bmvg",
+          "meaning": [
+            {
+              "text": "Bundesministerium der Verteidigung — Das Verteidigungsministerium."
+            }
+          ]
+        },
+        {
+          "abbr": "Bw",
+          "id": "12.5-abbreviations-bw",
+          "meaning": [
+            {
+              "text": "Bundeswehr — Die Streitkräfte Deutschlands."
+            }
+          ]
+        },
+        {
+          "abbr": "TSK",
+          "id": "12.5-abbreviations-tsk",
+          "meaning": [
+            {
+              "text": "Teilstreitkraft — z. B. Heer, Luftwaffe, Marine."
+            }
+          ]
+        },
+        {
+          "abbr": "UvD",
+          "id": "12.5-abbreviations-uvd",
+          "meaning": [
+            {
+              "text": "Unteroffizier vom Dienst — Diensthabende:r Unteroffizier:in mit Aufsichts-/Ordnungsaufgaben. "
+            },
+            {
+              "reviewFlagId": "rf-12-5",
+              "text": "[PRÜFEN: genaue Funktion/Bezeichnung]"
+            }
+          ],
+          "reviewFlags": [
+            {
+              "id": "rf-12-5",
+              "note": "",
+              "raw": "[PRÜFEN: genaue Funktion/Bezeichnung]",
+              "sectionId": "12.5",
+              "topic": "genaue Funktion/Bezeichnung"
+            }
+          ]
+        },
+        {
+          "abbr": "DV",
+          "id": "12.5-abbreviations-dv",
+          "meaning": [
+            {
+              "text": "Dienstvorschrift — Verbindliche Regelung/Anweisung der Bundeswehr."
+            }
+          ]
+        },
+        {
+          "abbr": "SAZV",
+          "id": "12.5-abbreviations-sazv",
+          "meaning": [
+            {
+              "text": "(Soldatenarbeitszeitverordnung) — Regelt Arbeitszeit von Soldat:innen. "
+            },
+            {
+              "reviewFlagId": "rf-12-6",
+              "text": "[PRÜFEN: genaue Bezeichnung/Geltung — offizielle Quelle/Stand nötig]"
+            }
+          ],
+          "reviewFlags": [
+            {
+              "id": "rf-12-6",
+              "note": "offizielle Quelle/Stand nötig",
+              "raw": "[PRÜFEN: genaue Bezeichnung/Geltung — offizielle Quelle/Stand nötig]",
+              "sectionId": "12.5",
+              "topic": "genaue Bezeichnung/Geltung"
+            }
+          ]
+        },
+        {
+          "abbr": "ABC",
+          "id": "12.5-abbreviations-abc",
+          "meaning": [
+            {
+              "text": "Atomar, Biologisch, Chemisch — Bezeichnung für entsprechende Gefahren/Schutz (ABC-Schutz)."
+            }
+          ]
+        },
+        {
+          "abbr": "EH",
+          "id": "12.5-abbreviations-eh",
+          "meaning": [
+            {
+              "text": "Erste Hilfe — Sofortmaßnahmen bei Verletzung/Notfall."
+            }
+          ]
+        }
+      ],
+      "title": "Abkürzungs-Lexikon",
+      "type": "abbreviations"
+    },
+    {
+      "anchorSearchTitle": "Soldatensprache / Slang – kurz erklärt",
+      "id": "12.6",
+      "items": [
+        {
+          "explanation": [
+            {
+              "text": "das Mehrbettzimmer, in dem du wohnst."
+            }
+          ],
+          "id": "12.6-slang-stube",
+          "term": "Stube"
+        },
+        {
+          "explanation": [
+            {
+              "text": "Ausgabestelle für Bekleidung/Material."
+            }
+          ],
+          "id": "12.6-slang-kammer",
+          "term": "Kammer"
+        },
+        {
+          "explanation": [
+            {
+              "text": "sich geordnet als Gruppe/Zug versammeln."
+            }
+          ],
+          "id": "12.6-slang-antreten",
+          "term": "Antreten"
+        },
+        {
+          "explanation": [
+            {
+              "text": "umgangssprachlich für den Kompaniefeldwebel (zentrale organisatorische Bezugsperson der Kompanie). "
+            },
+            {
+              "reviewFlagId": "rf-12-7",
+              "text": "[PRÜFEN: genaue offizielle Funktion „Kompaniefeldwebel\" — offizielle Quelle/Stand nötig]"
+            }
+          ],
+          "id": "12.6-slang-spiess",
+          "reviewFlags": [
+            {
+              "id": "rf-12-7",
+              "note": "offizielle Quelle/Stand nötig",
+              "raw": "[PRÜFEN: genaue offizielle Funktion „Kompaniefeldwebel\" — offizielle Quelle/Stand nötig]",
+              "sectionId": "12.6",
+              "topic": "genaue offizielle Funktion „Kompaniefeldwebel\""
+            }
+          ],
+          "term": "Spieß"
+        },
+        {
+          "explanation": [
+            {
+              "text": "private Kleidung (kein Dienstanzug)."
+            }
+          ],
+          "id": "12.6-slang-zivil",
+          "term": "Zivil"
+        },
+        {
+          "explanation": [
+            {
+              "text": "der Sanitätsbereich/Truppenarzt."
+            }
+          ],
+          "id": "12.6-slang-sanibereich",
+          "term": "Sanibereich"
+        }
+      ],
+      "title": "Soldatensprache / Slang – kurz erklärt",
+      "type": "slang"
+    },
+    {
+      "anchorSearchTitle": "Glossar der wichtigsten Begriffe",
+      "id": "12.7",
+      "items": [
+        {
+          "definition": [
+            {
+              "text": "Dein dienstlicher Ausweis; u. a. nötig für Kasernenzutritt und kostenloses Bahnfahren in Uniform."
+            }
+          ],
+          "id": "12.7-glossary-truppenausweis",
+          "term": "Truppenausweis"
+        },
+        {
+          "definition": [
+            {
+              "text": "Vorgesetzte:r mit besonderen disziplinarrechtlichen Befugnissen; zentrale formale Bezugsperson."
+            }
+          ],
+          "id": "12.7-glossary-disziplinarvorgesetzte-r",
+          "term": "Disziplinarvorgesetzte:r"
+        },
+        {
+          "definition": [
+            {
+              "text": "Von den Soldat:innen gewählte Interessenvertretung gegenüber den Vorgesetzten."
+            }
+          ],
+          "id": "12.7-glossary-vertrauensperson",
+          "term": "Vertrauensperson"
+        },
+        {
+          "definition": [
+            {
+              "text": "Leitbild der Bundeswehr vom „Staatsbürger in Uniform\"; bestimmt Werte und Umgang."
+            }
+          ],
+          "id": "12.7-glossary-innere-fuehrung",
+          "term": "Innere Führung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Feierliches Versprechen der Wehrdienstleistenden, oft Höhepunkt der Grundausbildung."
+            }
+          ],
+          "id": "12.7-glossary-feierliches-geloebnis",
+          "term": "Feierliches Gelöbnis"
+        },
+        {
+          "definition": [
+            {
+              "text": "Eidesform für Soldat:innen auf Zeit und Berufssoldat:innen."
+            }
+          ],
+          "id": "12.7-glossary-diensteid",
+          "term": "Diensteid"
+        },
+        {
+          "definition": [
+            {
+              "text": "Geordnetes Bewegen/Verhalten in der Gruppe (Antreten, Marschieren, Grußformen)."
+            }
+          ],
+          "id": "12.7-glossary-formaldienst",
+          "term": "Formaldienst"
+        },
+        {
+          "definition": [
+            {
+              "text": "Ausbildung im Verhalten und Handeln im Gelände/unter taktischen Bedingungen."
+            }
+          ],
+          "id": "12.7-glossary-gefechtsdienst",
+          "term": "Gefechtsdienst"
+        },
+        {
+          "definition": [
+            {
+              "text": "Unentgeltliche medizinische Versorgung durch den Sanitätsdienst der Bundeswehr."
+            }
+          ],
+          "id": "12.7-glossary-heilfuersorge-truppenaerztliche-versorgung",
+          "term": "Heilfürsorge / truppenärztliche Versorgung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Mögliche Entschädigung bei dienstlich bedingter Trennung vom Wohnort (fallabhängig)."
+            }
+          ],
+          "id": "12.7-glossary-trennungsgeld",
+          "term": "Trennungsgeld"
+        },
+        {
+          "definition": [
+            {
+              "text": "Im Gesetz nur als Möglichkeit angelegt; könnte aktiviert werden, falls Bedarf nicht freiwillig gedeckt wird – aktuell keine allgemeine Wehrpflicht (Quelle: bundesregierung.de, Stand 2026)."
+            }
+          ],
+          "id": "12.7-glossary-bedarfswehrpflicht",
+          "term": "Bedarfswehrpflicht"
+        }
+      ],
+      "title": "Glossar der wichtigsten Begriffe",
+      "type": "glossary"
+    },
+    {
+      "anchorSearchTitle": "Hinweis auf Notfall-/Kontaktstellen",
+      "blocks": [
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Akuter medizinischer Notfall:"
+              },
+              {
+                "text": " Im Dienst gelten die Vorgaben deiner Einheit; außerhalb gilt der allgemeine Notruf "
+              },
+              {
+                "bold": true,
+                "text": "112"
+              },
+              {
+                "text": " (Rettungsdienst/Feuerwehr) bzw. "
+              },
+              {
+                "bold": true,
+                "text": "110"
+              },
+              {
+                "text": " (Polizei) in Deutschland."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Sanitätsbereich deiner Dienststelle:"
+              },
+              {
+                "text": " für gesundheitliche Anliegen im Dienst."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Sozialdienst, Militärseelsorge, Psychologischer Dienst:"
+              },
+              {
+                "text": " bei persönlichen/sozialen/seelischen Belastungen (siehe oben)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Wehrbeauftragte:r:"
+              },
+              {
+                "text": " bei Eingaben/Beschwerden, direkt und ohne Dienstweg."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Aus gutem Grund nennen wir hier keine spezifischen dienstlichen Telefonnummern – die erfährst du verbindlich über deine Einheit und die offiziellen Webseiten. "
+            },
+            {
+              "reviewFlagId": "rf-12-8",
+              "text": "[PRÜFEN: Aktuelle offizielle Kontakt-/Notfallnummern der Bundeswehr-Stellen — offizielle Quelle/Stand nötig, keine Nummern erfinden]"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "12.8",
+      "title": "Hinweis auf Notfall-/Kontaktstellen",
+      "type": "text"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Bundeswehr: „Der Sozialdienst der Bundeswehr\", „Die Militärseelsorge in der Bundeswehr\", „Hilfe in Notlagen\" (bundeswehr.de), abgerufen 2026."
+    },
+    {
+      "label": "Deutscher Bundestag: „Wehrbeauftragter\" (bundestag.de), abgerufen 2026."
+    },
+    {
+      "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Status/Bedarfswehrpflicht."
+    },
+    {
+      "label": "Abkürzungen, Slang-Begriffe, Checklisten und Kontaktdaten variieren je Dienststelle und sind, wo nicht amtlich belegt, mit `[PRÜFEN]` markiert."
+    }
+  ],
+  "title": "Praktisches, Orga & Nachschlagewerk",
+  "updateNeed": "mittel",
+  "version": "1.0.0"
+}
