@@ -10,7 +10,7 @@
         {
           "spans": [
             {
-              "text": "Hier findest du kurze, ehrliche Antworten auf die Fragen, die fast alle „Neuen\" am Anfang haben. Wenn deine Frage hier nicht steht oder du es ganz genau wissen willst: Frag deine Vorgesetzten oder die zuständige Stelle – das ist immer die verlässlichste Antwort."
+              "text": "Kurze, ehrliche Antworten auf die häufigsten Fragen am Anfang. Steht deine Frage nicht hier: Frag deine Vorgesetzten oder die zuständige Stelle – das ist die verlässlichste Antwort."
             }
           ],
           "type": "paragraph"
@@ -27,30 +27,30 @@
         {
           "answer": [
             {
-              "text": "Unterkunft, Dienstkleidung, Ausrüstung und die medizinische Versorgung sind gestellt. Selbst zahlst du persönliche Dinge (Hygiene über Standard, Freizeit, Handyvertrag, private Kleidung). Details und kostenlose Bahnfahrten in Uniform stehen in Modul 4."
+              "text": "Unterkunft, Dienstkleidung, Ausrüstung und medizinische Versorgung sind gestellt. Selbst zahlst du Persönliches (Hygiene über Standard, Freizeit, Handyvertrag, private Kleidung). Details in Modul 4."
             }
           ],
-          "id": "13.2-faq-was-kostet-mich-der-dienst-muss-ich-fuer-irgende",
-          "question": "Was kostet mich der Dienst – muss ich für irgendetwas zahlen?"
+          "id": "13.2-faq-muss-ich-fuer-irgendetwas-zahlen",
+          "question": "Muss ich für irgendetwas zahlen?"
         },
         {
           "answer": [
             {
-              "text": "Als Soldat:in hast du Anspruch auf Erholungsurlaub. Für Soldatinnen und Soldaten gelten dabei die Vorschriften für Bundesbeamtinnen und -beamte entsprechend (Soldatinnen- und Soldatenurlaubsverordnung – SUV); das sind bei einer 5-Tage-Woche "
+              "text": "Ja, Anspruch auf Erholungsurlaub. Es gelten die Beamtenregeln (SUV): bei 5-Tage-Woche "
             },
             {
               "bold": true,
               "text": "30 Arbeitstage"
             },
             {
-              "text": " pro vollem Urlaubsjahr (§ 5 EUrlV). Trittst du unterjährig ein, bekommst du für jeden vollen Dienstmonat "
+              "text": " pro vollem Jahr (§ 5 EUrlV); bei unterjährigem Eintritt "
             },
             {
               "bold": true,
               "text": "ein Zwölftel"
             },
             {
-              "text": " des Jahresurlaubs. Wann genau du Urlaub nehmen kannst, hängt von Ausbildungsstand und Dienstplan ab – in der Grundausbildung ist die Phase oft durchgetaktet. (Quelle: gesetze-im-internet.de, SUV i. V. m. § 5 EUrlV, abgerufen 2026-06-01)"
+              "text": " je vollem Dienstmonat. Wann du Urlaub nehmen kannst, hängt von Ausbildungsstand und Dienstplan ab. (Quelle: gesetze-im-internet.de, SUV i. V. m. § 5 EUrlV, abgerufen 2026-06-01)"
             }
           ],
           "id": "13.2-faq-bekomme-ich-urlaub",
@@ -66,21 +66,21 @@
               "text": "12 Monaten"
             },
             {
-              "text": " Dienst kannst du einen einmaligen Zuschuss zum erstmaligen Führerscheinerwerb bekommen: bis zu "
+              "text": " Dienst: einmaliger Zuschuss zum erstmaligen Erwerb – bis "
             },
             {
               "bold": true,
               "text": "3.500 €"
             },
             {
-              "text": " (Klasse B) bzw. bis zu "
+              "text": " (Klasse B) bzw. bis "
             },
             {
               "bold": true,
               "text": "5.000 €"
             },
             {
-              "text": " (Lkw, Klasse C/C1). Es gelten Fristen (u. a. Antrag frühestens ab 01.01.2027) und Nachweispflichten (Quelle: bundeswehr.de, „Führerschein\", abgerufen 2026). Details in Modul 4."
+              "text": " (Lkw, C/C1). Es gelten Fristen (Antrag frühestens ab 01.01.2027) und Nachweispflichten (Quelle: bundeswehr.de, „Führerschein\", abgerufen 2026). Details in Modul 4."
             }
           ],
           "id": "13.2-faq-bekomme-ich-wirklich-einen-fuehrerschein-bezahlt",
@@ -89,41 +89,41 @@
         {
           "answer": [
             {
-              "text": "Ja. In Uniform fährst du mit der Deutschen Bahn kostenlos – im Fernverkehr (ICE, IC/EC) und über die Vor-/Nachlauf-Regelung auch im Nahverkehr (RE, RB, S-Bahn); seit der Ausweitung 2020 sind über 90 % der Nahverkehrsverbindungen einbezogen, auch in der Freizeit. Voraussetzung: gültiger Truppenausweis, getragene Uniform während der ganzen Fahrt und ein (kostenfrei gebuchtes, personalisiertes) Bahnticket; die Buchung läuft über das Buchungsportal der Bundeswehr/Bahn (Quelle: bundeswehr.de „Freie Bahnfahrt für Soldatinnen und Soldaten\" / bahn.de „Bundeswehr – Fragen & Antworten\", abgerufen 2026-06-01)."
+              "text": "Ja. In Uniform fährst du gratis – Fernverkehr und über die Vor-/Nachlauf-Regelung auch Nahverkehr (über 90 % der Verbindungen, auch in der Freizeit). Nötig: gültiger Truppenausweis, getragene Uniform und ein (kostenfreies, personalisiertes) Ticket über das Buchungsportal (Quelle: bundeswehr.de / bahn.de, abgerufen 2026-06-01)."
             }
           ],
-          "id": "13.2-faq-stimmt-es-dass-ich-kostenlos-bahn-fahren-kann",
-          "question": "Stimmt es, dass ich kostenlos Bahn fahren kann?"
+          "id": "13.2-faq-stimmt-es-mit-dem-kostenlosen-bahnfahren",
+          "question": "Stimmt es mit dem kostenlosen Bahnfahren?"
         },
         {
           "answer": [
             {
-              "text": "Nein. Der Neue Wehrdienst ist freiwillig – es gibt keine wiedereingeführte allgemeine Wehrpflicht. Eine sogenannte „Bedarfswehrpflicht\" ist im Gesetz nur als Möglichkeit angelegt, falls der Bedarf nicht freiwillig gedeckt wird; sie müsste gesondert aktiviert werden (Quelle: bundesregierung.de, Stand 2026). Eine verpflichtende Erfassung/Musterung ist davon zu unterscheiden."
+              "text": "Nein. Der Neue Wehrdienst ist freiwillig – keine allgemeine Wehrpflicht. Eine „Bedarfswehrpflicht\" ist gesetzlich nur als Möglichkeit angelegt und müsste gesondert aktiviert werden (Quelle: bundesregierung.de, Stand 2026)."
             }
           ],
-          "id": "13.2-faq-komme-ich-um-meinen-willen-zur-bundeswehr-wehrpf",
-          "question": "Komme ich um meinen Willen zur Bundeswehr (Wehrpflicht)?"
+          "id": "13.2-faq-komme-ich-gegen-meinen-willen-zur-bundeswehr-weh",
+          "question": "Komme ich gegen meinen Willen zur Bundeswehr (Wehrpflicht)?"
         },
         {
           "answer": [
             {
-              "text": "Kommt aufs Thema an: dienstlich deine direkte Führung oder den Disziplinarvorgesetzten; bei Konflikten die Vertrauensperson; bei Gesundheit den Sanitätsbereich; bei persönlichen/sozialen Sorgen Sozialdienst, Militärseelsorge oder Psychologischen Dienst; bei Grundrechtsfragen/Beschwerden direkt die:den Wehrbeauftragte:n (ohne Dienstweg). Alle Stellen stehen in Modul 12."
+              "text": "Je nach Thema: dienstlich die direkte Führung oder den Disziplinarvorgesetzten; bei Konflikten die Vertrauensperson; bei Gesundheit den Sanitätsbereich; bei persönlichen Sorgen Sozialdienst, Militärseelsorge oder Psychologischen Dienst; bei Grundrechten/Beschwerden direkt die:den Wehrbeauftragte:n (ohne Dienstweg). Alle Stellen in Modul 12."
             }
           ],
-          "id": "13.2-faq-wen-frage-ich-wenn-ich-ein-problem-habe",
-          "question": "Wen frage ich, wenn ich ein Problem habe?"
+          "id": "13.2-faq-wen-frage-ich-bei-einem-problem",
+          "question": "Wen frage ich bei einem Problem?"
         },
         {
           "answer": [
             {
-              "text": "Hol dir Hilfe – früh und ohne Scham. Sozialdienst, Militärseelsorge und der Psychologische Dienst bilden ein Netzwerk genau dafür (Quelle: bundeswehr.de, abgerufen 2026). Bei akuter Krise gilt außerhalb des Dienstes der Notruf "
+              "text": "Hol dir früh Hilfe, ohne Scham. Sozialdienst, Militärseelsorge und Psychologischer Dienst sind genau dafür da (Quelle: bundeswehr.de, abgerufen 2026). Bei akuter Krise außerhalb des Dienstes: Notruf "
             },
             {
               "bold": true,
               "text": "112"
             },
             {
-              "text": ". Probleme zu verschweigen, macht es nur schwerer."
+              "text": "."
             }
           ],
           "id": "13.2-faq-was-wenn-mir-der-dienst-psychisch-zu-viel-wird",
@@ -136,7 +136,10 @@
   ],
   "sources": [
     {
-      "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Freiwilligkeit, FWDL/SaZ, Bedarfswehrpflicht, Vergütung."
+      "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Freiwilligkeit, FWDL/SaZ, Bedarfswehrpflicht."
+    },
+    {
+      "label": "Wehrsoldgesetz (WSG, Anlage, gültig ab 01.01.2026) und Anlage IV BBesG (Stand 01.03.2024), gesetze-im-internet.de, abgerufen 2026-06-02 – Wehrsold FWDL (rund 2.600 €), Besoldung SaZ (A 3/1 = 2.706,99 €); Details in Modul 4."
     },
     {
       "label": "Bundeswehr: „Neuer Wehrdienst\", „Führerschein\", „Grundausbildung\", „Sozialdienst/Militärseelsorge\" (bundeswehr.de), abgerufen 2026-06-01."

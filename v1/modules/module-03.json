@@ -10,7 +10,7 @@
         {
           "spans": [
             {
-              "text": "In der Bundeswehr gibt es eine klare Rangordnung. Wer welchen Dienstgrad hat, bestimmt, wie man sich anredet, wer wem etwas befehlen darf und wie man grüßt. Das wirkt am Anfang ungewohnt, ist aber schnell gelernt – und sehr wichtig, denn korrekte Umgangsformen sind dein erster Eindruck."
+              "text": "Die Bundeswehr hat eine klare Rangordnung. Sie bestimmt, wie du wen anredest, wer dir Befehle geben darf und wann du grüßt. Wirkt am Anfang ungewohnt, ist aber schnell gelernt."
             }
           ],
           "type": "paragraph"
@@ -18,7 +18,7 @@
         {
           "spans": [
             {
-              "text": "Dieses Modul erklärt dir die Mannschaftsdienstgrade, wer deine Vorgesetzten sind, wie du wen anredest, wann du grüßt und wie militärische Umgangsformen funktionieren. Faustregel vorweg: höflich, klar, respektvoll – im Zweifel beobachten und nachfragen."
+              "text": "Faustregel: höflich, klar, respektvoll. Im Zweifel beobachten und nachfragen."
             }
           ],
           "type": "paragraph"
@@ -29,564 +29,34 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Mannschaftsdienstgrade und möglicher Aufstieg",
+      "anchorSearchTitle": "Was sind Dienstgrade und Laufbahngruppen?",
       "blocks": [
         {
           "spans": [
             {
-              "text": "Als Wehrdienstleistende:r startest du in der Dienstgradgruppe der "
+              "text": "Jede:r Soldat:in hat einen "
             },
             {
               "bold": true,
-              "text": "Mannschaften"
+              "text": "Dienstgrad"
             },
             {
-              "text": " – die unterste der sieben Dienstgradgruppen der Bundeswehr (Mannschaften, Unteroffiziere ohne Portepee, Unteroffiziere mit Portepee, Leutnante, Hauptleute, Stabsoffiziere, Generale; Quelle: bundeswehr.de, „Dienstgrade\", Stand 2026)."
+              "text": " – er zeigt Rang und Verantwortung und wird an der Uniform durch Abzeichen sichtbar gemacht."
             }
           ],
           "type": "paragraph"
-        }
-      ],
-      "id": "3.2",
-      "subsections": [
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Im Heer ist die übliche Reihenfolge (Quelle: bundeswehr.de, „Dienstgrade\", Stand 2026):"
-                }
-              ],
-              "type": "paragraph"
-            },
-            {
-              "items": [
-                [
-                  {
-                    "bold": true,
-                    "text": "Schütze"
-                  },
-                  {
-                    "text": " (Einstiegsdienstgrad im Heer)"
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Gefreiter"
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Obergefreiter"
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Hauptgefreiter"
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Stabsgefreiter"
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Oberstabsgefreiter"
-                  }
-                ]
-              ],
-              "ordered": true,
-              "type": "list"
-            },
-            {
-              "spans": [
-                {
-                  "text": "Hinweis: Der unterste Mannschaftsdienstgrad heißt nicht überall „Schütze\". Je nach Teilstreitkraft und Truppengattung lautet er anders (Quelle: bundeswehr.de, „Dienstgrade\" / „Laufbahn der Mannschaften\", abgerufen 2026). Beispiele für Einstiegsdienstgrade:"
-                }
-              ],
-              "type": "paragraph"
-            },
-            {
-              "items": [
-                [
-                  {
-                    "bold": true,
-                    "text": "Heer (allgemein):"
-                  },
-                  {
-                    "text": " Schütze"
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Luftwaffe:"
-                  },
-                  {
-                    "text": " Flieger"
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Marine:"
-                  },
-                  {
-                    "text": " Matrose"
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Sanitätsdienst:"
-                  },
-                  {
-                    "text": " Sanitätssoldat"
-                  }
-                ],
-                [
-                  {
-                    "text": "nach Truppengattung im Heer u. a.: "
-                  },
-                  {
-                    "bold": true,
-                    "text": "Jäger"
-                  },
-                  {
-                    "text": " (Jägertruppe), "
-                  },
-                  {
-                    "bold": true,
-                    "text": "Grenadier"
-                  },
-                  {
-                    "text": " (Panzergrenadiere), "
-                  },
-                  {
-                    "bold": true,
-                    "text": "Kanonier"
-                  },
-                  {
-                    "text": " (Artillerie), "
-                  },
-                  {
-                    "bold": true,
-                    "text": "Pionier"
-                  },
-                  {
-                    "text": " (Pioniere), "
-                  },
-                  {
-                    "bold": true,
-                    "text": "Funker"
-                  },
-                  {
-                    "text": " (Fernmelder)"
-                  }
-                ]
-              ],
-              "ordered": false,
-              "type": "list"
-            },
-            {
-              "spans": [
-                {
-                  "text": "Bis zur ersten Beförderung werden diese als „Mannschaften im niedrigsten Dienstgrad\" zusammengefasst."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "3.2.1",
-          "title": "Reihenfolge der Mannschaftsdienstgrade"
-        }
-      ],
-      "title": "Mannschaftsdienstgrade und möglicher Aufstieg",
-      "type": "text"
-    },
-    {
-      "anchorSearchTitle": "Wer ist mein Vorgesetzter?",
-      "blocks": [
+        },
         {
           "spans": [
             {
-              "text": "„Vorgesetzte:r\" ist nicht einfach „wer höher ist\", sondern wer dir gegenüber befugt ist, Befehle zu erteilen. Praktisch begegnen dir vor allem diese Ebenen:"
-            }
-          ],
-          "type": "paragraph"
-        }
-      ],
-      "id": "3.3",
-      "subsections": [
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Deine unmittelbare Führung im Alltag der Ausbildung – meist ein:e Unteroffizier:in. Erste Ansprechperson für die meisten Fragen."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "3.3.1",
-          "title": "Gruppenführer:in"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Führt mehrere Gruppen (einen Zug). Häufig ein:e Offizier:in oder erfahrene:r Unteroffizier:in."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "3.3.2",
-          "title": "Zugführer:in"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Leitet die Kompanie (mehrere Züge). Übergeordnete Führung deiner Einheit."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "3.3.3",
-          "title": "Kompaniechef:in / Kompanieführung"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Das ist die Person, die disziplinarrechtliche Befugnisse über dich hat (z. B. Anerkennungen aussprechen oder Disziplinarmaßnahmen verhängen kann). Nach § 27 der Wehrdisziplinarordnung (WDO) sind Disziplinarvorgesetzte die Vorgesetzten, denen Disziplinarbefugnis verliehen ist, sowie ihre Vorgesetzten in der Befehlskette; die Befugnis ist an die Dienststellung gebunden und nicht übertragbar (sie geht aber auf die Vertretung über). Höchster Disziplinarvorgesetzter ist die:der Bundesminister:in der Verteidigung. Wer konkret dein:e Disziplinarvorgesetzte:r ist, wird dir genannt – das ist eine zentrale Bezugsperson für formale Angelegenheiten. (Quelle: gesetze-im-internet.de, § 27 WDO, abgerufen 2026-06-01)"
-                }
-              ],
-              "type": "paragraph"
+              "text": "Dienstgrade sind in "
             },
             {
-              "spans": [
-                {
-                  "text": "Merke: Es gibt verschiedene Arten von Vorgesetzten (z. B. nach Dienststellung, nach Dienstgrad in bestimmten Lagen). Im Zweifel gilt: Anweisungen deiner direkten Führung befolgen und bei Unklarheit nachfragen."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "3.3.4",
-          "title": "Disziplinarvorgesetzte:r"
-        }
-      ],
-      "title": "Wer ist mein Vorgesetzter?",
-      "type": "text"
-    },
-    {
-      "anchorSearchTitle": "Korrekte Anrede je Dienstgrad",
-      "id": "3.4",
-      "subsections": [
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Vorgesetzte und ranghöhere Soldat:innen redest du mit "
-                },
-                {
-                  "bold": true,
-                  "text": "„Herr\" bzw. „Frau\" + Dienstgrad"
-                },
-                {
-                  "text": " an – ohne den Vornamen oder Nachnamen. Beispiele:"
-                }
-              ],
-              "type": "paragraph"
+              "bold": true,
+              "text": "sieben Dienstgradgruppen"
             },
             {
-              "items": [
-                [
-                  {
-                    "text": "„Herr Hauptmann\""
-                  }
-                ],
-                [
-                  {
-                    "text": "„Frau Feldwebel\""
-                  }
-                ],
-                [
-                  {
-                    "text": "„Herr Oberstabsgefreiter\""
-                  }
-                ]
-              ],
-              "ordered": false,
-              "type": "list"
-            },
-            {
-              "spans": [
-                {
-                  "text": "Wichtig: Bei weiblichen Soldatinnen wird in der Regel die männliche Dienstgradform mit „Frau\" davor verwendet – also z. B. "
-                },
-                {
-                  "bold": true,
-                  "text": "„Frau Hauptmann\""
-                },
-                {
-                  "text": ", nicht eine weibliche Wortform (Quelle: bundeswehr.de, „Dienstgrade\", Stand 2026)."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "3.4.1",
-          "title": "Grundregel"
-        },
-        {
-          "blocks": [
-            {
-              "items": [
-                [
-                  {
-                    "text": "Du wirst angesprochen und antwortest: *„Jawohl, Herr Feldwebel.\"* / *„Verstanden, Frau Oberleutnant.\"*"
-                  }
-                ],
-                [
-                  {
-                    "text": "Du meldest dich: *„Herr Hauptmann, Gefreiter Müller meldet sich wie befohlen.\"*"
-                  }
-                ],
-                [
-                  {
-                    "text": "Du hast eine Frage: *„Herr Stabsfeldwebel, ich habe eine Frage – darf ich?\"*"
-                  }
-                ]
-              ],
-              "ordered": false,
-              "type": "list"
-            }
-          ],
-          "id": "3.4.2",
-          "title": "Beispielsätze"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Im militärischen Umgang ist „Jawohl\" die übliche bejahende Antwort gegenüber Vorgesetzten, verneinend „Nein\" (in manchen Kontexten betont). Hör darauf, wie es deine Einheit handhabt, und übernimm es."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "3.4.3",
-          "title": "„Jawohl\" statt „Ja\""
-        }
-      ],
-      "title": "Korrekte Anrede je Dienstgrad",
-      "type": "text"
-    },
-    {
-      "anchorSearchTitle": "Grußpflicht: wann, wen, wie",
-      "blocks": [
-        {
-          "spans": [
-            {
-              "text": "Der militärische Gruß ist eine Höflichkeits- und Respektsform und Pflicht gegenüber Vorgesetzten und ranghöheren Soldat:innen. Die genaue Ausführung lernst du im Formaldienst. Grundzüge:"
-            }
-          ],
-          "type": "paragraph"
-        }
-      ],
-      "id": "3.5",
-      "subsections": [
-        {
-          "blocks": [
-            {
-              "items": [
-                [
-                  {
-                    "text": "Du grüßt Vorgesetzte und ranghöhere Soldat:innen, wenn du ihnen begegnest."
-                  }
-                ],
-                [
-                  {
-                    "text": "In bestimmten Situationen (z. B. im Gespräch, beim Tragen von Lasten, in Innenräumen unter bestimmten Bedingungen) gelten Ausnahmen."
-                  }
-                ]
-              ],
-              "ordered": false,
-              "type": "list"
-            }
-          ],
-          "id": "3.5.1",
-          "title": "Wen und wann grüßen"
-        },
-        {
-          "blocks": [
-            {
-              "items": [
-                [
-                  {
-                    "bold": true,
-                    "text": "Mit Kopfbedeckung"
-                  },
-                  {
-                    "text": " wird in der Regel mit der Hand an der Kopfbedeckung gegrüßt (Handgruß)."
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Ohne Kopfbedeckung"
-                  },
-                  {
-                    "text": " entfällt der Handgruß typischerweise; gegrüßt wird dann durch Haltung/Form (z. B. Stillstehen, Blickkontakt). Der Handgruß „an den Kopf\" ohne Kopfbedeckung ist unüblich."
-                  }
-                ]
-              ],
-              "ordered": false,
-              "type": "list"
-            }
-          ],
-          "id": "3.5.2",
-          "title": "Mit und ohne Kopfbedeckung"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Drinnen und draußen gelten teils unterschiedliche Regeln. Die genaue Ausführung (Reihenfolge, Haltung, wann der Gruß erwidert wird) ist in Dienstvorschriften geregelt und wird in der Ausbildung geübt."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "3.5.3",
-          "title": "Drinnen / draußen"
-        }
-      ],
-      "title": "Grußpflicht: wann, wen, wie",
-      "type": "text"
-    },
-    {
-      "anchorSearchTitle": "Militärische Umgangsformen",
-      "id": "3.6",
-      "subsections": [
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Eine Meldung ist eine knappe, formelle Mitteilung an Vorgesetzte. Aufbau meist: Anrede + eigener Dienstgrad und Name + Anliegen. Beispiel: *„Herr Oberfeldwebel, Schütze Schmidt meldet sich zur Stelle.\"* Klar, kurz, in Habachtstellung."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "3.6.1",
-          "title": "Meldungen"
-        },
-        {
-          "blocks": [
-            {
-              "items": [
-                [
-                  {
-                    "text": "Höflich, respektvoll, klar."
-                  }
-                ],
-                [
-                  {
-                    "text": "Anweisungen werden befolgt; Rückfragen sind erlaubt, aber im richtigen Moment und in angemessener Form."
-                  }
-                ],
-                [
-                  {
-                    "text": "Befehl und Gehorsam haben Grenzen (§ 11 Soldatengesetz): Du musst Befehle „nach besten Kräften vollständig, gewissenhaft und unverzüglich\" ausführen. Ein Befehl muss aber "
-                  },
-                  {
-                    "bold": true,
-                    "text": "nicht"
-                  },
-                  {
-                    "text": " befolgt werden, wenn er die "
-                  },
-                  {
-                    "bold": true,
-                    "text": "Menschenwürde verletzt"
-                  },
-                  {
-                    "text": " oder "
-                  },
-                  {
-                    "bold": true,
-                    "text": "nicht zu dienstlichen Zwecken"
-                  },
-                  {
-                    "text": " erteilt wurde – das ist dann kein Ungehorsam. Und ein Befehl "
-                  },
-                  {
-                    "bold": true,
-                    "text": "darf nicht"
-                  },
-                  {
-                    "text": " befolgt werden, wenn dadurch eine "
-                  },
-                  {
-                    "bold": true,
-                    "text": "Straftat"
-                  },
-                  {
-                    "text": " begangen würde. Diese Grenzen lernst du im Rechtsunterricht (siehe Modul 2). (Quelle: gesetze-im-internet.de, § 11 SG, abgerufen 2026-06-01; keine Rechtsberatung – im Ernstfall offizielle Stellen einbeziehen)"
-                  }
-                ]
-              ],
-              "ordered": false,
-              "type": "list"
-            }
-          ],
-          "id": "3.6.2",
-          "title": "Verhalten gegenüber Vorgesetzten"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Saubere Uniform, korrekte Haltung, Pünktlichkeit. Das ist kein Selbstzweck, sondern Teil der militärischen Ordnung und Ausdruck von Respekt."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "3.6.3",
-          "title": "Auftreten"
-        }
-      ],
-      "title": "Militärische Umgangsformen",
-      "type": "text"
-    },
-    {
-      "anchorSearchTitle": "Übersicht der Mannschafts-Dienstgradabzeichen (in Textform)",
-      "blocks": [
-        {
-          "spans": [
-            {
-              "text": "Mannschaftsdienstgrade werden im Heer/in der Luftwaffe üblicherweise durch Abzeichen am Ärmel/an der Schulter gekennzeichnet, die mit steigendem Dienstgrad zunehmen. Grobe Logik:"
+              "text": " gegliedert (Quelle: bundeswehr.de, „Dienstgrade\", Stand 2026):"
             }
           ],
           "type": "paragraph"
@@ -595,20 +65,37 @@
           "items": [
             [
               {
-                "bold": true,
-                "text": "Schütze (Einstieg):"
-              },
-              {
-                "text": " kein Mannschaftswinkel."
+                "text": "Mannschaften"
               }
             ],
             [
               {
-                "bold": true,
-                "text": "Gefreiter bis Oberstabsgefreiter:"
-              },
+                "text": "Unteroffiziere ohne Portepee"
+              }
+            ],
+            [
               {
-                "text": " zunehmende Anzahl/Form von Winkeln (Schrägbalken) bzw. Sternen, die den höheren Dienstgrad anzeigen."
+                "text": "Unteroffiziere mit Portepee"
+              }
+            ],
+            [
+              {
+                "text": "Leutnante"
+              }
+            ],
+            [
+              {
+                "text": "Hauptleute"
+              }
+            ],
+            [
+              {
+                "text": "Stabsoffiziere"
+              }
+            ],
+            [
+              {
+                "text": "Generale"
               }
             ]
           ],
@@ -618,14 +105,14 @@
         {
           "spans": [
             {
-              "text": "Die genaue grafische Gestaltung unterscheidet sich zwischen Heer, Luftwaffe, Marine und Sanitätsdienst. Die folgende Übersicht zeigt die schematischen Abzeichen der "
+              "text": "Als Wehrdienstleistende:r startest du bei den "
             },
             {
               "bold": true,
-              "text": "Heer"
+              "text": "Mannschaften"
             },
             {
-              "text": "-Mannschaften."
+              "text": " – der untersten Gruppe. Dein erster Dienstgrad heißt je nach Teilstreitkraft und Truppengattung unterschiedlich (z. B. Schütze im Heer, Flieger in der Luftwaffe, Matrose in der Marine, Jäger, Grenadier, Pionier)."
             }
           ],
           "type": "paragraph"
@@ -633,123 +120,323 @@
         {
           "spans": [
             {
-              "text": "Die Abzeichen-Grafiken stammen von Wikimedia Commons (Urheber: Pmox) und stehen unter der Lizenz CC BY-SA 3.0. Sie sind schematisch; die exakte aktuelle Ausführung (Truppenfarben, Marine/Luftwaffe/Sanität) kann abweichen."
+              "text": "Alle Dienstgrade mit Abzeichen findest du in der vollständigen Übersicht unter Nachschlagen → Dienstgrade (Heer, Luftwaffe, Marine; Mannschaften bis Generale)."
             }
           ],
           "type": "paragraph"
         }
       ],
-      "id": "3.7",
-      "title": "Übersicht der Mannschafts-Dienstgradabzeichen (in Textform)",
+      "id": "3.2",
+      "title": "Was sind Dienstgrade und Laufbahngruppen?",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Glossar der Mannschaftsdienstgrade (mit Abzeichen)",
-      "id": "3.8",
-      "items": [
+      "anchorSearchTitle": "Wer ist mein Vorgesetzter?",
+      "blocks": [
         {
-          "definition": [
+          "spans": [
             {
-              "text": "Unterster Mannschaftsdienstgrad (OR-1 „Soldat“), je nach Truppengattung anders benannt; trägt kein Dienstgradabzeichen. Besoldungsgruppe A 3 (Einstieg)."
+              "text": "„Vorgesetzte:r\" ist nicht einfach „wer höher ist\", sondern wer dir gegenüber Befehle erteilen darf. Diese Ebenen begegnen dir im Alltag:"
             }
           ],
-          "id": "3.8-glossary-schuetze-jaeger-grenadier",
-          "term": "Schütze / Jäger / Grenadier"
+          "type": "paragraph"
         },
         {
-          "definition": [
-            {
-              "text": "Erste Beförderungsstufe der Mannschaften. Besoldungsgruppe A 3."
-            }
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Gruppenführer:in:"
+              },
+              {
+                "text": " deine direkte Führung in der Ausbildung – meist ein:e Unteroffizier:in. Erste Ansprechperson."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Zugführer:in:"
+              },
+              {
+                "text": " führt mehrere Gruppen (einen Zug)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Kompaniechef:in:"
+              },
+              {
+                "text": " leitet die Kompanie (mehrere Züge)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Disziplinarvorgesetzte:r:"
+              },
+              {
+                "text": " hat disziplinarrechtliche Befugnisse über dich (kann z. B. Anerkennungen aussprechen oder Disziplinarmaßnahmen verhängen). Wer das für dich ist, wird dir genannt – eine wichtige Bezugsperson für formale Dinge. (Quelle: gesetze-im-internet.de, § 27 WDO, abgerufen 2026-06-01)"
+              }
+            ]
           ],
-          "id": "3.8-glossary-gefreiter",
-          "image": {
-            "alt": "Dienstgradabzeichen Gefreiter (Heer)",
-            "asset": "dienstgrade/heer/011.svg",
-            "attribution": "© Pmox / Wikimedia Commons, CC BY-SA 3.0"
-          },
-          "term": "Gefreiter"
+          "ordered": false,
+          "type": "list"
         },
         {
-          "definition": [
+          "spans": [
             {
-              "text": "Nächsthöherer Mannschaftsdienstgrad. Besoldungsgruppe A 3."
+              "text": "Im Zweifel gilt: Anweisungen deiner direkten Führung befolgen und bei Unklarheit nachfragen."
             }
           ],
-          "id": "3.8-glossary-obergefreiter",
-          "image": {
-            "alt": "Dienstgradabzeichen Obergefreiter (Heer)",
-            "asset": "dienstgrade/heer/021.svg",
-            "attribution": "© Pmox / Wikimedia Commons, CC BY-SA 3.0"
-          },
-          "term": "Obergefreiter"
-        },
-        {
-          "definition": [
-            {
-              "text": "Erfahrener Mannschaftsdienstgrad. Besoldungsgruppe A 4 (mit Amtszulage)."
-            }
-          ],
-          "id": "3.8-glossary-hauptgefreiter",
-          "image": {
-            "alt": "Dienstgradabzeichen Hauptgefreiter (Heer)",
-            "asset": "dienstgrade/heer/031.svg",
-            "attribution": "© Pmox / Wikimedia Commons, CC BY-SA 3.0"
-          },
-          "term": "Hauptgefreiter"
-        },
-        {
-          "definition": [
-            {
-              "text": "Höherer Mannschaftsdienstgrad. Besoldungsgruppe bis A 6."
-            }
-          ],
-          "id": "3.8-glossary-stabsgefreiter",
-          "image": {
-            "alt": "Dienstgradabzeichen Stabsgefreiter (Heer)",
-            "asset": "dienstgrade/heer/041.svg",
-            "attribution": "© Pmox / Wikimedia Commons, CC BY-SA 3.0"
-          },
-          "term": "Stabsgefreiter"
-        },
-        {
-          "definition": [
-            {
-              "text": "Höchster Mannschaftsdienstgrad. Besoldungsgruppe bis A 6."
-            }
-          ],
-          "id": "3.8-glossary-oberstabsgefreiter",
-          "image": {
-            "alt": "Dienstgradabzeichen Oberstabsgefreiter (Heer)",
-            "asset": "dienstgrade/heer/051.svg",
-            "attribution": "© Pmox / Wikimedia Commons, CC BY-SA 3.0"
-          },
-          "term": "Oberstabsgefreiter"
+          "type": "paragraph"
         }
       ],
-      "title": "Glossar der Mannschaftsdienstgrade (mit Abzeichen)",
-      "type": "glossary"
+      "id": "3.3",
+      "title": "Wer ist mein Vorgesetzter?",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Korrekte Anrede",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Vorgesetzte und ranghöhere Soldat:innen redest du mit "
+            },
+            {
+              "bold": true,
+              "text": "„Herr\"/„Frau\" + Dienstgrad"
+            },
+            {
+              "text": " an – ohne Vor- oder Nachnamen:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "text": "„Herr Hauptmann\""
+              }
+            ],
+            [
+              {
+                "text": "„Frau Feldwebel\""
+              }
+            ],
+            [
+              {
+                "text": "„Herr Oberstabsgefreiter\""
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Bei Frauen wird dabei in der Regel die männliche Dienstgradform genutzt – also "
+            },
+            {
+              "bold": true,
+              "text": "„Frau Hauptmann\""
+            },
+            {
+              "text": ", nicht eine weibliche Wortform (Quelle: bundeswehr.de, „Dienstgrade\", Stand 2026)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "bold": true,
+              "text": "Beispielsätze:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "text": "*„Jawohl, Herr Feldwebel.\"*"
+              }
+            ],
+            [
+              {
+                "text": "*„Herr Hauptmann, Gefreiter Müller meldet sich wie befohlen.\"*"
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "3.4",
+      "title": "Korrekte Anrede",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Grußpflicht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Der militärische Gruß ist Pflicht gegenüber Vorgesetzten und ranghöheren Soldat:innen. Die genaue Ausführung lernst du im Formaldienst. Grundzüge:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "text": "Du grüßt, wenn du Vorgesetzten/Ranghöheren begegnest."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Mit Kopfbedeckung:"
+              },
+              {
+                "text": " Handgruß (Hand an der Kopfbedeckung)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Ohne Kopfbedeckung:"
+              },
+              {
+                "text": " kein Handgruß, gegrüßt wird durch Haltung (Stillstehen, Blickkontakt)."
+              }
+            ],
+            [
+              {
+                "text": "In bestimmten Situationen (Gespräch, Lasten tragen, Innenräume) gelten Ausnahmen."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "3.5",
+      "title": "Grußpflicht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Militärische Umgangsformen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "bold": true,
+              "text": "Meldung:"
+            },
+            {
+              "text": " kurze, formelle Mitteilung an Vorgesetzte. Aufbau: Anrede + eigener Dienstgrad und Name + Anliegen. Beispiel: *„Herr Oberfeldwebel, Schütze Schmidt meldet sich zur Stelle.\"*"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "bold": true,
+              "text": "Verhalten gegenüber Vorgesetzten:"
+            },
+            {
+              "text": " höflich, respektvoll, klar. Anweisungen befolgen; Rückfragen sind erlaubt, aber im richtigen Moment."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "bold": true,
+              "text": "Auftreten:"
+            },
+            {
+              "text": " saubere Uniform, korrekte Haltung, Pünktlichkeit."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "bold": true,
+              "text": "Grenzen von Befehl und Gehorsam (§ 11 SG):"
+            },
+            {
+              "text": " Du musst Befehle „nach besten Kräften vollständig, gewissenhaft und unverzüglich\" ausführen. Aber: Einen Befehl musst du "
+            },
+            {
+              "bold": true,
+              "text": "nicht"
+            },
+            {
+              "text": " befolgen, wenn er die "
+            },
+            {
+              "bold": true,
+              "text": "Menschenwürde verletzt"
+            },
+            {
+              "text": " oder "
+            },
+            {
+              "bold": true,
+              "text": "nicht dienstlichen Zwecken"
+            },
+            {
+              "text": " dient. Und du "
+            },
+            {
+              "bold": true,
+              "text": "darfst"
+            },
+            {
+              "text": " ihn nicht befolgen, wenn dadurch eine "
+            },
+            {
+              "bold": true,
+              "text": "Straftat"
+            },
+            {
+              "text": " begangen würde. (Quelle: gesetze-im-internet.de, § 11 SG, abgerufen 2026-06-01; keine Rechtsberatung)"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "3.6",
+      "title": "Militärische Umgangsformen",
+      "type": "text"
     }
   ],
   "sources": [
     {
-      "label": "Bundeswehr: „Dienstgrade der Bundeswehr (Heer, Luftwaffe, Marine, Sanität)\" und „Die Laufbahn der Mannschaften\" (bundeswehr.de), abgerufen 2026-06-01 – Reihenfolge der Mannschaftsdienstgrade, sieben Dienstgradgruppen, Einstiegsdienstgrade je Teilstreitkraft/Truppengattung (Schütze, Flieger, Matrose, Sanitätssoldat, Jäger, Grenadier, Kanonier, Pionier, Funker …), Anredeform „Frau + männliche Dienstgradform\"."
+      "label": "Bundeswehr: „Dienstgrade der Bundeswehr\" und „Die Laufbahn der Mannschaften\" (bundeswehr.de), abgerufen 2026-06-01 – sieben Dienstgradgruppen, Einstiegsdienstgrade je Teilstreitkraft, Anredeform „Frau + männliche Dienstgradform\"."
     },
     {
-      "label": "gesetze-im-internet.de: § 27 Wehrdisziplinarordnung (WDO), abgerufen 2026-06-01 – Definition Disziplinarvorgesetzte."
+      "label": "gesetze-im-internet.de: § 27 Wehrdisziplinarordnung (WDO), abgerufen 2026-06-01 – Disziplinarvorgesetzte."
     },
     {
-      "label": "gesetze-im-internet.de: § 11 Soldatengesetz (SG), abgerufen 2026-06-01 – Gehorsam und seine Grenzen (Menschenwürde, dienstlicher Zweck, Straftat)."
+      "label": "gesetze-im-internet.de: § 11 Soldatengesetz (SG), abgerufen 2026-06-01 – Gehorsam und seine Grenzen."
     },
     {
-      "label": "Dienstgradabzeichen (Heer-Mannschaften): schematische SVG-Grafiken von Wikimedia Commons, Urheber Pmox, lizenziert unter CC BY-SA 3.0 ( abgerufen 2026-06-02. OR-1 („Soldat\"/Schütze/Jäger/Grenadier) trägt kein Abzeichen.",
-      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+      "label": "Die vollständige Dienstgrad-Übersicht mit Abzeichen (alle Teilstreitkräfte, Mannschaften bis Generale) findest du unter Nachschlagen → Dienstgrade."
     },
     {
-      "label": "Zuordnung Dienstgrad → Besoldungsgruppe (A 3 ff.): bundeswehr.de „Gehalt in der Bundeswehr\" (20.02.2025) und besoldung-bundeswehr.de „Laufbahnen\"; abgerufen 2026-06-02 (siehe Modul 4)."
-    },
-    {
-      "label": "Detailregeln zu Grußpflicht, genauen Meldeformeln, der grafischen Gestaltung der Dienstgradabzeichen von Luftwaffe/Marine/Sanität und zu konkreten Beförderungszeitpunkten sind in nicht öffentlich einsehbaren Dienstvorschriften geregelt und bleiben mit `[PRÜFEN]` markiert."
+      "label": "Detailregeln zu Grußpflicht, genauen Meldeformeln und konkreten Beförderungszeitpunkten stehen in nicht öffentlich einsehbaren Dienstvorschriften und bleiben mit `[PRÜFEN]` markiert."
     }
   ],
   "title": "Dienstgrade, Vorgesetzte & Umgangsformen",

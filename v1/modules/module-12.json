@@ -10,7 +10,7 @@
         {
           "spans": [
             {
-              "text": "Dieses Modul ist dein Nachschlagewerk: Wer hilft dir wobei, was musst du erledigen, und was bedeuten all die Abkürzungen und Begriffe, die plötzlich um dich herumschwirren? Nutze es als Spickzettel – du musst nicht alles auswendig können."
+              "text": "Dein Nachschlagewerk: Wer hilft dir wobei, was musst du erledigen, und was bedeuten all die Abkürzungen? Nutze es als Spickzettel – auswendig können musst du nichts."
             }
           ],
           "type": "paragraph"
@@ -26,7 +26,7 @@
         {
           "spans": [
             {
-              "text": "Du bist nicht auf dich allein gestellt. Für unterschiedliche Anliegen gibt es unterschiedliche Stellen:"
+              "text": "Du bist nicht allein. Für verschiedene Anliegen gibt es verschiedene Stellen:"
             }
           ],
           "type": "paragraph"
@@ -39,7 +39,7 @@
             {
               "spans": [
                 {
-                  "text": "Deine zentrale Bezugsperson für dienstliche und disziplinarrechtliche Angelegenheiten. Wer das konkret ist, wird dir zu Dienstbeginn genannt. (Siehe auch Modul 3.)"
+                  "text": "Zentrale Bezugsperson für dienstliche und disziplinarrechtliche Dinge. Wer das ist, wird dir zu Dienstbeginn genannt (siehe Modul 3)."
                 }
               ],
               "type": "paragraph"
@@ -53,14 +53,7 @@
             {
               "spans": [
                 {
-                  "text": "Soldatinnen und Soldaten wählen aus ihren Reihen eine "
-                },
-                {
-                  "bold": true,
-                  "text": "Vertrauensperson"
-                },
-                {
-                  "text": ". Mannschaften, Unteroffiziere und Offiziere bilden dabei jeweils eine eigene Wählergruppe; jede Gruppe mit mindestens fünf Soldatinnen und Soldaten wählt eine Vertrauensperson und mindestens zwei Stellvertretungen (Quelle: gesetze-im-internet.de, Soldatinnen- und Soldatenbeteiligungsgesetz – SBG, abgerufen 2026-06-01). Die Vertrauensperson vertritt die Interessen der Truppe gegenüber den Vorgesetzten und ist Ansprechpartnerin bei Anliegen, Beschwerden und im Miteinander. Sie darf in der Ausübung ihrer Befugnisse nicht behindert und wegen ihrer Tätigkeit nicht benachteiligt werden. Eine gute erste Adresse, wenn du etwas ansprechen willst, aber nicht direkt zur Führung gehen möchtest."
+                  "text": "Von den Soldat:innen selbst gewählte Interessenvertretung gegenüber den Vorgesetzten. Mannschaften, Unteroffiziere und Offiziere wählen jeweils eigene (Quelle: gesetze-im-internet.de, SBG, abgerufen 2026-06-01). Gute erste Adresse, wenn du etwas ansprechen willst, aber nicht direkt zur Führung möchtest."
                 }
               ],
               "type": "paragraph"
@@ -74,7 +67,7 @@
             {
               "spans": [
                 {
-                  "text": "Der Sozialdienst berät und betreut Bundeswehrangehörige und ihre Familien in sozialen Angelegenheiten – bundesweit (Quelle: bundeswehr.de, „Der Sozialdienst der Bundeswehr\", abgerufen 2026). Anlaufstelle bei finanziellen, familiären oder persönlichen Sorgen."
+                  "text": "Berät bei finanziellen, familiären oder persönlichen Sorgen – bundesweit (Quelle: bundeswehr.de, abgerufen 2026)."
                 }
               ],
               "type": "paragraph"
@@ -88,7 +81,7 @@
             {
               "spans": [
                 {
-                  "text": "Evangelische, katholische und jüdische Militärseelsorge bieten Begleitung und Gespräche an – im Alltag, in der Ausbildung und im Einsatz, unabhängig von Konfession und auch für Konfessionslose (Quelle: bundeswehr.de, „Die Militärseelsorge in der Bundeswehr\", abgerufen 2026). Gespräche sind vertraulich."
+                  "text": "Vertrauliche Gespräche und Begleitung – evangelisch, katholisch, jüdisch, auch für Konfessionslose (Quelle: bundeswehr.de, abgerufen 2026)."
                 }
               ],
               "type": "paragraph"
@@ -102,49 +95,43 @@
             {
               "spans": [
                 {
-                  "text": "Für gesundheitliche Themen ist der Sanitätsbereich deiner Dienststelle zuständig (Truppenarzt/Truppenärztin). Erste Adresse bei Krankheit, Verletzung und gesundheitlichen Fragen."
+                  "text": "Erste Adresse bei Krankheit, Verletzung und gesundheitlichen Fragen."
                 }
               ],
               "type": "paragraph"
             }
           ],
           "id": "12.2.5",
-          "title": "Sanitätsbereich / truppenärztliche Versorgung"
+          "title": "Sanitätsbereich / Truppenarzt"
         },
         {
           "blocks": [
             {
               "spans": [
                 {
-                  "text": "Sanitätsdienst, Sozialdienst, Militärseelsorge und Psychologischer Dienst bilden zusammen ein Netzwerk – „für jedes Thema die richtige Ansprechperson\" (Quelle: bundeswehr.de, abgerufen 2026)."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "12.2.6",
-          "title": "Psychosoziales Netzwerk"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Jede Soldatin und jeder Soldat kann sich mit einer Eingabe "
+                  "text": "Du kannst dich mit einer Eingabe "
                 },
                 {
                   "bold": true,
                   "text": "direkt"
                 },
                 {
-                  "text": " an die:den Wehrbeauftragte:n wenden – ohne Einhaltung des Dienstwegs (Quelle: bundestag.de, „Wehrbeauftragter\", abgerufen 2026). Zuständig u. a. für die Wahrung der Grundrechte und der Inneren Führung."
+                  "text": " an die:den Wehrbeauftragte:n wenden – ohne Dienstweg (Quelle: bundestag.de, abgerufen 2026). Zuständig u. a. für Grundrechte und Innere Führung."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Sanitätsdienst, Sozialdienst, Militärseelsorge und Psychologischer Dienst bilden zusammen ein psychosoziales Netzwerk – „für jedes Thema die richtige Ansprechperson\"."
                 }
               ],
               "type": "paragraph"
             }
           ],
-          "id": "12.2.7",
-          "title": "Wehrbeauftragte:r des Deutschen Bundestages"
+          "id": "12.2.6",
+          "title": "Wehrbeauftragte:r des Bundestages"
         }
       ],
       "title": "Wichtige Ansprechpartner",
@@ -749,7 +736,7 @@
               "text": "Kompaniefeldwebel"
             },
             {
-              "text": ". Offiziell leitet er/sie den Innendienst, ist Führer:in des Unteroffizierkorps und enge:r Berater:in des Kompaniechefs; zuständig u. a. für Unterkünfte, Verpflegung, Personalangelegenheiten und das Wohl der Soldatinnen und Soldaten – oft erste Anlaufstelle bei Sorgen (Quelle: bundeswehr.de, „Spieße – die Mütter der Kompanien\", abgerufen 2026-06-01)."
+              "text": ". Leitet den Innendienst, kümmert sich um Unterkünfte, Verpflegung, Personal und das Wohl der Truppe – oft erste Anlaufstelle bei Sorgen (Quelle: bundeswehr.de, „Spieße – die Mütter der Kompanien\", abgerufen 2026-06-01)."
             }
           ],
           "id": "12.6-slang-spiess",

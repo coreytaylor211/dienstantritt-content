@@ -10,7 +10,7 @@
         {
           "spans": [
             {
-              "text": "Geld ist konkret, und du willst wissen, was hinten rauskommt. Dieses Modul erklärt dir, wie viel du im Neuen Wehrdienst verdienst, was der Unterschied zwischen FWDL und SaZ ist, was kostenlos gestellt wird, was du selbst zahlst – und welche Extras es gibt (z. B. Führerschein-Zuschuss, kostenlose Bahn)."
+              "text": "Wie viel Geld bekommst du, und was ist gratis? Dieses Modul erklärt den Unterschied zwischen FWDL und SaZ, zeigt die amtlichen Tabellen und sagt dir, was gestellt wird und was du selbst zahlst."
             }
           ],
           "type": "paragraph"
@@ -18,7 +18,7 @@
         {
           "spans": [
             {
-              "text": "Ein wichtiger Hinweis vorab: Beträge, Zulagen und Abzüge sind genau die Werte, die sich am ehesten ändern und am stärksten von deiner individuellen Situation abhängen. Verlass dich für „dein\" Geld immer auf deine offizielle Bezügeabrechnung und die zuständige Bezügestelle, nicht auf gerundete Beispielwerte."
+              "text": "Wichtig vorab: Für „dein\" Geld zählt immer deine offizielle Bezügeabrechnung – nicht gerundete Beispielwerte."
             }
           ],
           "type": "paragraph"
@@ -29,180 +29,386 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Einstiegsgehalt: FWDL vs. SaZ",
-      "id": "4.2",
-      "subsections": [
+      "anchorSearchTitle": "Zwei Systeme: Wehrsold (FWDL) vs. Besoldung (SaZ)",
+      "blocks": [
         {
-          "blocks": [
+          "spans": [
             {
-              "spans": [
-                {
-                  "text": "Im Neuen Wehrdienst beträgt die monatliche Vergütung "
-                },
-                {
-                  "bold": true,
-                  "text": "mindestens 2.600 € brutto"
-                },
-                {
-                  "text": " – „Unterbringung eingeschlossen\" (Quelle: Bundesregierung, „Fragen und Antworten zum Neuen Wehrdienst\", bundesregierung.de, Stand 2026)."
-                }
-              ],
-              "type": "paragraph"
+              "text": "Das ist der zentrale Punkt – wie du bezahlt wirst, hängt von deinem Status ab:"
             }
           ],
-          "id": "4.2.1",
-          "title": "Die Grundzahl"
+          "type": "paragraph"
         },
         {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Wenn du dich für eine Dienstzeit zwischen 6 und 11 Monaten entscheidest, hast du den Status "
-                },
-                {
-                  "bold": true,
-                  "text": "Freiwillig Wehrdienstleistende:r (FWDL)"
-                },
-                {
-                  "text": " und erhältst rund "
-                },
-                {
-                  "bold": true,
-                  "text": "2.600 € brutto pro Monat"
-                },
-                {
-                  "text": " (Quelle: bundesregierung.de / bundeswehr.de, Stand 2026)."
-                }
-              ],
-              "type": "paragraph"
-            }
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "FWDL"
+              },
+              {
+                "text": " (6–11 Monate) bekommen "
+              },
+              {
+                "bold": true,
+                "text": "Wehrsold"
+              },
+              {
+                "text": " nach dem "
+              },
+              {
+                "bold": true,
+                "text": "Wehrsoldgesetz (WSG)"
+              },
+              {
+                "text": "."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "SaZ"
+              },
+              {
+                "text": " (ab 12 Monaten) und Berufssoldat:innen bekommen "
+              },
+              {
+                "bold": true,
+                "text": "Besoldung"
+              },
+              {
+                "text": " nach dem "
+              },
+              {
+                "bold": true,
+                "text": "Bundesbesoldungsgesetz (BBesG)"
+              },
+              {
+                "text": ", Besoldungsordnung A."
+              }
+            ]
           ],
-          "id": "4.2.2",
-          "title": "FWDL (6 bis 11 Monate)"
+          "ordered": false,
+          "type": "list"
         },
         {
-          "blocks": [
+          "spans": [
             {
-              "spans": [
-                {
-                  "text": "Wenn du dich für "
-                },
-                {
-                  "bold": true,
-                  "text": "12 Monate oder länger"
-                },
-                {
-                  "text": " verpflichtest, wirst du "
-                },
-                {
-                  "bold": true,
-                  "text": "Soldat:in auf Zeit (SaZ)"
-                },
-                {
-                  "text": " und erhältst nach öffentlichen Angaben rund "
-                },
-                {
-                  "bold": true,
-                  "text": "2.700 € brutto pro Monat"
-                },
-                {
-                  "text": " – also etwas mehr als FWDL (Quelle: bundesregierung.de / bundeswehr.de, Stand 2026). Die Mindestdienstzeit für SaZ wurde auf 12 Monate gesenkt."
-                }
-              ],
-              "type": "paragraph"
+              "text": "Das sind zwei getrennte Systeme mit eigenen Tabellen. Beides wurde durch das "
+            },
+            {
+              "bold": true,
+              "text": "Wehrdienst-Modernisierungsgesetz (WDModG)"
+            },
+            {
+              "text": " neu geregelt, in Kraft seit "
+            },
+            {
+              "bold": true,
+              "text": "01.01.2026"
+            },
+            {
+              "text": " (Quelle: WDModG vom 22.12.2025, BGBl. 2025 I Nr. 370; gesetze-im-internet.de WSG, abgerufen 2026-06-02)."
             }
           ],
-          "id": "4.2.3",
-          "title": "SaZ (ab 12 Monaten)"
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Wichtig: Der oft genannte Einstieg „rund 2.600 € brutto\" ist der Wehrsold-Grundbetrag der Gruppe 1 (FWDL). Das ist nicht dasselbe wie das BBesG-Grundgehalt A 3 – nicht verwechseln."
+            }
+          ],
+          "type": "paragraph"
         }
       ],
-      "title": "Einstiegsgehalt: FWDL vs. SaZ",
+      "id": "4.2",
+      "title": "Zwei Systeme: Wehrsold (FWDL) vs. Besoldung (SaZ)",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Besoldung nach der Tabelle",
+      "anchorSearchTitle": "Wehrsold für FWDL (6–11 Monate)",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Als FWDL bekommst du einen "
+            },
+            {
+              "bold": true,
+              "text": "monatlichen Wehrsold-Grundbetrag"
+            },
+            {
+              "text": " – gestaffelt nach deinem Dienstgrad (Wehrsoldgruppe), nicht nach Vertragsdauer. Alle Beträge sind "
+            },
+            {
+              "bold": true,
+              "text": "brutto"
+            },
+            {
+              "text": ", monatlich, im Voraus gezahlt."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "caption": "Wehrsold FWDL (Anlage WSG, Stand 01.01.2026)",
+          "columns": [
+            "Gruppe",
+            "Dienstgrad(e)",
+            "Grundbetrag/Monat",
+            "Kinderzuschlag je Kind",
+            "Auslandsvergütung"
+          ],
+          "rows": [
+            [
+              [
+                {
+                  "text": "1"
+                }
+              ],
+              [
+                {
+                  "text": "Schütze, Jäger, Grenadier, Kanonier, Pionier, Funker, Flieger, Sanitätssoldat, Matrose u. a. (Einstieg)"
+                }
+              ],
+              [
+                {
+                  "text": "2.600 €"
+                }
+              ],
+              [
+                {
+                  "text": "115 €"
+                }
+              ],
+              [
+                {
+                  "text": "495 €"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "2"
+                }
+              ],
+              [
+                {
+                  "text": "Gefreiter"
+                }
+              ],
+              [
+                {
+                  "text": "2.630 €"
+                }
+              ],
+              [
+                {
+                  "text": "(nach § 4 WSG)"
+                }
+              ],
+              [
+                {
+                  "text": "495 €"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "3"
+                }
+              ],
+              [
+                {
+                  "text": "Obergefreiter"
+                }
+              ],
+              [
+                {
+                  "text": "2.650 €"
+                }
+              ],
+              [
+                {
+                  "text": "(nach § 4 WSG)"
+                }
+              ],
+              [
+                {
+                  "text": "542 €"
+                }
+              ]
+            ]
+          ],
+          "type": "table"
+        },
+        {
+          "spans": [
+            {
+              "text": "(Quelle: Wehrsoldgesetz §§ 4, 6 + Anlage WSG, gültig ab 01.01.2026, BGBl. 2025 I Nr. 370; gesetze-im-internet.de / buzer.de, abgerufen 2026-06-02. Brutto.)"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Was dazukommt bzw. gilt:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Kinderzuschlag (§ 4 WSG):"
+              },
+              {
+                "text": " 115 € je Kind mit Kindergeldanspruch."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Auslandsvergütung (§ 6 WSG):"
+              },
+              {
+                "text": " bei Auslandsverwendung, Bedingungen wie bei Beamt:innen."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Beförderung:"
+              },
+              {
+                "text": " nach rund drei Monaten ist die Beförderung zum Gefreiten üblich – dann gilt Gruppe 2."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Keine Staffelung nach Vertragslänge:"
+              },
+              {
+                "text": " Ob du 6 oder 11 Monate dienst, ändert den Wehrsold nicht – nur der Dienstgrad zählt."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
       "id": "4.3",
+      "title": "Wehrsold für FWDL (6–11 Monate)",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Besoldung für SaZ und Berufssoldat:innen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Verpflichtest du dich für "
+            },
+            {
+              "bold": true,
+              "text": "12 Monate oder länger"
+            },
+            {
+              "text": " (SaZ), folgt deine Bezahlung der "
+            },
+            {
+              "bold": true,
+              "text": "Besoldungsordnung A"
+            },
+            {
+              "text": " (BBesG) – derselben Systematik wie bei Beamt:innen. Zwei Größen bestimmen dein Grundgehalt:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Besoldungsgruppe (z. B. A 3, A 4 …):"
+              },
+              {
+                "text": " richtet sich nach dem Dienstgrad. Mannschaften steigen meist in "
+              },
+              {
+                "bold": true,
+                "text": "A 3"
+              },
+              {
+                "text": " ein."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Erfahrungsstufe (1–8):"
+              },
+              {
+                "text": " steigt mit der Dienstzeit. Stufe 1 ist der Einstieg."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Der Einstieg liegt bei "
+            },
+            {
+              "bold": true,
+              "text": "A 3, Stufe 1 = 2.706,99 € brutto"
+            },
+            {
+              "text": ". BMVg/Bundeswehr nennen gerundet „rund 2.700 € brutto\" (inkl. Wert der freien Unterkunft) (Quelle: bundeswehr.de „Neuer Wehrdienst\", 19.12.2025)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "4.4",
       "subsections": [
         {
           "blocks": [
             {
               "spans": [
                 {
-                  "text": "Die Bezahlung der Soldatinnen und Soldaten folgt der "
-                },
-                {
-                  "bold": true,
-                  "text": "Besoldungsordnung A"
-                },
-                {
-                  "text": " des Bundesbesoldungsgesetzes (BBesG) – derselben Systematik wie bei Beamtinnen und Beamten. Zwei Größen bestimmen dein Grundgehalt:"
-                }
-              ],
-              "type": "paragraph"
-            },
-            {
-              "items": [
-                [
-                  {
-                    "bold": true,
-                    "text": "Besoldungsgruppe (z. B. A 3, A 4 …):"
-                  },
-                  {
-                    "text": " richtet sich nach deinem Dienstgrad. Mannschaften steigen typischerweise in "
-                  },
-                  {
-                    "bold": true,
-                    "text": "A 3"
-                  },
-                  {
-                    "text": " ein; mit Beförderung steigt die Gruppe."
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Erfahrungsstufe (1–8):"
-                  },
-                  {
-                    "text": " steigt mit zunehmender Dienstzeit. Stufe 1 ist der Einstieg."
-                  }
-                ]
-              ],
-              "ordered": false,
-              "type": "list"
-            }
-          ],
-          "id": "4.3.1",
-          "title": "Wonach sich dein Grundgehalt richtet"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Alle Beträge in der folgenden Tabelle sind "
+                  "text": "Alle Werte sind "
                 },
                 {
                   "bold": true,
                   "text": "Brutto-Monatsbeträge in Euro"
                 },
                 {
-                  "text": " und stammen aus der amtlichen Grundgehaltstabelle der Besoldungsordnung A, "
+                  "text": ", aus der amtlichen Anlage IV BBesG, "
                 },
                 {
                   "bold": true,
                   "text": "gültig ab 01.03.2024"
                 },
                 {
-                  "text": " (Anlage IV BBesG). Sie zeigen das "
+                  "text": ". Das ist die einzige aktuell in Kraft befindliche Fassung. Es ist das "
                 },
                 {
                   "bold": true,
                   "text": "Grundgehalt"
                 },
                 {
-                  "text": " – ohne Zulagen, Familienzuschlag oder Sachbezüge, und vor Abzügen. Was am Ende auf deinem Konto landet, weicht davon ab."
+                  "text": " – ohne Zulagen, Familienzuschlag oder Sachbezüge, vor Abzügen."
                 }
               ],
               "type": "paragraph"
@@ -502,6 +708,53 @@
                       "text": "3.982,32"
                     }
                   ]
+                ],
+                [
+                  [
+                    {
+                      "text": "A 9"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "3.354,26"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "3.457,34"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "3.619,52"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "3.784,42"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "3.946,56"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "4.056,80"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "4.171,47"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "4.283,30"
+                    }
+                  ]
                 ]
               ],
               "type": "table"
@@ -509,27 +762,35 @@
             {
               "spans": [
                 {
-                  "text": "(Quelle: Anlage IV BBesG, gesetze-im-internet.de, Grundgehaltssätze BesO A gültig ab 01.03.2024 = BGBl. 2023 I Nr. 414; abgerufen 2026-06-02. Brutto, ohne Zulagen.)"
+                  "text": "(Quelle: Anlage IV BBesG, gesetze-im-internet.de / buzer.de, Grundgehaltssätze BesO A gültig ab 01.03.2024 = BGBl. 2023 I Nr. 414; abgerufen 2026-06-02. Brutto, ohne Zulagen. A 10 ff. siehe Nachschlagen → Dienstgrade.)"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Erhöhungsbeträge (amtlich, Anlage IV): +25,15 € in A 5/A 6 für Unteroffiziere, Fahnenjunker, Seekadetten; +10,97 € in A 9/A 10 für Offiziere."
                 }
               ],
               "type": "paragraph"
             }
           ],
-          "id": "4.3.2",
-          "title": "Was die Beträge bedeuten"
+          "id": "4.4.1",
+          "title": "Grundgehalt-Tabelle (Besoldungsordnung A)"
         },
         {
           "blocks": [
             {
               "spans": [
                 {
-                  "text": "Grobe Zuordnung der unteren Dienstgrade zur Besoldungsgruppe (die konkreten Beträge stehen in der Tabelle oben):"
+                  "text": "Grobe Zuordnung der unteren Dienstgrade (Beträge in der Tabelle oben):"
                 }
               ],
               "type": "paragraph"
             },
             {
-              "caption": "Zuordnung Dienstgrad → Besoldungsgruppe",
+              "caption": "Dienstgrad → Besoldungsgruppe (SaZ/Berufssoldaten)",
               "columns": [
                 "Laufbahngruppe",
                 "Dienstgrad",
@@ -578,12 +839,29 @@
                   ],
                   [
                     {
-                      "text": "Obergefreiter / Hauptgefreiter"
+                      "text": "Obergefreiter"
                     }
                   ],
                   [
                     {
-                      "text": "A 3 / A 4 (Hauptgefreiter mit Amtszulage)"
+                      "text": "A 4"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "text": "Mannschaften"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Hauptgefreiter"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "A 4 (mit Amtszulage)"
                     }
                   ]
                 ],
@@ -600,7 +878,7 @@
                   ],
                   [
                     {
-                      "text": "bis A 6"
+                      "text": "A 5 (mit Amtszulage)"
                     }
                   ]
                 ],
@@ -663,7 +941,24 @@
                   ],
                   [
                     {
-                      "text": "Oberfeldwebel / Hauptfeldwebel"
+                      "text": "Oberfeldwebel"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "A 7 (mit Amtszulage)"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "text": "Feldwebel"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "Hauptfeldwebel"
                     }
                   ],
                   [
@@ -678,153 +973,341 @@
             {
               "spans": [
                 {
-                  "text": "(Quelle: bundeswehr.de „Gehalt in der Bundeswehr\", Stand 20.02.2025, und besoldung-bundeswehr.de „Laufbahnen\" – Zuordnungsschema; abgerufen 2026-06-02. Beträge aus Anlage IV BBesG, Stand 01.03.2024.)"
+                  "text": "(Quelle: Anlage I BBesG; bundeswehr.de „Gehalt in der Bundeswehr\", 20.02.2025; abgerufen 2026-06-02.)"
                 }
               ],
               "type": "paragraph"
             }
           ],
-          "id": "4.3.3",
+          "id": "4.4.2",
           "title": "Welcher Dienstgrad in welche Besoldungsgruppe?"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "SaZ mit Familie bekommen zusätzlich den "
+                },
+                {
+                  "bold": true,
+                  "text": "Familienzuschlag"
+                },
+                {
+                  "text": " nach Anlage V BBesG (brutto, Stand 01.03.2024). Für FWDL gilt stattdessen der Kinderzuschlag von 115 € (siehe oben)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "caption": "Familienzuschlag (Anlage V BBesG, Stand 01.03.2024)",
+              "columns": [
+                "Position",
+                "Betrag/Monat"
+              ],
+              "rows": [
+                [
+                  [
+                    {
+                      "text": "Stufe 1 (z. B. Verheiratete)"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "171,28 €"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "text": "Stufe 2"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "317,66 €"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "text": "Erhöhung zweites Kind"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "+146,38 €"
+                    }
+                  ]
+                ],
+                [
+                  [
+                    {
+                      "text": "jedes weitere Kind"
+                    }
+                  ],
+                  [
+                    {
+                      "text": "+456,06 €"
+                    }
+                  ]
+                ]
+              ],
+              "type": "table"
+            },
+            {
+              "spans": [
+                {
+                  "text": "(Quelle: Anlage V BBesG, gesetze-im-internet.de, gültig ab 01.03.2024; abgerufen 2026-06-02. Brutto.)"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "4.4.3",
+          "title": "Familienzuschlag (nur SaZ/Berufssoldaten)"
         }
       ],
-      "title": "Besoldung nach der Tabelle",
+      "title": "Besoldung für SaZ und Berufssoldat:innen",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Zulagen, Zuschläge und Entschädigungen",
+      "anchorSearchTitle": "Zulagen und Entschädigungen",
       "blocks": [
         {
           "spans": [
             {
-              "text": "Zusätzlich zur Grundvergütung kann es – je nach Verwendung, Einsatz und Lebenssituation – weitere Zahlungen geben, zum Beispiel:"
+              "text": "Je nach Verwendung, Einsatz und Lebenssituation kommen weitere Zahlungen dazu. Diese gelten überwiegend für die BBesG-Besoldung (SaZ/Berufssoldaten); ob und wie viel dir zusteht, klärt deine Bezügestelle."
             }
           ],
           "type": "paragraph"
         },
         {
-          "items": [
+          "caption": "Zulagen/Entschädigungen (amtlich)",
+          "columns": [
+            "Leistung",
+            "Betrag",
+            "Rechtsgrundlage / Stand"
+          ],
+          "rows": [
             [
-              {
-                "bold": true,
-                "text": "Zulagen"
-              },
-              {
-                "text": " für bestimmte Tätigkeiten oder Belastungen,"
-              }
+              [
+                {
+                  "text": "Auslandsverwendungszuschlag (AVZ), höchste Stufe"
+                }
+              ],
+              [
+                {
+                  "text": "153 €/Tag (6 Stufen, steuerfrei)"
+                }
+              ],
+              [
+                {
+                  "text": "§ 56 BBesG (ab 06.03.2025)"
+                }
+              ]
             ],
             [
-              {
-                "bold": true,
-                "text": "Trennungsgeld"
-              },
-              {
-                "text": " bzw. "
-              },
-              {
-                "bold": true,
-                "text": "Wegstreckenentschädigung"
-              },
-              {
-                "text": ", wenn du aus dienstlichen Gründen getrennt von deinem Wohnort untergebracht bist bzw. fährst."
-              }
+              [
+                {
+                  "text": "Wegstreckenentschädigung"
+                }
+              ],
+              [
+                {
+                  "text": "0,20 €/km (Standard, max. 130 €); 0,30 €/km bei erheblichem dienstlichen Interesse"
+                }
+              ],
+              [
+                {
+                  "text": "§ 5 BRKG, 2025/2026"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "Trennungsgeld"
+                }
+              ],
+              [
+                {
+                  "text": "bei Verwendung an anderem Ort ohne Umzug; Höhe nach TGV/BRKG"
+                }
+              ],
+              [
+                {
+                  "text": "Trennungsgeldverordnung i. V. m. BRKG"
+                }
+              ]
             ]
           ],
-          "ordered": false,
-          "type": "list"
-        }
-      ],
-      "id": "4.4",
-      "title": "Zulagen, Zuschläge und Entschädigungen",
-      "type": "text"
-    },
-    {
-      "anchorSearchTitle": "Was kostenlos ist",
-      "blocks": [
+          "type": "table"
+        },
         {
           "spans": [
             {
-              "text": "Vieles, was du im zivilen Leben selbst zahlen müsstest, ist im Dienst gestellt:"
+              "text": "(Quelle: buzer.de § 56 BBesG; gesetze-im-internet.de § 5 BRKG; bva.bund.de; abgerufen 2026-06-02.)"
             }
           ],
           "type": "paragraph"
-        },
-        {
-          "items": [
-            [
-              {
-                "bold": true,
-                "text": "Unterkunft:"
-              },
-              {
-                "text": " Die Unterbringung in der Kaserne ist kostenlos (in der Vergütung „eingeschlossen\"; Quelle: bundesregierung.de, Stand 2026)."
-              }
-            ],
-            [
-              {
-                "bold": true,
-                "text": "Verpflegung:"
-              },
-              {
-                "text": " Die Truppenküchen servieren dreimal täglich Mahlzeiten. Für die Rundum-Verpflegung fallen laut Bundeswehr „etwa zehn Euro täglich\" an – sie wird also als Sachbezug bewertet und ist nicht völlig kostenlos (Quelle: bundeswehr.de, „Neuer Wehrdienst\", abgerufen 2026). Wie das mit deinen Bezügen verrechnet wird, klärt deine Bezügestelle."
-              }
-            ],
-            [
-              {
-                "bold": true,
-                "text": "Dienstkleidung & Ausrüstung:"
-              },
-              {
-                "text": " Uniform, Feldausrüstung und Ausstattung werden unentgeltlich gestellt."
-              }
-            ],
-            [
-              {
-                "bold": true,
-                "text": "Medizinische Versorgung:"
-              },
-              {
-                "text": " Du wirst durch den Sanitätsdienst der Bundeswehr versorgt; eigene Krankenkassenbeiträge fallen dafür nicht an (unentgeltliche truppenärztliche Versorgung bzw. Heilfürsorge nach § 69a Bundesbesoldungsgesetz und der Heilfürsorgeverordnung BwHFV). Erfasst sind grundsätzlich die medizinisch notwendigen und wirtschaftlich angemessenen Leistungen (mindestens auf dem Niveau der gesetzlichen Krankenversicherung); Leistungen werden in der Regel als Sach-/Dienstleistung erbracht. Nicht erfasst sind z. B. Leistungen von Heilpraktiker:innen. (Quelle: gesetze-im-internet.de, § 69a BBesG / BwHFV, abgerufen 2026-06-01)"
-              }
-            ]
-          ],
-          "ordered": false,
-          "type": "list"
         }
       ],
       "id": "4.5",
-      "title": "Was kostenlos ist",
+      "title": "Zulagen und Entschädigungen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Was kostenlos ist (Sachleistungen)",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Vieles, was du sonst selbst zahlst, ist im Dienst gestellt:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "caption": "Sachleistungen (amtlich)",
+          "columns": [
+            "Leistung",
+            "Wert / Inhalt",
+            "Stand / Quelle"
+          ],
+          "rows": [
+            [
+              [
+                {
+                  "text": "Freie Unterkunft"
+                }
+              ],
+              [
+                {
+                  "text": "kostenlos in der Kaserne; Sachbezugswert 285 €/Monat (9,50 €/Tag)"
+                }
+              ],
+              [
+                {
+                  "text": "bundeswehr.de; SvEV 2026"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "Freie Verpflegung"
+                }
+              ],
+              [
+                {
+                  "text": "unentgeltlich, dreimal täglich; Wert ≈ 10 €/Tag; Sachbezugswert 345 €/Monat (11,51 €/Tag)"
+                }
+              ],
+              [
+                {
+                  "text": "bundeswehr.de; SvEV 2026 (gültig 01.01.2026)"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "Freie Heilfürsorge"
+                }
+              ],
+              [
+                {
+                  "text": "medizinische Versorgung durch Sanitätsdienst, keine Krankenkassenbeiträge (keine freie Arztwahl)"
+                }
+              ],
+              [
+                {
+                  "text": "§ 69a BBesG, § 16 WSG, BwHFV"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "Dienstkleidung & Ausrüstung"
+                }
+              ],
+              [
+                {
+                  "text": "vollständig kostenfrei gestellt"
+                }
+              ],
+              [
+                {
+                  "text": "bundeswehr.de"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "Freie Bahnfahrt in Uniform"
+                }
+              ],
+              [
+                {
+                  "text": "bundesweit, auch in der Freizeit (seit 2020)"
+                }
+              ],
+              [
+                {
+                  "text": "bundeswehr.de / DB"
+                }
+              ]
+            ]
+          ],
+          "type": "table"
+        },
+        {
+          "spans": [
+            {
+              "text": "(Quelle: bundeswehr.de „Neuer Wehrdienst\" 19.12.2025; gesetze-im-internet.de BwHFV; SvEV 2026, 16. ÄnderungsVO; abgerufen 2026-06-02.)"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Die freie Verpflegung gilt als Sachbezug und kann auf deinen Bezügen erscheinen – wie genau, klärt deine Bezügestelle."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "4.6",
+      "title": "Was kostenlos ist (Sachleistungen)",
       "type": "text"
     },
     {
       "anchorSearchTitle": "Was du selbst zahlst",
       "blocks": [
         {
-          "spans": [
-            {
-              "text": "Trotz vieler kostenloser Leistungen gibt es Dinge, die du privat trägst:"
-            }
-          ],
-          "type": "paragraph"
-        },
-        {
           "items": [
             [
               {
                 "bold": true,
-                "text": "Persönliche Ausgaben"
+                "text": "Persönliches:"
               },
               {
-                "text": " (Hygieneartikel über den Standard hinaus, Snacks, Freizeit, Handyvertrag, private Kleidung)."
+                "text": " Hygiene über den Standard hinaus, Snacks, Freizeit, Handyvertrag, private Kleidung."
               }
             ],
             [
               {
                 "bold": true,
-                "text": "Eventuelle Beiträge/Versicherungen"
+                "text": "Eigene Versicherungen"
               },
               {
-                "text": ", die deine persönliche Situation betreffen."
+                "text": ", die deine private Situation betreffen."
               }
             ]
           ],
@@ -832,68 +1315,76 @@
           "type": "list"
         }
       ],
-      "id": "4.6",
+      "id": "4.7",
       "title": "Was du selbst zahlst",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Extra-Leistungen",
-      "id": "4.7",
+      "anchorSearchTitle": "Extra: Bahn & Führerschein",
+      "id": "4.8",
       "subsections": [
         {
           "blocks": [
             {
               "spans": [
                 {
-                  "text": "Soldatinnen und Soldaten fahren in Uniform kostenlos mit der Deutschen Bahn, auch privat in der Freizeit. Das Ticket gilt im "
-                },
+                  "text": "In Uniform fährst du mit der Deutschen Bahn kostenlos – auch privat. Es gilt im Fernverkehr (ICE, IC/EC), über die Vor-/Nachlauf-Regelung auch im Nahverkehr (über 90 % der Verbindungen seit 2020). Du brauchst drei Dinge:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "items": [
+                [
+                  {
+                    "text": "gültigen "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Truppenausweis"
+                  },
+                  {
+                    "text": ","
+                  }
+                ],
+                [
+                  {
+                    "text": "die "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Uniform"
+                  },
+                  {
+                    "text": " während der ganzen Fahrt,"
+                  }
+                ],
+                [
+                  {
+                    "text": "ein "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Bahnticket"
+                  },
+                  {
+                    "text": " (kostenfrei, personalisiert, über das Buchungsportal)."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            },
+            {
+              "spans": [
                 {
-                  "bold": true,
-                  "text": "Fernverkehr"
-                },
-                {
-                  "text": " (ICE, IC/EC) innerhalb Deutschlands; im Vor- oder Nachlauf können auch "
-                },
-                {
-                  "bold": true,
-                  "text": "Nahverkehrszüge"
-                },
-                {
-                  "text": " (RE, RB, IR, S-Bahn) genutzt werden. Seit der Ausweitung 2020 sind über "
-                },
-                {
-                  "bold": true,
-                  "text": "90 % der Nahverkehrsverbindungen"
-                },
-                {
-                  "text": " einbezogen (verbundfreie und verbundübergreifende Strecken). Du brauchst dafür drei Dinge: einen gültigen "
-                },
-                {
-                  "bold": true,
-                  "text": "Truppenausweis"
-                },
-                {
-                  "text": " (oder vorläufigen Truppenausweis mit Personalausweis), das "
-                },
-                {
-                  "bold": true,
-                  "text": "Tragen der Uniform"
-                },
-                {
-                  "text": " während der gesamten Fahrt und ein "
-                },
-                {
-                  "bold": true,
-                  "text": "Bahnticket"
-                },
-                {
-                  "text": "; die Buchung läuft über das Buchungsportal der Bundeswehr/Bahn. Die Tickets sind personalisiert. (Quelle: bundeswehr.de „Freie Bahnfahrt für Soldatinnen und Soldaten\", bahn.de „Bundeswehr – Fragen & Antworten\", abgerufen 2026-06-01)"
+                  "text": "(Quelle: bundeswehr.de „Freie Bahnfahrt für Soldatinnen und Soldaten\", bahn.de, abgerufen 2026-06-01)"
                 }
               ],
               "type": "paragraph"
             }
           ],
-          "id": "4.7.1",
+          "id": "4.8.1",
           "title": "Kostenlose Bahnfahrten in Uniform"
         },
         {
@@ -905,10 +1396,10 @@
                 },
                 {
                   "bold": true,
-                  "text": "zwölf Monate"
+                  "text": "12 Monate"
                 },
                 {
-                  "text": " Dienst leistet, kann einen einmaligen Zuschuss zum erstmaligen Erwerb eines Führerscheins erhalten (Quelle: bundeswehr.de, „Führerschein\", abgerufen 2026):"
+                  "text": " dient, kann einen einmaligen Zuschuss zum erstmaligen Führerscheinerwerb bekommen (nachgewiesene Kosten bis zum Höchstbetrag):"
                 }
               ],
               "type": "paragraph"
@@ -954,7 +1445,7 @@
             {
               "spans": [
                 {
-                  "text": "Wichtige Bedingungen laut Bundeswehr (Stand 2026):"
+                  "text": "Wichtige Bedingungen (Stand 2026):"
                 }
               ],
               "type": "paragraph"
@@ -963,40 +1454,22 @@
               "items": [
                 [
                   {
-                    "text": "Erstattet werden "
-                  },
-                  {
-                    "bold": true,
-                    "text": "nachgewiesene Kosten"
-                  },
-                  {
-                    "text": " bis zum jeweiligen Höchstbetrag."
+                    "text": "Pkw-Erwerb: 12 Monate vor Dienstbeginn bis 12 Monate nach Dienstende; Lkw: bis 36 Monate nach Dienstende."
                   }
                 ],
                 [
                   {
-                    "bold": true,
-                    "text": "Pkw-Führerschein:"
-                  },
-                  {
-                    "text": " Erwerb innerhalb von 12 Monaten vor Dienstbeginn, während des Dienstes oder bis spätestens 12 Monate nach Dienstende. Beim "
-                  },
-                  {
-                    "bold": true,
-                    "text": "Lkw-Führerschein"
-                  },
-                  {
-                    "text": " verlängert sich die Frist auf bis zu 36 Monate nach Dienstende."
+                    "text": "Dienst nach dem 01.01.2026 begonnen, Führerschein nach dem 01.01.2025 erworben."
                   }
                 ],
                 [
                   {
-                    "text": "Der Dienst muss nach dem 01.01.2026 begonnen haben; der Führerschein nach dem 01.01.2025 erworben sein."
+                    "text": "Antrag frühestens ab 01.01.2027, spätestens 12 Monate nach Erfüllen aller Voraussetzungen."
                   }
                 ],
                 [
                   {
-                    "text": "Antragstellung frühestens ab 01.01.2027 und spätestens 12 Monate nach Erfüllen aller Voraussetzungen."
+                    "text": "Nötig: Antragsformular, Fahrschulrechnung, Fotos/Scans beider Seiten des Führerscheins (bei beendetem Dienst zusätzlich Wehrdienstzeitbescheinigung)."
                   }
                 ]
               ],
@@ -1006,122 +1479,96 @@
             {
               "spans": [
                 {
-                  "text": "Für den Antrag brauchst du laut Bundeswehr das ausgefüllte Antragsformular, die Rechnung der Fahrschule über die erbrachten Leistungen und Fotos/Scans beider Seiten des Führerscheins; bei bereits beendetem Dienst zusätzlich eine Wehrdienstzeitbescheinigung. Der Antrag muss spätestens zwölf Monate nach Erreichen aller Voraussetzungen gestellt werden. (Quelle: bundeswehr.de, „Führerschein: Zuschuss von der Bundeswehr\", abgerufen 2026-06-01 – Beträge, Fristen und Nachweispflichten bestätigt)"
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "4.7.2",
-          "title": "Führerschein-Zuschuss (ab 12 Monaten Dienst)"
-        }
-      ],
-      "title": "Extra-Leistungen",
-      "type": "text"
-    },
-    {
-      "anchorSearchTitle": "Praxis: Wann und wohin wird gezahlt, Abrechnung lesen",
-      "id": "4.8",
-      "subsections": [
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Du erhältst eine Bezügeabrechnung. Achte auf:"
-                }
-              ],
-              "type": "paragraph"
-            },
-            {
-              "items": [
-                [
-                  {
-                    "bold": true,
-                    "text": "Brutto:"
-                  },
-                  {
-                    "text": " Grundbezug plus etwaige Zulagen."
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Abzüge:"
-                  },
-                  {
-                    "text": " Steuern und Sozialabgaben (abhängig von deinem Fall)."
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Netto / Auszahlungsbetrag:"
-                  },
-                  {
-                    "text": " Das, was tatsächlich überwiesen wird."
-                  }
-                ],
-                [
-                  {
-                    "bold": true,
-                    "text": "Erstattungen/Sonderzahlungen:"
-                  },
-                  {
-                    "text": " z. B. Trennungsgeld, falls dir zustehend."
-                  }
-                ]
-              ],
-              "ordered": false,
-              "type": "list"
-            },
-            {
-              "spans": [
-                {
-                  "text": "Wenn etwas unklar ist oder fehlt, wende dich an die zuständige Bezüge-/Verwaltungsstelle deiner Einheit – nicht an inoffizielle Quellen. Hebe deine Abrechnungen auf."
+                  "text": "(Quelle: bundeswehr.de „Führerschein: Zuschuss von der Bundeswehr\", abgerufen 2026-06-01)"
                 }
               ],
               "type": "paragraph"
             }
           ],
           "id": "4.8.2",
-          "title": "Die Abrechnung lesen"
+          "title": "Führerschein-Zuschuss (ab 12 Monaten Dienst)"
         }
       ],
-      "title": "Praxis: Wann und wohin wird gezahlt, Abrechnung lesen",
+      "title": "Extra: Bahn & Führerschein",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Praxis: Auszahlung & Abrechnung",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Auf deiner Abrechnung achtest du auf:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Brutto:"
+              },
+              {
+                "text": " Grundbetrag/Grundgehalt plus etwaige Zulagen."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Abzüge:"
+              },
+              {
+                "text": " Steuern und Abgaben (abhängig von deinem Fall)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Netto / Auszahlungsbetrag:"
+              },
+              {
+                "text": " was tatsächlich überwiesen wird."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "4.9",
+      "title": "Praxis: Auszahlung & Abrechnung",
       "type": "text"
     }
   ],
   "sources": [
     {
-      "label": "Bundesregierung: „Fragen und Antworten zum Neuen Wehrdienst\" (bundesregierung.de), Stand 2026 – Vergütung mind. 2.600 € brutto inkl. Unterbringung, FWDL/SaZ."
+      "label": "WDModG (Wehrdienst-Modernisierungsgesetz) vom 22.12.2025, BGBl. 2025 I Nr. 370, in Kraft 01.01.2026 (recht.bund.de / buzer.de), abgerufen 2026-06-02 – Trennung Wehrsold (FWDL) / Besoldung (SaZ)."
     },
     {
-      "label": "Bundeswehr: „Neuer Wehrdienst der Bundeswehr\" (bundeswehr.de), abgerufen 2026-06-01 – FWDL „etwa 2.600 € brutto\", SaZ „rund 2.700 € brutto\", Verpflegung „etwa zehn Euro täglich\" (Sachbezug), unentgeltliche truppenärztliche Versorgung."
+      "label": "Wehrsoldgesetz (WSG) §§ 4, 6 + Anlage, gültig ab 01.01.2026 (gesetze-im-internet.de / buzer.de), abgerufen 2026-06-02 – Wehrsold-Grundbeträge (2.600/2.630/2.650 €), Kinderzuschlag 115 €, Auslandsvergütung."
     },
     {
-      "label": "Bundeswehr: „Führerschein: Zuschuss von der Bundeswehr\" (bundeswehr.de), abgerufen 2026-06-01 – Beträge (B bis 3.500 €, C/C1 bis 5.000 €), Mindestdienst 12 Monate, Fristen und Nachweispflichten."
+      "label": "Anlage IV BBesG – Grundgehalt BesO A, gültig ab 01.03.2024 (= BGBl. 2023 I Nr. 414), gesetze-im-internet.de / buzer.de, abgerufen 2026-06-02 – Tabelle A 3–A 9, Erhöhungsbeträge."
     },
     {
-      "label": "gesetze-im-internet.de: § 69a Bundesbesoldungsgesetz (BBesG) und BwHFV, abgerufen 2026-06-01 – Umfang der Heilfürsorge."
+      "label": "Anlage V BBesG – Familienzuschlag, gültig ab 01.03.2024 (gesetze-im-internet.de), abgerufen 2026-06-02."
     },
     {
-      "label": "gesetze-im-internet.de: Anlage IV BBesG – Grundgehaltssätze Besoldungsordnung A, gültig ab 01.03.2024 (= BGBl. 2023 I Nr. 414), abgerufen 2026-06-02 – Grundgehalt-Tabelle A 3–A 8, Erfahrungsstufen 1–8 (brutto)."
+      "label": "§ 56 BBesG (AVZ, ab 06.03.2025, buzer.de); § 5 BRKG (Wegstreckenentschädigung, gesetze-im-internet.de); abgerufen 2026-06-02."
     },
     {
-      "label": "Bundeswehr: „Gehalt in der Bundeswehr: Besoldung, Entgelt, Zulagen, Tabellen\" (bundeswehr.de), veröffentlicht 20.02.2025 – Besoldung der Soldat:innen nach Besoldungsordnung A; besoldung-bundeswehr.de „Laufbahnen\" (Zuordnungsschema Dienstgrad → Besoldungsgruppe)."
+      "label": "§ 69a BBesG / § 16 WSG / BwHFV – freie Heilfürsorge, abgerufen 2026-06-02."
     },
     {
-      "label": "Tariferhöhungen 2025/2026 (+3,0 % ab 01.04.2025, +2,8 % ab 01.05.2026) und Amtszulagen-Beträge sind nicht amtlich verifiziert und bleiben mit `[PRÜFEN]` markiert; maßgeblich ist hier die gesicherte Tabelle Stand 01.03.2024."
+      "label": "SvEV 2026 (16. ÄnderungsVO, Bundesrat 19.12.2025) – Sachbezugswerte Verpflegung 345 €/Monat, Unterkunft 285 €/Monat, gültig 01.01.2026."
     },
     {
-      "label": "Bundeswehr „Freie Bahnfahrt für Soldatinnen und Soldaten\" und bahn.de „Bundeswehr – Fragen & Antworten\", abgerufen 2026-06-01 – Abdeckung Fern-/Nahverkehr (>90 % Nahverkehr), Voraussetzungen."
+      "label": "bundeswehr.de „Neuer Wehrdienst\" (19.12.2025), „Gehalt in der Bundeswehr\" (20.02.2025), „Führerschein: Zuschuss\", „Freie Bahnfahrt\"; bahn.de „Bundeswehr – Fragen & Antworten\"; abgerufen 2026-06-01."
     },
     {
-      "label": "BMVg/Bundeswehr: kostenloses Bahnfahren in Uniform (bmvg.de/bundeswehr.de), abgerufen 2026."
-    },
-    {
-      "label": "Konkrete Netto-Beträge, Zulagen-, Trennungsgeld-/Wegstrecken-, Heimfahrt- und Auszahlungsdetails (Rhythmus/Zeitpunkt) sowie die genaue Sold-Staffelung nach Dienstgrad sind nicht amtlich öffentlich beziffert/individuell und bleiben mit `[PRÜFEN]` markiert."
+      "label": "Besoldungsanpassung 2025/2026 (+3,0 %/+2,8 %), Amtszulagen-Beträge, AVZ-Zwischenstufen, Netto-Beträge und Heimfahrt-/Auszahlungsdetails sind nicht (abschließend) amtlich verifiziert und bleiben mit `[PRÜFEN]` markiert."
     }
   ],
   "title": "Geld – Sold, Bezahlung & was frei ist",
