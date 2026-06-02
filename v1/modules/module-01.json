@@ -2,37 +2,7 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
   "id": 1,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-1-1",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Ob/wie Anreisekosten zum ersten Diensttag erstattet werden — offizielle Quelle/Stand nötig]",
-      "sectionId": "1.2.1",
-      "topic": "Ob/wie Anreisekosten zum ersten Diensttag erstattet werden"
-    },
-    {
-      "id": "rf-1-2",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Genaue Liste der gestellten Bekleidungs- und Ausrüstungsstücke bei Einkleidung — offizielle Quelle/Stand nötig]",
-      "sectionId": "1.3.1",
-      "topic": "Genaue Liste der gestellten Bekleidungs- und Ausrüstungsstücke bei Einkleidung"
-    },
-    {
-      "id": "rf-1-3",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Typische Belegungsstärke einer Rekrutenstube — offizielle Quelle/Stand nötig]",
-      "sectionId": "1.4.1",
-      "topic": "Typische Belegungsstärke einer Rekrutenstube"
-    },
-    {
-      "id": "rf-1-4",
-      "note": "variieren je Einheit, keine offizielle bundesweite Vorgabe; nicht als feste Zeiten darstellen",
-      "raw": "[PRÜFEN: Konkrete Uhrzeiten für Wecken, Dienstbeginn und Dienstschluss in der Grundausbildung — variieren je Einheit, keine offizielle bundesweite Vorgabe; nicht als feste Zeiten darstellen]",
-      "sectionId": "1.6",
-      "topic": "Konkrete Uhrzeiten für Wecken, Dienstbeginn und Dienstschluss in der Grundausbildung"
-    }
-  ],
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sections": [
     {
       "anchorSearchTitle": "Worum es in diesem Modul geht",
@@ -60,7 +30,6 @@
     },
     {
       "anchorSearchTitle": "Der erste Tag: Anreise, Anmeldung, Empfang",
-      "blocks": [],
       "id": "1.2",
       "subsections": [
         {
@@ -69,18 +38,6 @@
               "spans": [
                 {
                   "text": "Du bekommst vor Dienstbeginn eine schriftliche Einberufung bzw. ein Einberufungsschreiben mit Datum, Uhrzeit und genauer Dienststelle (Kaserne). Halte dich exakt an die genannte Uhrzeit – „pünktlich\" heißt beim Bund eher „etwas früher als nötig\". Plane deine Anreise mit Puffer."
-                }
-              ],
-              "type": "paragraph"
-            },
-            {
-              "spans": [
-                {
-                  "text": "Wenn du in Uniform reist, fährst du mit der Deutschen Bahn kostenlos – das gilt aber erst, wenn du eingekleidet bist und einen gültigen Truppenausweis hast. Am ersten Tag reist du also in der Regel noch ganz normal in Zivil an. "
-                },
-                {
-                  "reviewFlagId": "rf-1-1",
-                  "text": "[PRÜFEN: Ob/wie Anreisekosten zum ersten Diensttag erstattet werden — offizielle Quelle/Stand nötig]"
                 }
               ],
               "type": "paragraph"
@@ -139,23 +96,10 @@
     },
     {
       "anchorSearchTitle": "Einkleidung: Was gestellt wird und wie es abläuft",
-      "blocks": [],
       "id": "1.3",
       "subsections": [
         {
           "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Uniform, Dienstkleidung und persönliche Ausrüstung werden dir kostenlos gestellt – das musst du nicht selbst kaufen. Dazu gehören typischerweise Feldanzug, Stiefel, Kopfbedeckung, Feldausrüstung und weitere Ausstattung. "
-                },
-                {
-                  "reviewFlagId": "rf-1-2",
-                  "text": "[PRÜFEN: Genaue Liste der gestellten Bekleidungs- und Ausrüstungsstücke bei Einkleidung — offizielle Quelle/Stand nötig]"
-                }
-              ],
-              "type": "paragraph"
-            },
             {
               "spans": [
                 {
@@ -196,27 +140,8 @@
     },
     {
       "anchorSearchTitle": "Die Stube: Unterbringung, Spind, Stubenordnung",
-      "blocks": [],
       "id": "1.4",
       "subsections": [
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Während der Grundausbildung wohnst du in der Regel in einer Stube (Mehrbettzimmer) in der Kaserne, gemeinsam mit anderen Rekrutinnen und Rekruten. Die Unterkunft ist kostenlos (Quelle: Bundesregierung, „Fragen und Antworten zum Neuen Wehrdienst\", Stand 2026 – die monatliche Vergütung von mind. 2.600 € brutto ist „Unterbringung eingeschlossen\"). Wie viele Personen sich eine Stube teilen, ist je nach Standort unterschiedlich. "
-                },
-                {
-                  "reviewFlagId": "rf-1-3",
-                  "text": "[PRÜFEN: Typische Belegungsstärke einer Rekrutenstube — offizielle Quelle/Stand nötig]"
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "1.4.1",
-          "title": "Unterbringung"
-        },
         {
           "blocks": [
             {
@@ -280,7 +205,6 @@
     },
     {
       "anchorSearchTitle": "Erste Formalitäten",
-      "blocks": [],
       "id": "1.5",
       "subsections": [
         {
@@ -402,15 +326,6 @@
         {
           "spans": [
             {
-              "reviewFlagId": "rf-1-4",
-              "text": "[PRÜFEN: Konkrete Uhrzeiten für Wecken, Dienstbeginn und Dienstschluss in der Grundausbildung — variieren je Einheit, keine offizielle bundesweite Vorgabe; nicht als feste Zeiten darstellen]"
-            }
-          ],
-          "type": "paragraph"
-        },
-        {
-          "spans": [
-            {
               "text": "Wichtig: Antreten ist verbindlich. „Pünktlich\" heißt vorbereitet und vollständig vor der genannten Zeit da sein."
             }
           ],
@@ -423,7 +338,6 @@
     },
     {
       "anchorSearchTitle": "Typische Anfängerfehler und wie du sie vermeidest",
-      "blocks": [],
       "id": "1.7",
       "subsections": [
         {

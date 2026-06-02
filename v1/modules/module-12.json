@@ -2,37 +2,7 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Telefonnummern, Adressen und Zuständigkeiten erfährst du verbindlich über deine Einheit und die offiziellen Stellen.",
   "id": 12,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-12-1",
-      "note": "keine Nummern erfinden, offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Aktuelle Kontaktdaten (Telefon/Adresse) der genannten Stellen — keine Nummern erfinden, offizielle Quelle/Stand nötig]",
-      "sectionId": "12.2.7",
-      "topic": "Aktuelle Kontaktdaten (Telefon/Adresse) der genannten Stellen"
-    },
-    {
-      "id": "rf-12-2",
-      "note": "richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste",
-      "raw": "[PRÜFEN: Verbindliche „Mitzubringen\"-Liste für den ersten Diensttag im Neuen Wehrdienst — richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste]",
-      "sectionId": "12.3",
-      "topic": "Verbindliche „Mitzubringen\"-Liste für den ersten Diensttag im Neuen Wehrdienst"
-    },
-    {
-      "id": "rf-12-3",
-      "note": "variieren, keine bundeseinheitliche offizielle Liste",
-      "raw": "[PRÜFEN: Verbindliche „erste Woche\"-Pflichten je Dienststelle — variieren, keine bundeseinheitliche offizielle Liste]",
-      "sectionId": "12.4",
-      "topic": "Verbindliche „erste Woche\"-Pflichten je Dienststelle"
-    },
-    {
-      "id": "rf-12-4",
-      "note": "offizielle Quelle/Stand nötig, keine Nummern erfinden",
-      "raw": "[PRÜFEN: Aktuelle offizielle Kontakt-/Notfallnummern der Bundeswehr-Stellen — offizielle Quelle/Stand nötig, keine Nummern erfinden]",
-      "sectionId": "12.8",
-      "topic": "Aktuelle offizielle Kontakt-/Notfallnummern der Bundeswehr-Stellen"
-    }
-  ],
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sections": [
     {
       "anchorSearchTitle": "Worum es in diesem Modul geht",
@@ -171,18 +141,6 @@
                 }
               ],
               "type": "paragraph"
-            },
-            {
-              "spans": [
-                {
-                  "text": "Konkrete Telefonnummern und Adressen erfährst du über deine Einheit oder die offiziellen Webseiten. "
-                },
-                {
-                  "reviewFlagId": "rf-12-1",
-                  "text": "[PRÜFEN: Aktuelle Kontaktdaten (Telefon/Adresse) der genannten Stellen — keine Nummern erfinden, offizielle Quelle/Stand nötig]"
-                }
-              ],
-              "type": "paragraph"
             }
           ],
           "id": "12.2.7",
@@ -301,15 +259,6 @@
           ]
         }
       ],
-      "reviewFlags": [
-        {
-          "id": "rf-12-2",
-          "note": "richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste",
-          "raw": "[PRÜFEN: Verbindliche „Mitzubringen\"-Liste für den ersten Diensttag im Neuen Wehrdienst — richtet sich nach individuellem Einberufungsschreiben; keine bundeseinheitliche offizielle Liste]",
-          "sectionId": "12.3",
-          "topic": "Verbindliche „Mitzubringen\"-Liste für den ersten Diensttag im Neuen Wehrdienst"
-        }
-      ],
       "title": "Checkliste „Packliste erster Tag\"",
       "type": "checklist"
     },
@@ -406,15 +355,6 @@
           ]
         }
       ],
-      "reviewFlags": [
-        {
-          "id": "rf-12-3",
-          "note": "variieren, keine bundeseinheitliche offizielle Liste",
-          "raw": "[PRÜFEN: Verbindliche „erste Woche\"-Pflichten je Dienststelle — variieren, keine bundeseinheitliche offizielle Liste]",
-          "sectionId": "12.4",
-          "topic": "Verbindliche „erste Woche\"-Pflichten je Dienststelle"
-        }
-      ],
       "title": "Checkliste „Erste Woche – was muss erledigt sein\"",
       "type": "checklist"
     },
@@ -423,11 +363,20 @@
       "id": "12.5",
       "items": [
         {
+          "abbr": "GA",
+          "id": "12.5-abbreviations-ga",
+          "meaning": [
+            {
+              "text": "Grundausbildung — Erste rund drei Monate der militärischen Ausbildung; vermittelt soldatische Grundfertigkeiten (siehe Modul 2). Bis Ende 2011 „AGA\"."
+            }
+          ]
+        },
+        {
           "abbr": "AGA",
           "id": "12.5-abbreviations-aga",
           "meaning": [
             {
-              "text": "Allgemeine Grundausbildung — Militärische Basisausbildung am Anfang deiner Dienstzeit (siehe Modul 2)."
+              "text": "Allgemeine Grundausbildung — Frühere (bis Ende 2011) Bezeichnung der Grundausbildung; umgangssprachlich weiter gebräuchlich (siehe Modul 2)."
             }
           ]
         },
@@ -445,7 +394,16 @@
           "id": "12.5-abbreviations-saz",
           "meaning": [
             {
-              "text": "Soldat:in auf Zeit — Status ab 12 Monaten Verpflichtung; im Neuen Wehrdienst auf min. 12 Monate gesenkt."
+              "text": "Soldat:in auf Zeit — Status ab 12 Monaten Verpflichtung; im Neuen Wehrdienst auf min. 12 Monate gesenkt (z. B. SaZ 4 = 4 Jahre)."
+            }
+          ]
+        },
+        {
+          "abbr": "BS",
+          "id": "12.5-abbreviations-bs",
+          "meaning": [
+            {
+              "text": "Berufssoldat:in — Soldat:in mit Verpflichtung bis zur Altersgrenze (Laufbahn auf Lebenszeit)."
             }
           ]
         },
@@ -495,6 +453,69 @@
           ]
         },
         {
+          "abbr": "GvD",
+          "id": "12.5-abbreviations-gvd",
+          "meaning": [
+            {
+              "text": "Gefreiter vom Dienst — Diensthabende:r Mannschaftssoldat:in zur Unterstützung des UvD."
+            }
+          ]
+        },
+        {
+          "abbr": "OvWa",
+          "id": "12.5-abbreviations-ovwa",
+          "meaning": [
+            {
+              "text": "Offizier vom Wachdienst — Wachvorgesetzte:r, verantwortlich für Sicherung und Disziplin der Wache."
+            }
+          ]
+        },
+        {
+          "abbr": "KpFw",
+          "id": "12.5-abbreviations-kpfw",
+          "meaning": [
+            {
+              "text": "Kompaniefeldwebel — „Spieß\"; verantwortlich für innere Organisation, Personal und Versorgung der Kompanie (siehe Slang/Spieß unten)."
+            }
+          ]
+        },
+        {
+          "abbr": "StOFw",
+          "id": "12.5-abbreviations-stofw",
+          "meaning": [
+            {
+              "text": "Standortfeldwebel — Feldwebel mit standortbezogenen Verwaltungs-/Organisationsaufgaben."
+            }
+          ]
+        },
+        {
+          "abbr": "Uffz",
+          "id": "12.5-abbreviations-uffz",
+          "meaning": [
+            {
+              "text": "Unteroffizier — Dienstgradgruppe der Unteroffiziere."
+            }
+          ]
+        },
+        {
+          "abbr": "Fw",
+          "id": "12.5-abbreviations-fw",
+          "meaning": [
+            {
+              "text": "Feldwebel — Dienstgrad bzw. -gruppe der Feldwebel."
+            }
+          ]
+        },
+        {
+          "abbr": "Lt",
+          "id": "12.5-abbreviations-lt",
+          "meaning": [
+            {
+              "text": "Leutnant — Erster Offiziersdienstgrad."
+            }
+          ]
+        },
+        {
           "abbr": "DV",
           "id": "12.5-abbreviations-dv",
           "meaning": [
@@ -504,11 +525,101 @@
           ]
         },
         {
+          "abbr": "ZDv",
+          "id": "12.5-abbreviations-zdv",
+          "meaning": [
+            {
+              "text": "Zentrale Dienstvorschrift — Verbindliche Vorschrift der Bundeswehr (das Vorschriftenwesen wurde teils modernisiert, z. B. „Allgemeine Regelung\"/„Zentralrichtlinie\")."
+            }
+          ]
+        },
+        {
+          "abbr": "DGA",
+          "id": "12.5-abbreviations-dga",
+          "meaning": [
+            {
+              "text": "Dienstgradabzeichen — Kennzeichnet den Dienstgrad an der Uniform (Schulterklappen/-stücke, Ärmel, Aufschiebeschlaufen)."
+            }
+          ]
+        },
+        {
           "abbr": "SAZV",
           "id": "12.5-abbreviations-sazv",
           "meaning": [
             {
               "text": "Soldatenarbeitszeitverordnung — Verordnung über die Arbeitszeit der Soldatinnen und Soldaten; gilt für Soldat:innen im Geschäftsbereich des BMVg (Quelle: gesetze-im-internet.de, SAZV, abgerufen 2026-06-01)."
+            }
+          ]
+        },
+        {
+          "abbr": "SG",
+          "id": "12.5-abbreviations-sg",
+          "meaning": [
+            {
+              "text": "Soldatengesetz — Gesetz über die Rechtsstellung der Soldat:innen (Pflichten und Rechte)."
+            }
+          ]
+        },
+        {
+          "abbr": "WDO",
+          "id": "12.5-abbreviations-wdo",
+          "meaning": [
+            {
+              "text": "Wehrdisziplinarordnung — Regelt Anerkennung besonderer Leistungen und Ahndung von Dienstvergehen."
+            }
+          ]
+        },
+        {
+          "abbr": "WBO",
+          "id": "12.5-abbreviations-wbo",
+          "meaning": [
+            {
+              "text": "Wehrbeschwerdeordnung — Regelt das Beschwerderecht der Soldat:innen."
+            }
+          ]
+        },
+        {
+          "abbr": "SBG",
+          "id": "12.5-abbreviations-sbg",
+          "meaning": [
+            {
+              "text": "Soldatinnen- und Soldatenbeteiligungsgesetz — Regelt Beteiligungsrechte (Vertrauenspersonen, Mitbestimmung)."
+            }
+          ]
+        },
+        {
+          "abbr": "InFü",
+          "id": "12.5-abbreviations-infue",
+          "meaning": [
+            {
+              "text": "Innere Führung — Führungsphilosophie/Leitbild „Staatsbürger:in in Uniform\"."
+            }
+          ]
+        },
+        {
+          "abbr": "UZwGBw",
+          "id": "12.5-abbreviations-uzwgbw",
+          "meaning": [
+            {
+              "text": "Gesetz über die Anwendung unmittelbaren Zwanges durch Soldaten der Bundeswehr — Rechtsgrundlage für Wach-/Sicherungsaufgaben."
+            }
+          ]
+        },
+        {
+          "abbr": "WBK",
+          "id": "12.5-abbreviations-wbk",
+          "meaning": [
+            {
+              "text": "Waffenbesitzkarte — Erlaubnis zum Besitz erlaubnispflichtiger Schusswaffen und Munition."
+            }
+          ]
+        },
+        {
+          "abbr": "San",
+          "id": "12.5-abbreviations-san",
+          "meaning": [
+            {
+              "text": "Sanitäter:in / Sanitätsdienst — Medizinisches Personal bzw. Sanitätsbereich; auch als Vorsilbe (z. B. SanDstBw)."
             }
           ]
         },
@@ -527,6 +638,69 @@
           "meaning": [
             {
               "text": "Erste Hilfe — Sofortmaßnahmen bei Verletzung/Notfall."
+            }
+          ]
+        },
+        {
+          "abbr": "EPa",
+          "id": "12.5-abbreviations-epa",
+          "meaning": [
+            {
+              "text": "Einmannpackung — Verpflegungspaket für eine:n Soldat:in (z. B. im Feld)."
+            }
+          ]
+        },
+        {
+          "abbr": "MG",
+          "id": "12.5-abbreviations-mg",
+          "meaning": [
+            {
+              "text": "Maschinengewehr — Automatische Unterstützungswaffe."
+            }
+          ]
+        },
+        {
+          "abbr": "Btl",
+          "id": "12.5-abbreviations-btl",
+          "meaning": [
+            {
+              "text": "Bataillon — Truppenverband aus mehreren Kompanien."
+            }
+          ]
+        },
+        {
+          "abbr": "Kp",
+          "id": "12.5-abbreviations-kp",
+          "meaning": [
+            {
+              "text": "Kompanie — Truppeneinheit aus mehreren Zügen; deine „Heimat\" in der Grundausbildung."
+            }
+          ]
+        },
+        {
+          "abbr": "Zg",
+          "id": "12.5-abbreviations-zg",
+          "meaning": [
+            {
+              "text": "Zug — Untereinheit der Kompanie, mehrere Gruppen."
+            }
+          ]
+        },
+        {
+          "abbr": "Gru",
+          "id": "12.5-abbreviations-gru",
+          "meaning": [
+            {
+              "text": "Gruppe — Kleinste Gliederungseinheit."
+            }
+          ]
+        },
+        {
+          "abbr": "DZE",
+          "id": "12.5-abbreviations-dze",
+          "meaning": [
+            {
+              "text": "Dienstzeitende — Ende der Dienstzeit/des Wehrdienstverhältnisses."
             }
           ]
         }
@@ -598,6 +772,24 @@
           ],
           "id": "12.6-slang-sanibereich",
           "term": "Sanibereich"
+        },
+        {
+          "explanation": [
+            {
+              "text": "Geländeübung mit Übernachtung im Feld (scherzhaft aufgelöst als „Bundeswehr im Wald außer Kontrolle\")."
+            }
+          ],
+          "id": "12.6-slang-biwak-biwak",
+          "term": "Biwak\" / „BiWaK"
+        },
+        {
+          "explanation": [
+            {
+              "text": "spöttische Verdrehung von „AGA\" für die Grundausbildung."
+            }
+          ],
+          "id": "12.6-slang-gaga",
+          "term": "GaGa"
         }
       ],
       "title": "Soldatensprache / Slang – kurz erklärt",
@@ -768,18 +960,6 @@
           ],
           "ordered": false,
           "type": "list"
-        },
-        {
-          "spans": [
-            {
-              "text": "Aus gutem Grund nennen wir hier keine spezifischen dienstlichen Telefonnummern – die erfährst du verbindlich über deine Einheit und die offiziellen Webseiten. "
-            },
-            {
-              "reviewFlagId": "rf-12-4",
-              "text": "[PRÜFEN: Aktuelle offizielle Kontakt-/Notfallnummern der Bundeswehr-Stellen — offizielle Quelle/Stand nötig, keine Nummern erfinden]"
-            }
-          ],
-          "type": "paragraph"
         }
       ],
       "id": "12.8",
@@ -805,6 +985,9 @@
     },
     {
       "label": "Bundeswehr: „Spieße – die Mütter der Kompanien\" (bundeswehr.de), abgerufen 2026-06-01 – Funktion Kompaniefeldwebel."
+    },
+    {
+      "label": "Abkürzungs-Lexikon: Wikipedia „Liste militärischer Abkürzungen\" und Fachartikel (Grundausbildung, Wachdienst, Waffenbesitzkarte, Wehrdisziplinarordnung), agabund.de, einstellungstest-bundeswehr.de sowie gesetze-im-internet.de (SG, WDO, WBO, SAZV); abgerufen 2026-06-02. Die verbindliche Primärquelle (Datenbank für Abkürzungen der Bundeswehr, DBAbkBw) ist nur im Bundeswehr-Intranet zugänglich. Mehrdeutige/unbestätigte Einträge (z. B. „DU\", „EAKK\") bleiben offen bzw. weggelassen."
     },
     {
       "label": "Konkrete Telefonnummern, Adressen und dienststellenspezifische Checklisten werden bewusst nicht erfunden und bleiben mit `[PRÜFEN]` markiert."

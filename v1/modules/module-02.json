@@ -2,23 +2,7 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
   "id": 2,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-2-1",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Konkrete Liste der verpflichtenden Leistungsnachweise/Prüfungen in der Grundausbildung — offizielle Quelle/Stand nötig]",
-      "sectionId": "2.4.2",
-      "topic": "Konkrete Liste der verpflichtenden Leistungsnachweise/Prüfungen in der Grundausbildung"
-    },
-    {
-      "id": "rf-2-2",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Konkrete Regelungen zu Wiederholung nicht bestandener Prüfungen/BFT im Wehrdienst — offizielle Quelle/Stand nötig]",
-      "sectionId": "2.6.4",
-      "topic": "Konkrete Regelungen zu Wiederholung nicht bestandener Prüfungen/BFT im Wehrdienst"
-    }
-  ],
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sections": [
     {
       "anchorSearchTitle": "Worum es in diesem Modul geht",
@@ -46,7 +30,6 @@
     },
     {
       "anchorSearchTitle": "Was ist die Grundausbildung? Ziel, Dauer, Ablauf",
-      "blocks": [],
       "id": "2.2",
       "subsections": [
         {
@@ -160,7 +143,6 @@
     },
     {
       "anchorSearchTitle": "Ausbildungsinhalte",
-      "blocks": [],
       "id": "2.3",
       "subsections": [
         {
@@ -300,7 +282,6 @@
     },
     {
       "anchorSearchTitle": "Leistungsnachweise",
-      "blocks": [],
       "id": "2.4",
       "subsections": [
         {
@@ -427,24 +408,6 @@
           ],
           "id": "2.4.1",
           "title": "Basis-Fitness-Test (BFT)"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Neben dem BFT gibt es weitere Nachweise und Überprüfungen, etwa im Schießen, in der Waffenhandhabung und in den ausgebildeten Grundfertigkeiten, oft abschließend in einer Rekrutenbesichtigung. "
-                },
-                {
-                  "reviewFlagId": "rf-2-1",
-                  "text": "[PRÜFEN: Konkrete Liste der verpflichtenden Leistungsnachweise/Prüfungen in der Grundausbildung — offizielle Quelle/Stand nötig]"
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "2.4.2",
-          "title": "Weitere Prüfungen"
         }
       ],
       "title": "Leistungsnachweise",
@@ -452,7 +415,6 @@
     },
     {
       "anchorSearchTitle": "Gelöbnis und Vereidigung",
-      "blocks": [],
       "id": "2.5",
       "subsections": [
         {
@@ -526,7 +488,6 @@
     },
     {
       "anchorSearchTitle": "Wie du gut durchkommst",
-      "blocks": [],
       "id": "2.6",
       "subsections": [
         {
@@ -622,24 +583,6 @@
           ],
           "id": "2.6.3",
           "title": "Praktische Tipps"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Einen Test nicht direkt zu bestehen, ist nicht das Ende. Häufig gibt es Wiederholungsmöglichkeiten und gezielte Unterstützung. Sprich offen mit deiner Ausbildung darüber, woran es hakt. Wichtiger als ein perfekter erster Versuch ist, dass du dranbleibst und dich verbesserst. "
-                },
-                {
-                  "reviewFlagId": "rf-2-2",
-                  "text": "[PRÜFEN: Konkrete Regelungen zu Wiederholung nicht bestandener Prüfungen/BFT im Wehrdienst — offizielle Quelle/Stand nötig]"
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "2.6.4",
-          "title": "Wenn du etwas nicht bestehst"
         }
       ],
       "title": "Wie du gut durchkommst",

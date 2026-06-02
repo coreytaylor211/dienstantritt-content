@@ -2,37 +2,7 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
   "id": 3,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-3-1",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Konkrete Beförderungszeitpunkte und erreichbare Mannschaftsdienstgrade im Neuen Wehrdienst (FWDL/SaZ) — offizielle Quelle/Stand nötig]",
-      "sectionId": "3.2.2",
-      "topic": "Konkrete Beförderungszeitpunkte und erreichbare Mannschaftsdienstgrade im Neuen Wehrdienst (FWDL/SaZ)"
-    },
-    {
-      "id": "rf-3-2",
-      "note": "offizielle Quelle (z. B. Vorgesetztenverordnung / Dienstvorschriften) / Stand nötig",
-      "raw": "[PRÜFEN: Verbindliche Details der Anredeformen und Meldeformeln (z. B. genaue Wortlaute) — offizielle Quelle (z. B. Vorgesetztenverordnung / Dienstvorschriften) / Stand nötig]",
-      "sectionId": "3.4.3",
-      "topic": "Verbindliche Details der Anredeformen und Meldeformeln (z. B. genaue Wortlaute)"
-    },
-    {
-      "id": "rf-3-3",
-      "note": "offizielle Quelle/Stand nötig; hier nur Grundprinzip, keine verbindlichen Detailregeln",
-      "raw": "[PRÜFEN: Genaue Grußregeln (mit/ohne Kopfbedeckung, drinnen/draußen, Ausnahmen) nach gültiger Dienstvorschrift — offizielle Quelle/Stand nötig; hier nur Grundprinzip, keine verbindlichen Detailregeln]",
-      "sectionId": "3.5.3",
-      "topic": "Genaue Grußregeln (mit/ohne Kopfbedeckung, drinnen/draußen, Ausnahmen) nach gültiger Dienstvorschrift"
-    },
-    {
-      "id": "rf-3-4",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Exakte Beschreibung der Mannschafts-Dienstgradabzeichen je Teilstreitkraft (Anzahl/Form der Winkel/Sterne) — offizielle Quelle/Stand nötig]",
-      "sectionId": "3.7",
-      "topic": "Exakte Beschreibung der Mannschafts-Dienstgradabzeichen je Teilstreitkraft (Anzahl/Form der Winkel/Sterne)"
-    }
-  ],
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sections": [
     {
       "anchorSearchTitle": "Worum es in diesem Modul geht",
@@ -235,24 +205,6 @@
           ],
           "id": "3.2.1",
           "title": "Reihenfolge der Mannschaftsdienstgrade"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Nach der Grundausbildung ist eine erste Beförderung üblich – in öffentlichen Darstellungen wird häufig die Beförderung zum Gefreiten nach rund drei Monaten genannt, verbunden mit etwas mehr Sold. Wie weit du innerhalb der Mannschaftslaufbahn während deiner Wehrdienstzeit aufsteigen kannst, hängt von Dienstdauer, Eignung und Verwendung ab. "
-                },
-                {
-                  "reviewFlagId": "rf-3-1",
-                  "text": "[PRÜFEN: Konkrete Beförderungszeitpunkte und erreichbare Mannschaftsdienstgrade im Neuen Wehrdienst (FWDL/SaZ) — offizielle Quelle/Stand nötig]"
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "3.2.2",
-          "title": "Aufstieg während des Wehrdienstes"
         }
       ],
       "title": "Mannschaftsdienstgrade und möglicher Aufstieg",
@@ -342,7 +294,6 @@
     },
     {
       "anchorSearchTitle": "Korrekte Anrede je Dienstgrad",
-      "blocks": [],
       "id": "3.4",
       "subsections": [
         {
@@ -438,15 +389,6 @@
                 }
               ],
               "type": "paragraph"
-            },
-            {
-              "spans": [
-                {
-                  "reviewFlagId": "rf-3-2",
-                  "text": "[PRÜFEN: Verbindliche Details der Anredeformen und Meldeformeln (z. B. genaue Wortlaute) — offizielle Quelle (z. B. Vorgesetztenverordnung / Dienstvorschriften) / Stand nötig]"
-                }
-              ],
-              "type": "paragraph"
             }
           ],
           "id": "3.4.3",
@@ -531,15 +473,6 @@
                 }
               ],
               "type": "paragraph"
-            },
-            {
-              "spans": [
-                {
-                  "reviewFlagId": "rf-3-3",
-                  "text": "[PRÜFEN: Genaue Grußregeln (mit/ohne Kopfbedeckung, drinnen/draußen, Ausnahmen) nach gültiger Dienstvorschrift — offizielle Quelle/Stand nötig; hier nur Grundprinzip, keine verbindlichen Detailregeln]"
-                }
-              ],
-              "type": "paragraph"
             }
           ],
           "id": "3.5.3",
@@ -551,7 +484,6 @@
     },
     {
       "anchorSearchTitle": "Militärische Umgangsformen",
-      "blocks": [],
       "id": "3.6",
       "subsections": [
         {
@@ -686,7 +618,14 @@
         {
           "spans": [
             {
-              "text": "Die genaue grafische Gestaltung unterscheidet sich zwischen Heer, Luftwaffe, Marine und Sanitätsdienst. Eine zuverlässige textliche Eins-zu-eins-Zuordnung „Dienstgrad → genaues Abzeichen\" gehört verifiziert, statt sie zu raten."
+              "text": "Die genaue grafische Gestaltung unterscheidet sich zwischen Heer, Luftwaffe, Marine und Sanitätsdienst. Die folgende Übersicht zeigt die schematischen Abzeichen der "
+            },
+            {
+              "bold": true,
+              "text": "Heer"
+            },
+            {
+              "text": "-Mannschaften."
             }
           ],
           "type": "paragraph"
@@ -694,8 +633,7 @@
         {
           "spans": [
             {
-              "reviewFlagId": "rf-3-4",
-              "text": "[PRÜFEN: Exakte Beschreibung der Mannschafts-Dienstgradabzeichen je Teilstreitkraft (Anzahl/Form der Winkel/Sterne) — offizielle Quelle/Stand nötig]"
+              "text": "Die Abzeichen-Grafiken stammen von Wikimedia Commons (Urheber: Pmox) und stehen unter der Lizenz CC BY-SA 3.0. Sie sind schematisch; die exakte aktuelle Ausführung (Truppenfarben, Marine/Luftwaffe/Sanität) kann abweichen."
             }
           ],
           "type": "paragraph"
@@ -704,6 +642,93 @@
       "id": "3.7",
       "title": "Übersicht der Mannschafts-Dienstgradabzeichen (in Textform)",
       "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Glossar der Mannschaftsdienstgrade (mit Abzeichen)",
+      "id": "3.8",
+      "items": [
+        {
+          "definition": [
+            {
+              "text": "Unterster Mannschaftsdienstgrad (OR-1 „Soldat“), je nach Truppengattung anders benannt; trägt kein Dienstgradabzeichen. Besoldungsgruppe A 3 (Einstieg)."
+            }
+          ],
+          "id": "3.8-glossary-schuetze-jaeger-grenadier",
+          "term": "Schütze / Jäger / Grenadier"
+        },
+        {
+          "definition": [
+            {
+              "text": "Erste Beförderungsstufe der Mannschaften. Besoldungsgruppe A 3."
+            }
+          ],
+          "id": "3.8-glossary-gefreiter",
+          "image": {
+            "alt": "Dienstgradabzeichen Gefreiter (Heer)",
+            "asset": "dienstgrade/heer/011.svg",
+            "attribution": "© Pmox / Wikimedia Commons, CC BY-SA 3.0"
+          },
+          "term": "Gefreiter"
+        },
+        {
+          "definition": [
+            {
+              "text": "Nächsthöherer Mannschaftsdienstgrad. Besoldungsgruppe A 3."
+            }
+          ],
+          "id": "3.8-glossary-obergefreiter",
+          "image": {
+            "alt": "Dienstgradabzeichen Obergefreiter (Heer)",
+            "asset": "dienstgrade/heer/021.svg",
+            "attribution": "© Pmox / Wikimedia Commons, CC BY-SA 3.0"
+          },
+          "term": "Obergefreiter"
+        },
+        {
+          "definition": [
+            {
+              "text": "Erfahrener Mannschaftsdienstgrad. Besoldungsgruppe A 4 (mit Amtszulage)."
+            }
+          ],
+          "id": "3.8-glossary-hauptgefreiter",
+          "image": {
+            "alt": "Dienstgradabzeichen Hauptgefreiter (Heer)",
+            "asset": "dienstgrade/heer/031.svg",
+            "attribution": "© Pmox / Wikimedia Commons, CC BY-SA 3.0"
+          },
+          "term": "Hauptgefreiter"
+        },
+        {
+          "definition": [
+            {
+              "text": "Höherer Mannschaftsdienstgrad. Besoldungsgruppe bis A 6."
+            }
+          ],
+          "id": "3.8-glossary-stabsgefreiter",
+          "image": {
+            "alt": "Dienstgradabzeichen Stabsgefreiter (Heer)",
+            "asset": "dienstgrade/heer/041.svg",
+            "attribution": "© Pmox / Wikimedia Commons, CC BY-SA 3.0"
+          },
+          "term": "Stabsgefreiter"
+        },
+        {
+          "definition": [
+            {
+              "text": "Höchster Mannschaftsdienstgrad. Besoldungsgruppe bis A 6."
+            }
+          ],
+          "id": "3.8-glossary-oberstabsgefreiter",
+          "image": {
+            "alt": "Dienstgradabzeichen Oberstabsgefreiter (Heer)",
+            "asset": "dienstgrade/heer/051.svg",
+            "attribution": "© Pmox / Wikimedia Commons, CC BY-SA 3.0"
+          },
+          "term": "Oberstabsgefreiter"
+        }
+      ],
+      "title": "Glossar der Mannschaftsdienstgrade (mit Abzeichen)",
+      "type": "glossary"
     }
   ],
   "sources": [
@@ -717,7 +742,14 @@
       "label": "gesetze-im-internet.de: § 11 Soldatengesetz (SG), abgerufen 2026-06-01 – Gehorsam und seine Grenzen (Menschenwürde, dienstlicher Zweck, Straftat)."
     },
     {
-      "label": "Detailregeln zu Grußpflicht, genauen Meldeformeln, der grafischen Gestaltung der Dienstgradabzeichen und zu konkreten Beförderungszeitpunkten sind in nicht öffentlich einsehbaren Dienstvorschriften geregelt und bleiben mit `[PRÜFEN]` markiert."
+      "label": "Dienstgradabzeichen (Heer-Mannschaften): schematische SVG-Grafiken von Wikimedia Commons, Urheber Pmox, lizenziert unter CC BY-SA 3.0 ( abgerufen 2026-06-02. OR-1 („Soldat\"/Schütze/Jäger/Grenadier) trägt kein Abzeichen.",
+      "url": "https://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "label": "Zuordnung Dienstgrad → Besoldungsgruppe (A 3 ff.): bundeswehr.de „Gehalt in der Bundeswehr\" (20.02.2025) und besoldung-bundeswehr.de „Laufbahnen\"; abgerufen 2026-06-02 (siehe Modul 4)."
+    },
+    {
+      "label": "Detailregeln zu Grußpflicht, genauen Meldeformeln, der grafischen Gestaltung der Dienstgradabzeichen von Luftwaffe/Marine/Sanität und zu konkreten Beförderungszeitpunkten sind in nicht öffentlich einsehbaren Dienstvorschriften geregelt und bleiben mit `[PRÜFEN]` markiert."
     }
   ],
   "title": "Dienstgrade, Vorgesetzte & Umgangsformen",

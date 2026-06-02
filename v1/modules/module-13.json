@@ -2,65 +2,7 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Bei verbindlichen Fragen wende dich an deine Vorgesetzten oder die offiziellen Stellen.",
   "id": 13,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-13-1",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Konkrete Handy-/Nutzungsregeln und Sicherheitsbereiche im Dienst — offizielle Quelle/Stand nötig]",
-      "sectionId": "13.2",
-      "topic": "Konkrete Handy-/Nutzungsregeln und Sicherheitsbereiche im Dienst"
-    },
-    {
-      "id": "rf-13-2",
-      "note": "offizielle Quelle/Stand nötig; nicht schätzen",
-      "raw": "[PRÜFEN: Konkrete Netto-Beträge/Abzüge für FWDL und SaZ — offizielle Quelle/Stand nötig; nicht schätzen]",
-      "sectionId": "13.2",
-      "topic": "Konkrete Netto-Beträge/Abzüge für FWDL und SaZ"
-    },
-    {
-      "id": "rf-13-3",
-      "note": "offizielle Quelle/Stand nötig; keine Rechtsberatung",
-      "raw": "[PRÜFEN: Ob das Wehrdienstmodernisierungsgesetz (ab 01.01.2026) die Probezeit-/Beendigungsregelungen gegenüber § 58b/§ 55 SG verändert hat — offizielle Quelle/Stand nötig; keine Rechtsberatung]",
-      "sectionId": "13.2",
-      "topic": "Ob das Wehrdienstmodernisierungsgesetz (ab 01.01.2026) die Probezeit-/Beendigungsregelungen gegenüber § 58b/§ 55 SG verändert hat"
-    },
-    {
-      "id": "rf-13-4",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Konkrete Regelungen zu Wiederholung des BFT/nicht bestandener Prüfungen im Wehrdienst — offizielle Quelle/Stand nötig]",
-      "sectionId": "13.2",
-      "topic": "Konkrete Regelungen zu Wiederholung des BFT/nicht bestandener Prüfungen im Wehrdienst"
-    },
-    {
-      "id": "rf-13-5",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Regelungen zu Wochenend-/Heimfahrten und Ausgang in der Grundausbildung — offizielle Quelle/Stand nötig]",
-      "sectionId": "13.2",
-      "topic": "Regelungen zu Wochenend-/Heimfahrten und Ausgang in der Grundausbildung"
-    },
-    {
-      "id": "rf-13-6",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Genaues Verfahren der Krankmeldung und Dienstunfähigkeit im Wehrdienst — offizielle Quelle/Stand nötig]",
-      "sectionId": "13.2",
-      "topic": "Genaues Verfahren der Krankmeldung und Dienstunfähigkeit im Wehrdienst"
-    },
-    {
-      "id": "rf-13-7",
-      "note": "offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Verfahren/Fristen für Verlängerung und Wechsel FWDL → SaZ — offizielle Quelle/Stand nötig]",
-      "sectionId": "13.2",
-      "topic": "Verfahren/Fristen für Verlängerung und Wechsel FWDL → SaZ"
-    },
-    {
-      "id": "rf-13-8",
-      "note": "variiert je Dienststelle, offizielle Quelle/Stand nötig",
-      "raw": "[PRÜFEN: Konkrete Stuben-/Hausordnung und verbotene Gegenstände — variiert je Dienststelle, offizielle Quelle/Stand nötig]",
-      "sectionId": "13.2",
-      "topic": "Konkrete Stuben-/Hausordnung und verbotene Gegenstände"
-    }
-  ],
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sections": [
     {
       "anchorSearchTitle": "Worum es in diesem Modul geht",
@@ -85,157 +27,11 @@
         {
           "answer": [
             {
-              "text": "Ein eigenes Handy darfst du grundsätzlich mitbringen. Im Dienst, in der Ausbildung und in bestimmten Bereichen gibt es aber Einschränkungen, wann und wo du es nutzen darfst (z. B. nicht während Unterricht, Schießen oder in Sicherheitsbereichen). Halte dich an die Vorgaben deiner Einheit. "
-            },
-            {
-              "reviewFlagId": "rf-13-1",
-              "text": "[PRÜFEN: Konkrete Handy-/Nutzungsregeln und Sicherheitsbereiche im Dienst — offizielle Quelle/Stand nötig]"
-            }
-          ],
-          "id": "13.2-faq-darf-ich-mein-handy-behalten-und-benutzen",
-          "question": "Darf ich mein Handy behalten und benutzen?",
-          "reviewFlags": [
-            {
-              "id": "rf-13-1",
-              "note": "offizielle Quelle/Stand nötig",
-              "raw": "[PRÜFEN: Konkrete Handy-/Nutzungsregeln und Sicherheitsbereiche im Dienst — offizielle Quelle/Stand nötig]",
-              "sectionId": "13.2",
-              "topic": "Konkrete Handy-/Nutzungsregeln und Sicherheitsbereiche im Dienst"
-            }
-          ]
-        },
-        {
-          "answer": [
-            {
-              "text": "Der Einstieg liegt bei mindestens "
-            },
-            {
-              "bold": true,
-              "text": "2.600 € brutto"
-            },
-            {
-              "text": " im Monat (FWDL), bei SaZ etwas höher (rund 2.700 € brutto; Quelle: bundesregierung.de/bundeswehr.de, Stand 2026). „Brutto\" ist vor Abzügen. Wie viel netto übrig bleibt, hängt von Steuern, Abgaben und deiner Situation ab – das siehst du auf deiner Bezügeabrechnung. "
-            },
-            {
-              "reviewFlagId": "rf-13-2",
-              "text": "[PRÜFEN: Konkrete Netto-Beträge/Abzüge für FWDL und SaZ — offizielle Quelle/Stand nötig; nicht schätzen]"
-            }
-          ],
-          "id": "13.2-faq-wie-viel-geld-habe-ich-am-ende-wirklich-netto",
-          "question": "Wie viel Geld habe ich am Ende wirklich (netto)?",
-          "reviewFlags": [
-            {
-              "id": "rf-13-2",
-              "note": "offizielle Quelle/Stand nötig; nicht schätzen",
-              "raw": "[PRÜFEN: Konkrete Netto-Beträge/Abzüge für FWDL und SaZ — offizielle Quelle/Stand nötig; nicht schätzen]",
-              "sectionId": "13.2",
-              "topic": "Konkrete Netto-Beträge/Abzüge für FWDL und SaZ"
-            }
-          ]
-        },
-        {
-          "answer": [
-            {
               "text": "Unterkunft, Dienstkleidung, Ausrüstung und die medizinische Versorgung sind gestellt. Selbst zahlst du persönliche Dinge (Hygiene über Standard, Freizeit, Handyvertrag, private Kleidung). Details und kostenlose Bahnfahrten in Uniform stehen in Modul 4."
             }
           ],
           "id": "13.2-faq-was-kostet-mich-der-dienst-muss-ich-fuer-irgende",
           "question": "Was kostet mich der Dienst – muss ich für irgendetwas zahlen?"
-        },
-        {
-          "answer": [
-            {
-              "text": "Der Neue Wehrdienst ist freiwillig, hat aber eine Mindestdauer von 6 Monaten, und du gehst eine Verpflichtung ein. Für den freiwilligen Wehrdienst (FWDL) gelten nach § 58b Soldatengesetz die "
-            },
-            {
-              "bold": true,
-              "text": "ersten sechs Monate als Probezeit"
-            },
-            {
-              "text": "; die Dienstzeit reicht von mindestens 6 bis längstens 11 Monaten (Quelle: gesetze-im-internet.de, § 58b SG, abgerufen 2026-06-01). Daneben gibt es geregelte Gründe für eine vorzeitige Beendigung – etwa eine Entlassung auf eigenen Antrag, wenn das Verbleiben im Dienst eine besondere Härte bedeuten würde (für SaZ vgl. § 55 Abs. 3 SG). Welche Fristen und Bedingungen konkret für dich gelten, hängt von deinem Status (FWDL/SaZ) und deinem Vertrag ab – kläre das mit der zuständigen Stelle, bevor du etwas entscheidest. "
-            },
-            {
-              "reviewFlagId": "rf-13-3",
-              "text": "[PRÜFEN: Ob das Wehrdienstmodernisierungsgesetz (ab 01.01.2026) die Probezeit-/Beendigungsregelungen gegenüber § 58b/§ 55 SG verändert hat — offizielle Quelle/Stand nötig; keine Rechtsberatung]"
-            }
-          ],
-          "id": "13.2-faq-kann-ich-den-dienst-vorzeitig-beenden",
-          "question": "Kann ich den Dienst vorzeitig beenden?",
-          "reviewFlags": [
-            {
-              "id": "rf-13-3",
-              "note": "offizielle Quelle/Stand nötig; keine Rechtsberatung",
-              "raw": "[PRÜFEN: Ob das Wehrdienstmodernisierungsgesetz (ab 01.01.2026) die Probezeit-/Beendigungsregelungen gegenüber § 58b/§ 55 SG verändert hat — offizielle Quelle/Stand nötig; keine Rechtsberatung]",
-              "sectionId": "13.2",
-              "topic": "Ob das Wehrdienstmodernisierungsgesetz (ab 01.01.2026) die Probezeit-/Beendigungsregelungen gegenüber § 58b/§ 55 SG verändert hat"
-            }
-          ]
-        },
-        {
-          "answer": [
-            {
-              "text": "Kein Weltuntergang. In der Regel gibt es Wiederholungsmöglichkeiten und Unterstützung, um dich zu verbessern. Sprich offen mit deiner Ausbildung. Wichtiger als der erste Versuch ist, dass du dranbleibst. "
-            },
-            {
-              "reviewFlagId": "rf-13-4",
-              "text": "[PRÜFEN: Konkrete Regelungen zu Wiederholung des BFT/nicht bestandener Prüfungen im Wehrdienst — offizielle Quelle/Stand nötig]"
-            }
-          ],
-          "id": "13.2-faq-was-passiert-wenn-ich-den-fitness-test-bft-nicht",
-          "question": "Was passiert, wenn ich den Fitness-Test (BFT) nicht bestehe?",
-          "reviewFlags": [
-            {
-              "id": "rf-13-4",
-              "note": "offizielle Quelle/Stand nötig",
-              "raw": "[PRÜFEN: Konkrete Regelungen zu Wiederholung des BFT/nicht bestandener Prüfungen im Wehrdienst — offizielle Quelle/Stand nötig]",
-              "sectionId": "13.2",
-              "topic": "Konkrete Regelungen zu Wiederholung des BFT/nicht bestandener Prüfungen im Wehrdienst"
-            }
-          ]
-        },
-        {
-          "answer": [
-            {
-              "text": "Häufig hast du am Wochenende dienstfrei und kannst nach Hause fahren – besonders in Uniform mit der Bahn kostenlos. In der Grundausbildung und je nach Dienstplan, Wachdiensten oder Übungen kann das aber eingeschränkt sein. Verlass dich auf den Plan deiner Einheit, nicht auf Annahmen. "
-            },
-            {
-              "reviewFlagId": "rf-13-5",
-              "text": "[PRÜFEN: Regelungen zu Wochenend-/Heimfahrten und Ausgang in der Grundausbildung — offizielle Quelle/Stand nötig]"
-            }
-          ],
-          "id": "13.2-faq-habe-ich-am-wochenende-frei-kann-ich-nach-hause",
-          "question": "Habe ich am Wochenende frei? Kann ich nach Hause?",
-          "reviewFlags": [
-            {
-              "id": "rf-13-5",
-              "note": "offizielle Quelle/Stand nötig",
-              "raw": "[PRÜFEN: Regelungen zu Wochenend-/Heimfahrten und Ausgang in der Grundausbildung — offizielle Quelle/Stand nötig]",
-              "sectionId": "13.2",
-              "topic": "Regelungen zu Wochenend-/Heimfahrten und Ausgang in der Grundausbildung"
-            }
-          ]
-        },
-        {
-          "answer": [
-            {
-              "text": "Melde dich nach den Vorgaben deiner Einheit krank und geh zum Sanitätsbereich/Truppenarzt. Die medizinische Versorgung läuft über den Sanitätsdienst der Bundeswehr; eigene Krankenkassenbeiträge dafür fallen nicht an. Kuriere dich nicht heimlich aus – melde es. "
-            },
-            {
-              "reviewFlagId": "rf-13-6",
-              "text": "[PRÜFEN: Genaues Verfahren der Krankmeldung und Dienstunfähigkeit im Wehrdienst — offizielle Quelle/Stand nötig]"
-            }
-          ],
-          "id": "13.2-faq-was-ist-wenn-ich-krank-werde",
-          "question": "Was ist, wenn ich krank werde?",
-          "reviewFlags": [
-            {
-              "id": "rf-13-6",
-              "note": "offizielle Quelle/Stand nötig",
-              "raw": "[PRÜFEN: Genaues Verfahren der Krankmeldung und Dienstunfähigkeit im Wehrdienst — offizielle Quelle/Stand nötig]",
-              "sectionId": "13.2",
-              "topic": "Genaues Verfahren der Krankmeldung und Dienstunfähigkeit im Wehrdienst"
-            }
-          ]
         },
         {
           "answer": [
@@ -259,28 +55,6 @@
           ],
           "id": "13.2-faq-bekomme-ich-urlaub",
           "question": "Bekomme ich Urlaub?"
-        },
-        {
-          "answer": [
-            {
-              "text": "Ja, das ist gerade der Sinn des gestaffelten Modells: Du kannst kürzer (6–11 Monate, FWDL) bleiben oder dich für 12 Monate oder länger als SaZ verpflichten – mit etwas höherem Sold und Zugang zu Extras wie dem Führerschein-Zuschuss (ab 12 Monaten). Besprich eine Verlängerung rechtzeitig mit der zuständigen Stelle. "
-            },
-            {
-              "reviewFlagId": "rf-13-7",
-              "text": "[PRÜFEN: Verfahren/Fristen für Verlängerung und Wechsel FWDL → SaZ — offizielle Quelle/Stand nötig]"
-            }
-          ],
-          "id": "13.2-faq-darf-ich-nach-6-monaten-verlaengern-oder-soldat",
-          "question": "Darf ich nach 6 Monaten verlängern oder Soldat:in auf Zeit werden?",
-          "reviewFlags": [
-            {
-              "id": "rf-13-7",
-              "note": "offizielle Quelle/Stand nötig",
-              "raw": "[PRÜFEN: Verfahren/Fristen für Verlängerung und Wechsel FWDL → SaZ — offizielle Quelle/Stand nötig]",
-              "sectionId": "13.2",
-              "topic": "Verfahren/Fristen für Verlängerung und Wechsel FWDL → SaZ"
-            }
-          ]
         },
         {
           "answer": [
@@ -329,28 +103,6 @@
           ],
           "id": "13.2-faq-komme-ich-um-meinen-willen-zur-bundeswehr-wehrpf",
           "question": "Komme ich um meinen Willen zur Bundeswehr (Wehrpflicht)?"
-        },
-        {
-          "answer": [
-            {
-              "text": "Persönliche Dinge sind in der Regel erlaubt, aber es gibt Vorgaben zu Ordnung, Sicherheit und verbotenen Gegenständen (z. B. Waffen, bestimmte Substanzen). Was konkret erlaubt ist, sagt dir deine Einheit – im Zweifel nachfragen. "
-            },
-            {
-              "reviewFlagId": "rf-13-8",
-              "text": "[PRÜFEN: Konkrete Stuben-/Hausordnung und verbotene Gegenstände — variiert je Dienststelle, offizielle Quelle/Stand nötig]"
-            }
-          ],
-          "id": "13.2-faq-was-darf-ich-auf-der-stube-haben-und-was-nicht",
-          "question": "Was darf ich auf der Stube haben – und was nicht?",
-          "reviewFlags": [
-            {
-              "id": "rf-13-8",
-              "note": "variiert je Dienststelle, offizielle Quelle/Stand nötig",
-              "raw": "[PRÜFEN: Konkrete Stuben-/Hausordnung und verbotene Gegenstände — variiert je Dienststelle, offizielle Quelle/Stand nötig]",
-              "sectionId": "13.2",
-              "topic": "Konkrete Stuben-/Hausordnung und verbotene Gegenstände"
-            }
-          ]
         },
         {
           "answer": [
