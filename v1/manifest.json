@@ -1,11 +1,11 @@
 {
-  "contentVersion": "2026.06.02b",
+  "contentVersion": "2026.06.02",
   "generatedAt": "2026-06-02T00:00:00Z",
   "keyId": "k1",
   "modules": [
     {
-      "bytes": 12309,
-      "checksum": "sha256:5f0c2c4a9ee380d4576e42512707fa2e9007a5c0e1c2bdfb6830d9577d6474e7",
+      "bytes": 14375,
+      "checksum": "sha256:ee432a1e02a11545a8947e39bdbd8ac76cefe743e41c5ecfb80ded7b73418223",
       "file": "modules/module-01.json",
       "id": 1,
       "title": "Ankommen & erste Tage",
@@ -13,8 +13,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 15441,
-      "checksum": "sha256:8d7a9d62cb6a0a7a1b571750f02fcd09226f57fa28f2f916f1f5832454054297",
+      "bytes": 16600,
+      "checksum": "sha256:f5d2c3413d71330e571b64e6440ceb4bd7b6759e2ce7bbaa56804238a668b538",
       "file": "modules/module-02.json",
       "id": 2,
       "title": "Allgemeine Grundausbildung (AGA)",
@@ -22,8 +22,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 12917,
-      "checksum": "sha256:4626303bbe2574fd00d117562159fb99b92098e00269b8daaeac2d22b4186de3",
+      "bytes": 14636,
+      "checksum": "sha256:1e941df5dc6ebe3a16995e2736943a1577f2087328433540185481f1fba08ce3",
       "file": "modules/module-03.json",
       "id": 3,
       "title": "Dienstgrade, Vorgesetzte & Umgangsformen",
@@ -31,8 +31,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 43547,
-      "checksum": "sha256:8495a3d14ce95947324dabc9244ad52fc28b3760e45a5a81cfb54aeb72958ab4",
+      "bytes": 47635,
+      "checksum": "sha256:5d6dcc91a1ef54fdc4b98b29a870a6b547db5ddc512add656cb024f4618cb465",
       "file": "modules/module-04.json",
       "id": 4,
       "title": "Geld – Sold, Bezahlung & was frei ist",
@@ -40,8 +40,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 30255,
-      "checksum": "sha256:e7c90c94448469c24e710c9f8eedeb7feee27587ab3d052f480c68ad44f4186c",
+      "bytes": 31541,
+      "checksum": "sha256:df47237861e04152a860b7e85b480f672ef6fb34be989a96d69bcec31f73a731",
       "file": "modules/module-12.json",
       "id": 12,
       "title": "Praktisches, Orga & Nachschlagewerk",
@@ -49,8 +49,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 6956,
-      "checksum": "sha256:a2c38af90fa8bd722d4dc665ce4ee61cafe9891069eb1da6cc6f2dc3befc4883",
+      "bytes": 13064,
+      "checksum": "sha256:058ff477ad979c2bf88047d93ddbf108e4078164fb64ab0fa96f63f7af5d2601",
       "file": "modules/module-13.json",
       "id": 13,
       "title": "FAQ für Neue",

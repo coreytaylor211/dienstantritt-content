@@ -27,11 +27,100 @@
         {
           "answer": [
             {
+              "text": "Mitbringen ja. Im Dienst, in der Ausbildung und in Sicherheitsbereichen gibt es aber Einschränkungen (z. B. nicht während Unterricht oder Schießen). Die konkreten Handy- und Nutzungsregeln sowie die Sicherheitsbereiche variieren je Einheit und Bereich. Halte dich an die Vorgaben deiner Einheit – sie sagt dir, was gilt."
+            }
+          ],
+          "id": "13.2-faq-darf-ich-mein-handy-behalten-und-benutzen",
+          "question": "Darf ich mein Handy behalten und benutzen?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Das hängt vom Status ab: "
+            },
+            {
+              "bold": true,
+              "text": "FWDL"
+            },
+            {
+              "text": " (6–11 Monate) bekommen "
+            },
+            {
+              "bold": true,
+              "text": "Wehrsold"
+            },
+            {
+              "text": " (Einstieg rund 2.600 € brutto, Gruppe 1). "
+            },
+            {
+              "bold": true,
+              "text": "SaZ"
+            },
+            {
+              "text": " (ab 12 Monaten) bekommen "
+            },
+            {
+              "bold": true,
+              "text": "Besoldung"
+            },
+            {
+              "text": " nach BBesG (Einstieg A 3/1 = 2.706,99 € brutto). Das sind zwei getrennte Systeme – alle Tabellen stehen in Modul 4. „Brutto\" ist vor Abzügen; wie viel netto bleibt, hängt von deiner persönlichen Situation ab (Steuerklasse, Kinder, ggf. Kirchensteuer) – eine seriöse Pauschalzahl gibt es nicht. Abgezogen wird vor allem Lohnsteuer (ggf. Soli/Kirchensteuer); Sozialversicherungsbeiträge fallen bei Soldat:innen nicht an, dafür läuft die Krankenversorgung über die freie Heilfürsorge. Maßgeblich ist deine Bezügeabrechnung."
+            }
+          ],
+          "id": "13.2-faq-wie-viel-geld-bekomme-ich",
+          "question": "Wie viel Geld bekomme ich?"
+        },
+        {
+          "answer": [
+            {
               "text": "Unterkunft, Dienstkleidung, Ausrüstung und medizinische Versorgung sind gestellt. Selbst zahlst du Persönliches (Hygiene über Standard, Freizeit, Handyvertrag, private Kleidung). Details in Modul 4."
             }
           ],
           "id": "13.2-faq-muss-ich-fuer-irgendetwas-zahlen",
           "question": "Muss ich für irgendetwas zahlen?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Der Dienst ist freiwillig, aber eine Verpflichtung mit Mindestdauer 6 Monate. Der freiwillige Wehrdienst dauert 6–11 Monate; die "
+            },
+            {
+              "bold": true,
+              "text": "ersten sechs Monate sind Probezeit"
+            },
+            {
+              "text": " (§ 58b SG, Stand 2026). Daneben gibt es geregelte Gründe für eine vorzeitige Entlassung (z. B. auf Antrag bei besonderer Härte, für SaZ § 55 Abs. 3 SG). Was für dich gilt, hängt von Status und Vertrag ab – kläre es mit der zuständigen Stelle. (Quelle: gesetze-im-internet.de, § 58b/§ 55 SG, abgerufen 2026-06-02; keine Rechtsberatung)"
+            }
+          ],
+          "id": "13.2-faq-kann-ich-den-dienst-vorzeitig-beenden",
+          "question": "Kann ich den Dienst vorzeitig beenden?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Kein Weltuntergang. In der Regel gibt es Wiederholungen und Unterstützung. Wie eine Wiederholung des BFT oder anderer Prüfungen konkret abläuft, ist nicht bundeseinheitlich amtlich beziffert und variiert je Einheit. Sprich offen mit deiner Ausbildung – wichtiger als der erste Versuch ist Dranbleiben."
+            }
+          ],
+          "id": "13.2-faq-was-wenn-ich-den-fitness-test-bft-nicht-bestehe",
+          "question": "Was, wenn ich den Fitness-Test (BFT) nicht bestehe?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Oft ja, dann kannst du nach Hause (in Uniform gratis Bahn). In der Grundausbildung und bei Wachdiensten/Übungen kann das eingeschränkt sein. Die genauen Regelungen zu Wochenend-/Heimfahrten und Ausgang variieren je Einheit. Verlass dich auf den Plan deiner Einheit."
+            }
+          ],
+          "id": "13.2-faq-habe-ich-am-wochenende-frei",
+          "question": "Habe ich am Wochenende frei?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Sofort deinem Vorgesetzten Bescheid geben und zum Truppenarzt/Sanitätsbereich. Die Versorgung läuft über den Sanitätsdienst (freie Heilfürsorge), eigene Krankenkassenbeiträge fallen nicht an – zu zivilen Ärzten gehst du nur im Notfall oder auf Überweisung. Der Truppenarzt empfiehlt, ob du dienstfähig bist; entschieden wird dienstlich. Die Detailregeln richten sich nach den Vorgaben deiner Einheit. Kurier dich nicht heimlich aus. (Quelle: Bundeswehr-Merkblatt für Soldatinnen und Soldaten bei Erkrankung und Unfällen, abgerufen 2026-06-02)"
+            }
+          ],
+          "id": "13.2-faq-was-ist-wenn-ich-krank-werde",
+          "question": "Was ist, wenn ich krank werde?"
         },
         {
           "answer": [
@@ -55,6 +144,15 @@
           ],
           "id": "13.2-faq-bekomme-ich-urlaub",
           "question": "Bekomme ich Urlaub?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Ja – das ist der Sinn des gestaffelten Modells. Du kannst während deiner Dienstzeit verlängern oder dich ab 12 Monaten als SaZ verpflichten – dann Besoldung nach BBesG und Extras wie der Führerschein-Zuschuss. Ob, wann und mit welcher Frist genau, besprichst du rechtzeitig mit deiner zuständigen Stelle bzw. dem Karrierecenter – feste bundeseinheitliche Fristen sind dafür nicht öffentlich festgelegt."
+            }
+          ],
+          "id": "13.2-faq-kann-ich-verlaengern-oder-saz-werden",
+          "question": "Kann ich verlängern oder SaZ werden?"
         },
         {
           "answer": [
@@ -107,6 +205,15 @@
         {
           "answer": [
             {
+              "text": "Persönliches meist ja, aber mit Vorgaben zu Ordnung, Sicherheit und verbotenen Gegenständen (z. B. Waffen, bestimmte Substanzen). Die konkrete Stuben-/Hausordnung und die Liste verbotener Gegenstände variieren je Dienststelle. Was konkret gilt, sagt dir deine Einheit."
+            }
+          ],
+          "id": "13.2-faq-was-darf-ich-auf-der-stube-haben",
+          "question": "Was darf ich auf der Stube haben?"
+        },
+        {
+          "answer": [
+            {
               "text": "Je nach Thema: dienstlich die direkte Führung oder den Disziplinarvorgesetzten; bei Konflikten die Vertrauensperson; bei Gesundheit den Sanitätsbereich; bei persönlichen Sorgen Sozialdienst, Militärseelsorge oder Psychologischen Dienst; bei Grundrechten/Beschwerden direkt die:den Wehrbeauftragte:n (ohne Dienstweg). Alle Stellen in Modul 12."
             }
           ],
@@ -148,10 +255,13 @@
       "label": "BMVg/Bundeswehr/bahn.de: kostenloses Bahnfahren in Uniform, abgerufen 2026-06-01 – Abdeckung Fern-/Nahverkehr, Voraussetzungen."
     },
     {
-      "label": "gesetze-im-internet.de: § 58b SG (Probezeit/Dauer freiwilliger Wehrdienst), § 55 Abs. 3 SG (Entlassung auf Antrag), SUV i. V. m. § 5 EUrlV (30 Arbeitstage Urlaub), abgerufen 2026-06-01."
+      "label": "gesetze-im-internet.de: § 58b SG (Probezeit/Dauer freiwilliger Wehrdienst), § 55 Abs. 3 SG (Entlassung auf Antrag), SUV i. V. m. § 5 EUrlV (30 Arbeitstage Urlaub), abgerufen 2026-06-02."
     },
     {
-      "label": "Antworten zu Netto-Gehalt, Krankmeldung, Wochenende/Heimfahrten, BFT-Wiederholung, Handy- und Stubenregeln hängen von Status und Dienststelle ab oder sind nicht amtlich beziffert/öffentlich und bleiben, wo nicht belegt, mit `[PRÜFEN]` markiert."
+      "label": "Bundeswehr: Merkblatt für Soldatinnen und Soldaten bei Erkrankung und Unfällen; bundeswehr.de „Neuer Wehrdienst\" (Verlängerung/Wechsel zum SaZ), abgerufen 2026-06-02."
+    },
+    {
+      "label": "Wo Inhalte je Status/Dienststelle variieren (Netto-Gehalt, Wochenende/Heimfahrten, BFT-Wiederholung, Handy- und Stubenregeln) oder sich seriös nicht beziffern lassen, sagen wir das offen statt zu schätzen – verbindlich ist deine Einheit bzw. deine Bezügeabrechnung."
     }
   ],
   "title": "FAQ für Neue",

@@ -128,6 +128,14 @@
                 }
               ],
               "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Konkrete Telefonnummern und Adressen der genannten Stellen nennen wir hier bewusst nicht – sie variieren je Standort und Stelle. Verbindlich erfährst du sie über deine Einheit oder die offiziellen Webseiten."
+                }
+              ],
+              "type": "paragraph"
             }
           ],
           "id": "12.2.6",
@@ -690,6 +698,15 @@
               "text": "Dienstzeitende — Ende der Dienstzeit/des Wehrdienstverhältnisses."
             }
           ]
+        },
+        {
+          "abbr": "DU",
+          "id": "12.5-abbreviations-du",
+          "meaning": [
+            {
+              "text": "Dienstunfähigkeit / Direktunterstützung — Mehrdeutig: meist „Dienstunfähigkeit\" (gesundheitlich, vorübergehend), in der Logistik auch „Direktunterstützung\". Welche Lesart gemeint ist, ergibt sich aus dem Zusammenhang – frag im Zweifel nach."
+            }
+          ]
         }
       ],
       "title": "Abkürzungs-Lexikon",
@@ -947,6 +964,14 @@
           ],
           "ordered": false,
           "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Aus gutem Grund nennen wir hier keine spezifischen dienstlichen Telefonnummern – die erfährst du verbindlich über deine Einheit und die offiziellen Webseiten. Allgemeine Notrufe in Deutschland: 112 (Rettungsdienst/Feuerwehr), 110 (Polizei)."
+            }
+          ],
+          "type": "paragraph"
         }
       ],
       "id": "12.8",
@@ -977,7 +1002,7 @@
       "label": "Abkürzungs-Lexikon: Wikipedia „Liste militärischer Abkürzungen\" und Fachartikel (Grundausbildung, Wachdienst, Waffenbesitzkarte, Wehrdisziplinarordnung), agabund.de, einstellungstest-bundeswehr.de sowie gesetze-im-internet.de (SG, WDO, WBO, SAZV); abgerufen 2026-06-02. Die verbindliche Primärquelle (Datenbank für Abkürzungen der Bundeswehr, DBAbkBw) ist nur im Bundeswehr-Intranet zugänglich. Mehrdeutige/unbestätigte Einträge (z. B. „DU\", „EAKK\") bleiben offen bzw. weggelassen."
     },
     {
-      "label": "Konkrete Telefonnummern, Adressen und dienststellenspezifische Checklisten werden bewusst nicht erfunden und bleiben mit `[PRÜFEN]` markiert."
+      "label": "Konkrete Telefonnummern, Adressen und dienststellenspezifische Checklisten variieren je Einheit/Dienststelle; wir erfinden hier nichts, sondern verweisen offen auf deine Einheit, dein Einberufungsschreiben und die offiziellen Webseiten."
     }
   ],
   "title": "Praktisches, Orga & Nachschlagewerk",

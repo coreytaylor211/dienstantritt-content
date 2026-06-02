@@ -324,6 +324,20 @@
           ],
           "id": "2.4.1",
           "title": "Basis-Fitness-Test (BFT)"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Daneben gibt es Überprüfungen im Schießen, in der Waffenhandhabung und in den Grundfertigkeiten, oft abschließend in einer Rekrutenbesichtigung. Welche Leistungsnachweise für dich konkret verpflichtend sind, ist nicht bundeseinheitlich festgelegt und variiert je Einheit und Ausbildungsabschnitt – die genannten Punkte sind Beispiele. Verbindlich sagt es dir deine Ausbildung."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "2.4.2",
+          "title": "Weitere Prüfungen"
         }
       ],
       "title": "Leistungsnachweise",
@@ -467,6 +481,14 @@
           ],
           "ordered": false,
           "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Einen Test nicht direkt zu bestehen, ist kein Drama: Oft gibt es Wiederholungen und Unterstützung. Wie eine Wiederholung nicht bestandener Prüfungen oder des BFT konkret abläuft, ist nicht bundeseinheitlich amtlich greifbar und variiert je Einheit. Sprich offen mit deiner Ausbildung – sie sagt dir, was für dich gilt."
+            }
+          ],
+          "type": "paragraph"
         }
       ],
       "id": "2.6",
@@ -491,7 +513,7 @@
       "label": "gesetze-im-internet.de: § 9 Soldatengesetz (SG), abgerufen 2026-06-01 – Diensteid und Gelöbnis."
     },
     {
-      "label": "Eine bundeseinheitliche Liste aller Pflicht-Leistungsnachweise und konkrete Wiederholungsregelungen sind nicht amtlich greifbar und bleiben mit `[PRÜFEN]` markiert."
+      "label": "Wo Inhalte je Einheit variieren (welche Pflicht-Leistungsnachweise gelten, wie Wiederholungen ablaufen), sagen wir das offen statt zu schätzen – verbindlich sagt es dir deine Ausbildung."
     }
   ],
   "title": "Allgemeine Grundausbildung (AGA)",

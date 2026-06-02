@@ -774,6 +774,14 @@
                 }
               ],
               "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Anpassung 2025/2026: Eine Erhöhung (+3,0 % ab 01.04.2025, +2,8 % ab 01.05.2026) ist beschlossen, aber zum Recherchestand noch nicht im Bundesgesetzblatt (BGBl) verkündet. Bis dahin gilt amtlich die Tabelle Stand 01.03.2024 – bzw. das, was real auf deiner Abrechnung steht. Eine voraussichtliche Hochrechnung der angepassten Beträge findest du im Besoldungs-Rechner der App."
+                }
+              ],
+              "type": "paragraph"
             }
           ],
           "id": "4.4.1",
@@ -977,6 +985,14 @@
                 }
               ],
               "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Zu einigen Dienstgraden kommt eine Amtszulage nach Anlage IX BBesG dazu (z. B. Hauptgefreiter, Oberstabsgefreiter, Oberfeldwebel). Den genauen Betrag, der für dich gilt, zeigt deine Bezügeabrechnung – wir nennen hier bewusst keine Zahl, die wir nicht amtlich eindeutig belegen können."
+                }
+              ],
+              "type": "paragraph"
             }
           ],
           "id": "4.4.2",
@@ -1095,17 +1111,17 @@
             [
               [
                 {
-                  "text": "Auslandsverwendungszuschlag (AVZ), höchste Stufe"
+                  "text": "Auslandsverwendungszuschlag (AVZ)"
                 }
               ],
               [
                 {
-                  "text": "153 €/Tag (6 Stufen, steuerfrei)"
+                  "text": "sechs Stufen, steuerfrei: 54 / 77 / 93 / 111 / 131 / 153 €/Tag"
                 }
               ],
               [
                 {
-                  "text": "§ 56 BBesG (ab 06.03.2025)"
+                  "text": "§ 3 AuslVZV; Höchstsatz § 56 BBesG"
                 }
               ]
             ],
@@ -1117,12 +1133,12 @@
               ],
               [
                 {
-                  "text": "0,20 €/km (Standard, max. 130 €); 0,30 €/km bei erheblichem dienstlichen Interesse"
+                  "text": "0,20 €/km, höchstens 130 €"
                 }
               ],
               [
                 {
-                  "text": "§ 5 BRKG, 2025/2026"
+                  "text": "§ 5 BRKG; BVA, Stand 2026-06-02"
                 }
               ]
             ],
@@ -1150,6 +1166,14 @@
           "spans": [
             {
               "text": "(Quelle: buzer.de § 56 BBesG; gesetze-im-internet.de § 5 BRKG; bva.bund.de; abgerufen 2026-06-02.)"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Bei Auslandseinsätzen gibt es den steuerfreien Auslandsverwendungszuschlag in sechs Stufen – je nach Belastung von 54 € bis 153 € pro Tag (§ 3 AuslVZV). Welche Stufe gilt, hängt vom Einsatzgebiet ab."
             }
           ],
           "type": "paragraph"
@@ -1299,6 +1323,15 @@
               },
               {
                 "text": " Hygiene über den Standard hinaus, Snacks, Freizeit, Handyvertrag, private Kleidung."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Private Fahrten / Heimfahrten:"
+              },
+              {
+                "text": " In Uniform fährst du gratis Bahn. Fährst du in Zivil oder mit dem eigenen Auto, trägst du das in der Regel selbst. Heimfahrten sind nicht automatisch bezahlt: Wenn du am Dienstort untergebracht bist und nicht täglich heimfährst, kannst du über das Trennungsgeld eine Reisebeihilfe für rund eine Heimfahrt alle 14 Tage beantragen (Bahn 2. Klasse oder 0,20 €/km, max. 130 €). Frag deine Verwaltungsstelle, was in deinem Fall greift."
               }
             ],
             [
@@ -1498,6 +1531,14 @@
         {
           "spans": [
             {
+              "text": "Deine Bezüge werden monatlich im Voraus auf das Konto überwiesen, dessen IBAN du bei den ersten Formalitäten angibst (§ 3 BBesG; siehe Modul 1). Den genauen Zahltag legt die Bezügestelle fest – in der Regel kurz vor Monatsbeginn. Gib die korrekte IBAN früh an, damit die erste Zahlung nicht hängt."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
               "text": "Auf deiner Abrechnung achtest du auf:"
             }
           ],
@@ -1535,6 +1576,42 @@
           ],
           "ordered": false,
           "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Brutto ist nicht netto. Wie viel netto bleibt, hängt von deiner persönlichen Situation ab (Steuerklasse, Kinder, ggf. Kirchensteuer) – eine seriöse Pauschalzahl gibt es nicht. Abgezogen werden vor allem "
+            },
+            {
+              "bold": true,
+              "text": "Lohnsteuer"
+            },
+            {
+              "text": " (ggf. "
+            },
+            {
+              "bold": true,
+              "text": "Solidaritätszuschlag"
+            },
+            {
+              "text": " und "
+            },
+            {
+              "bold": true,
+              "text": "Kirchensteuer"
+            },
+            {
+              "text": " bei Kirchenmitgliedschaft). "
+            },
+            {
+              "bold": true,
+              "text": "Sozialversicherungsbeiträge"
+            },
+            {
+              "text": " (Kranken-, Pflege-, Renten-, Arbeitslosenversicherung) fallen bei Soldat:innen nicht an – dafür läuft die Krankenversorgung über die freie Heilfürsorge. Maßgeblich ist immer deine Bezügeabrechnung. Bei Fragen wendest du dich an deine Bezüge-/Verwaltungsstelle – nicht an inoffizielle Quellen. Hebe deine Abrechnungen auf."
+            }
+          ],
+          "type": "paragraph"
         }
       ],
       "id": "4.9",
@@ -1568,7 +1645,10 @@
       "label": "bundeswehr.de „Neuer Wehrdienst\" (19.12.2025), „Gehalt in der Bundeswehr\" (20.02.2025), „Führerschein: Zuschuss\", „Freie Bahnfahrt\"; bahn.de „Bundeswehr – Fragen & Antworten\"; abgerufen 2026-06-01."
     },
     {
-      "label": "Besoldungsanpassung 2025/2026 (+3,0 %/+2,8 %), Amtszulagen-Beträge, AVZ-Zwischenstufen, Netto-Beträge und Heimfahrt-/Auszahlungsdetails sind nicht (abschließend) amtlich verifiziert und bleiben mit `[PRÜFEN]` markiert."
+      "label": "§ 3 AuslVZV (AVZ-Tagessätze, sechs Stufen 54–153 €); § 5 BRKG / TGV i. V. m. BRKG (Reisebeihilfe Heimfahrten je 14 Tage, 0,20 €/km max. 130 €, BVA); § 3 Abs. 4 BBesG (Bezüge monatlich im Voraus); abgerufen 2026-06-02."
+    },
+    {
+      "label": "Wo eine amtliche Erhöhung noch aussteht (Besoldungsanpassung 2025/2026 +3,0 %/+2,8 %, erst nach BGBl-Verkündung) oder Inhalte sich seriös nicht beziffern lassen (Amtszulagen-Beträge, Netto-Beträge), sagen wir das offen statt zu schätzen – maßgeblich ist deine Bezügeabrechnung."
     }
   ],
   "title": "Geld – Sold, Bezahlung & was frei ist",

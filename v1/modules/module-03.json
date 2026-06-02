@@ -120,6 +120,14 @@
         {
           "spans": [
             {
+              "text": "Beförderungen folgen festen Mindestdienstzeiten (§ 11 SLV): Gefreiter ab 3, Obergefreiter ab 6, Hauptgefreiter ab 12 Monaten. Als FWDL (6–11 Monate) sind damit meist Gefreiter und Obergefreiter erreichbar; Hauptgefreiter erst ab 12 Monaten, also praktisch erst als SaZ. Das sind Mindestzeiten, keine Automatik – ob und wann du befördert wirst, entscheiden deine Eignung und Verwendung. Eine erste Beförderung kommt mit etwas mehr Geld."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
               "text": "Alle Dienstgrade mit Abzeichen findest du in der vollständigen Übersicht unter Nachschlagen → Dienstgrade (Heer, Luftwaffe, Marine; Mannschaften bis Generale)."
             }
           ],
@@ -274,6 +282,14 @@
           ],
           "ordered": false,
           "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "„Jawohl\" ist die übliche bejahende Antwort gegenüber Vorgesetzten. Die genauen verbindlichen Wortlaute der Anrede- und Meldeformeln stehen in nicht öffentlich einsehbaren Dienstvorschriften und können je Einheit gehandhabt werden – hör darauf, wie es deine Einheit macht, und frag im Zweifel nach."
+            }
+          ],
+          "type": "paragraph"
         }
       ],
       "id": "3.4",
@@ -324,6 +340,14 @@
           ],
           "ordered": false,
           "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Das ist nur das Grundprinzip. Die genauen Grußregeln (mit/ohne Kopfbedeckung, drinnen/draußen, Ausnahmen) stehen in der gültigen Dienstvorschrift, die nicht öffentlich einsehbar ist. Die genaue Ausführung lernst du im Formaldienst – frag im Zweifel deine Ausbildung."
+            }
+          ],
+          "type": "paragraph"
         }
       ],
       "id": "3.5",
@@ -436,7 +460,10 @@
       "label": "Die vollständige Dienstgrad-Übersicht mit Abzeichen (alle Teilstreitkräfte, Mannschaften bis Generale) findest du unter Nachschlagen → Dienstgrade."
     },
     {
-      "label": "Detailregeln zu Grußpflicht, genauen Meldeformeln und konkreten Beförderungszeitpunkten stehen in nicht öffentlich einsehbaren Dienstvorschriften und bleiben mit `[PRÜFEN]` markiert."
+      "label": "gesetze-im-internet.de: § 11 Soldatenlaufbahnverordnung (SLV), abgerufen 2026-06-02 – Mindestdienstzeiten für Beförderungen der Mannschaften (Gefreiter ab 3, Obergefreiter ab 6, Hauptgefreiter ab 12 Monaten)."
+    },
+    {
+      "label": "Detailregeln zu Grußpflicht und genauen Meldeformeln stehen in nicht öffentlich einsehbaren Dienstvorschriften und werden im Formaldienst vermittelt; wo Inhalte je Einheit variieren, sagen wir das offen statt zu schätzen."
     }
   ],
   "title": "Dienstgrade, Vorgesetzte & Umgangsformen",

@@ -52,6 +52,14 @@
             {
               "spans": [
                 {
+                  "text": "Am ersten Tag reist du in der Regel in Zivil an. Kostenlos Bahn fährst du erst, wenn du eingekleidet bist und einen Truppenausweis hast. Ob und wie deine Anreisekosten zum ersten Diensttag erstattet werden, ist nicht bundeseinheitlich geregelt – das variiert je nach Einheit. Frag im Zweifel deine zuständige Stelle bzw. orientiere dich an deinem Einberufungsschreiben."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
                   "text": "Nimm die Dokumente mit, die dein Einberufungsschreiben verlangt (z. B. Personalausweis, Bankverbindung, ggf. Impfpass). Die Packliste steht in Modul 12."
                 }
               ],
@@ -107,6 +115,21 @@
         {
           "spans": [
             {
+              "text": "Deine komplette Dienst- und Kampfbekleidung sowie die Ausrüstung bekommst du "
+            },
+            {
+              "bold": true,
+              "text": "kostenlos"
+            },
+            {
+              "text": " gestellt – von Sportzeug bis zur modernen Kampfbekleidung. Eine genaue, öffentlich abrufbare Stückliste gibt es nicht; was du konkret erhältst, hängt von deiner Verwendung ab und wird dir bei der Einkleidung ausgegeben."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
               "text": "So läuft es:"
             }
           ],
@@ -148,6 +171,21 @@
     {
       "anchorSearchTitle": "Die Stube",
       "blocks": [
+        {
+          "spans": [
+            {
+              "text": "In der Grundausbildung wohnst du meist in einer "
+            },
+            {
+              "bold": true,
+              "text": "Stube"
+            },
+            {
+              "text": " (Mehrbettzimmer) mit anderen Rekrut:innen. Die Unterbringung ist kostenlos. Wie viele sich eine Stube teilen, ist je nach Standort verschieden – eine bundesweite Vorgabe gibt es nicht. Wie es bei dir aussieht, erfährst du vor Ort."
+            }
+          ],
+          "type": "paragraph"
+        },
         {
           "spans": [
             {
@@ -313,6 +351,14 @@
           ],
           "ordered": false,
           "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Die konkreten Uhrzeiten für Wecken, Dienstbeginn und Dienstschluss variieren je Einheit – eine bundesweite Vorgabe dazu gibt es nicht. Verbindlich ist der Plan deiner Einheit."
+            }
+          ],
+          "type": "paragraph"
         }
       ],
       "id": "1.6",
@@ -399,7 +445,7 @@
       "label": "Bundeswehr: „Grundausbildung\" (bundeswehr.de), abgerufen 2026-06-01."
     },
     {
-      "label": "Konkrete Tagesabläufe, Einkleidungslisten, Stubenbelegung und die Erstattung von Anreisekosten sind nicht bundeseinheitlich veröffentlicht und mit `[PRÜFEN]` markiert."
+      "label": "Wo Inhalte je Einheit/Standort variieren (Tagesabläufe, Einkleidungsumfang, Stubenbelegung, Erstattung von Anreisekosten), sagen wir das offen statt zu schätzen – verbindlich ist deine Einheit bzw. dein Einberufungsschreiben."
     }
   ],
   "title": "Ankommen & erste Tage",
