@@ -1,0 +1,589 @@
+{
+  "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
+  "id": 8,
+  "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-8-1",
+      "note": "",
+      "raw": "[PRÜFEN: einheitlicher Meldeweg bei Erkrankung außerhalb des Standorts]",
+      "sectionId": "8.4",
+      "topic": "einheitlicher Meldeweg bei Erkrankung außerhalb des Standorts"
+    }
+  ],
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Krank werden ist keine Schwäche und kein Regelverstoß — es passiert, gerade in den ersten Wochen mit neuem Rhythmus, viel Sport und enger Stube. Aber beim Bund läuft eine Krankmeldung anders als im Zivilleben: Es gibt keinen Anruf beim Chef und keinen gelben Schein vom Hausarzt, sondern einen festen dienstlichen Weg."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Dieses Modul erklärt dir, wie deine Versorgung funktioniert, wie du dich im Dienst und außerhalb korrekt krankmeldest und warum du Verletzungen immer melden solltest — körperlich wie mental. Die wichtigste Botschaft vorweg: "
+            },
+            {
+              "bold": true,
+              "text": "Verstecke nichts."
+            },
+            {
+              "text": " Wer sich früh meldet, bekommt Hilfe. Wer Beschwerden wegdrückt, macht sie größer — medizinisch und dienstlich."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "8.1",
+      "title": "Worum es in diesem Modul geht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Deine medizinische Versorgung: der Sanitätsbereich",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Als Soldat:in hast du Anspruch auf "
+            },
+            {
+              "bold": true,
+              "text": "unentgeltliche truppenärztliche Versorgung"
+            },
+            {
+              "text": " (oft „freie Heilfürsorge\" genannt): Deine medizinische Versorgung übernimmt die Bundeswehr, für dich kostenlos (Quelle: gesetze-im-internet.de, Soldatengesetz; siehe auch Modul 12, Glossar)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Praktisch heißt das:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "text": "Deine "
+              },
+              {
+                "bold": true,
+                "text": "erste Anlaufstelle"
+              },
+              {
+                "text": " bei allen gesundheitlichen Fragen ist der "
+              },
+              {
+                "bold": true,
+                "text": "Sanitätsbereich"
+              },
+              {
+                "text": " deines Standorts — dort sitzt der Truppenarzt bzw. die Truppenärztin."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Zivile Ärzte"
+              },
+              {
+                "text": " gehst du grundsätzlich nicht auf eigene Faust an. Sie kommen ins Spiel, wenn der Truppenarzt dich "
+              },
+              {
+                "bold": true,
+                "text": "überweist"
+              },
+              {
+                "text": " — oder im "
+              },
+              {
+                "bold": true,
+                "text": "echten Notfall"
+              },
+              {
+                "text": ", wenn kein Sanitätsbereich erreichbar ist. Dann gilt wie überall: Hilfe holen geht vor, die Meldung an die Einheit folgt so schnell wie möglich."
+              }
+            ],
+            [
+              {
+                "text": "Was mit deiner Krankenkasse während des Dienstes passiert, klärst du am besten "
+              },
+              {
+                "bold": true,
+                "text": "vor"
+              },
+              {
+                "text": " dem Antritt — siehe Modul 5."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Ein Punkt aus Modul 5 ist so wichtig, dass er hier noch einmal steht: "
+            },
+            {
+              "bold": true,
+              "text": "Geh vor dem Antritt zum Zahnarzt."
+            },
+            {
+              "text": " Zahnprobleme aus der Grundausbildung heraus zu regeln ist mühsam."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "8.2",
+      "title": "Deine medizinische Versorgung: der Sanitätsbereich",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Krank im Dienst: der Meldeweg",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Wenn du dich im Dienst krank fühlst, gilt ein einfacher Ablauf:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Sofort Vorgesetzte informieren."
+              },
+              {
+                "text": " Nicht abwarten, nicht erst die Stube fragen. Deine Einheit muss jederzeit wissen, wo du bist und warum."
+              }
+            ],
+            [
+              {
+                "text": "Danach geht es — in der Regel organisiert über deine Einheit — zum "
+              },
+              {
+                "bold": true,
+                "text": "Sanitätsbereich"
+              },
+              {
+                "text": "."
+              }
+            ],
+            [
+              {
+                "text": "Dort wird entschieden, wie es weitergeht: Behandlung, Schonung, „krank auf Stube\", Überweisung."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Der entscheidende Unterschied zum Zivilleben: "
+            },
+            {
+              "bold": true,
+              "text": "Ob du dienstfähig bist, entscheidest nicht du selbst — und auch nicht dein Hausarzt."
+            },
+            {
+              "text": " Diese Entscheidung ist dienstlich und liegt beim Truppenarzt (mehr dazu auch im FAQ, Modul 13). Deine Aufgabe ist, Beschwerden "
+            },
+            {
+              "bold": true,
+              "text": "ehrlich und konkret"
+            },
+            {
+              "text": " zu schildern: seit wann, wo, wie stark. Weder dramatisieren noch kleinreden — beides fällt auf dich zurück."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "8.3",
+      "title": "Krank im Dienst: der Meldeweg",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Krank am Wochenende oder zu Hause",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Wirst du krank, während du am Wochenende oder im Urlaub zu Hause bist, musst du dich trotzdem melden — dein Fernbleiben muss dienstlich gedeckt sein. Wie der Meldeweg außerhalb des Standorts genau aussieht (wen du anrufst, welche Nachweise du brauchst, ob du einen zivilen Arzt aufsuchen darfst), ist "
+            },
+            {
+              "reviewFlagId": "rf-8-1",
+              "text": "[PRÜFEN: einheitlicher Meldeweg bei Erkrankung außerhalb des Standorts]"
+            },
+            {
+              "text": " und variiert je Dienststelle — verbindlich ist, was deine Einheit dir sagt."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Deshalb der praktische Rat: "
+            },
+            {
+              "bold": true,
+              "text": "Kläre den Meldeweg in deiner ersten Woche"
+            },
+            {
+              "text": ", bevor du ihn brauchst. Frag konkret: Wen rufe ich an, wenn ich sonntags mit Fieber zu Hause liege? Speichere die Nummer ins Handy — und zusätzlich auf Papier."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "8.4",
+      "title": "Krank am Wochenende oder zu Hause",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Medikamente & Vorerkrankungen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Wenn du regelmäßig Medikamente nimmst oder Vorerkrankungen hast (z. B. Allergien, Asthma, chronische Beschwerden):"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Bring deine Medikamente mit"
+              },
+              {
+                "text": " — mit Vorrat für die ersten Wochen, in der Originalverpackung."
+              }
+            ],
+            [
+              {
+                "text": "Nimm eine "
+              },
+              {
+                "bold": true,
+                "text": "ärztliche Bescheinigung"
+              },
+              {
+                "text": " oder einen Medikationsplan mit, aus der hervorgeht, was du wogegen nimmst."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Sprich es offen an"
+              },
+              {
+                "text": " — beim ersten Kontakt mit dem Sanitätsbereich und gegenüber deinen Vorgesetzten, soweit es den Dienst betrifft. Der Truppenarzt kann dich nur richtig versorgen, wenn er das ganze Bild kennt."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Verschweigen ist die schlechteste Option: Es gefährdet dich (etwa bei Belastung oder im Notfall) und kann dir später als Problem ausgelegt werden."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "8.5",
+      "title": "Medikamente & Vorerkrankungen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Verletzungen und Überlastung: melden statt wegdrücken",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Verletzt du dich "
+            },
+            {
+              "bold": true,
+              "text": "im Dienst"
+            },
+            {
+              "text": " — beim Sport, auf dem Marsch, bei der Ausbildung — dann gilt ohne Ausnahme: "
+            },
+            {
+              "bold": true,
+              "text": "melden und dokumentieren lassen."
+            },
+            {
+              "text": " Auch wenn es „nur\" ein umgeknickter Knöchel oder eine aufgeschlagene Hand ist."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Der Grund: Wird aus der Verletzung später ein bleibender Schaden, kommt es darauf an, dass der Vorfall damals dienstlich erfasst wurde — Stichwort "
+            },
+            {
+              "bold": true,
+              "text": "Wehrdienstbeschädigung"
+            },
+            {
+              "text": ". Die rechtlichen Details regeln das Soldatenversorgungsrecht und deine zuständigen Stellen; dein Beitrag ist eine saubere, zeitnahe Meldung. Was nie gemeldet wurde, lässt sich Jahre später kaum belegen. Der Sozialdienst (Modul 12) hilft bei Fragen dazu."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Dasselbe gilt für "
+            },
+            {
+              "bold": true,
+              "text": "Überlastung durch Sport"
+            },
+            {
+              "text": ": Schienbeine, Knie, Füße und Rücken melden sich in den ersten Wochen bei vielen. Sprich Schmerzen an, statt sie zu verstecken — aus einer Reizung, die zwei Tage Schonung braucht, wird sonst eine Verletzung, die dich Wochen kostet. Niemand hält dich für schwach, weil du rechtzeitig Bescheid sagst."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "8.6",
+      "title": "Verletzungen und Überlastung: melden statt wegdrücken",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Dein Kopf gehört auch dazu",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Heimweh, Schlafprobleme, Druck, düstere Gedanken — die ersten Wochen sind auch mental fordernd, und nicht jeder steckt das gleich weg. Dafür gibt es eigene Anlaufstellen: den "
+            },
+            {
+              "bold": true,
+              "text": "Psychologischen Dienst"
+            },
+            {
+              "text": ", die "
+            },
+            {
+              "bold": true,
+              "text": "Militärseelsorge"
+            },
+            {
+              "text": " (für alle da, unabhängig von Religion) und den "
+            },
+            {
+              "bold": true,
+              "text": "Sozialdienst"
+            },
+            {
+              "text": " — alle in Modul 12 beschrieben."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Sich dort zu melden ist "
+            },
+            {
+              "bold": true,
+              "text": "kein Makel"
+            },
+            {
+              "text": ", sondern der gleiche Vorgang wie beim verstauchten Knöchel: früh hinschauen, bevor es schlimmer wird. Wenn es dir über Tage nicht gut geht, sprich mit jemandem — einer Ansprechstelle, einer Vertrauensperson oder deinen Vorgesetzten."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "8.7",
+      "title": "Dein Kopf gehört auch dazu",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Gesund bleiben auf enger Stube",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Viele Menschen auf engem Raum bedeuten: Infekte verbreiten sich schnell. Die Gegenmittel sind unspektakulär, aber wirksam:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Hände waschen"
+              },
+              {
+                "text": " — regelmäßig, besonders vor dem Essen."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Regelmäßig lüften"
+              },
+              {
+                "text": ", auch wenn es draußen kalt ist."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Eigene Flasche, eigenes Handtuch"
+              },
+              {
+                "text": " — nicht herumreichen."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Füße pflegen:"
+              },
+              {
+                "text": " trocken halten, Socken wechseln, Blasen früh versorgen lassen."
+              }
+            ],
+            [
+              {
+                "text": "Wer krank ist, hält Abstand, so gut es geht — und meldet sich (siehe oben), statt die halbe Gruppe anzustecken."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "8.8",
+      "title": "Gesund bleiben auf enger Stube",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Checkliste „Gesundheit geregelt\"",
+      "id": "8.9",
+      "items": [
+        {
+          "id": "8.9-checklist-zahnarzttermin-vor-dem-antritt-erledigt-modul-5",
+          "label": [
+            {
+              "text": "Zahnarzttermin vor dem Antritt erledigt (Modul 5)"
+            }
+          ]
+        },
+        {
+          "id": "8.9-checklist-medikamente-mit-vorrat-und-originalverpackung-ei",
+          "label": [
+            {
+              "text": "Medikamente mit Vorrat und Originalverpackung eingepackt"
+            }
+          ]
+        },
+        {
+          "id": "8.9-checklist-aerztliche-bescheinigung-medikationsplan-zu-vore",
+          "label": [
+            {
+              "text": "Ärztliche Bescheinigung / Medikationsplan zu Vorerkrankungen dabei"
+            }
+          ]
+        },
+        {
+          "id": "8.9-checklist-impfpass-eingepackt-falls-im-einberufungsschreib",
+          "label": [
+            {
+              "text": "Impfpass eingepackt (falls im Einberufungsschreiben gefordert)"
+            }
+          ]
+        },
+        {
+          "id": "8.9-checklist-vorerkrankungen-beim-ersten-kontakt-im-sanitaets",
+          "label": [
+            {
+              "text": "Vorerkrankungen beim ersten Kontakt im Sanitätsbereich offen angesprochen"
+            }
+          ]
+        },
+        {
+          "id": "8.9-checklist-meldeweg-bei-krankheit-ausserhalb-des-standorts",
+          "label": [
+            {
+              "text": "Meldeweg bei Krankheit außerhalb des Standorts in Woche 1 erfragt"
+            }
+          ]
+        },
+        {
+          "id": "8.9-checklist-nummer-fuer-die-krankmeldung-im-handy-und-auf-pa",
+          "label": [
+            {
+              "text": "Nummer für die Krankmeldung im Handy und auf Papier gespeichert"
+            }
+          ]
+        },
+        {
+          "id": "8.9-checklist-grundsatz-verinnerlicht-verletzung-im-dienst-imm",
+          "label": [
+            {
+              "text": "Grundsatz verinnerlicht: Verletzung im Dienst immer melden und dokumentieren lassen"
+            }
+          ]
+        }
+      ],
+      "title": "Checkliste „Gesundheit geregelt\"",
+      "type": "checklist"
+    }
+  ],
+  "sources": [
+    {
+      "label": "gesetze-im-internet.de: Soldatengesetz (SG) — u. a. Anspruch auf unentgeltliche truppenärztliche Versorgung; keine Rechtsberatung."
+    },
+    {
+      "label": "Bundeswehr (bundeswehr.de): Themenseiten zum Sanitätsdienst der Bundeswehr und zur truppenärztlichen Versorgung, abgerufen 2026."
+    },
+    {
+      "label": "Bundeswehr (bundeswehr.de): Themenseiten zu Psychologischem Dienst, Militärseelsorge und Sozialdienst, abgerufen 2026 — Details und Ansprechstellen siehe Modul 12."
+    },
+    {
+      "label": "Regelungen zur Versorgung bei Wehrdienstbeschädigung: Soldatenversorgungsrecht (gesetze-im-internet.de) — [PRÜFEN: aktuell einschlägige Rechtsgrundlage (SVG bzw. neueres Entschädigungsrecht) und Antragsweg]; im Text bewusst nur generisch beschrieben."
+    },
+    {
+      "label": "Konkrete Meldewege, Nachweispflichten und Abläufe bei Krankmeldung variieren je Dienststelle — wir erfinden hier nichts; verbindlich sind deine Einheit und dein Sanitätsbereich."
+    }
+  ],
+  "title": "Gesundheit & Krankmeldung",
+  "updateNeed": "mittel",
+  "version": "1.0.0"
+}

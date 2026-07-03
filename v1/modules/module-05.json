@@ -1,0 +1,562 @@
+{
+  "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
+  "id": 5,
+  "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-5-1",
+      "note": "",
+      "raw": "[PRÜFEN: genaue kassenrechtliche Behandlung (Ruhen/Anwartschaft) je Status FWDL/SaZ nicht amtlich zusammengefasst auffindbar]",
+      "sectionId": "5.3.1",
+      "topic": "genaue kassenrechtliche Behandlung (Ruhen/Anwartschaft) je Status FWDL/SaZ nicht amtlich zusammengefasst auffindbar"
+    }
+  ],
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Zwischen Unterschrift und erstem Diensttag liegen oft Wochen — und genau die kannst du nutzen. Dieses Modul führt dich durch die Zeit davor: Papierkram, Verträge, Training, Anreise und die Frage, wie du deinen Kopf und dein Umfeld vorbereitest."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Nichts hier ist Pflicht. Aber wer die Punkte in Ruhe abarbeitet, startet deutlich entspannter in Tag 1."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "5.1",
+      "title": "Worum es in diesem Modul geht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Dein Einberufungsschreiben — die eine Pflichtlektüre",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Alles Verbindliche zu deinem Antritt steht in deinem "
+            },
+            {
+              "bold": true,
+              "text": "Einberufungsschreiben"
+            },
+            {
+              "text": ": Datum, Uhrzeit, Kaserne, geforderte Unterlagen. Lies es früh und vollständig — zweimal."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "text": "Markiere dir Datum und Uhrzeit und plane die Anreise sofort grob (siehe unten)."
+              }
+            ],
+            [
+              {
+                "text": "Sammle die geforderten Unterlagen an einem festen Ort (Mappe/Umschlag): Personalausweis, IBAN, ggf. Impfpass, Zeugnisse, Bescheinigungen."
+              }
+            ],
+            [
+              {
+                "text": "Wenn etwas unklar ist oder fehlt: Ruf "
+              },
+              {
+                "bold": true,
+                "text": "rechtzeitig"
+              },
+              {
+                "text": " bei der im Schreiben genannten Stelle an, nicht erst am letzten Tag."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Was dein Schreiben verlangt, geht immer vor — egal, was in dieser App oder in Foren steht."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "5.2",
+      "title": "Dein Einberufungsschreiben — die eine Pflichtlektüre",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Papierkram & Verträge regeln",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Ein Nachmittag konzentrierter Papierkram erspart dir Wochen Ärger aus der Kaserne heraus."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "5.3",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Während des Dienstes wirst du medizinisch über die "
+                },
+                {
+                  "bold": true,
+                  "text": "truppenärztliche Versorgung (freie Heilfürsorge)"
+                },
+                {
+                  "text": " der Bundeswehr versorgt (siehe Modul 12, Glossar). Informiere deine Krankenkasse über den Dienstantritt und kläre, wie deine Mitgliedschaft in dieser Zeit behandelt wird — das läuft je nach Kasse und Status unterschiedlich. "
+                },
+                {
+                  "reviewFlagId": "rf-5-1",
+                  "text": "[PRÜFEN: genaue kassenrechtliche Behandlung (Ruhen/Anwartschaft) je Status FWDL/SaZ nicht amtlich zusammengefasst auffindbar]"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Wirf außerdem einen Blick auf deine privaten Versicherungen (z. B. Haftpflicht, Unfall, Zusatzversicherungen): Manche Tarife haben Regelungen für den Wehrdienst. Frag im Zweifel kurz beim Anbieter nach — schriftlich ist besser als telefonisch."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "5.3.1",
+          "title": "Krankenkasse & Versicherungen"
+        },
+        {
+          "blocks": [
+            {
+              "items": [
+                [
+                  {
+                    "bold": true,
+                    "text": "Arbeitnehmer:innen:"
+                  },
+                  {
+                    "text": " Für den freiwilligen Wehrdienst gibt es gesetzlichen Arbeitsplatzschutz (Arbeitsplatzschutzgesetz): Dein Arbeitsverhältnis ruht während des Dienstes, und es gilt ein besonderer Kündigungsschutz. Informiere deinen Arbeitgeber so früh wie möglich schriftlich und lege das Einberufungsschreiben bei. (Quelle: gesetze-im-internet.de, ArbPlSchG; keine Rechtsberatung — Details mit Arbeitgeber/zuständiger Stelle klären)"
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Azubis:"
+                  },
+                  {
+                    "text": " Sprich zusätzlich mit deinem Betrieb und der Kammer, wie deine Ausbildung unterbrochen oder fortgesetzt wird."
+                  }
+                ],
+                [
+                  {
+                    "bold": true,
+                    "text": "Studierende:"
+                  },
+                  {
+                    "text": " Viele Hochschulen bieten für den Dienst eine "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Beurlaubung"
+                  },
+                  {
+                    "text": " an. Die Regeln (Fristen, Semesterzählung) sind je Hochschule verschieden — kläre das im Studierendensekretariat, bevor du antrittst."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            }
+          ],
+          "id": "5.3.2",
+          "title": "Arbeitgeber, Ausbildung oder Studium"
+        },
+        {
+          "blocks": [
+            {
+              "items": [
+                [
+                  {
+                    "text": "Geh deine Abos und Verträge durch (Fitnessstudio, Streaming, Vereine): Was kannst du pausieren, was kündigst du, was läuft weiter?"
+                  }
+                ],
+                [
+                  {
+                    "text": "Regle deine "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Post"
+                  },
+                  {
+                    "text": ": Nachsendeauftrag oder eine Person, die den Briefkasten leert und dich bei wichtigen Briefen anruft."
+                  }
+                ],
+                [
+                  {
+                    "text": "Wohnst du allein zur Miete, überlege, wer sich in der Woche um die Wohnung kümmert (Blumen, Lüften, Notfälle)."
+                  }
+                ],
+                [
+                  {
+                    "text": "Erledige absehbare Behörden- und Arzttermine (Zahnarzt!) "
+                  },
+                  {
+                    "bold": true,
+                    "text": "vor"
+                  },
+                  {
+                    "text": " dem Antritt — aus der Grundausbildung heraus ist das mühsam."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            }
+          ],
+          "id": "5.3.3",
+          "title": "Laufende Verträge, Post & Behörden"
+        }
+      ],
+      "title": "Papierkram & Verträge regeln",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Fit für Tag 1: der BFT als Ziel",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "In der Grundausbildung erwartet dich der "
+            },
+            {
+              "bold": true,
+              "text": "Basis-Fitness-Test (BFT)"
+            },
+            {
+              "text": " mit drei Disziplinen: 11×10-Meter-Sprinttest, Klimmhang und 1.000-Meter-Lauf (siehe Modul 2). Du musst vorher kein Leistungssportler werden — aber wer mit einer Grundfitness ankommt, hat es in jeder Hinsicht leichter."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Ein einfacher, realistischer Ansatz für die Wochen davor:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "2–3× pro Woche laufen:"
+              },
+              {
+                "text": " Baue dich Richtung 20–30 Minuten am Stück auf; einmal pro Woche etwas schneller (Intervalle oder zügiger 1.000er)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "2× pro Woche Kraft mit dem eigenen Körper:"
+              },
+              {
+                "text": " Liegestütze, Klimmzüge oder Hängen an der Stange (fürs Klimmhang-Gefühl), Kniebeugen, Rumpf."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Gehen und Tragen:"
+              },
+              {
+                "text": " Längere Spaziergänge, gern mit Rucksack — Märsche bestehen aus genau dem."
+              }
+            ],
+            [
+              {
+                "text": "Steigere langsam. Eine Zerrung in Woche 1 der Grundausbildung ist der schlechteste Start."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Diese Empfehlungen sind allgemeine Fitness-Tipps, keine dienstliche Vorgabe. Wenn du gesundheitliche Einschränkungen hast, sprich vorher mit deinem Arzt."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "5.4",
+      "title": "Fit für Tag 1: der BFT als Ziel",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Anreise & die letzten Tage planen",
+      "blocks": [
+        {
+          "items": [
+            [
+              {
+                "text": "Plane die "
+              },
+              {
+                "bold": true,
+                "text": "Anreise mit Puffer"
+              },
+              {
+                "text": ": lieber eine Stunde zu früh am Tor als fünf Minuten zu spät. Prüfe Verbindungen für den konkreten Wochentag (Bauarbeiten, Takt am frühen Morgen)."
+              }
+            ],
+            [
+              {
+                "text": "Bei sehr früher Meldezeit und langer Strecke: Prüfe eine "
+              },
+              {
+                "bold": true,
+                "text": "Übernachtung in der Nähe"
+              },
+              {
+                "text": " am Vorabend. Ob Anreisekosten erstattet werden, ist nicht bundeseinheitlich geregelt — maßgeblich ist dein Einberufungsschreiben bzw. deine zuständige Stelle (siehe Modul 1)."
+              }
+            ],
+            [
+              {
+                "text": "Packe "
+              },
+              {
+                "bold": true,
+                "text": "nicht"
+              },
+              {
+                "text": " in der letzten Nacht. Die Packliste findest du in Modul 12 — geh sie ein paar Tage vorher durch, dann bleibt Zeit für Besorgungen."
+              }
+            ],
+            [
+              {
+                "text": "Plane die letzten zwei, drei Tage bewusst ruhig: ausschlafen, Lieblingsessen, Menschen sehen, die dir wichtig sind."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "5.5",
+      "title": "Anreise & die letzten Tage planen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Kopf & Umfeld vorbereiten",
+      "blocks": [
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Sag deinen Menschen Bescheid:"
+              },
+              {
+                "text": " Familie, Partner:in, enge Freunde. Erkläre, dass du dich in den ersten Wochen seltener meldest — das liegt am dichten Tagesablauf und den Handy-Regeln, nicht an ihnen (siehe FAQ)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Notfallkontakt absprechen:"
+              },
+              {
+                "text": " Am ersten Tag gibst du eine Kontaktperson an (Modul 1). Kläre vorher, wer das sein soll."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Erwartungen justieren:"
+              },
+              {
+                "text": " Die ersten Wochen sind laut, eng getaktet und voller neuer Regeln. Das ist Absicht und geht vorbei. Wer das vorher weiß, erschrickt nicht."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Digital vorsorgen:"
+              },
+              {
+                "text": " Lade dir Wichtiges aufs Handy (Fahrkarten, Dokumente als Foto/Scan, Musik/Podcasts offline) — WLAN und Empfang in Kasernen sind nicht garantiert."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "5.6",
+      "title": "Kopf & Umfeld vorbereiten",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Checkliste „Vor dem Antritt erledigen\"",
+      "id": "5.7",
+      "items": [
+        {
+          "id": "5.7-checklist-einberufungsschreiben-vollstaendig-gelesen-datum",
+          "label": [
+            {
+              "text": "Einberufungsschreiben vollständig gelesen (Datum, Uhrzeit, Unterlagen markiert)"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-geforderte-unterlagen-gesammelt-ausweis-iban-ggf",
+          "label": [
+            {
+              "text": "Geforderte Unterlagen gesammelt (Ausweis, IBAN, ggf. Impfpass, Zeugnisse)"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-krankenkasse-ueber-den-dienstantritt-informiert",
+          "label": [
+            {
+              "text": "Krankenkasse über den Dienstantritt informiert"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-private-versicherungen-geprueft-haftpflicht-co",
+          "label": [
+            {
+              "text": "Private Versicherungen geprüft (Haftpflicht & Co.)"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-arbeitgeber-ausbildungsbetrieb-hochschule-schrif",
+          "label": [
+            {
+              "text": "Arbeitgeber / Ausbildungsbetrieb / Hochschule schriftlich informiert"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-abos-und-vertraege-geprueft-pausieren-kuendigen",
+          "label": [
+            {
+              "text": "Abos und Verträge geprüft (pausieren, kündigen, weiterlaufen lassen)"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-post-geregelt-nachsendeauftrag-oder-briefkasten",
+          "label": [
+            {
+              "text": "Post geregelt (Nachsendeauftrag oder Briefkasten-Person)"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-offene-arzt-und-behoerdentermine-erledigt-zahnar",
+          "label": [
+            {
+              "text": "Offene Arzt- und Behördentermine erledigt (Zahnarzt!)"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-training-begonnen-laufen-kraft-gehen-mit-gepaeck",
+          "label": [
+            {
+              "text": "Training begonnen (Laufen, Kraft, Gehen mit Gepäck)"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-anreise-geplant-verbindung-geprueft-puffer-einge",
+          "label": [
+            {
+              "text": "Anreise geplant, Verbindung geprüft, Puffer eingebaut"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-uebernachtung-am-vorabend-geklaert-falls-noetig",
+          "label": [
+            {
+              "text": "Übernachtung am Vorabend geklärt, falls nötig"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-notfallkontakt-person-abgesprochen",
+          "label": [
+            {
+              "text": "Notfallkontakt-Person abgesprochen"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-familie-und-freunde-vorbereitet-erste-wochen-wen",
+          "label": [
+            {
+              "text": "Familie und Freunde vorbereitet („erste Wochen = wenig Kontakt\")"
+            }
+          ]
+        },
+        {
+          "id": "5.7-checklist-packliste-aus-modul-12-durchgegangen-besorgungen",
+          "label": [
+            {
+              "text": "Packliste aus Modul 12 durchgegangen, Besorgungen erledigt"
+            }
+          ]
+        }
+      ],
+      "title": "Checkliste „Vor dem Antritt erledigen\"",
+      "type": "checklist"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Dein Einberufungsschreiben und die darin genannte zuständige Stelle — die einzige verbindliche Quelle für deinen konkreten Antritt."
+    },
+    {
+      "label": "gesetze-im-internet.de: Arbeitsplatzschutzgesetz (ArbPlSchG) — Ruhen des Arbeitsverhältnisses und Kündigungsschutz beim Wehrdienst; keine Rechtsberatung."
+    },
+    {
+      "label": "Bundeswehr (bundeswehr.de): öffentlich beschriebene Inhalte zum Basis-Fitness-Test (Disziplinen Sprinttest, Klimmhang, 1.000-m-Lauf) — Details siehe Modul 2 samt Quellen."
+    },
+    {
+      "label": "Krankenkassen-/versicherungsrechtliche Details, Erstattung von Anreisekosten sowie Hochschul-Beurlaubungen variieren je Kasse, Anbieter, Einheit bzw. Hochschule — wir erfinden hier nichts, sondern verweisen offen auf die jeweils zuständige Stelle."
+    }
+  ],
+  "title": "Vor dem ersten Tag",
+  "updateNeed": "mittel",
+  "version": "1.0.0"
+}

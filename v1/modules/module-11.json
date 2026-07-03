@@ -1,0 +1,444 @@
+{
+  "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
+  "id": 11,
+  "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-11-1",
+      "note": "",
+      "raw": "[PRÜFEN: konkrete Beförderungsfristen und Mindestdienstzeiten je Dienstgrad nach SLV]",
+      "sectionId": "11.4",
+      "topic": "konkrete Beförderungsfristen und Mindestdienstzeiten je Dienstgrad nach SLV"
+    },
+    {
+      "id": "rf-11-2",
+      "note": "",
+      "raw": "[PRÜFEN: konkrete BFD-Ansprüche je Verpflichtungsdauer und Status FWDL/SaZ]",
+      "sectionId": "11.5",
+      "topic": "konkrete BFD-Ansprüche je Verpflichtungsdauer und Status FWDL/SaZ"
+    }
+  ],
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Die Grundausbildung hat ein klares Ende — dein Dienst geht danach aber erst richtig los. Dieses Modul zeigt dir, was kommt: die Versetzung in deine Stammeinheit, die Ausbildung für deinen eigentlichen Dienstposten, die Wege vom freiwilligen Wehrdienst in eine längere Verpflichtung — und der geordnete Ausstieg, wenn du gehen willst."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Das meiste davon entscheidet sich nicht an einem Tag. Du hast Zeit, dir ein eigenes Bild zu machen, bevor du dich festlegst — nutze sie, statt einfach mitzulaufen."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "11.1",
+      "title": "Worum es in diesem Modul geht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Versetzung in die Stammeinheit",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Nach der Grundausbildung wirst du in der Regel in deine "
+            },
+            {
+              "bold": true,
+              "text": "Stammeinheit"
+            },
+            {
+              "text": " versetzt — die Einheit, in der du deinen eigentlichen Dienst leistest. Das kann am selben Standort sein oder ein Umzug quer durchs Land; das hängt von deiner Verwendung und der Personalplanung ab, nicht von deinem Wunschzettel allein. Wohin es geht, erfährst du verbindlich von deiner Einheit bzw. deiner personalführenden Stelle."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Dort beginnt meist die "
+            },
+            {
+              "bold": true,
+              "text": "Ausbildung für deinen Dienstposten"
+            },
+            {
+              "text": ": je nach Verwendung Spezialausbildung, Lehrgänge oder Einweisung am Arbeitsplatz. Wie das heißt und wie lange es dauert, ist je nach Truppengattung und Verwendung sehr unterschiedlich — verbindlich ist der Plan deiner Einheit."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Praktisch heißt die Versetzung: neue Vorgesetzte, neue Abläufe, oft neue Stube. Vieles aus der Grundausbildung gilt weiter (Anrede und Dienstgrade: Modul 3), aber der Alltag wird meist normaler — weniger Formaldienst, mehr echter Job."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "11.2",
+      "title": "Versetzung in die Stammeinheit",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Vom FWDL zum SaZ — verlängern oder verpflichten",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Als freiwillig Wehrdienstleistende:r (FWDL) hast du eine begrenzte Dienstzeit. Wenn es dir liegt, gibt es zwei grundsätzliche Wege: die "
+            },
+            {
+              "bold": true,
+              "text": "Verlängerung"
+            },
+            {
+              "text": " deines freiwilligen Wehrdienstes im möglichen Rahmen und die "
+            },
+            {
+              "bold": true,
+              "text": "Verpflichtung als Soldat:in auf Zeit (SaZ)"
+            },
+            {
+              "text": " — also ein echtes Dienstverhältnis über mehrere Jahre, mit anderer Bezahlung und anderen Ansprüchen (Geld: Modul 4). Die Grundmechanik dazu findest du im FAQ in Modul 13."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Wichtig zu wissen:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Ein Anspruch auf Übernahme besteht nicht."
+              },
+              {
+                "text": " Ob es klappt, hängt von freien Dienstposten, deiner Eignung und deiner Bewertung ab."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Der Weg läuft über einen Antrag"
+              },
+              {
+                "text": " bei deiner personalführenden Stelle. Sprich früh mit deinen Vorgesetzten — die kennen das Verfahren und schätzen ehrliches Interesse."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Beraten lassen kannst du dich"
+              },
+              {
+                "text": " beim Karrierecenter der Bundeswehr und bei deiner personalführenden Stelle. Geh da mit konkreten Fragen hin: Welche Verwendung, welcher Standort, welche Verpflichtungsdauer?"
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Unterschreib nichts unter Zeitdruck. Eine Verpflichtung über mehrere Jahre ist eine große Entscheidung — die Entscheidungshilfe am Ende dieses Moduls ist genau dafür da."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "11.3",
+      "title": "Vom FWDL zum SaZ — verlängern oder verpflichten",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Laufbahngruppen kurz erklärt",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Die Bundeswehr kennt drei Laufbahngruppen:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Mannschaften:"
+              },
+              {
+                "text": " der Einstieg für die meisten FWDL. Du arbeitest im Team auf Ausführungsebene — das Rückgrat jeder Einheit."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Unteroffiziere:"
+              },
+              {
+                "text": " die Fachleute und Ausbilder, unterteilt in Fachunteroffiziere und Feldwebel. Hier führst du kleine Teams und trägst fachliche Verantwortung."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Offiziere:"
+              },
+              {
+                "text": " Führungsverantwortung für größere Einheiten, oft verbunden mit einem Studium an einer Universität der Bundeswehr."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Ein Wechsel nach oben ist möglich — der "
+            },
+            {
+              "bold": true,
+              "text": "Laufbahnwechsel"
+            },
+            {
+              "text": " ist ein normaler Weg, kein Ausnahmefall. Voraussetzung sind in der Regel Eignung, Bewertungen, Lehrgänge und freie Stellen. Beförderungen folgen festen Mindestvoraussetzungen aus der Soldatenlaufbahnverordnung "
+            },
+            {
+              "reviewFlagId": "rf-11-1",
+              "text": "[PRÜFEN: konkrete Beförderungsfristen und Mindestdienstzeiten je Dienstgrad nach SLV]"
+            },
+            {
+              "text": ". Was für dich realistisch ist, sagt dir deine personalführende Stelle ehrlicher als jedes Forum."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "11.4",
+      "title": "Laufbahngruppen kurz erklärt",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Weiterbildung im Dienst",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Dienstzeit ist keine verlorene Zeit für deinen Lebenslauf — wenn du sie nutzt:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Militärische Lehrgänge:"
+              },
+              {
+                "text": " Je nach Verwendung stehen dir Lehrgänge offen, vom Fachlehrgang bis zur Führungsausbildung. Frag aktiv nach, was zu deinem Dienstposten passt — wer Interesse zeigt, wird eher eingeplant."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Ziviler Nutzen:"
+              },
+              {
+                "text": " Manche militärische Qualifikationen haben zivile Entsprechungen oder lassen sich anerkennen (z. B. im Fahr-, Sanitäts- oder Technikbereich). Das variiert stark je nach Bereich — kläre es konkret für deine Verwendung."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Berufsförderungsdienst (BFD):"
+              },
+              {
+                "text": " Der BFD der Bundeswehr unterstützt vor allem Soldat:innen auf Zeit bei der schulischen und beruflichen Weiterbildung und beim Übergang zurück ins zivile Berufsleben. Umfang und Ansprüche hängen von deinem Status und deiner Verpflichtungsdauer ab "
+              },
+              {
+                "reviewFlagId": "rf-11-2",
+                "text": "[PRÜFEN: konkrete BFD-Ansprüche je Verpflichtungsdauer und Status FWDL/SaZ]"
+              },
+              {
+                "text": ". Grundlage ist das Soldatenversorgungsgesetz; beraten wirst du direkt beim BFD."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Führerschein:"
+              },
+              {
+                "text": " Zur Unterstützung beim Führerschein als Anreiz siehe Modul 4 und das FAQ in Modul 13 — hier erfinden wir keine Beträge."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "11.5",
+      "title": "Weiterbildung im Dienst",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Dienstzeitende, Rückkehr und Reserve",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Irgendwann kommt für alle das "
+            },
+            {
+              "bold": true,
+              "text": "Dienstzeitende (DZE)"
+            },
+            {
+              "text": " — der regulär festgelegte letzte Tag deiner Dienstzeit. Das ist ein geordneter Ausstieg mit Vorlauf: Entlassungsuntersuchung, Rückgabe der Ausrüstung, Papierkram. Was vorher geht (Probezeit, Entlassungswege), steht in Modul 13."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Kehrst du in deinen alten Job zurück, greift der "
+            },
+            {
+              "bold": true,
+              "text": "Arbeitsplatzschutz"
+            },
+            {
+              "text": ": Dein Arbeitsverhältnis hat während des Dienstes geruht (siehe Modul 5). Melde dich trotzdem früh bei deinem Arbeitgeber, damit die Rückkehr für beide Seiten planbar ist."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Und danach? Wer will, kann als "
+            },
+            {
+              "bold": true,
+              "text": "Reservist:in"
+            },
+            {
+              "text": " dabeibleiben: Reservistendienst heißt, du übst oder unterstützt zeitweise weiter — neben deinem zivilen Leben. Ob und wie das für dich passt, klärst du über deine Einheit oder das Karrierecenter, bevor du gehst. Die Tür fällt beim DZE nicht zu."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "11.6",
+      "title": "Dienstzeitende, Rückkehr und Reserve",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Bleiben oder gehen — eine ehrliche Entscheidungshilfe",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Beides ist legitim. Die Bundeswehr wirbt naturgemäß fürs Bleiben — deshalb hier die Fragen, die dir niemand abnimmt:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "text": "Wie ging es dir im Alltag "
+              },
+              {
+                "bold": true,
+                "text": "nach"
+              },
+              {
+                "text": " der Grundausbildung — nicht in Woche 2, sondern in Monat 4?"
+              }
+            ],
+            [
+              {
+                "text": "Würdest du dich für die Verwendung verpflichten, die dir realistisch offensteht — oder nur für eine Wunschvorstellung?"
+              }
+            ],
+            [
+              {
+                "text": "Kommst du mit Versetzungen und Standortwechseln klar, auch wenn Familie oder Partnerschaft dranhängen?"
+              }
+            ],
+            [
+              {
+                "text": "Was wiegt für dich schwerer: Sicherheit und Struktur im Dienst — oder die Freiheiten deines zivilen Plans?"
+              }
+            ],
+            [
+              {
+                "text": "Hast du einen konkreten Plan B, oder fühlt sich Bleiben nur nach dem bequemeren Weg an?"
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Hol dir ehrliche Außensicht: Vorgesetzte und Karrierecenter für die dienstliche Perspektive, Familie und Freunde für den Rest. Bei Zweifeln oder Druckgefühl helfen auch die Ansprechstellen aus Modul 12 — von der Vertrauensperson bis zur Sozialberatung. Und egal wie du dich entscheidest: Triff die Entscheidung selbst, schriftlich beraten, ohne Zeitdruck."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "11.7",
+      "title": "Bleiben oder gehen — eine ehrliche Entscheidungshilfe",
+      "type": "text"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Bundeswehr: Karriere-Themenseiten zu Laufbahnen (Mannschaften, Unteroffiziere, Offiziere) und zum Karrierecenter (bundeswehr.de), abgerufen 2026."
+    },
+    {
+      "label": "gesetze-im-internet.de: Soldatenlaufbahnverordnung (SLV) — Laufbahnen und Beförderungsvoraussetzungen; konkrete Fristen im Modul bewusst als [PRÜFEN] markiert."
+    },
+    {
+      "label": "gesetze-im-internet.de: Soldatenversorgungsgesetz (SVG) — gesetzliche Grundlage der Berufsförderung (BFD); keine Rechtsberatung."
+    },
+    {
+      "label": "Bundeswehr: Themenseite Reserve/Reservistendienst (bundeswehr.de), abgerufen 2026."
+    },
+    {
+      "label": "Wo Abläufe je Einheit, Verwendung und Standort variieren (Versetzung, Dienstpostenausbildung, Übernahmechancen), sagen wir das offen — verbindlich sind deine Einheit und deine personalführende Stelle."
+    }
+  ],
+  "title": "Nach der Grundausbildung — wie es weitergeht",
+  "updateNeed": "mittel",
+  "version": "1.0.0"
+}

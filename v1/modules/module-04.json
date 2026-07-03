@@ -2,6 +2,7 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechts-, Steuer- oder Finanzberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich sind immer die offiziellen Stellen und deine Bezügeabrechnung.",
   "id": 4,
   "lastUpdated": "2026-06-01",
+  "reviewFlags": [],
   "schemaVersion": 2,
   "sections": [
     {
@@ -1354,6 +1355,7 @@
     },
     {
       "anchorSearchTitle": "Extra: Bahn & Führerschein",
+      "blocks": [],
       "id": "4.8",
       "subsections": [
         {

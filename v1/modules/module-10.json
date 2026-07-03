@@ -1,0 +1,463 @@
+{
+  "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
+  "id": 10,
+  "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-10-1",
+      "note": "",
+      "raw": "[PRÜFEN: aktuelle Sicherheitsempfehlungen zum Tragen der Uniform im ÖPNV/öffentlich]",
+      "sectionId": "10.5",
+      "topic": "aktuelle Sicherheitsempfehlungen zum Tragen der Uniform im ÖPNV/öffentlich"
+    }
+  ],
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Eine Kaserne ist kein Wohnheim mit Zaun, sondern ein militärischer Sicherheitsbereich mit eigenen Regeln. Vieles davon wirkt am Anfang streng oder kleinlich — fast alles hat aber einen nachvollziehbaren Grund: Sicherheit, Ordnung und die Tatsache, dass hier viele Menschen mit Ausrüstung und Waffen auf engem Raum zusammenleben."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Dieses Modul erklärt dir die wichtigsten Alltagsregeln: Zutritt und Besuch, Wache und Dienste, Stubenordnung, Uniform draußen, Handy und Fotos, Alkohol, Schweigen über Dienstliches und der Umgang mit deiner Ausrüstung."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Merksatz für alles hier: Die konkreten Regeln legt deine Einheit fest. Was dir dort gesagt und ausgehändigt wird, geht immer vor."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "10.1",
+      "title": "Worum es in diesem Modul geht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Sicherheitsbereich Kaserne: Zutritt, Ausweis, Besuch",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Kasernen sind "
+            },
+            {
+              "bold": true,
+              "text": "militärische Sicherheitsbereiche"
+            },
+            {
+              "text": ". Wer rein will, wird an der Wache kontrolliert — auch du, jeden Tag. Die Wache hat dafür besondere gesetzliche Befugnisse (Quelle: gesetze-im-internet.de, UZwGBw)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "text": "Dein "
+              },
+              {
+                "bold": true,
+                "text": "Truppenausweis"
+              },
+              {
+                "text": " ist dein Schlüssel: ohne ihn kein regulärer Zutritt. Trag ihn im Dienst bei dir, verlier ihn nicht — und melde einen Verlust sofort (siehe Modul 1)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Besuch"
+              },
+              {
+                "text": " ist nicht spontan möglich. Ob und wie Familie oder Partner:in dich in der Kaserne besuchen können, ist geregelt und variiert je Dienststelle — verbindlich ist deine Einheit. Meist trefft ihr euch ohnehin einfacher draußen, am Wochenende oder nach Dienstschluss (mehr dazu im FAQ, Modul 13)."
+              }
+            ],
+            [
+              {
+                "text": "Nimm Kontrollen nicht persönlich. Die Wache macht ihren Job — freundlich bleiben, Ausweis zeigen, weitergehen."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "10.2",
+      "title": "Sicherheitsbereich Kaserne: Zutritt, Ausweis, Besuch",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Wache und Dienste: UvD, GvD und Co.",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Neben der Ausbildung gibt es Dienste, die rund um die Uhr besetzt sein müssen. Die Abkürzungen findest du auch im Lexikon in Modul 12 — grob bedeuten sie:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "UvD (Unteroffizier vom Dienst):"
+              },
+              {
+                "text": " sorgt im Unterkunftsbereich für Ordnung und Ablauf, ist außerhalb der regulären Dienstzeit oft die erste Anlaufstelle."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "GvD (Gefreiter vom Dienst):"
+              },
+              {
+                "text": " unterstützt den UvD bei diesen Aufgaben."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Wachdienst:"
+              },
+              {
+                "text": " die Bewachung der Kaserne selbst — Tor, Kontrollen, Streifen."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Als Rekrut:in wirst du früher oder später für solche Dienste "
+            },
+            {
+              "bold": true,
+              "text": "eingeteilt"
+            },
+            {
+              "text": ", das gehört dazu. Keine Sorge: Du wirst vor deinem ersten Dienst eingewiesen und für den Wachdienst ausgebildet — niemand stellt dich unvorbereitet ans Tor. Wenn dir bei der Einweisung etwas unklar ist, frag nach; bei Diensten ist Nachfragen ausdrücklich erwünscht."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "10.3",
+      "title": "Wache und Dienste: UvD, GvD und Co.",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Stube und Hausordnung",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Für Unterkunft und Stube gelten feste Vorgaben — oft "
+            },
+            {
+              "bold": true,
+              "text": "Stubenordnung"
+            },
+            {
+              "text": " oder Hausordnung genannt (Grundlagen dazu in Modul 1). Dazu gehört auch der "
+            },
+            {
+              "bold": true,
+              "text": "Stubenappell"
+            },
+            {
+              "text": ": Vorgesetzte kontrollieren, ob Stube, Spind und Material in Ordnung sind."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Das fühlt sich anfangs nach Schikane an, ist aber ein System: Wer sein Material immer am gleichen Platz hat, findet es auch müde, im Dunkeln und unter Zeitdruck. Ordnung ist hier Ausbildungsziel, nicht Selbstzweck."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "text": "Frag früh, wie Spind und Stube auszusehen haben, statt zu raten."
+              }
+            ],
+            [
+              {
+                "text": "Haltet die Stube als Team in Schuss — beim Appell steht ihr gemeinsam gerade."
+              }
+            ],
+            [
+              {
+                "text": "Details (Zeiten, Umfang, Häufigkeit) variieren je Dienststelle — verbindlich ist deine Einheit."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "10.4",
+      "title": "Stube und Hausordnung",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Uniform in der Öffentlichkeit",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Grundsätzlich darfst du deine Uniform auch außerhalb der Kaserne tragen, etwa auf dem Weg nach Hause. Zwei Dinge solltest du dabei im Kopf haben:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Du wirst als Bundeswehr wahrgenommen."
+              },
+              {
+                "text": " In Uniform stehst du für mehr als dich selbst — gepflegtes, ruhiges Auftreten ist Pflicht, auch außer Dienst (Quelle: gesetze-im-internet.de, Soldatengesetz, § 17)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Politische Veranstaltungen sind tabu:"
+              },
+              {
+                "text": " Dort darfst du keine Uniform tragen (Quelle: gesetze-im-internet.de, Soldatengesetz, § 15). Was politische Betätigung als Soldat:in generell bedeutet, steht in Modul 6."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Dazu kommt das Thema Sicherheit: Es gab immer wieder Phasen mit Empfehlungen, die Uniform in Bahn und Öffentlichkeit zurückhaltend zu tragen. "
+            },
+            {
+              "reviewFlagId": "rf-10-1",
+              "text": "[PRÜFEN: aktuelle Sicherheitsempfehlungen zum Tragen der Uniform im ÖPNV/öffentlich]"
+            },
+            {
+              "text": " Was aktuell gilt, sagt dir deine Einheit in den Belehrungen — halte dich daran, auch wenn Kameraden es lockerer sehen."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "10.5",
+      "title": "Uniform in der Öffentlichkeit",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Handy, Fotos und Schweigen über Dienstliches",
+      "blocks": [],
+      "id": "10.6",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "In Sicherheitsbereichen gelten "
+                },
+                {
+                  "bold": true,
+                  "text": "Fotografierverbote"
+                },
+                {
+                  "text": " — wo genau, erfährst du in den Belehrungen deiner Einheit, die Regeln variieren je Dienststelle. Als Faustregeln:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "items": [
+                [
+                  {
+                    "text": "Keine Aufnahmen von Anlagen, Technik, Waffen, Wachen oder Abläufen."
+                  }
+                ],
+                [
+                  {
+                    "text": "Keine Fotos von Kamerad:innen ohne deren Ok — und nichts davon ungefragt posten."
+                  }
+                ],
+                [
+                  {
+                    "text": "Poste nicht in Echtzeit, wo deine Einheit gerade ist oder was sie tut."
+                  }
+                ]
+              ],
+              "ordered": false,
+              "type": "list"
+            },
+            {
+              "spans": [
+                {
+                  "text": "Ein harmlos gemeintes Stuben-Selfie kann im Hintergrund Dinge zeigen, die nicht ins Netz gehören. Im Zweifel: nicht fotografieren, nicht posten, vorher fragen."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "10.6.1",
+          "title": "Fotos und Social Media"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Als Soldat:in bist du zur "
+                },
+                {
+                  "bold": true,
+                  "text": "Verschwiegenheit"
+                },
+                {
+                  "text": " über dienstliche Angelegenheiten verpflichtet (Quelle: gesetze-im-internet.de, Soldatengesetz, § 14). Für den Alltag heißt das schlicht: Erzähl draußen — auch Familie, Partner:in, Chats — keine Details über Abläufe, Technik, Orte und Termine. „Wie war dein Tag?\" kannst du trotzdem beantworten; es geht um das Dienstliche dahinter. Im Zweifel schweigen und beim Vorgesetzten nachfragen, was du erzählen darfst."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "10.6.2",
+          "title": "Geheimschutz light"
+        }
+      ],
+      "title": "Handy, Fotos und Schweigen über Dienstliches",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Alkohol und Rauchen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Kurzfassung: Im Dienst bist du "
+            },
+            {
+              "bold": true,
+              "text": "nüchtern"
+            },
+            {
+              "text": " — ohne Ausnahme. Was in der Freizeit in der Kaserne erlaubt ist (Alkohol in der Unterkunft, Raucherbereiche), regeln deine Einheit und die Hausordnung, und das variiert je Dienststelle. Die häufigsten Fragen dazu beantwortet das FAQ in Modul 13."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Denk daran: Auch am Morgen danach musst du diensttauglich sein — und beim Wachdienst mit Waffe gibt es null Toleranz."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "10.7",
+      "title": "Alkohol und Rauchen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Deine Ausrüstung und die Waffe",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Was du quittiert hast, verantwortest du (siehe Modul 1). Bei der Waffe gilt das in besonderem Maß:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Nie unbeaufsichtigt lassen."
+              },
+              {
+                "text": " Die Waffe ist bei dir oder vorschriftsmäßig verwahrt — dazwischen gibt es nichts."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Verlust oder Beschädigung sofort melden"
+              },
+              {
+                "text": " — auch bei anderer Ausrüstung, und auch wenn es unangenehm ist. Verschweigen macht aus einem Fehler ein echtes Problem."
+              }
+            ],
+            [
+              {
+                "text": "Handhabung, Sicherheitsregeln und Verwahrung lernst du gründlich in der Ausbildung, bevor du eine Waffe führst. Halte dich exakt an das, was dir beigebracht wird — Sicherheitsregeln an der Waffe sind nicht verhandelbar."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Geld- und Haftungsfragen bei Verlust klärt deine Einheit im Einzelfall; pauschale Aussagen dazu wären unseriös (Grundsätzliches zu Geldthemen: Modul 4)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "10.8",
+      "title": "Deine Ausrüstung und die Waffe",
+      "type": "text"
+    }
+  ],
+  "sources": [
+    {
+      "label": "gesetze-im-internet.de: Soldatengesetz (SG) — § 14 (Verschwiegenheit), § 15 (politische Betätigung, Uniformverbot bei politischen Veranstaltungen), § 17 (Verhalten im und außer Dienst); keine Rechtsberatung."
+    },
+    {
+      "label": "gesetze-im-internet.de: UZwGBw — Befugnisse von Wachen in militärischen Sicherheitsbereichen der Bundeswehr."
+    },
+    {
+      "label": "Bundeswehr: „Grundausbildung\" (bundeswehr.de), abgerufen 2026 — Ausbildungsinhalte, u. a. Wachausbildung."
+    },
+    {
+      "label": "Wo Regeln je Einheit/Standort variieren (Besuch, Stubenordnung, Handy- und Fotoregeln, Alkohol/Rauchen in der Unterkunft, aktuelle Uniform-Empfehlungen), sagen wir das offen — verbindlich sind deine Einheit und ihre Belehrungen."
+    }
+  ],
+  "title": "Kasernenalltag & Regeln",
+  "updateNeed": "mittel",
+  "version": "1.0.0"
+}

@@ -1,0 +1,491 @@
+{
+  "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
+  "id": 9,
+  "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-9-1",
+      "note": "",
+      "raw": "[PRÜFEN: Übertragungs- und Verfallsfristen für Resturlaub nach SUV/EUrlV]",
+      "sectionId": "9.2",
+      "topic": "Übertragungs- und Verfallsfristen für Resturlaub nach SUV/EUrlV"
+    },
+    {
+      "id": "rf-9-2",
+      "note": "",
+      "raw": "[PRÜFEN: konkrete Ausgleichsregeln, Fristen und Ausnahmen nach SAZV]",
+      "sectionId": "9.4.1",
+      "topic": "konkrete Ausgleichsregeln, Fristen und Ausnahmen nach SAZV"
+    },
+    {
+      "id": "rf-9-3",
+      "note": "",
+      "raw": "[PRÜFEN: konkrete Wochenstundenzahl und Berechnungszeitraum nach SAZV]",
+      "sectionId": "9.4",
+      "topic": "konkrete Wochenstundenzahl und Berechnungszeitraum nach SAZV"
+    },
+    {
+      "id": "rf-9-4",
+      "note": "",
+      "raw": "[PRÜFEN: genaue Anlässe und Umfang des Sonderurlaubs nach SUV]",
+      "sectionId": "9.7",
+      "topic": "genaue Anlässe und Umfang des Sonderurlaubs nach SUV"
+    }
+  ],
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Dienst beim Bund heißt nicht, dass dein Leben rund um die Uhr der Einheit gehört. Es gibt Urlaub, es gibt eine geregelte Arbeitszeit, und es gibt Freizeit — nur funktionieren alle drei etwas anders, als du es aus Schule, Ausbildung oder Job kennst."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Dieses Modul erklärt dir die Grundzüge: wie viel Erholungsurlaub dir zusteht, wie du ihn beantragst, was die Soldatenarbeitszeitverordnung regelt, wie du deinen Dienstplan liest und was in der Grundausbildung an Ausgang und Wochenenden realistisch ist."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Eine ehrliche Ansage vorweg: Vieles davon variiert je Dienststelle — Ausgangsregeln, Urlaubssperren, konkrete Dienstzeiten. Wir sagen dir den Rahmen; verbindlich ist deine Einheit."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "9.1",
+      "title": "Worum es in diesem Modul geht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Dein Erholungsurlaub",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Als Soldat:in hast du Anspruch auf "
+            },
+            {
+              "bold": true,
+              "text": "Erholungsurlaub"
+            },
+            {
+              "text": ": "
+            },
+            {
+              "bold": true,
+              "text": "30 Arbeitstage pro Kalenderjahr"
+            },
+            {
+              "text": " bei einer Fünf-Tage-Woche. Grundlage sind die Soldatinnen- und Soldatenurlaubsverordnung (SUV) in Verbindung mit der Erholungsurlaubsverordnung (EUrlV) — dieser Wert ist auch in Modul 13 (FAQ) belegt."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Ein paar Dinge, die daraus folgen:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Arbeitstage, nicht Kalendertage:"
+              },
+              {
+                "text": " Bei der Fünf-Tage-Woche zählen Wochenenden nicht mit. 30 Arbeitstage sind also sechs volle Wochen."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Anteilig im ersten Jahr:"
+              },
+              {
+                "text": " Trittst du mitten im Kalenderjahr an, bekommst du den Urlaub für dieses Jahr "
+              },
+              {
+                "bold": true,
+                "text": "anteilig"
+              },
+              {
+                "text": " — nicht die vollen 30 Tage. Wie viele Tage dir konkret zustehen, rechnet dir deine personalbearbeitende Stelle aus."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Resturlaub:"
+              },
+              {
+                "text": " Für nicht genommenen Urlaub gibt es Übertragungsregeln "
+              },
+              {
+                "reviewFlagId": "rf-9-1",
+                "text": "[PRÜFEN: Übertragungs- und Verfallsfristen für Resturlaub nach SUV/EUrlV]"
+              },
+              {
+                "text": ". Verlass dich nicht darauf, alles „irgendwann später\" zu nehmen — klär den Stand rechtzeitig mit deiner Einheit."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "9.2",
+      "title": "Dein Erholungsurlaub",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Urlaub beantragen: rechtzeitig und über den Dienstweg",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Urlaub nimmst du nicht einfach, du beantragst ihn — und zwar "
+            },
+            {
+              "bold": true,
+              "text": "über den Dienstweg"
+            },
+            {
+              "text": ", also zuerst bei deinen direkten Vorgesetzten (zur Anrede: Modul 3). So machst du es richtig:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Früh beantragen:"
+              },
+              {
+                "text": " Je eher dein Antrag da ist, desto besser lässt er sich einplanen. Kurzfristige Anträge scheitern öfter an der Dienstplanung als an bösem Willen."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Genehmigt ist erst, was genehmigt ist:"
+              },
+              {
+                "text": " Ein gestellter Antrag ist kein Urlaub. Warte die Genehmigung ab, bevor du etwas fest planst."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Dienst geht vor:"
+              },
+              {
+                "text": " Aus dienstlichen Gründen kann Urlaub abgelehnt oder in seltenen Fällen sogar widerrufen werden. Das ist ärgerlich, aber Teil des Systems."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "In der Grundausbildung"
+              },
+              {
+                "text": " ist Erholungsurlaub oft gesperrt oder stark eingeschränkt, damit alle die Ausbildung durchgehend mitmachen. Ob und wie — das variiert je Dienststelle; verbindlich ist deine Einheit."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "9.3",
+      "title": "Urlaub beantragen: rechtzeitig und über den Dienstweg",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Arbeitszeit: die SAZV als Rahmen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Die "
+            },
+            {
+              "bold": true,
+              "text": "Soldatenarbeitszeitverordnung (SAZV)"
+            },
+            {
+              "text": " regelt die Arbeitszeit für Soldat:innen. Der Grundgedanke: Auch beim Bund gibt es grundsätzlich eine feste durchschnittliche Wochenarbeitszeit von 41 Stunden "
+            },
+            {
+              "reviewFlagId": "rf-9-3",
+              "text": "[PRÜFEN: konkrete Wochenstundenzahl und Berechnungszeitraum nach SAZV]"
+            },
+            {
+              "text": " — und nicht endlosen Dienst nach Gutdünken."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Aber: Die SAZV kennt "
+            },
+            {
+              "bold": true,
+              "text": "Ausnahmen"
+            },
+            {
+              "text": ". Bei Übungen, Wachdienst, Einsätzen und vergleichbaren Tätigkeiten gelten Sonderregeln — dann kann der Dienst deutlich länger dauern, auch nachts und am Wochenende. In der Grundausbildung wirst du beides erleben: normale Dienstwochen und einzelne Phasen (Übungsplatz, Wache), in denen die reguläre Zählung ausgesetzt ist."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "9.4",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Wenn du über die reguläre Arbeitszeit hinaus Dienst leistest, wird das grundsätzlich erfasst und in erster Linie durch "
+                },
+                {
+                  "bold": true,
+                  "text": "Freizeitausgleich"
+                },
+                {
+                  "text": " abgegolten "
+                },
+                {
+                  "reviewFlagId": "rf-9-2",
+                  "text": "[PRÜFEN: konkrete Ausgleichsregeln, Fristen und Ausnahmen nach SAZV]"
+                },
+                {
+                  "text": ". Wie die Erfassung praktisch läuft (Listen, Software, wer einträgt), ist je Einheit verschieden — frag früh nach, wie es bei euch dokumentiert wird, statt dich hinterher zu ärgern. Was davon eventuell finanziell abgegolten wird, gehört ins Thema Geld (Modul 4)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "9.4.1",
+          "title": "Mehrarbeit & Freizeitausgleich"
+        }
+      ],
+      "title": "Arbeitszeit: die SAZV als Rahmen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Den Dienstplan lesen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Der "
+            },
+            {
+              "bold": true,
+              "text": "Dienstplan"
+            },
+            {
+              "text": " ist das zentrale Dokument deiner Woche: Er sagt dir, wann was stattfindet, in welchem Anzug und wo. Ein paar Praxis-Tipps:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Täglich prüfen:"
+              },
+              {
+                "text": " Dienstpläne ändern sich, manchmal kurzfristig. Wirf jeden Abend einen Blick darauf — „stand gestern noch anders\" zählt nicht als Ausrede."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Abkürzungen lernen:"
+              },
+              {
+                "text": " Pläne stecken voller Kürzel (Dienste, Anzugarten, Orte). Was du nicht kennst: nachfragen oder im Glossar nachschlagen (Modul 12)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Verbindlichkeit:"
+              },
+              {
+                "text": " Was im Dienstplan steht, ist Dienst — inklusive Zeiten, die sich nach Freizeit anfühlen (Antreten, Appelle, Reinigungsdienste)."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Vorausschauen:"
+              },
+              {
+                "text": " Für Wochenend- und Urlaubsplanung ist der Dienstplan deine wichtigste Informationsquelle. Plane nichts Festes gegen einen Plan, den es noch nicht gibt."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "9.5",
+      "title": "Den Dienstplan lesen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Ausgang & Freizeit in der Grundausbildung",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Nach Dienstschluss beginnt grundsätzlich deine Freizeit. In der Grundausbildung gibt es dafür aber Regeln: "
+            },
+            {
+              "bold": true,
+              "text": "Ausgangsregelungen"
+            },
+            {
+              "text": " legen fest, ob und wann du die Kaserne verlassen darfst, ob du abends zurück sein musst und was auf der Stube gilt. Gerade in den ersten Wochen ist der Ausgang oft eingeschränkt — wie genau, variiert je Einheit; verbindlich ist, was deine Vorgesetzten ansagen."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Rechne realistisch: Ein Teil der „Freizeit\" geht in der Grundausbildung für Vorbereitung drauf — Stiefel, Wäsche, Spind, Lernen für den nächsten Tag. Plane auch Schlaf bewusst ein; müde Rekrut:innen machen mehr Fehler."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "An "
+            },
+            {
+              "bold": true,
+              "text": "Wochenenden"
+            },
+            {
+              "text": " fahren viele nach Hause, sofern kein Dienst angesetzt ist. Alles rund um Heimfahrten, Bahnfahren und Pendeln findest du in Modul 7."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "9.6",
+      "title": "Ausgang & Freizeit in der Grundausbildung",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Sonderurlaub: wenn im Leben etwas passiert",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Neben dem Erholungsurlaub gibt es "
+            },
+            {
+              "bold": true,
+              "text": "Sonderurlaub aus wichtigen Anlässen"
+            },
+            {
+              "text": " — etwa bei bestimmten familiären Ereignissen "
+            },
+            {
+              "reviewFlagId": "rf-9-4",
+              "text": "[PRÜFEN: genaue Anlässe und Umfang des Sonderurlaubs nach SUV]"
+            },
+            {
+              "text": ". Das Wichtigste für dich: So etwas existiert. Wenn bei dir zu Hause etwas Gravierendes passiert (Todesfall, Geburt, schwerer Notfall), melde dich "
+            },
+            {
+              "bold": true,
+              "text": "sofort"
+            },
+            {
+              "text": " bei deinen Vorgesetzten und schildere die Lage — sie kennen den Weg. Weitere Ansprechstellen findest du in Modul 12."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "9.7",
+      "title": "Sonderurlaub: wenn im Leben etwas passiert",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Feiertage & Jahresplanung",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "An gesetzlichen Feiertagen ruht der reguläre Ausbildungsdienst meistens — aber Wache, Bereitschaft oder Übungen können dich auch dann treffen; das variiert je Einheit und Lage. Wie Brückentage und Blockurlaube gehandhabt werden, plant deine Einheit übers Jahr."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Die wichtigste Regel für deine private Planung deckt sich mit dem FAQ in Modul 13: "
+            },
+            {
+              "bold": true,
+              "text": "Buche nichts Unstornierbares"
+            },
+            {
+              "text": " (Flüge, Festivals, Familienfeiern mit Anzahlung), bevor dein Urlaub genehmigt ist oder der Dienstplan für den Zeitraum steht. Stornierbare Tarife und flexible Planung ersparen dir Geld und Frust."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "9.8",
+      "title": "Feiertage & Jahresplanung",
+      "type": "text"
+    }
+  ],
+  "sources": [
+    {
+      "label": "gesetze-im-internet.de: Soldatinnen- und Soldatenurlaubsverordnung (SUV) in Verbindung mit der Erholungsurlaubsverordnung (EUrlV) — Erholungsurlaub 30 Arbeitstage bei Fünf-Tage-Woche, anteiliger Anspruch, Sonderurlaub; siehe auch Modul 13."
+    },
+    {
+      "label": "gesetze-im-internet.de: Soldatenarbeitszeitverordnung (SAZV) — Rahmen der Wochenarbeitszeit, Ausnahmen bei Übungen, Wache und Einsatz, Ausgleich von Mehrdienst."
+    },
+    {
+      "label": "Bundeswehr (bundeswehr.de): Themenseiten zum Dienstalltag und „Neuer Wehrdienst\", abgerufen 2026 — allgemeine Beschreibung von Dienstbetrieb und Urlaub."
+    },
+    {
+      "label": "Wo Regeln je Einheit/Standort variieren (Urlaubssperren in der Grundausbildung, Ausgangsregelungen, Erfassung von Mehrarbeit, Feiertagsdienste), sagen wir das offen statt zu schätzen — verbindlich ist deine Einheit."
+    }
+  ],
+  "title": "Urlaub, Arbeitszeit & Freizeit",
+  "updateNeed": "hoch",
+  "version": "1.0.0"
+}

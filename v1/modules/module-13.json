@@ -2,6 +2,50 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Bei verbindlichen Fragen wende dich an deine Vorgesetzten oder die offiziellen Stellen.",
   "id": 13,
   "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-13-1",
+      "note": "",
+      "raw": "[PRÜFEN: konkrete aktuelle Detailvorgaben des Erlasses]",
+      "sectionId": "13.2",
+      "topic": "konkrete aktuelle Detailvorgaben des Erlasses"
+    },
+    {
+      "id": "rf-13-2",
+      "note": "",
+      "raw": "[PRÜFEN: konkrete Erlass-Details zu sichtbaren Tätowierungen]",
+      "sectionId": "13.2",
+      "topic": "konkrete Erlass-Details zu sichtbaren Tätowierungen"
+    },
+    {
+      "id": "rf-13-3",
+      "note": "",
+      "raw": "[PRÜFEN: aktuelle Verpflegungs-Entgelte und unentgeltliche Verpflegung in der Grundausbildung nicht bundeseinheitlich öffentlich zusammengefasst]",
+      "sectionId": "13.2",
+      "topic": "aktuelle Verpflegungs-Entgelte und unentgeltliche Verpflegung in der Grundausbildung nicht bundeseinheitlich öffentlich zusammengefasst"
+    },
+    {
+      "id": "rf-13-4",
+      "note": "",
+      "raw": "[PRÜFEN: einheitliche Schwimm-Anforderung in der Grundausbildung]",
+      "sectionId": "13.2",
+      "topic": "einheitliche Schwimm-Anforderung in der Grundausbildung"
+    },
+    {
+      "id": "rf-13-5",
+      "note": "",
+      "raw": "[PRÜFEN: konkrete BFD-Ansprüche je Verpflichtungszeit]",
+      "sectionId": "13.2",
+      "topic": "konkrete BFD-Ansprüche je Verpflichtungszeit"
+    },
+    {
+      "id": "rf-13-6",
+      "note": "",
+      "raw": "[PRÜFEN: einschlägige Normen der Soldatenversorgung im Detail]",
+      "sectionId": "13.2",
+      "topic": "einschlägige Normen der Soldatenversorgung im Detail"
+    }
+  ],
   "schemaVersion": 2,
   "sections": [
     {
@@ -235,6 +279,264 @@
           ],
           "id": "13.2-faq-was-wenn-mir-der-dienst-psychisch-zu-viel-wird",
           "question": "Was, wenn mir der Dienst psychisch zu viel wird?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Es gibt einen dienstlichen Erlass zur Haar- und Barttracht: Das Erscheinungsbild muss gepflegt und funktional sein (u. a. wegen Schutzmaske und Helm); für Männer gelten engere Vorgaben bei der Haarlänge, ein gepflegter Bart ist grundsätzlich möglich, für Frauen gelten eigene Regeln (z. B. zusammengebundene lange Haare). "
+            },
+            {
+              "reviewFlagId": "rf-13-1",
+              "text": "[PRÜFEN: konkrete aktuelle Detailvorgaben des Erlasses]"
+            },
+            {
+              "text": " Wie es genau umgesetzt wird, erklärt dir deine Einheit in den ersten Tagen — radikal vorab schneiden musst du nichts."
+            }
+          ],
+          "id": "13.2-faq-wie-kurz-muessen-die-haare-sein-und-darf-ich-ein",
+          "question": "Wie kurz müssen die Haare sein — und darf ich einen Bart tragen?",
+          "reviewFlags": [
+            {
+              "id": "rf-13-1",
+              "note": "",
+              "raw": "[PRÜFEN: konkrete aktuelle Detailvorgaben des Erlasses]",
+              "sectionId": "13.2",
+              "topic": "konkrete aktuelle Detailvorgaben des Erlasses"
+            }
+          ]
+        },
+        {
+          "answer": [
+            {
+              "text": "Tattoos sind weit verbreitet und grundsätzlich in Ordnung, solange sie nicht gegen die freiheitlich-demokratische Grundordnung verstoßen (z. B. verfassungsfeindliche Motive) oder das Ansehen schädigen. Sichtbare Piercings müssen im Dienst aus Sicherheitsgründen meist raus (Verletzungsgefahr, Schutzausrüstung). "
+            },
+            {
+              "reviewFlagId": "rf-13-2",
+              "text": "[PRÜFEN: konkrete Erlass-Details zu sichtbaren Tätowierungen]"
+            },
+            {
+              "text": " Im Zweifel: bei der Einheit ansprechen."
+            }
+          ],
+          "id": "13.2-faq-sind-tattoos-und-piercings-ein-problem",
+          "question": "Sind Tattoos und Piercings ein Problem?",
+          "reviewFlags": [
+            {
+              "id": "rf-13-2",
+              "note": "",
+              "raw": "[PRÜFEN: konkrete Erlass-Details zu sichtbaren Tätowierungen]",
+              "sectionId": "13.2",
+              "topic": "konkrete Erlass-Details zu sichtbaren Tätowierungen"
+            }
+          ]
+        },
+        {
+          "answer": [
+            {
+              "text": "Spontan in die Kaserne spazieren kann niemand — es gelten Zutritts- und Sicherheitsregeln. Ob und wie Besuch möglich ist (z. B. zu Veranstaltungen wie dem Gelöbnis oder an Besuchstagen), variiert je Dienststelle. In der Freizeit außerhalb der Kaserne kannst du dich natürlich frei verabreden."
+            }
+          ],
+          "id": "13.2-faq-bekomme-ich-besuch-in-der-kaserne",
+          "question": "Bekomme ich Besuch in der Kaserne?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Für gestellte Dienstkleidung gibt es in der Regel einen dienstlichen Wäsche-/Tauschweg über die Bekleidungsausgabe; private Wäsche ist deine Sache (Waschmaschinen am Standort oder das Wochenende zu Hause). Die Abläufe variieren je Standort — frag in den ersten Tagen einfach deine Stubenkameraden oder die Ausbilder."
+            }
+          ],
+          "id": "13.2-faq-wer-waescht-meine-waesche",
+          "question": "Wer wäscht meine Wäsche?"
+        },
+        {
+          "answer": [
+            {
+              "text": "In Kasernen gibt es Truppenküchen mit Gemeinschaftsverpflegung (meist mehrere Menülinien). Ob und was du dafür zahlst, hängt von deinem Status und deiner Situation ab. "
+            },
+            {
+              "reviewFlagId": "rf-13-3",
+              "text": "[PRÜFEN: aktuelle Verpflegungs-Entgelte und unentgeltliche Verpflegung in der Grundausbildung nicht bundeseinheitlich öffentlich zusammengefasst]"
+            },
+            {
+              "text": " Rechne für den Start mit etwas Bargeld/Karte und kläre die Details vor Ort."
+            }
+          ],
+          "id": "13.2-faq-wie-ist-das-essen-und-was-kostet-es",
+          "question": "Wie ist das Essen — und was kostet es?",
+          "reviewFlags": [
+            {
+              "id": "rf-13-3",
+              "note": "",
+              "raw": "[PRÜFEN: aktuelle Verpflegungs-Entgelte und unentgeltliche Verpflegung in der Grundausbildung nicht bundeseinheitlich öffentlich zusammengefasst]",
+              "sectionId": "13.2",
+              "topic": "aktuelle Verpflegungs-Entgelte und unentgeltliche Verpflegung in der Grundausbildung nicht bundeseinheitlich öffentlich zusammengefasst"
+            }
+          ]
+        },
+        {
+          "answer": [
+            {
+              "text": "Verlass dich nicht darauf. Manche Unterkünfte haben WLAN-Angebote, andere nicht, und der Mobilfunk-Empfang in Kasernen ist unterschiedlich. Lade dir Wichtiges vorher offline aufs Handy (Musik, Podcasts, Dokumente) — und plane Datenvolumen großzügig."
+            }
+          ],
+          "id": "13.2-faq-gibt-es-wlan-oder-guten-empfang-auf-der-stube",
+          "question": "Gibt es WLAN oder guten Empfang auf der Stube?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Häufig ja — viele Kasernen haben Parkplätze für Soldat:innen. Ob und wo du als Neue:r parken darfst, regelt die Dienststelle. Für den allerersten Tag ist die Bahn oft stressfreier; sobald du den Truppenausweis hast, fährst du in Uniform ohnehin gratis Bahn (siehe oben)."
+            }
+          ],
+          "id": "13.2-faq-darf-ich-mit-dem-eigenen-auto-anreisen-und-dort",
+          "question": "Darf ich mit dem eigenen Auto anreisen und dort parken?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Für viele Verwendungen ist Schwimmen Teil der Ausbildung oder Voraussetzung; in der Grundausbildung können Schwimmnachweise oder Schwimmausbildung vorkommen. "
+            },
+            {
+              "reviewFlagId": "rf-13-4",
+              "text": "[PRÜFEN: einheitliche Schwimm-Anforderung in der Grundausbildung]"
+            },
+            {
+              "text": " Wenn du unsicher im Wasser bist, sag es früh — daraus wird dir kein Strick gedreht, aber es lässt sich einplanen."
+            }
+          ],
+          "id": "13.2-faq-muss-ich-schwimmen-koennen",
+          "question": "Muss ich schwimmen können?",
+          "reviewFlags": [
+            {
+              "id": "rf-13-4",
+              "note": "",
+              "raw": "[PRÜFEN: einheitliche Schwimm-Anforderung in der Grundausbildung]",
+              "sectionId": "13.2",
+              "topic": "einheitliche Schwimm-Anforderung in der Grundausbildung"
+            }
+          ]
+        },
+        {
+          "answer": [
+            {
+              "text": "Kein Hindernis. Nimm eine Ersatzbrille und ggf. deinen Brillenpass mit; für bestimmte Ausbildungsabschnitte (z. B. mit Schutzmaske) gibt es dienstliche Lösungen. Kontaktlinsen sind im Feld nicht immer praktisch — eine robuste Brille als Backup ist Gold wert."
+            }
+          ],
+          "id": "13.2-faq-ich-trage-brille-worauf-muss-ich-achten",
+          "question": "Ich trage Brille — worauf muss ich achten?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Im Dienst gilt grundsätzlich: nüchtern. Für die Freizeit in der Kaserne regeln Stuben-/Hausordnung und Vorgesetzte, was erlaubt ist — das variiert je Dienststelle. Rauchen ist nur in ausgewiesenen Bereichen möglich. Verstöße können disziplinarische Folgen haben; im Zweifel gilt die Ansage deiner Einheit."
+            }
+          ],
+          "id": "13.2-faq-was-gilt-fuer-alkohol-und-rauchen",
+          "question": "Was gilt für Alkohol und Rauchen?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Sport ist fester Teil der Grundausbildung (Dienstsport, Märsche, BFT — siehe Modul 2). Niemand erwartet Bestwerte am ersten Tag; bewertet wird auch die Entwicklung. Wer vorher etwas trainiert (Modul 5), hat es leichter — und bei Überlastung gilt: ansprechen statt verstecken, dafür sind Ausbilder und Sanitätsbereich da."
+            }
+          ],
+          "id": "13.2-faq-wie-viel-sport-habe-ich-und-was-wenn-ich-unsport",
+          "question": "Wie viel Sport habe ich — und was, wenn ich unsportlich bin?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Nicht aushalten, sondern melden. Wege: direkte Vorgesetzte bzw. Disziplinarvorgesetzte, die gewählte Vertrauensperson, der Sozialdienst — und bei Grundrechtsverletzungen jederzeit die:der Wehrbeauftragte, direkt und ohne Dienstweg (Modul 12). Schikane ist kein „gehört dazu\", sondern ein Fall für genau diese Stellen."
+            }
+          ],
+          "id": "13.2-faq-was-mache-ich-bei-mobbing-oder-schikane",
+          "question": "Was mache ich bei Mobbing oder Schikane?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Die Ausbildung ist dieselbe wie für Männer. Untergebracht wirst du in der Regel getrennt (eigene Stuben bzw. Sanitärbereiche); die konkrete Lösung hängt vom Standort ab. Bei Fragen zu Hygiene, Ausrüstung oder Unterbringung: Vertrauensperson oder Ausbilder ansprechen — du bist nicht die Erste, die das fragt."
+            }
+          ],
+          "id": "13.2-faq-wie-ist-es-fuer-frauen-unterbringung-hygiene-aus",
+          "question": "Wie ist es für Frauen — Unterbringung, Hygiene, Ausbildung?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Ja, je nach Status und Dienstzeit gibt es Förderung — vom internen Lehrgang bis zur Berufsförderung (für SaZ deutlich umfangreicher, Stichwort Berufsförderungsdienst/BFD). "
+            },
+            {
+              "reviewFlagId": "rf-13-5",
+              "text": "[PRÜFEN: konkrete BFD-Ansprüche je Verpflichtungszeit]"
+            },
+            {
+              "text": " Was für dich drin ist, weiß das Karrierecenter bzw. deine Personal führende Stelle."
+            }
+          ],
+          "id": "13.2-faq-kann-ich-mich-waehrend-des-dienstes-weiterbilden",
+          "question": "Kann ich mich während des Dienstes weiterbilden?",
+          "reviewFlags": [
+            {
+              "id": "rf-13-5",
+              "note": "",
+              "raw": "[PRÜFEN: konkrete BFD-Ansprüche je Verpflichtungszeit]",
+              "sectionId": "13.2",
+              "topic": "konkrete BFD-Ansprüche je Verpflichtungszeit"
+            }
+          ]
+        },
+        {
+          "answer": [
+            {
+              "text": "Zivil, bequem und wettertauglich — du bist den Tag über viel unterwegs (Anmeldung, Wege über das Gelände, Beginn der Einkleidung). Uniform bekommst du gestellt (Modul 1). Ein überzogener Auftritt ist unnötig; sauber und ordentlich reicht völlig."
+            }
+          ],
+          "id": "13.2-faq-was-ziehe-ich-am-ersten-tag-an",
+          "question": "Was ziehe ich am ersten Tag an?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Ja — die medizinische Versorgung läuft über den Sanitätsdienst (freie Heilfürsorge), und für gesundheitliche Schäden durch den Dienst gibt es eigene Versorgungsregeln (Stichwort Wehrdienstbeschädigung). "
+            },
+            {
+              "reviewFlagId": "rf-13-6",
+              "text": "[PRÜFEN: einschlägige Normen der Soldatenversorgung im Detail]"
+            },
+            {
+              "text": " Wichtig für dich: Verletzungen und Unfälle immer sofort melden und dokumentieren lassen — das sichert deine Ansprüche."
+            }
+          ],
+          "id": "13.2-faq-bin-ich-abgesichert-wenn-mir-im-dienst-etwas-pas",
+          "question": "Bin ich abgesichert, wenn mir im Dienst etwas passiert?",
+          "reviewFlags": [
+            {
+              "id": "rf-13-6",
+              "note": "",
+              "raw": "[PRÜFEN: einschlägige Normen der Soldatenversorgung im Detail]",
+              "sectionId": "13.2",
+              "topic": "einschlägige Normen der Soldatenversorgung im Detail"
+            }
+          ]
+        },
+        {
+          "answer": [
+            {
+              "text": "Realistisch planen: In den ersten Wochen bleibt oft nur abends kurz Zeit, und Handy-Regeln schränken die Nutzung im Dienst ein. Kündige das vorher an (Modul 5), verabrede feste Telefon-Zeitfenster und nutze die Wochenenden. Nach der Grundausbildung wird es deutlich entspannter."
+            }
+          ],
+          "id": "13.2-faq-wie-halte-ich-kontakt-zu-familie-und-partner-in",
+          "question": "Wie halte ich Kontakt zu Familie und Partner:in?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Meistens gibt es über Feiertage Regelungen wie Dienstbefreiung oder Urlaub, aber verlass dich nicht blind darauf: Wache und Bereitschaften laufen auch an Feiertagen, und die Planung macht deine Einheit. Buche also keine unstornierbaren Reisen, bevor der Dienstplan steht."
+            }
+          ],
+          "id": "13.2-faq-an-feiertagen-und-weihnachten-komme-ich-nach-hau",
+          "question": "An Feiertagen und Weihnachten — komme ich nach Hause?"
         }
       ],
       "title": "FAQ",
@@ -262,6 +564,9 @@
     },
     {
       "label": "Wo Inhalte je Status/Dienststelle variieren (Netto-Gehalt, Wochenende/Heimfahrten, BFT-Wiederholung, Handy- und Stubenregeln) oder sich seriös nicht beziffern lassen, sagen wir das offen statt zu schätzen – verbindlich ist deine Einheit bzw. deine Bezügeabrechnung."
+    },
+    {
+      "label": "Erweiterung 2026-07 (Alltags-FAQ Haare/Bart, Tattoos, Besuch, Wäsche, Essen, WLAN, Auto, Schwimmen, Brille, Alkohol, Sport, Mobbing, Frauen, Weiterbildung, Kleidung Tag 1, Absicherung, Kontakt, Feiertage): bewusst zurückhaltend formuliert; Punkte ohne belastbare amtliche Quelle tragen einen [PRÜFEN]-Marker bzw. verweisen ausdrücklich auf die je Dienststelle geltenden Regeln. Anlaufstellen (Vertrauensperson, Wehrbeauftragte:r, Sozialdienst) wie in Modul 12 belegt."
     }
   ],
   "title": "FAQ für Neue",

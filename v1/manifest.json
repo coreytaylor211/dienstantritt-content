@@ -1,11 +1,11 @@
 {
-  "contentVersion": "2026.06.05",
-  "generatedAt": "2026-06-05T00:00:00Z",
+  "contentVersion": "2026.07.04",
+  "generatedAt": "2026-07-03T00:00:00Z",
   "keyId": "k1",
   "modules": [
     {
-      "bytes": 14375,
-      "checksum": "sha256:ee432a1e02a11545a8947e39bdbd8ac76cefe743e41c5ecfb80ded7b73418223",
+      "bytes": 14416,
+      "checksum": "sha256:7881f31617680a14817a1fa5a50b08afb0257337d5b30e97f7e6ded217da4b46",
       "file": "modules/module-01.json",
       "id": 1,
       "title": "Ankommen & erste Tage",
@@ -13,8 +13,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 16600,
-      "checksum": "sha256:f5d2c3413d71330e571b64e6440ceb4bd7b6759e2ce7bbaa56804238a668b538",
+      "bytes": 16641,
+      "checksum": "sha256:308dad6e19e88ba820dd30f2374f232fba090c1f2960b8ee53ab47f1b56e6fa0",
       "file": "modules/module-02.json",
       "id": 2,
       "title": "Allgemeine Grundausbildung (AGA)",
@@ -22,8 +22,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 14636,
-      "checksum": "sha256:1e941df5dc6ebe3a16995e2736943a1577f2087328433540185481f1fba08ce3",
+      "bytes": 14657,
+      "checksum": "sha256:a0cd772456058b78f66739ba88530c685e17846dc63a0cc5c643e0203ccc068c",
       "file": "modules/module-03.json",
       "id": 3,
       "title": "Dienstgrade, Vorgesetzte & Umgangsformen",
@@ -31,8 +31,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 47635,
-      "checksum": "sha256:5d6dcc91a1ef54fdc4b98b29a870a6b547db5ddc512add656cb024f4618cb465",
+      "bytes": 47676,
+      "checksum": "sha256:5f877f9714d27be5c51c7293dc71230e2367442169cae394cee176d600fbfc33",
       "file": "modules/module-04.json",
       "id": 4,
       "title": "Geld – Sold, Bezahlung & was frei ist",
@@ -40,8 +40,71 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 31541,
-      "checksum": "sha256:df47237861e04152a860b7e85b480f672ef6fb34be989a96d69bcec31f73a731",
+      "bytes": 19229,
+      "checksum": "sha256:d4a367fd0116defd9d3519cc60c3e48e8bd302ddb10657a07e3c27ce478ee268",
+      "file": "modules/module-05.json",
+      "id": 5,
+      "title": "Vor dem ersten Tag",
+      "updateNeed": "mittel",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 18919,
+      "checksum": "sha256:b4b4ac91dda58769a4cffeac0e876f8083e74e3eeb196f80f86d5ea4c897d418",
+      "file": "modules/module-06.json",
+      "id": 6,
+      "title": "Rechte & Pflichten",
+      "updateNeed": "hoch",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 17795,
+      "checksum": "sha256:56d414f0c14e473c9a1248cc4240660ba7d7a601b688fa52a8dab2e23153c91d",
+      "file": "modules/module-07.json",
+      "id": 7,
+      "title": "Familie, Partnerschaft & Pendeln",
+      "updateNeed": "mittel",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 19475,
+      "checksum": "sha256:0a5c170106b40dc3fe775dc06e979fe6f1df9f6ca3a499a0064637f762aaef87",
+      "file": "modules/module-08.json",
+      "id": 8,
+      "title": "Gesundheit & Krankmeldung",
+      "updateNeed": "mittel",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 17375,
+      "checksum": "sha256:6f356513bdd23ec3dfca8ec6b3c9f24f99d0f45cc4ab23351b71b68365d89ebf",
+      "file": "modules/module-09.json",
+      "id": 9,
+      "title": "Urlaub, Arbeitszeit & Freizeit",
+      "updateNeed": "hoch",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 16265,
+      "checksum": "sha256:72c6b1e8e54715939890d40595a41267e3b35bb59d02c8a1a073e99fb092faab",
+      "file": "modules/module-10.json",
+      "id": 10,
+      "title": "Kasernenalltag & Regeln",
+      "updateNeed": "mittel",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 16275,
+      "checksum": "sha256:9ca220047e32d0f6cc57f9a0b0b1ca07a4ab54e8f19b9912c6609ae41f79b784",
+      "file": "modules/module-11.json",
+      "id": 11,
+      "title": "Nach der Grundausbildung — wie es weitergeht",
+      "updateNeed": "mittel",
+      "version": "1.0.0"
+    },
+    {
+      "bytes": 31562,
+      "checksum": "sha256:ae6231743e721862cb80242f51ce9a9847d9b6b0b8e1af3c851f10aeb151fd6f",
       "file": "modules/module-12.json",
       "id": 12,
       "title": "Praktisches, Orga & Nachschlagewerk",
@@ -49,8 +112,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 13064,
-      "checksum": "sha256:058ff477ad979c2bf88047d93ddbf108e4078164fb64ab0fa96f63f7af5d2601",
+      "bytes": 28484,
+      "checksum": "sha256:54f625bb29064f19ce5862a8e3c983aa2ca5d5e94500ee1aa1aa860e7aeacf36",
       "file": "modules/module-13.json",
       "id": 13,
       "title": "FAQ für Neue",

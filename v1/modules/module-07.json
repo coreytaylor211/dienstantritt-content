@@ -1,0 +1,524 @@
+{
+  "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
+  "id": 7,
+  "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-7-1",
+      "note": "",
+      "raw": "[PRÜFEN: Anspruchsvoraussetzungen Trennungsgeldverordnung je Status]",
+      "sectionId": "7.6",
+      "topic": "Anspruchsvoraussetzungen Trennungsgeldverordnung je Status"
+    }
+  ],
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Der Dienst verändert nicht nur deinen Alltag, sondern auch den der Menschen, die zu dir gehören: Eltern, Partner:in, Freundeskreis. Plötzlich bist du unter der Woche weg, seltener erreichbar, und das Wochenende wird zur wichtigsten Zeit der Woche."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Dieses Modul hilft dir, diese Umstellung bewusst zu gestalten: realistische Erwartungen für die erste Zeit, ein Kommunikations-Rhythmus, der für alle funktioniert, eine Pendel-Routine — und die Anlaufstellen, wenn Heimweh oder eine Beziehungskrise größer werden als gedacht."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Eins vorweg: Dass die Trennung am Anfang schwerfällt, ist keine Schwäche. Es geht fast allen so — und es wird mit jeder Woche normaler."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "7.1",
+      "title": "Worum es in diesem Modul geht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Die erste Zeit getrennt",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Die Grundausbildung ist dicht getaktet: früh Wecken, viel Programm, abends müde. In den ersten Wochen wirst du dich seltener melden, als alle es gewohnt sind — nicht, weil du nicht willst, sondern weil kaum Zeit und Energie da sind."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Zur "
+            },
+            {
+              "bold": true,
+              "text": "Handy-Realität"
+            },
+            {
+              "text": ": Wie und wann du dein Handy nutzen darfst, variiert je Dienststelle — verbindlich ist deine Einheit. Rechne damit, dass es tagsüber weggepackt ist und du erst nach Dienstschluss dazu kommst. Auch Empfang und WLAN in Kasernen sind nicht garantiert (siehe Modul 5)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Was hilft:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Erwartungen vorher klären:"
+              },
+              {
+                "text": " Sag deinen Menschen, dass die ersten Wochen die kontaktärmsten sind — danach wird es besser. Wer das weiß, macht sich keine Sorgen, wenn du dich zwei Tage nicht meldest."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Rhythmus statt Dauerkontakt:"
+              },
+              {
+                "text": " Ein fester Anker (z. B. ein Anruf am Abend, wenn es passt) ist entspannter als der Anspruch, ständig erreichbar zu sein."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Kurz ist okay:"
+              },
+              {
+                "text": " Eine Sprachnachricht „Alles gut, müde, hab euch lieb\" ist mehr wert als Funkstille, weil du auf den „richtigen\" Moment wartest."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Sag Sendepausen an:"
+              },
+              {
+                "text": " Vor Übungen oder Nächten im Gelände kurz Bescheid geben, dass du ein paar Tage offline bist."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "7.2",
+      "title": "Die erste Zeit getrennt",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Wochenendpendeln: Planung & Puffer",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Für viele wird das Wochenende zur Pendelzeit. Der wichtigste praktische Anker: Als Soldat:in fährst du "
+            },
+            {
+              "bold": true,
+              "text": "in Uniform kostenlos Bahn"
+            },
+            {
+              "text": " — mit Truppenausweis, sobald du eingekleidet bist. Die Details und Bedingungen dazu findest du belegt in Modul 13."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Damit das Pendeln nicht selbst zum Stressfaktor wird:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Verbindungen früh prüfen"
+              },
+              {
+                "text": " — für den konkreten Wochentag, inklusive Baustellen und Ausfällen. Freitagnachmittag und Sonntagabend sind volle Reisezeiten."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Puffer einplanen, besonders für die Rückfahrt:"
+              },
+              {
+                "text": " Zu spät zum Dienstbeginn zu erscheinen ist kein Kavaliersdelikt (Modul 1). Nimm im Zweifel die frühere Verbindung; bei Auto oder Mitfahrgelegenheit gilt dasselbe für Stau."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Sonntagabend vs. Montag früh:"
+              },
+              {
+                "text": " Viele fahren lieber am Vorabend zurück und schlafen in der Kaserne, statt montags um vier Uhr loszufahren. Ob und wann du am Wochenende die Kaserne verlassen darfst und wann du zurück sein musst, regelt deine Einheit — frag nach, bevor du planst."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Nicht jedes Wochenende hetzen:"
+              },
+              {
+                "text": " Es ist okay, auch mal am Standort zu bleiben und Kraft zu tanken. Ein müdes, gehetztes Wochenende hilft niemandem."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "7.3",
+      "title": "Wochenendpendeln: Planung & Puffer",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Fernbeziehung praktisch",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Eine Beziehung auf Distanz funktioniert — aber sie funktioniert nicht von allein. Was sich bewährt:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Redet früh über Erwartungen:"
+              },
+              {
+                "text": " Wie oft telefonieren wir? Wie gehen wir mit spontanen Planänderungen um? Dienst geht vor — das wird vorkommen."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Macht Wochenenden zu echter gemeinsamer Zeit:"
+              },
+              {
+                "text": " lieber weniger Termine und dafür wirklich beieinander sein."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Plant das nächste Wiedersehen konkret:"
+              },
+              {
+                "text": " Ein Datum im Kalender trägt besser durch die Woche als ein vages „bald\"."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Erzählt euch auch den Alltag:"
+              },
+              {
+                "text": " Schick Fotos, erkläre Begriffe (Glossar: Modul 12), nimm dein Gegenüber mit in deine neue Welt — sonst entstehen zwei getrennte Leben."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Streit nicht per Chat eskalieren:"
+              },
+              {
+                "text": " Schwierige Themen gehören ins Telefonat oder aufs Wochenende, nicht in Nachrichten zwischen zwei Antreten."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "7.4",
+      "title": "Fernbeziehung praktisch",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Familie einbinden & Eltern beruhigen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Auch für Eltern ist dein Dienstantritt ein Einschnitt. Zwei Dinge helfen ihnen am meisten: Informationen und ein Besuchsanlass."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Das Gelöbnis als Anker:"
+              },
+              {
+                "text": " Das feierliche Gelöbnis bzw. die Vereidigung ist der klassische Moment, zu dem Familie und Freunde eingeladen werden können. Ob, wann und mit wie vielen Gästen, regelt deine Einheit — sag deiner Familie früh Bescheid, sobald du den Termin kennst."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Erklären, was der Bund stellt:"
+              },
+              {
+                "text": " Unterkunft, Verpflegung und sanitätsdienstliche Versorgung sind gestellt (Modul 1 und Modul 12). Wer weiß, dass du ein Bett, drei Mahlzeiten und medizinische Versorgung hast, schläft ruhiger."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Diese App teilen:"
+              },
+              {
+                "text": " Lass Eltern oder Partner:in einzelne Module mitlesen — dann müssen sie nicht alles aus dir herausfragen."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Notfallkontakt klären:"
+              },
+              {
+                "text": " Wen du als Notfallkontakt angibst (Modul 1), sollte das vorher wissen."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "7.5",
+      "title": "Familie einbinden & Eltern beruhigen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Geld beim Pendeln: nur ein Wegweiser",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Für Soldat:innen, die vom Wohnort getrennt Dienst leisten oder umziehen, gibt es als Instrumente "
+            },
+            {
+              "bold": true,
+              "text": "Trennungsgeld"
+            },
+            {
+              "text": " und "
+            },
+            {
+              "bold": true,
+              "text": "Umzugskostenvergütung"
+            },
+            {
+              "text": ". Ob und in welcher Form du davon etwas bekommst, ist fallabhängig "
+            },
+            {
+              "reviewFlagId": "rf-7-1",
+              "text": "[PRÜFEN: Anspruchsvoraussetzungen Trennungsgeldverordnung je Status]"
+            },
+            {
+              "text": " — verbindlich klärt das nur deine zuständige Stelle."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Konkrete Beträge nennen wir hier bewusst nicht. Was du tun kannst: früh fragen, ob dein Fall infrage kommt, und Belege von Anfang an sammeln. Den Überblick über dein Geld insgesamt findest du in Modul 4."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "7.6",
+      "title": "Geld beim Pendeln: nur ein Wegweiser",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Wenn Heimweh oder Krisen kommen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Heimweh in den ersten Wochen ist normal und geht meist vorbei, wenn Routine einkehrt. Wenn es nicht besser wird — oder zu Hause etwas passiert (Beziehungskrise, Krankheit in der Familie) — musst du das nicht allein tragen:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Sprich mit deinen Vorgesetzten:"
+              },
+              {
+                "text": " Bei ernsten familiären Gründen gibt es Spielräume im Einzelfall — was möglich ist, entscheidet deine Einheit."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Familienbetreuung der Bundeswehr:"
+              },
+              {
+                "text": " Anlaufstelle auch für deine Angehörigen zu Hause."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Sozialdienst der Bundeswehr:"
+              },
+              {
+                "text": " hilft bei sozialen, familiären und persönlichen Problemlagen."
+              }
+            ],
+            [
+              {
+                "text": "Weitere Ansprechstellen (Militärseelsorge, Vertrauensperson) findest du gesammelt in Modul 12."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Früh ein Gespräch zu suchen ist keine Schwäche — genau dafür sind diese Stellen da."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "7.7",
+      "title": "Wenn Heimweh oder Krisen kommen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Checkliste „Pendel-Routine\"",
+      "id": "7.8",
+      "items": [
+        {
+          "id": "7.8-checklist-regelung-deiner-einheit-geklaert-wann-darfst-du",
+          "label": [
+            {
+              "text": "Regelung deiner Einheit geklärt: Wann darfst du los, wann musst du zurück sein?"
+            }
+          ]
+        },
+        {
+          "id": "7.8-checklist-hin-und-rueckverbindung-geprueft-baustellen-takt",
+          "label": [
+            {
+              "text": "Hin- und Rückverbindung geprüft (Baustellen, Takt am Sonntagabend)"
+            }
+          ]
+        },
+        {
+          "id": "7.8-checklist-rueckfahrt-mit-puffer-geplant-im-zweifel-die-fru",
+          "label": [
+            {
+              "text": "Rückfahrt mit Puffer geplant — im Zweifel die frühere Verbindung"
+            }
+          ]
+        },
+        {
+          "id": "7.8-checklist-truppenausweis-dabei-uniform-regel-fuers-kostenl",
+          "label": [
+            {
+              "text": "Truppenausweis dabei, Uniform-Regel fürs kostenlose Bahnfahren beachtet (Modul 13)"
+            }
+          ]
+        },
+        {
+          "id": "7.8-checklist-feste-wochenend-tasche-gepackt-waesche-hin-frisc",
+          "label": [
+            {
+              "text": "Feste Wochenend-Tasche gepackt (Wäsche hin, frische Sachen zurück)"
+            }
+          ]
+        },
+        {
+          "id": "7.8-checklist-kommunikations-anker-mit-partner-in-familie-vere",
+          "label": [
+            {
+              "text": "Kommunikations-Anker mit Partner:in/Familie vereinbart"
+            }
+          ]
+        },
+        {
+          "id": "7.8-checklist-naechstes-wiedersehen-konkret-im-kalender",
+          "label": [
+            {
+              "text": "Nächstes Wiedersehen konkret im Kalender"
+            }
+          ]
+        },
+        {
+          "id": "7.8-checklist-trennungsgeld-frage-bei-der-zustaendigen-stelle",
+          "label": [
+            {
+              "text": "Trennungsgeld-Frage bei der zuständigen Stelle gestellt, Belege gesammelt (Modul 4)"
+            }
+          ]
+        }
+      ],
+      "title": "Checkliste „Pendel-Routine\"",
+      "type": "checklist"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Bundeswehr: Themenseiten zu Betreuung und Fürsorge, Familienbetreuung und Sozialdienst der Bundeswehr (bundeswehr.de), abgerufen 2026."
+    },
+    {
+      "label": "gesetze-im-internet.de: Trennungsgeldverordnung (TGV) und Bundesumzugskostengesetz (BUKG) — als Existenznachweis der Instrumente; Anspruch im Einzelfall klärt die zuständige Stelle, keine Rechtsberatung."
+    },
+    {
+      "label": "Kostenloses Bahnfahren in Uniform: Beleg und Details siehe Modul 13 samt dortigen Quellen."
+    },
+    {
+      "label": "Wo Regeln je Einheit/Standort variieren (Handy-Nutzung, Ausgang am Wochenende, Gelöbnis-Gäste, Rückkehrzeiten), sagen wir das offen statt zu schätzen — verbindlich ist deine Einheit."
+    }
+  ],
+  "title": "Familie, Partnerschaft & Pendeln",
+  "updateNeed": "mittel",
+  "version": "1.0.0"
+}

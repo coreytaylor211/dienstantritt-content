@@ -1,0 +1,567 @@
+{
+  "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
+  "id": 6,
+  "lastUpdated": "2026-06-01",
+  "reviewFlags": [
+    {
+      "id": "rf-6-1",
+      "note": "",
+      "raw": "[PRÜFEN: welche Nebentätigkeiten nach § 20 SG genau genehmigungspflichtig bzw. nur anzeigepflichtig sind]",
+      "sectionId": "6.8.2",
+      "topic": "welche Nebentätigkeiten nach § 20 SG genau genehmigungspflichtig bzw. nur anzeigepflichtig sind"
+    }
+  ],
+  "schemaVersion": 2,
+  "sections": [
+    {
+      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Mit deiner Unterschrift bist du in ein besonderes Dienstverhältnis eingetreten. Das "
+            },
+            {
+              "bold": true,
+              "text": "Soldatengesetz (SG)"
+            },
+            {
+              "text": " legt fest, welche Pflichten du hast — und welche Rechte dich schützen. Beides gehört zusammen: Die Bundeswehr darf viel von dir verlangen, aber nicht alles."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Dieses Modul erklärt die wichtigsten Regeln allgemeinverständlich: was „treu dienen\" bedeutet, wo Gehorsam endet, was du in Uniform sagen darfst und an wen du dich wendest, wenn etwas schiefläuft."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Das hier ist keine Rechtsberatung. In konkreten Fällen helfen dir die Ansprechstellen aus Modul 12 — die Gesetzestexte selbst findest du kostenlos auf gesetze-im-internet.de."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "6.1",
+      "title": "Worum es in diesem Modul geht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Deine Grundpflichten aus dem Soldatengesetz",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Drei Pflichten bilden den Kern:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Treu dienen:"
+              },
+              {
+                "text": " der Kern von Gelöbnis bzw. Diensteid — der Bundesrepublik Deutschland treu dienen und Recht und Freiheit des deutschen Volkes tapfer verteidigen. Praktisch heißt das: Du nimmst deinen Dienst ernst."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Gehorsam:"
+              },
+              {
+                "text": " Du musst rechtmäßige Befehle deiner Vorgesetzten befolgen — nach besten Kräften, vollständig und gewissenhaft. Wo die Grenzen liegen, liest du im nächsten Abschnitt."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Kameradschaft:"
+              },
+              {
+                "text": " Der Zusammenhalt der Truppe beruht wesentlich auf Kameradschaft. Das ist keine Floskel, sondern eine echte Rechtspflicht: Würde, Ehre und Rechte der Kameradinnen und Kameraden achten, in Not beistehen, niemanden schikanieren oder ausgrenzen."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Dazu kommen unter anderem: in dienstlichen Angelegenheiten die "
+            },
+            {
+              "bold": true,
+              "text": "Wahrheit sagen"
+            },
+            {
+              "text": ", "
+            },
+            {
+              "bold": true,
+              "text": "Verschwiegenheit"
+            },
+            {
+              "text": " über dienstliche Vorgänge wahren und aktiv für die "
+            },
+            {
+              "bold": true,
+              "text": "freiheitliche demokratische Grundordnung"
+            },
+            {
+              "text": " eintreten — Extremismus und Soldatsein schließen sich aus."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "6.2",
+      "title": "Deine Grundpflichten aus dem Soldatengesetz",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Befehl und Gehorsam — und die Grenzen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Gehorsam ist eine Grundpflicht, aber kein blinder Gehorsam. Das Soldatengesetz und das Wehrstrafgesetz ziehen klare Grenzen:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "text": "Ein Befehl, dessen Ausführung eine "
+              },
+              {
+                "bold": true,
+                "text": "Straftat"
+              },
+              {
+                "text": " wäre, darf "
+              },
+              {
+                "bold": true,
+                "text": "nicht"
+              },
+              {
+                "text": " befolgt werden. Führst du ihn trotzdem aus, kannst du dich selbst strafbar machen — „ich habe nur Befehle befolgt\" schützt dich dann nicht automatisch."
+              }
+            ],
+            [
+              {
+                "text": "Ein Befehl, der die "
+              },
+              {
+                "bold": true,
+                "text": "Menschenwürde"
+              },
+              {
+                "text": " verletzt oder der "
+              },
+              {
+                "bold": true,
+                "text": "nicht zu dienstlichen Zwecken"
+              },
+              {
+                "text": " erteilt wurde, muss nicht befolgt werden."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Im Alltag der Grundausbildung wirst du diese Grenzen praktisch nie brauchen — die allermeisten Befehle sind banale Organisation. Aber du sollst wissen, dass es sie gibt. Kommt dir ein Befehl unrechtmäßig vor, darfst du sachlich "
+            },
+            {
+              "bold": true,
+              "text": "Einwände äußern"
+            },
+            {
+              "text": "; bleibst du unsicher, hol dir danach Rat (Vertrauensperson, Stellen aus Modul 12)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "6.3",
+      "title": "Befehl und Gehorsam — und die Grenzen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Staatsbürger in Uniform",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Die Bundeswehr führt ihre Soldat:innen nach dem Konzept der "
+            },
+            {
+              "bold": true,
+              "text": "Inneren Führung"
+            },
+            {
+              "text": ". Der Grundgedanke: Du bleibst als Soldat "
+            },
+            {
+              "bold": true,
+              "text": "Staatsbürger in Uniform"
+            },
+            {
+              "text": " — mit Grundrechten, eigenem Gewissen und eigener Verantwortung. Befehle brauchen einen dienstlichen Sinn, Führung soll erklären statt nur anordnen, und du bist kein Befehlsempfänger ohne Rechte, sondern Bürger, der dient (Quelle: bundeswehr.de, Themenseite Innere Führung)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "text": "Einige Grundrechte sind für Soldat:innen per Gesetz eingeschränkt — etwa die Meinungsäußerung im Dienst. Alles, was nicht eingeschränkt ist, gilt für dich wie für alle anderen auch."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "6.4",
+      "title": "Staatsbürger in Uniform",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Meinung, Politik und Uniform",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Du darfst eine politische Meinung haben, wählen gehen, Mitglied einer Partei sein. Aber es gibt Grenzen, die vor allem eines schützen sollen: den Zusammenhalt der Truppe und ihre politische Neutralität nach außen."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Im Dienst und in dienstlichen Anlagen"
+              },
+              {
+                "text": " darfst du dich nicht für oder gegen eine politische Richtung betätigen. Das sachliche Gespräch unter Kameraden bleibt erlaubt — Werbung und Agitation nicht."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "In Uniform"
+              },
+              {
+                "text": " trittst du nicht bei politischen Veranstaltungen auf. Die Uniform ist neutral."
+              }
+            ],
+            [
+              {
+                "text": "Auch außer Dienst gilt eine gewisse "
+              },
+              {
+                "bold": true,
+                "text": "Zurückhaltung und Mäßigung"
+              },
+              {
+                "text": " — das betrifft auch Social Media: Was du erkennbar als Soldat postest, fällt auf die Truppe zurück."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        }
+      ],
+      "id": "6.5",
+      "title": "Meinung, Politik und Uniform",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Wenn du dich ungerecht behandelt fühlst: dein Beschwerderecht",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Du hast ein gesetzlich geregeltes "
+            },
+            {
+              "bold": true,
+              "text": "Beschwerderecht"
+            },
+            {
+              "text": " nach der "
+            },
+            {
+              "bold": true,
+              "text": "Wehrbeschwerdeordnung (WBO)"
+            },
+            {
+              "text": ". Wenn du glaubst, von Vorgesetzten oder Dienststellen falsch behandelt worden zu sein, kannst du dich förmlich beschweren — und dir darf daraus "
+            },
+            {
+              "bold": true,
+              "text": "kein Nachteil"
+            },
+            {
+              "text": " entstehen."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "text": "Oft löst ein "
+              },
+              {
+                "bold": true,
+                "text": "klärendes Gespräch"
+              },
+              {
+                "text": " das Problem schneller als jedes Verfahren — versuch das zuerst, wenn möglich."
+              }
+            ],
+            [
+              {
+                "text": "Die "
+              },
+              {
+                "bold": true,
+                "text": "förmliche Beschwerde"
+              },
+              {
+                "text": " darf frühestens nach Ablauf einer Nacht und muss innerhalb eines Monats eingelegt werden, nachdem du vom Anlass erfahren hast (Quelle: gesetze-im-internet.de, WBO) — die „Nacht\" heißt: einmal drüber schlafen."
+              }
+            ],
+            [
+              {
+                "text": "Zusätzlich kannst du dich "
+              },
+              {
+                "bold": true,
+                "text": "jederzeit direkt"
+              },
+              {
+                "text": " — ohne Dienstweg, ohne Erlaubnis, ohne Frist — an die "
+              },
+              {
+                "bold": true,
+                "text": "Wehrbeauftragte bzw. den Wehrbeauftragten des Deutschen Bundestages"
+              },
+              {
+                "text": " wenden (Quelle: bundestag.de, Wehrbeauftragte). Auch dafür darfst du nicht benachteiligt werden."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Wie du eine Beschwerde konkret formulierst, erklären dir vor Ort z. B. Vertrauensperson oder Disziplinarvorgesetzter — Anlaufstellen: Modul 12."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "6.6",
+      "title": "Wenn du dich ungerecht behandelt fühlst: dein Beschwerderecht",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Wenn du selbst Mist gebaut hast: Disziplinarrecht in Grundzügen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Verstößt du gegen deine Pflichten (z. B. unentschuldigt zu spät, Befehl nicht befolgt, Ausrüstung verbummelt), ist das ein "
+            },
+            {
+              "bold": true,
+              "text": "Dienstvergehen"
+            },
+            {
+              "text": " und kann nach der "
+            },
+            {
+              "bold": true,
+              "text": "Wehrdisziplinarordnung (WDO)"
+            },
+            {
+              "text": " geahndet werden. Grob gilt:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "text": "Einfachere Verstöße ahndet dein "
+              },
+              {
+                "bold": true,
+                "text": "Disziplinarvorgesetzter"
+              },
+              {
+                "text": " mit einfachen Disziplinarmaßnahmen — oder er belässt es bei einem ernsten Gespräch; viele Fälle enden genau so."
+              }
+            ],
+            [
+              {
+                "text": "Schwere Fälle gehen an die "
+              },
+              {
+                "bold": true,
+                "text": "Wehrdienstgerichte"
+              },
+              {
+                "text": "; ist zugleich eine Straftat im Spiel (etwa nach dem Wehrstrafgesetz), kann zusätzlich die Justiz ermitteln."
+              }
+            ],
+            [
+              {
+                "text": "Du hast Rechte im Verfahren: Du wirst "
+              },
+              {
+                "bold": true,
+                "text": "angehört"
+              },
+              {
+                "text": ", darfst dich äußern (musst dich aber nicht selbst belasten) und kannst gegen Maßnahmen Rechtsmittel einlegen."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Wichtigster Praxis-Tipp: "
+            },
+            {
+              "bold": true,
+              "text": "Ehrlich bleiben."
+            },
+            {
+              "text": " Ein zugegebener Fehler ist meist schnell erledigt — eine Lüge dazu verletzt die Wahrheitspflicht und macht alles schlimmer."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "6.7",
+      "title": "Wenn du selbst Mist gebaut hast: Disziplinarrecht in Grundzügen",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Vertrauensperson und Nebentätigkeit",
+      "blocks": [],
+      "id": "6.8",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Deine Gruppe wählt aus den eigenen Reihen eine "
+                },
+                {
+                  "bold": true,
+                  "text": "Vertrauensperson"
+                },
+                {
+                  "text": " (geregelt im Soldatinnen- und Soldatenbeteiligungsgesetz). Sie vertritt eure Interessen gegenüber den Vorgesetzten, vermittelt bei Konflikten und wird bei bestimmten Entscheidungen beteiligt oder angehört. Sie ist oft die niedrigschwelligste Anlaufstelle, wenn du unsicher bist, ob und wie du ein Problem melden sollst — nutz das."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "6.8.1",
+          "title": "Die Vertrauensperson"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Willst du neben dem Dienst Geld verdienen (Nebenjob, eigenes Gewerbe), gilt: Nebentätigkeiten sind grundsätzlich "
+                },
+                {
+                  "bold": true,
+                  "text": "genehmigungspflichtig"
+                },
+                {
+                  "text": " — frag vorher bei deiner Einheit an, nicht hinterher. "
+                },
+                {
+                  "reviewFlagId": "rf-6-1",
+                  "text": "[PRÜFEN: welche Nebentätigkeiten nach § 20 SG genau genehmigungspflichtig bzw. nur anzeigepflichtig sind]"
+                },
+                {
+                  "text": " Zum Zusammenspiel mit deinem Sold siehe Modul 4."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "6.8.2",
+          "title": "Nebentätigkeit nur mit Genehmigung"
+        }
+      ],
+      "title": "Vertrauensperson und Nebentätigkeit",
+      "type": "text"
+    }
+  ],
+  "sources": [
+    {
+      "label": "gesetze-im-internet.de: Soldatengesetz (SG) — Grundpflichten, politische Betätigung, Nebentätigkeit, abgerufen 2026."
+    },
+    {
+      "label": "gesetze-im-internet.de: Wehrbeschwerdeordnung (WBO) — Beschwerderecht und Fristen, abgerufen 2026."
+    },
+    {
+      "label": "gesetze-im-internet.de: Wehrdisziplinarordnung (WDO) — Disziplinarrecht in Grundzügen, abgerufen 2026."
+    },
+    {
+      "label": "gesetze-im-internet.de: Wehrstrafgesetz (WStG) — Grenzen von Befehl und Gehorsam, abgerufen 2026."
+    },
+    {
+      "label": "gesetze-im-internet.de: Soldatinnen- und Soldatenbeteiligungsgesetz (SBG) — Vertrauensperson, abgerufen 2026."
+    },
+    {
+      "label": "bundestag.de: Wehrbeauftragte:r des Deutschen Bundestages — direkte Eingabe ohne Dienstweg, abgerufen 2026."
+    },
+    {
+      "label": "bundeswehr.de: Themenseite Innere Führung / Staatsbürger in Uniform, abgerufen 2026."
+    },
+    {
+      "label": "Einzelheiten zu Verfahren (z. B. Form einer Beschwerde, Genehmigung von Nebentätigkeiten) klärt verbindlich deine Einheit bzw. die zuständige Stelle — keine Rechtsberatung."
+    }
+  ],
+  "title": "Rechte & Pflichten",
+  "updateNeed": "hoch",
+  "version": "1.0.0"
+}
