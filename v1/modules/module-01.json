@@ -2,7 +2,6 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
   "id": 1,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [],
   "schemaVersion": 2,
   "sections": [
     {
@@ -31,7 +30,6 @@
     },
     {
       "anchorSearchTitle": "Der erste Tag",
-      "blocks": [],
       "id": "1.2",
       "subsections": [
         {

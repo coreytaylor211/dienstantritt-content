@@ -2,22 +2,6 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
   "id": 11,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-11-1",
-      "note": "",
-      "raw": "[PRÜFEN: konkrete Beförderungsfristen und Mindestdienstzeiten je Dienstgrad nach SLV]",
-      "sectionId": "11.4",
-      "topic": "konkrete Beförderungsfristen und Mindestdienstzeiten je Dienstgrad nach SLV"
-    },
-    {
-      "id": "rf-11-2",
-      "note": "",
-      "raw": "[PRÜFEN: konkrete BFD-Ansprüche je Verpflichtungsdauer und Status FWDL/SaZ]",
-      "sectionId": "11.5",
-      "topic": "konkrete BFD-Ansprüche je Verpflichtungsdauer und Status FWDL/SaZ"
-    }
-  ],
   "schemaVersion": 2,
   "sections": [
     {
@@ -212,28 +196,6 @@
           ],
           "ordered": false,
           "type": "list"
-        },
-        {
-          "spans": [
-            {
-              "text": "Ein Wechsel nach oben ist möglich — der "
-            },
-            {
-              "bold": true,
-              "text": "Laufbahnwechsel"
-            },
-            {
-              "text": " ist ein normaler Weg, kein Ausnahmefall. Voraussetzung sind in der Regel Eignung, Bewertungen, Lehrgänge und freie Stellen. Beförderungen folgen festen Mindestvoraussetzungen aus der Soldatenlaufbahnverordnung "
-            },
-            {
-              "reviewFlagId": "rf-11-1",
-              "text": "[PRÜFEN: konkrete Beförderungsfristen und Mindestdienstzeiten je Dienstgrad nach SLV]"
-            },
-            {
-              "text": ". Was für dich realistisch ist, sagt dir deine personalführende Stelle ehrlicher als jedes Forum."
-            }
-          ],
-          "type": "paragraph"
         }
       ],
       "id": "11.4",
@@ -269,22 +231,6 @@
               },
               {
                 "text": " Manche militärische Qualifikationen haben zivile Entsprechungen oder lassen sich anerkennen (z. B. im Fahr-, Sanitäts- oder Technikbereich). Das variiert stark je nach Bereich — kläre es konkret für deine Verwendung."
-              }
-            ],
-            [
-              {
-                "bold": true,
-                "text": "Berufsförderungsdienst (BFD):"
-              },
-              {
-                "text": " Der BFD der Bundeswehr unterstützt vor allem Soldat:innen auf Zeit bei der schulischen und beruflichen Weiterbildung und beim Übergang zurück ins zivile Berufsleben. Umfang und Ansprüche hängen von deinem Status und deiner Verpflichtungsdauer ab "
-              },
-              {
-                "reviewFlagId": "rf-11-2",
-                "text": "[PRÜFEN: konkrete BFD-Ansprüche je Verpflichtungsdauer und Status FWDL/SaZ]"
-              },
-              {
-                "text": ". Grundlage ist das Soldatenversorgungsgesetz; beraten wirst du direkt beim BFD."
               }
             ],
             [

@@ -2,36 +2,6 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
   "id": 9,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-9-1",
-      "note": "",
-      "raw": "[PRÜFEN: Übertragungs- und Verfallsfristen für Resturlaub nach SUV/EUrlV]",
-      "sectionId": "9.2",
-      "topic": "Übertragungs- und Verfallsfristen für Resturlaub nach SUV/EUrlV"
-    },
-    {
-      "id": "rf-9-2",
-      "note": "",
-      "raw": "[PRÜFEN: konkrete Ausgleichsregeln, Fristen und Ausnahmen nach SAZV]",
-      "sectionId": "9.4.1",
-      "topic": "konkrete Ausgleichsregeln, Fristen und Ausnahmen nach SAZV"
-    },
-    {
-      "id": "rf-9-3",
-      "note": "",
-      "raw": "[PRÜFEN: konkrete Wochenstundenzahl und Berechnungszeitraum nach SAZV]",
-      "sectionId": "9.4",
-      "topic": "konkrete Wochenstundenzahl und Berechnungszeitraum nach SAZV"
-    },
-    {
-      "id": "rf-9-4",
-      "note": "",
-      "raw": "[PRÜFEN: genaue Anlässe und Umfang des Sonderurlaubs nach SUV]",
-      "sectionId": "9.7",
-      "topic": "genaue Anlässe und Umfang des Sonderurlaubs nach SUV"
-    }
-  ],
   "schemaVersion": 2,
   "sections": [
     {
@@ -125,22 +95,6 @@
               {
                 "text": " — nicht die vollen 30 Tage. Wie viele Tage dir konkret zustehen, rechnet dir deine personalbearbeitende Stelle aus."
               }
-            ],
-            [
-              {
-                "bold": true,
-                "text": "Resturlaub:"
-              },
-              {
-                "text": " Für nicht genommenen Urlaub gibt es Übertragungsregeln "
-              },
-              {
-                "reviewFlagId": "rf-9-1",
-                "text": "[PRÜFEN: Übertragungs- und Verfallsfristen für Resturlaub nach SUV/EUrlV]"
-              },
-              {
-                "text": ". Verlass dich nicht darauf, alles „irgendwann später\" zu nehmen — klär den Stand rechtzeitig mit deiner Einheit."
-              }
             ]
           ],
           "ordered": false,
@@ -222,28 +176,6 @@
         {
           "spans": [
             {
-              "text": "Die "
-            },
-            {
-              "bold": true,
-              "text": "Soldatenarbeitszeitverordnung (SAZV)"
-            },
-            {
-              "text": " regelt die Arbeitszeit für Soldat:innen. Der Grundgedanke: Auch beim Bund gibt es grundsätzlich eine feste durchschnittliche Wochenarbeitszeit von 41 Stunden "
-            },
-            {
-              "reviewFlagId": "rf-9-3",
-              "text": "[PRÜFEN: konkrete Wochenstundenzahl und Berechnungszeitraum nach SAZV]"
-            },
-            {
-              "text": " — und nicht endlosen Dienst nach Gutdünken."
-            }
-          ],
-          "type": "paragraph"
-        },
-        {
-          "spans": [
-            {
               "text": "Aber: Die SAZV kennt "
             },
             {
@@ -258,36 +190,6 @@
         }
       ],
       "id": "9.4",
-      "subsections": [
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Wenn du über die reguläre Arbeitszeit hinaus Dienst leistest, wird das grundsätzlich erfasst und in erster Linie durch "
-                },
-                {
-                  "bold": true,
-                  "text": "Freizeitausgleich"
-                },
-                {
-                  "text": " abgegolten "
-                },
-                {
-                  "reviewFlagId": "rf-9-2",
-                  "text": "[PRÜFEN: konkrete Ausgleichsregeln, Fristen und Ausnahmen nach SAZV]"
-                },
-                {
-                  "text": ". Wie die Erfassung praktisch läuft (Listen, Software, wer einträgt), ist je Einheit verschieden — frag früh nach, wie es bei euch dokumentiert wird, statt dich hinterher zu ärgern. Was davon eventuell finanziell abgegolten wird, gehört ins Thema Geld (Modul 4)."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "9.4.1",
-          "title": "Mehrarbeit & Freizeitausgleich"
-        }
-      ],
       "title": "Arbeitszeit: die SAZV als Rahmen",
       "type": "text"
     },
@@ -400,43 +302,6 @@
       ],
       "id": "9.6",
       "title": "Ausgang & Freizeit in der Grundausbildung",
-      "type": "text"
-    },
-    {
-      "anchorSearchTitle": "Sonderurlaub: wenn im Leben etwas passiert",
-      "blocks": [
-        {
-          "spans": [
-            {
-              "text": "Neben dem Erholungsurlaub gibt es "
-            },
-            {
-              "bold": true,
-              "text": "Sonderurlaub aus wichtigen Anlässen"
-            },
-            {
-              "text": " — etwa bei bestimmten familiären Ereignissen "
-            },
-            {
-              "reviewFlagId": "rf-9-4",
-              "text": "[PRÜFEN: genaue Anlässe und Umfang des Sonderurlaubs nach SUV]"
-            },
-            {
-              "text": ". Das Wichtigste für dich: So etwas existiert. Wenn bei dir zu Hause etwas Gravierendes passiert (Todesfall, Geburt, schwerer Notfall), melde dich "
-            },
-            {
-              "bold": true,
-              "text": "sofort"
-            },
-            {
-              "text": " bei deinen Vorgesetzten und schildere die Lage — sie kennen den Weg. Weitere Ansprechstellen findest du in Modul 12."
-            }
-          ],
-          "type": "paragraph"
-        }
-      ],
-      "id": "9.7",
-      "title": "Sonderurlaub: wenn im Leben etwas passiert",
       "type": "text"
     },
     {

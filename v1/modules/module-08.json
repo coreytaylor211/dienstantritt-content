@@ -2,15 +2,6 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
   "id": 8,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-8-1",
-      "note": "",
-      "raw": "[PRÜFEN: einheitlicher Meldeweg bei Erkrankung außerhalb des Standorts]",
-      "sectionId": "8.4",
-      "topic": "einheitlicher Meldeweg bei Erkrankung außerhalb des Standorts"
-    }
-  ],
   "schemaVersion": 2,
   "sections": [
     {
@@ -223,21 +214,6 @@
     {
       "anchorSearchTitle": "Krank am Wochenende oder zu Hause",
       "blocks": [
-        {
-          "spans": [
-            {
-              "text": "Wirst du krank, während du am Wochenende oder im Urlaub zu Hause bist, musst du dich trotzdem melden — dein Fernbleiben muss dienstlich gedeckt sein. Wie der Meldeweg außerhalb des Standorts genau aussieht (wen du anrufst, welche Nachweise du brauchst, ob du einen zivilen Arzt aufsuchen darfst), ist "
-            },
-            {
-              "reviewFlagId": "rf-8-1",
-              "text": "[PRÜFEN: einheitlicher Meldeweg bei Erkrankung außerhalb des Standorts]"
-            },
-            {
-              "text": " und variiert je Dienststelle — verbindlich ist, was deine Einheit dir sagt."
-            }
-          ],
-          "type": "paragraph"
-        },
         {
           "spans": [
             {

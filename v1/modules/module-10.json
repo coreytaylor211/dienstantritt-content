@@ -2,15 +2,6 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
   "id": 10,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-10-1",
-      "note": "",
-      "raw": "[PRÜFEN: aktuelle Sicherheitsempfehlungen zum Tragen der Uniform im ÖPNV/öffentlich]",
-      "sectionId": "10.5",
-      "topic": "aktuelle Sicherheitsempfehlungen zum Tragen der Uniform im ÖPNV/öffentlich"
-    }
-  ],
   "schemaVersion": 2,
   "sections": [
     {
@@ -257,21 +248,6 @@
           ],
           "ordered": false,
           "type": "list"
-        },
-        {
-          "spans": [
-            {
-              "text": "Dazu kommt das Thema Sicherheit: Es gab immer wieder Phasen mit Empfehlungen, die Uniform in Bahn und Öffentlichkeit zurückhaltend zu tragen. "
-            },
-            {
-              "reviewFlagId": "rf-10-1",
-              "text": "[PRÜFEN: aktuelle Sicherheitsempfehlungen zum Tragen der Uniform im ÖPNV/öffentlich]"
-            },
-            {
-              "text": " Was aktuell gilt, sagt dir deine Einheit in den Belehrungen — halte dich daran, auch wenn Kameraden es lockerer sehen."
-            }
-          ],
-          "type": "paragraph"
         }
       ],
       "id": "10.5",
@@ -280,7 +256,6 @@
     },
     {
       "anchorSearchTitle": "Handy, Fotos und Schweigen über Dienstliches",
-      "blocks": [],
       "id": "10.6",
       "subsections": [
         {

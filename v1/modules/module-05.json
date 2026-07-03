@@ -2,15 +2,6 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
   "id": 5,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-5-1",
-      "note": "",
-      "raw": "[PRÜFEN: genaue kassenrechtliche Behandlung (Ruhen/Anwartschaft) je Status FWDL/SaZ nicht amtlich zusammengefasst auffindbar]",
-      "sectionId": "5.3.1",
-      "topic": "genaue kassenrechtliche Behandlung (Ruhen/Anwartschaft) je Status FWDL/SaZ nicht amtlich zusammengefasst auffindbar"
-    }
-  ],
   "schemaVersion": 2,
   "sections": [
     {
@@ -112,25 +103,6 @@
       "subsections": [
         {
           "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Während des Dienstes wirst du medizinisch über die "
-                },
-                {
-                  "bold": true,
-                  "text": "truppenärztliche Versorgung (freie Heilfürsorge)"
-                },
-                {
-                  "text": " der Bundeswehr versorgt (siehe Modul 12, Glossar). Informiere deine Krankenkasse über den Dienstantritt und kläre, wie deine Mitgliedschaft in dieser Zeit behandelt wird — das läuft je nach Kasse und Status unterschiedlich. "
-                },
-                {
-                  "reviewFlagId": "rf-5-1",
-                  "text": "[PRÜFEN: genaue kassenrechtliche Behandlung (Ruhen/Anwartschaft) je Status FWDL/SaZ nicht amtlich zusammengefasst auffindbar]"
-                }
-              ],
-              "type": "paragraph"
-            },
             {
               "spans": [
                 {

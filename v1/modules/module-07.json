@@ -2,15 +2,6 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
   "id": 7,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-7-1",
-      "note": "",
-      "raw": "[PRÜFEN: Anspruchsvoraussetzungen Trennungsgeldverordnung je Status]",
-      "sectionId": "7.6",
-      "topic": "Anspruchsvoraussetzungen Trennungsgeldverordnung je Status"
-    }
-  ],
   "schemaVersion": 2,
   "sections": [
     {
@@ -327,35 +318,6 @@
     {
       "anchorSearchTitle": "Geld beim Pendeln: nur ein Wegweiser",
       "blocks": [
-        {
-          "spans": [
-            {
-              "text": "Für Soldat:innen, die vom Wohnort getrennt Dienst leisten oder umziehen, gibt es als Instrumente "
-            },
-            {
-              "bold": true,
-              "text": "Trennungsgeld"
-            },
-            {
-              "text": " und "
-            },
-            {
-              "bold": true,
-              "text": "Umzugskostenvergütung"
-            },
-            {
-              "text": ". Ob und in welcher Form du davon etwas bekommst, ist fallabhängig "
-            },
-            {
-              "reviewFlagId": "rf-7-1",
-              "text": "[PRÜFEN: Anspruchsvoraussetzungen Trennungsgeldverordnung je Status]"
-            },
-            {
-              "text": " — verbindlich klärt das nur deine zuständige Stelle."
-            }
-          ],
-          "type": "paragraph"
-        },
         {
           "spans": [
             {

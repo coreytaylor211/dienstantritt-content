@@ -2,15 +2,6 @@
   "disclaimer": "Hinweis: Diese App ist ein inoffizielles Informationsangebot und steht in keiner Verbindung zur Bundeswehr oder zum Bundesministerium der Verteidigung (BMVg). Sie ersetzt keine dienstlichen Anweisungen, keine Rechtsberatung und keine offiziellen Auskünfte deiner Dienststelle. Verbindlich ist immer das, was dir deine Vorgesetzten und die offiziellen Stellen sagen.",
   "id": 6,
   "lastUpdated": "2026-06-01",
-  "reviewFlags": [
-    {
-      "id": "rf-6-1",
-      "note": "",
-      "raw": "[PRÜFEN: welche Nebentätigkeiten nach § 20 SG genau genehmigungspflichtig bzw. nur anzeigepflichtig sind]",
-      "sectionId": "6.8.2",
-      "topic": "welche Nebentätigkeiten nach § 20 SG genau genehmigungspflichtig bzw. nur anzeigepflichtig sind"
-    }
-  ],
   "schemaVersion": 2,
   "sections": [
     {
@@ -478,7 +469,6 @@
     },
     {
       "anchorSearchTitle": "Vertrauensperson und Nebentätigkeit",
-      "blocks": [],
       "id": "6.8",
       "subsections": [
         {
@@ -501,34 +491,6 @@
           ],
           "id": "6.8.1",
           "title": "Die Vertrauensperson"
-        },
-        {
-          "blocks": [
-            {
-              "spans": [
-                {
-                  "text": "Willst du neben dem Dienst Geld verdienen (Nebenjob, eigenes Gewerbe), gilt: Nebentätigkeiten sind grundsätzlich "
-                },
-                {
-                  "bold": true,
-                  "text": "genehmigungspflichtig"
-                },
-                {
-                  "text": " — frag vorher bei deiner Einheit an, nicht hinterher. "
-                },
-                {
-                  "reviewFlagId": "rf-6-1",
-                  "text": "[PRÜFEN: welche Nebentätigkeiten nach § 20 SG genau genehmigungspflichtig bzw. nur anzeigepflichtig sind]"
-                },
-                {
-                  "text": " Zum Zusammenspiel mit deinem Sold siehe Modul 4."
-                }
-              ],
-              "type": "paragraph"
-            }
-          ],
-          "id": "6.8.2",
-          "title": "Nebentätigkeit nur mit Genehmigung"
         }
       ],
       "title": "Vertrauensperson und Nebentätigkeit",
