@@ -359,11 +359,20 @@
       "id": "12.5",
       "items": [
         {
-          "abbr": "GA",
-          "id": "12.5-abbreviations-ga",
+          "abbr": "ABC",
+          "id": "12.5-abbreviations-abc",
           "meaning": [
             {
-              "text": "Grundausbildung — Erste rund drei Monate der militärischen Ausbildung; vermittelt soldatische Grundfertigkeiten (siehe Modul 2). Bis Ende 2011 „AGA\"."
+              "text": "Atomar, Biologisch, Chemisch — Bezeichnung für entsprechende Gefahren/Schutz (ABC-Schutz)."
+            }
+          ]
+        },
+        {
+          "abbr": "ABCAbw",
+          "id": "12.5-abbreviations-abcabw",
+          "meaning": [
+            {
+              "text": "ABC-Abwehr — Truppengattung zum Schutz vor atomaren, biologischen und chemischen Gefahren; auch als Vorsilbe in Verbandsnamen (z. B. ABCAbwBtl)."
             }
           ]
         },
@@ -377,29 +386,83 @@
           ]
         },
         {
-          "abbr": "FWDL",
-          "id": "12.5-abbreviations-fwdl",
+          "abbr": "ArbPlSchG",
+          "id": "12.5-abbreviations-arbplschg",
           "meaning": [
             {
-              "text": "Freiwillig Wehrdienstleistende:r — Status bei 6–11 Monaten Dienst im Neuen Wehrdienst."
+              "text": "Arbeitsplatzschutzgesetz — Schützt deinen zivilen Arbeitsplatz während des Wehrdienstes – das Arbeitsverhältnis ruht, kündigen darf man dir deswegen nicht (siehe Modul 6)."
             }
           ]
         },
         {
-          "abbr": "SaZ",
-          "id": "12.5-abbreviations-saz",
+          "abbr": "ArtBtl",
+          "id": "12.5-abbreviations-artbtl",
           "meaning": [
             {
-              "text": "Soldat:in auf Zeit — Status ab 12 Monaten Verpflichtung; im Neuen Wehrdienst auf min. 12 Monate gesenkt (z. B. SaZ 4 = 4 Jahre)."
+              "text": "Artilleriebataillon — Verband der Artillerietruppe – Wirkung mit weitreichendem Feuer."
             }
           ]
         },
         {
-          "abbr": "BS",
-          "id": "12.5-abbreviations-bs",
+          "abbr": "AufklBtl",
+          "id": "12.5-abbreviations-aufklbtl",
           "meaning": [
             {
-              "text": "Berufssoldat:in — Soldat:in mit Verpflichtung bis zur Altersgrenze (Laufbahn auf Lebenszeit)."
+              "text": "Aufklärungsbataillon — Verband der Heeresaufklärungstruppe – beschafft Informationen über Lage und Gelände."
+            }
+          ]
+        },
+        {
+          "abbr": "AVZ",
+          "id": "12.5-abbreviations-avz",
+          "meaning": [
+            {
+              "text": "Auslandsverwendungszuschlag — Zusätzliche Vergütung bei besonderen Verwendungen im Ausland, nach Belastung gestaffelt (siehe Modul 4)."
+            }
+          ]
+        },
+        {
+          "abbr": "BAAINBw",
+          "id": "12.5-abbreviations-baainbw",
+          "meaning": [
+            {
+              "text": "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr — Beschafft und betreut Ausrüstung, Gerät und IT der Bundeswehr."
+            }
+          ]
+        },
+        {
+          "abbr": "BAIUDBw",
+          "id": "12.5-abbreviations-baiudbw",
+          "meaning": [
+            {
+              "text": "Bundesamt für Infrastruktur, Umweltschutz und Dienstleistungen der Bundeswehr — Zuständig u. a. für Liegenschaften, Verpflegung und viele zivile Dienstleistungen rund um die Kaserne."
+            }
+          ]
+        },
+        {
+          "abbr": "BAPersBw",
+          "id": "12.5-abbreviations-bapersbw",
+          "meaning": [
+            {
+              "text": "Bundesamt für das Personalmanagement der Bundeswehr — Verwaltet das Personal der Bundeswehr – viele Bescheide zu Einstellung, Versetzung oder Dienstzeitende kommen von hier."
+            }
+          ]
+        },
+        {
+          "abbr": "BBesG",
+          "id": "12.5-abbreviations-bbesg",
+          "meaning": [
+            {
+              "text": "Bundesbesoldungsgesetz — Gesetzliche Grundlage der Besoldung, u. a. für Soldat:innen auf Zeit und Berufssoldat:innen (siehe Modul 4)."
+            }
+          ]
+        },
+        {
+          "abbr": "BFD",
+          "id": "12.5-abbreviations-bfd",
+          "meaning": [
+            {
+              "text": "Berufsförderungsdienst — Berät und fördert dich bei ziviler Bildung und beim Übergang in den Zivilberuf nach der Dienstzeit (siehe Modul 11)."
             }
           ]
         },
@@ -422,6 +485,42 @@
           ]
         },
         {
+          "abbr": "Brig",
+          "id": "12.5-abbreviations-brig",
+          "meaning": [
+            {
+              "text": "Brigade — Großverband aus mehreren Bataillonen/Regimentern."
+            }
+          ]
+        },
+        {
+          "abbr": "BrigGen",
+          "id": "12.5-abbreviations-briggen",
+          "meaning": [
+            {
+              "text": "Brigadegeneral — Erster Generalsdienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "BS",
+          "id": "12.5-abbreviations-bs",
+          "meaning": [
+            {
+              "text": "Berufssoldat:in — Soldat:in mit Verpflichtung bis zur Altersgrenze (Laufbahn auf Lebenszeit)."
+            }
+          ]
+        },
+        {
+          "abbr": "Btl",
+          "id": "12.5-abbreviations-btl",
+          "meaning": [
+            {
+              "text": "Bataillon — Truppenverband aus mehreren Kompanien."
+            }
+          ]
+        },
+        {
           "abbr": "Bw",
           "id": "12.5-abbreviations-bw",
           "meaning": [
@@ -431,83 +530,83 @@
           ]
         },
         {
-          "abbr": "TSK",
-          "id": "12.5-abbreviations-tsk",
+          "abbr": "BwDLZ",
+          "id": "12.5-abbreviations-bwdlz",
           "meaning": [
             {
-              "text": "Teilstreitkraft — z. B. Heer, Luftwaffe, Marine."
+              "text": "Bundeswehr-Dienstleistungszentrum — Örtliche zivile Verwaltungs- und Servicestelle der Bundeswehr am Standort."
             }
           ]
         },
         {
-          "abbr": "UvD",
-          "id": "12.5-abbreviations-uvd",
+          "abbr": "BwKrhs",
+          "id": "12.5-abbreviations-bwkrhs",
           "meaning": [
             {
-              "text": "Unteroffizier vom Dienst — Diensthabende:r Unteroffizier:in mit Aufsichts- und Ordnungsaufgaben in der Einheit (Dienstposten im Innendienst)."
+              "text": "Bundeswehrkrankenhaus — Krankenhaus des Sanitätsdienstes der Bundeswehr; behandelt auch zivile Patient:innen."
             }
           ]
         },
         {
-          "abbr": "GvD",
-          "id": "12.5-abbreviations-gvd",
+          "abbr": "CIR",
+          "id": "12.5-abbreviations-cir",
           "meaning": [
             {
-              "text": "Gefreiter vom Dienst — Diensthabende:r Mannschaftssoldat:in zur Unterstützung des UvD."
+              "text": "Cyber- und Informationsraum — Bereich der Bundeswehr für Cyber-Operationen, IT und Aufklärung im Informationsumfeld; seit der Reform 2024/25 eigene Teilstreitkraft."
             }
           ]
         },
         {
-          "abbr": "OvWa",
-          "id": "12.5-abbreviations-ovwa",
+          "abbr": "DBwV",
+          "id": "12.5-abbreviations-dbwv",
           "meaning": [
             {
-              "text": "Offizier vom Wachdienst — Wachvorgesetzte:r, verantwortlich für Sicherung und Disziplin der Wache."
+              "text": "Deutscher BundeswehrVerband — Interessenvertretung der Soldat:innen und ihrer Familien – ein Verein, keine Dienststelle."
             }
           ]
         },
         {
-          "abbr": "KpFw",
-          "id": "12.5-abbreviations-kpfw",
+          "abbr": "Div",
+          "id": "12.5-abbreviations-div",
           "meaning": [
             {
-              "text": "Kompaniefeldwebel — „Spieß\"; verantwortlich für innere Organisation, Personal und Versorgung der Kompanie (siehe Slang/Spieß unten)."
+              "text": "Division — Großverband aus mehreren Brigaden."
             }
           ]
         },
         {
-          "abbr": "StOFw",
-          "id": "12.5-abbreviations-stofw",
+          "abbr": "DP",
+          "id": "12.5-abbreviations-dp",
           "meaning": [
             {
-              "text": "Standortfeldwebel — Feldwebel mit standortbezogenen Verwaltungs-/Organisationsaufgaben."
+              "text": "Dienstposten — Die konkrete Stelle/Funktion, auf der du eingesetzt bist – nicht dasselbe wie dein Dienstgrad (siehe Modul 3)."
             }
           ]
         },
         {
-          "abbr": "Uffz",
-          "id": "12.5-abbreviations-uffz",
+          "abbr": "d. R.",
+          "id": "12.5-abbreviations-d-r",
           "meaning": [
             {
-              "text": "Unteroffizier — Dienstgradgruppe der Unteroffiziere."
+              "text": "der Reserve — Zusatz hinter dem Dienstgrad von Reservist:innen (z. B. Hauptmann d. R.)."
             }
           ]
         },
         {
-          "abbr": "Fw",
-          "id": "12.5-abbreviations-fw",
+          "abbr": "DSK",
+          "id": "12.5-abbreviations-dsk",
           "meaning": [
             {
-              "text": "Feldwebel — Dienstgrad bzw. -gruppe der Feldwebel."
+              "text": "Division Schnelle Kräfte — Division des Heeres, u. a. mit Fallschirmjägern und Hubschrauberkräften."
             }
           ]
         },
         {
-          "abbr": "Lt",
-          "id": "12.5-abbreviations-lt",
+          "abbr": "DU",
+          "id": "12.5-abbreviations-du",
           "meaning": [
             {
-              "text": "Leutnant — Erster Offiziersdienstgrad."
+              "text": "Dienstunfähigkeit / Direktunterstützung — Mehrdeutig: meist „Dienstunfähigkeit\" (gesundheitlich, vorübergehend), in der Logistik auch „Direktunterstützung\". Welche Lesart gemeint ist, ergibt sich aus dem Zusammenhang – frag im Zweifel nach."
             }
           ]
         },
@@ -521,110 +620,11 @@
           ]
         },
         {
-          "abbr": "ZDv",
-          "id": "12.5-abbreviations-zdv",
+          "abbr": "DZE",
+          "id": "12.5-abbreviations-dze",
           "meaning": [
             {
-              "text": "Zentrale Dienstvorschrift — Verbindliche Vorschrift der Bundeswehr (das Vorschriftenwesen wurde teils modernisiert, z. B. „Allgemeine Regelung\"/„Zentralrichtlinie\")."
-            }
-          ]
-        },
-        {
-          "abbr": "DGA",
-          "id": "12.5-abbreviations-dga",
-          "meaning": [
-            {
-              "text": "Dienstgradabzeichen — Kennzeichnet den Dienstgrad an der Uniform (Schulterklappen/-stücke, Ärmel, Aufschiebeschlaufen)."
-            }
-          ]
-        },
-        {
-          "abbr": "SAZV",
-          "id": "12.5-abbreviations-sazv",
-          "meaning": [
-            {
-              "text": "Soldatenarbeitszeitverordnung — Verordnung über die Arbeitszeit der Soldatinnen und Soldaten; gilt für Soldat:innen im Geschäftsbereich des BMVg (Quelle: gesetze-im-internet.de, SAZV, abgerufen 2026-06-01)."
-            }
-          ]
-        },
-        {
-          "abbr": "SG",
-          "id": "12.5-abbreviations-sg",
-          "meaning": [
-            {
-              "text": "Soldatengesetz — Gesetz über die Rechtsstellung der Soldat:innen (Pflichten und Rechte)."
-            }
-          ]
-        },
-        {
-          "abbr": "WDO",
-          "id": "12.5-abbreviations-wdo",
-          "meaning": [
-            {
-              "text": "Wehrdisziplinarordnung — Regelt Anerkennung besonderer Leistungen und Ahndung von Dienstvergehen."
-            }
-          ]
-        },
-        {
-          "abbr": "WBO",
-          "id": "12.5-abbreviations-wbo",
-          "meaning": [
-            {
-              "text": "Wehrbeschwerdeordnung — Regelt das Beschwerderecht der Soldat:innen."
-            }
-          ]
-        },
-        {
-          "abbr": "SBG",
-          "id": "12.5-abbreviations-sbg",
-          "meaning": [
-            {
-              "text": "Soldatinnen- und Soldatenbeteiligungsgesetz — Regelt Beteiligungsrechte (Vertrauenspersonen, Mitbestimmung)."
-            }
-          ]
-        },
-        {
-          "abbr": "InFü",
-          "id": "12.5-abbreviations-infue",
-          "meaning": [
-            {
-              "text": "Innere Führung — Führungsphilosophie/Leitbild „Staatsbürger:in in Uniform\"."
-            }
-          ]
-        },
-        {
-          "abbr": "UZwGBw",
-          "id": "12.5-abbreviations-uzwgbw",
-          "meaning": [
-            {
-              "text": "Gesetz über die Anwendung unmittelbaren Zwanges durch Soldaten der Bundeswehr — Rechtsgrundlage für Wach-/Sicherungsaufgaben."
-            }
-          ]
-        },
-        {
-          "abbr": "WBK",
-          "id": "12.5-abbreviations-wbk",
-          "meaning": [
-            {
-              "text": "Waffenbesitzkarte — Erlaubnis zum Besitz erlaubnispflichtiger Schusswaffen und Munition."
-            }
-          ]
-        },
-        {
-          "abbr": "San",
-          "id": "12.5-abbreviations-san",
-          "meaning": [
-            {
-              "text": "Sanitäter:in / Sanitätsdienst — Medizinisches Personal bzw. Sanitätsbereich; auch als Vorsilbe (z. B. SanDstBw)."
-            }
-          ]
-        },
-        {
-          "abbr": "ABC",
-          "id": "12.5-abbreviations-abc",
-          "meaning": [
-            {
-              "text": "Atomar, Biologisch, Chemisch — Bezeichnung für entsprechende Gefahren/Schutz (ABC-Schutz)."
+              "text": "Dienstzeitende — Ende der Dienstzeit/des Wehrdienstverhältnisses."
             }
           ]
         },
@@ -647,20 +647,344 @@
           ]
         },
         {
-          "abbr": "MG",
-          "id": "12.5-abbreviations-mg",
+          "abbr": "FA",
+          "id": "12.5-abbreviations-fa",
           "meaning": [
             {
-              "text": "Maschinengewehr — Automatische Unterstützungswaffe."
+              "text": "Feldwebelanwärter:in — Statusbezeichnung während der Ausbildung für die Feldwebellaufbahn (siehe Modul 3)."
             }
           ]
         },
         {
-          "abbr": "Btl",
-          "id": "12.5-abbreviations-btl",
+          "abbr": "FBZ",
+          "id": "12.5-abbreviations-fbz",
           "meaning": [
             {
-              "text": "Bataillon — Truppenverband aus mehreren Kompanien."
+              "text": "Familienbetreuungszentrum — Anlaufstelle für Angehörige, besonders während Einsätzen und längeren Abwesenheiten (siehe Modul 7)."
+            }
+          ]
+        },
+        {
+          "abbr": "FJg",
+          "id": "12.5-abbreviations-fjg",
+          "meaning": [
+            {
+              "text": "Feldjäger — Die Militärpolizei der Bundeswehr (siehe Glossar)."
+            }
+          ]
+        },
+        {
+          "abbr": "FlaRak",
+          "id": "12.5-abbreviations-flarak",
+          "meaning": [
+            {
+              "text": "Flugabwehrraketen- — Vorsilbe in Verbandsnamen der bodengebundenen Flugabwehr, v. a. bei der Luftwaffe."
+            }
+          ]
+        },
+        {
+          "abbr": "FschJg",
+          "id": "12.5-abbreviations-fschjg",
+          "meaning": [
+            {
+              "text": "Fallschirmjäger — Luftlandefähige Infanterie des Heeres."
+            }
+          ]
+        },
+        {
+          "abbr": "FüAkBw",
+          "id": "12.5-abbreviations-fueakbw",
+          "meaning": [
+            {
+              "text": "Führungsakademie der Bundeswehr — Höchste militärische Ausbildungsstätte für Offiziere (Hamburg)."
+            }
+          ]
+        },
+        {
+          "abbr": "Fw",
+          "id": "12.5-abbreviations-fw",
+          "meaning": [
+            {
+              "text": "Feldwebel — Dienstgrad bzw. -gruppe der Feldwebel."
+            }
+          ]
+        },
+        {
+          "abbr": "FWDL",
+          "id": "12.5-abbreviations-fwdl",
+          "meaning": [
+            {
+              "text": "Freiwillig Wehrdienstleistende:r — Status bei 6–11 Monaten Dienst im Neuen Wehrdienst."
+            }
+          ]
+        },
+        {
+          "abbr": "GA",
+          "id": "12.5-abbreviations-ga",
+          "meaning": [
+            {
+              "text": "Grundausbildung — Erste rund drei Monate der militärischen Ausbildung; vermittelt soldatische Grundfertigkeiten (siehe Modul 2). Bis Ende 2011 „AGA\"."
+            }
+          ]
+        },
+        {
+          "abbr": "GebJg",
+          "id": "12.5-abbreviations-gebjg",
+          "meaning": [
+            {
+              "text": "Gebirgsjäger — Auf Gebirge und schwieriges Gelände spezialisierte Infanterie."
+            }
+          ]
+        },
+        {
+          "abbr": "Gefr",
+          "id": "12.5-abbreviations-gefr",
+          "meaning": [
+            {
+              "text": "Gefreiter — Erster Beförderungsdienstgrad der Mannschaften (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "Gen",
+          "id": "12.5-abbreviations-gen",
+          "meaning": [
+            {
+              "text": "General — Höchster Dienstgrad in Heer und Luftwaffe (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "GenInsp / GI",
+          "id": "12.5-abbreviations-geninsp-gi",
+          "meaning": [
+            {
+              "text": "Generalinspekteur:in der Bundeswehr — Ranghöchste:r Soldat:in der Bundeswehr und oberste:r militärische:r Berater:in der Bundesregierung."
+            }
+          ]
+        },
+        {
+          "abbr": "GenLt",
+          "id": "12.5-abbreviations-genlt",
+          "meaning": [
+            {
+              "text": "Generalleutnant — Generalsdienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "GenMaj",
+          "id": "12.5-abbreviations-genmaj",
+          "meaning": [
+            {
+              "text": "Generalmajor — Generalsdienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "GG",
+          "id": "12.5-abbreviations-gg",
+          "meaning": [
+            {
+              "text": "Grundgesetz — Die Verfassung – regelt u. a. Auftrag und parlamentarische Kontrolle der Streitkräfte (siehe Modul 6)."
+            }
+          ]
+        },
+        {
+          "abbr": "Grp",
+          "id": "12.5-abbreviations-grp",
+          "meaning": [
+            {
+              "text": "Gruppe — Kleinste Gliederungseinheit."
+            }
+          ]
+        },
+        {
+          "abbr": "GrpFhr",
+          "id": "12.5-abbreviations-grpfhr",
+          "meaning": [
+            {
+              "text": "Gruppenführer:in — Führt eine Gruppe; in der Grundausbildung oft deine direkteste Führungsperson (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "GÜZ",
+          "id": "12.5-abbreviations-guez",
+          "meaning": [
+            {
+              "text": "Gefechtsübungszentrum des Heeres — Übungszentrum in der Altmark, in dem ganze Verbände mit Simulationstechnik das Gefecht üben."
+            }
+          ]
+        },
+        {
+          "abbr": "GvD",
+          "id": "12.5-abbreviations-gvd",
+          "meaning": [
+            {
+              "text": "Gefreiter vom Dienst — Diensthabende:r Mannschaftssoldat:in zur Unterstützung des UvD."
+            }
+          ]
+        },
+        {
+          "abbr": "GWDL",
+          "id": "12.5-abbreviations-gwdl",
+          "meaning": [
+            {
+              "text": "Grundwehrdienstleistende:r — Historische Statusbezeichnung aus der Wehrpflichtzeit; der verpflichtende Grundwehrdienst ist seit 2011 ausgesetzt."
+            }
+          ]
+        },
+        {
+          "abbr": "H",
+          "id": "12.5-abbreviations-h",
+          "meaning": [
+            {
+              "text": "Heer — Teilstreitkraft der Landstreitkräfte."
+            }
+          ]
+        },
+        {
+          "abbr": "HGefr",
+          "id": "12.5-abbreviations-hgefr",
+          "meaning": [
+            {
+              "text": "Hauptgefreiter — Mannschaftsdienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "HptFw",
+          "id": "12.5-abbreviations-hptfw",
+          "meaning": [
+            {
+              "text": "Hauptfeldwebel — Feldwebeldienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "Hptm",
+          "id": "12.5-abbreviations-hptm",
+          "meaning": [
+            {
+              "text": "Hauptmann — Offiziersdienstgrad; führt häufig eine Kompanie (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "HSchRgt",
+          "id": "12.5-abbreviations-hschrgt",
+          "meaning": [
+            {
+              "text": "Heimatschutzregiment — Verband des Heimatschutzes für Sicherungs- und Schutzaufgaben im Inland, stark von Reservist:innen getragen."
+            }
+          ]
+        },
+        {
+          "abbr": "IGF",
+          "id": "12.5-abbreviations-igf",
+          "meaning": [
+            {
+              "text": "Individuelle Grundfertigkeiten — Soldatische Basisfertigkeiten (z. B. Schießen, Erste Hilfe, ABC-Selbstschutz), die regelmäßig nachzuweisen sind (siehe Modul 2)."
+            }
+          ]
+        },
+        {
+          "abbr": "InFü",
+          "id": "12.5-abbreviations-infue",
+          "meaning": [
+            {
+              "text": "Innere Führung — Führungsphilosophie/Leitbild „Staatsbürger:in in Uniform\"."
+            }
+          ]
+        },
+        {
+          "abbr": "InspH",
+          "id": "12.5-abbreviations-insph",
+          "meaning": [
+            {
+              "text": "Inspekteur:in des Heeres — Führt die Teilstreitkraft Heer."
+            }
+          ]
+        },
+        {
+          "abbr": "InspL",
+          "id": "12.5-abbreviations-inspl",
+          "meaning": [
+            {
+              "text": "Inspekteur:in der Luftwaffe — Führt die Teilstreitkraft Luftwaffe."
+            }
+          ]
+        },
+        {
+          "abbr": "InspM",
+          "id": "12.5-abbreviations-inspm",
+          "meaning": [
+            {
+              "text": "Inspekteur:in der Marine — Führt die Teilstreitkraft Marine."
+            }
+          ]
+        },
+        {
+          "abbr": "Inst",
+          "id": "12.5-abbreviations-inst",
+          "meaning": [
+            {
+              "text": "Instandsetzung — Reparatur und Wartung von Gerät und Fahrzeugen (Logistik); auch als Vorsilbe in Bezeichnungen."
+            }
+          ]
+        },
+        {
+          "abbr": "JgBtl",
+          "id": "12.5-abbreviations-jgbtl",
+          "meaning": [
+            {
+              "text": "Jägerbataillon — Infanterieverband der Jägertruppe."
+            }
+          ]
+        },
+        {
+          "abbr": "KarrCBw",
+          "id": "12.5-abbreviations-karrcbw",
+          "meaning": [
+            {
+              "text": "Karrierecenter der Bundeswehr — Regionale Stellen für Beratung, Bewerbung und Einstellung – hier warst du vermutlich schon vor deinem Dienstantritt."
+            }
+          ]
+        },
+        {
+          "abbr": "Kdo",
+          "id": "12.5-abbreviations-kdo",
+          "meaning": [
+            {
+              "text": "Kommando — Bezeichnung höherer Führungsstäbe und Dienststellen (z. B. Kommando Heer); im Alltag auch das kurze Befehlswort selbst."
+            }
+          ]
+        },
+        {
+          "abbr": "Kdr",
+          "id": "12.5-abbreviations-kdr",
+          "meaning": [
+            {
+              "text": "Kommandeur:in — Führt einen Verband (z. B. ein Bataillon) und ist dort Disziplinarvorgesetzte:r (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "KLF",
+          "id": "12.5-abbreviations-klf",
+          "meaning": [
+            {
+              "text": "Körperliche Leistungsfähigkeit — Sammelbegriff für die regelmäßigen Fitness-Nachweise (u. a. BFT)."
+            }
+          ]
+        },
+        {
+          "abbr": "Korp",
+          "id": "12.5-abbreviations-korp",
+          "meaning": [
+            {
+              "text": "Korporal — Mannschaftsdienstgrad, 2021 eingeführt (siehe Modul 3)."
             }
           ]
         },
@@ -674,6 +998,663 @@
           ]
         },
         {
+          "abbr": "KpChef",
+          "id": "12.5-abbreviations-kpchef",
+          "meaning": [
+            {
+              "text": "Kompaniechef:in — Führt die Kompanie und ist meist deine erste disziplinarvorgesetzte Person (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "KpFw",
+          "id": "12.5-abbreviations-kpfw",
+          "meaning": [
+            {
+              "text": "Kompaniefeldwebel — „Spieß\"; verantwortlich für innere Organisation, Personal und Versorgung der Kompanie (siehe Slang/Spieß unten)."
+            }
+          ]
+        },
+        {
+          "abbr": "KPz",
+          "id": "12.5-abbreviations-kpz",
+          "meaning": [
+            {
+              "text": "Kampfpanzer — Gepanzertes Kettenfahrzeug mit Bordkanone (z. B. Leopard 2)."
+            }
+          ]
+        },
+        {
+          "abbr": "KSK",
+          "id": "12.5-abbreviations-ksk",
+          "meaning": [
+            {
+              "text": "Kommando Spezialkräfte — Spezialkräfteverband des Heeres."
+            }
+          ]
+        },
+        {
+          "abbr": "LogBtl",
+          "id": "12.5-abbreviations-logbtl",
+          "meaning": [
+            {
+              "text": "Logistikbataillon — Verband für Transport, Nachschub und Versorgung."
+            }
+          ]
+        },
+        {
+          "abbr": "Lt",
+          "id": "12.5-abbreviations-lt",
+          "meaning": [
+            {
+              "text": "Leutnant — Erster Offiziersdienstgrad."
+            }
+          ]
+        },
+        {
+          "abbr": "Lw",
+          "id": "12.5-abbreviations-lw",
+          "meaning": [
+            {
+              "text": "Luftwaffe — Teilstreitkraft der Luftstreitkräfte."
+            }
+          ]
+        },
+        {
+          "abbr": "M",
+          "id": "12.5-abbreviations-m",
+          "meaning": [
+            {
+              "text": "Marine — Teilstreitkraft der Seestreitkräfte (Deutsche Marine)."
+            }
+          ]
+        },
+        {
+          "abbr": "MAD",
+          "id": "12.5-abbreviations-mad",
+          "meaning": [
+            {
+              "text": "Militärischer Abschirmdienst — Nachrichtendienst der Bundeswehr; wehrt u. a. Extremismus, Spionage und Sabotage in den Streitkräften ab."
+            }
+          ]
+        },
+        {
+          "abbr": "Maj",
+          "id": "12.5-abbreviations-maj",
+          "meaning": [
+            {
+              "text": "Major — Erster Stabsoffiziersdienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "MG",
+          "id": "12.5-abbreviations-mg",
+          "meaning": [
+            {
+              "text": "Maschinengewehr — Automatische Unterstützungswaffe."
+            }
+          ]
+        },
+        {
+          "abbr": "NATO",
+          "id": "12.5-abbreviations-nato",
+          "meaning": [
+            {
+              "text": "North Atlantic Treaty Organization — Das Verteidigungsbündnis, dem Deutschland angehört – prägt Übungen, Standards und viele Begriffe im Alltag."
+            }
+          ]
+        },
+        {
+          "abbr": "OA",
+          "id": "12.5-abbreviations-oa",
+          "meaning": [
+            {
+              "text": "Offizieranwärter:in — Statusbezeichnung während der Ausbildung für die Offizierlaufbahn (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "OFw",
+          "id": "12.5-abbreviations-ofw",
+          "meaning": [
+            {
+              "text": "Oberfeldwebel — Feldwebeldienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "OGefr",
+          "id": "12.5-abbreviations-ogefr",
+          "meaning": [
+            {
+              "text": "Obergefreiter — Mannschaftsdienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "OLt",
+          "id": "12.5-abbreviations-olt",
+          "meaning": [
+            {
+              "text": "Oberleutnant — Offiziersdienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "OrgBer",
+          "id": "12.5-abbreviations-orgber",
+          "meaning": [
+            {
+              "text": "Organisationsbereich — Große Gliederungssäule der Bundeswehr – militärisch (z. B. früher SKB) oder zivil (z. B. Personal, Infrastruktur)."
+            }
+          ]
+        },
+        {
+          "abbr": "OStFw",
+          "id": "12.5-abbreviations-ostfw",
+          "meaning": [
+            {
+              "text": "Oberstabsfeldwebel — Höchster Feldwebeldienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "OStGefr",
+          "id": "12.5-abbreviations-ostgefr",
+          "meaning": [
+            {
+              "text": "Oberstabsgefreiter — Mannschaftsdienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "OTL",
+          "id": "12.5-abbreviations-otl",
+          "meaning": [
+            {
+              "text": "Oberstleutnant — Stabsoffiziersdienstgrad; führt oft ein Bataillon (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "OvWa",
+          "id": "12.5-abbreviations-ovwa",
+          "meaning": [
+            {
+              "text": "Offizier vom Wachdienst — Wachvorgesetzte:r, verantwortlich für Sicherung und Disziplin der Wache."
+            }
+          ]
+        },
+        {
+          "abbr": "PiBtl",
+          "id": "12.5-abbreviations-pibtl",
+          "meaning": [
+            {
+              "text": "Pionierbataillon — Verband der Pioniertruppe – Brücken, Sperren, Baumaschinen, Kampfmittelabwehr."
+            }
+          ]
+        },
+        {
+          "abbr": "Pz",
+          "id": "12.5-abbreviations-pz",
+          "meaning": [
+            {
+              "text": "Panzer — Vorsilbe für Panzertruppen und gepanzerte Systeme (z. B. PzBtl, PzGren)."
+            }
+          ]
+        },
+        {
+          "abbr": "PzBtl",
+          "id": "12.5-abbreviations-pzbtl",
+          "meaning": [
+            {
+              "text": "Panzerbataillon — Verband der Panzertruppe mit Kampfpanzern."
+            }
+          ]
+        },
+        {
+          "abbr": "PzGren",
+          "id": "12.5-abbreviations-pzgren",
+          "meaning": [
+            {
+              "text": "Panzergrenadiere — Infanterie, die zusammen mit Schützenpanzern kämpft."
+            }
+          ]
+        },
+        {
+          "abbr": "RDL",
+          "id": "12.5-abbreviations-rdl",
+          "meaning": [
+            {
+              "text": "Reservistendienst Leistende:r — Reservist:in, die/der vorübergehend wieder aktiven Dienst leistet, z. B. für eine Übung (siehe Modul 11)."
+            }
+          ]
+        },
+        {
+          "abbr": "Rgt",
+          "id": "12.5-abbreviations-rgt",
+          "meaning": [
+            {
+              "text": "Regiment — Truppenverband zwischen Bataillon und Brigade."
+            }
+          ]
+        },
+        {
+          "abbr": "ROA",
+          "id": "12.5-abbreviations-roa",
+          "meaning": [
+            {
+              "text": "Reserveoffizieranwärter:in — Statusbezeichnung während der Ausbildung zum Offizier der Reserve."
+            }
+          ]
+        },
+        {
+          "abbr": "S1",
+          "id": "12.5-abbreviations-s1",
+          "meaning": [
+            {
+              "text": "Stabsabteilung Personal — Die „Schreibstube“ für Personalthemen – Anträge, Bescheinigungen und Unterlagen laufen hier zusammen."
+            }
+          ]
+        },
+        {
+          "abbr": "S2",
+          "id": "12.5-abbreviations-s2",
+          "meaning": [
+            {
+              "text": "Stabsabteilung Militärisches Nachrichtenwesen/Sicherheit — Zuständig u. a. für militärische Sicherheit und Geheimschutz."
+            }
+          ]
+        },
+        {
+          "abbr": "S3",
+          "id": "12.5-abbreviations-s3",
+          "meaning": [
+            {
+              "text": "Stabsabteilung Einsatz/Ausbildung/Organisation — Plant Dienstbetrieb, Ausbildung und Übungen – hier entsteht z. B. der Dienstplan."
+            }
+          ]
+        },
+        {
+          "abbr": "S4",
+          "id": "12.5-abbreviations-s4",
+          "meaning": [
+            {
+              "text": "Stabsabteilung Logistik — Zuständig für Material, Nachschub und Versorgung."
+            }
+          ]
+        },
+        {
+          "abbr": "S6",
+          "id": "12.5-abbreviations-s6",
+          "meaning": [
+            {
+              "text": "Stabsabteilung Führungsunterstützung/IT — Zuständig für Fernmeldewesen und IT."
+            }
+          ]
+        },
+        {
+          "abbr": "San",
+          "id": "12.5-abbreviations-san",
+          "meaning": [
+            {
+              "text": "Sanitäter:in / Sanitätsdienst — Medizinisches Personal bzw. Sanitätsbereich; auch als Vorsilbe (z. B. SanDstBw)."
+            }
+          ]
+        },
+        {
+          "abbr": "SanOA",
+          "id": "12.5-abbreviations-sanoa",
+          "meaning": [
+            {
+              "text": "Sanitätsoffizieranwärter:in — Statusbezeichnung während der Ausbildung zum Sanitätsoffizier, meist mit Studium (z. B. Medizin)."
+            }
+          ]
+        },
+        {
+          "abbr": "SaZ",
+          "id": "12.5-abbreviations-saz",
+          "meaning": [
+            {
+              "text": "Soldat:in auf Zeit — Status ab 12 Monaten Verpflichtung; im Neuen Wehrdienst auf min. 12 Monate gesenkt (z. B. SaZ 4 = 4 Jahre)."
+            }
+          ]
+        },
+        {
+          "abbr": "SAZV",
+          "id": "12.5-abbreviations-sazv",
+          "meaning": [
+            {
+              "text": "Soldatenarbeitszeitverordnung — Verordnung über die Arbeitszeit der Soldatinnen und Soldaten; gilt für Soldat:innen im Geschäftsbereich des BMVg (Quelle: gesetze-im-internet.de, SAZV, abgerufen 2026-06-01)."
+            }
+          ]
+        },
+        {
+          "abbr": "SBG",
+          "id": "12.5-abbreviations-sbg",
+          "meaning": [
+            {
+              "text": "Soldatinnen- und Soldatenbeteiligungsgesetz — Regelt Beteiligungsrechte (Vertrauenspersonen, Mitbestimmung)."
+            }
+          ]
+        },
+        {
+          "abbr": "SG",
+          "id": "12.5-abbreviations-sg",
+          "meaning": [
+            {
+              "text": "Soldatengesetz — Gesetz über die Rechtsstellung der Soldat:innen (Pflichten und Rechte)."
+            }
+          ]
+        },
+        {
+          "abbr": "SKB",
+          "id": "12.5-abbreviations-skb",
+          "meaning": [
+            {
+              "text": "Streitkräftebasis — Früherer Organisationsbereich für querschnittliche Unterstützung (u. a. Logistik, Feldjäger); in der Reform 2024/25 im Unterstützungsbereich aufgegangen."
+            }
+          ]
+        },
+        {
+          "abbr": "SLV",
+          "id": "12.5-abbreviations-slv",
+          "meaning": [
+            {
+              "text": "Soldatinnen- und Soldatenlaufbahnverordnung — Regelt Laufbahnen, Voraussetzungen und Beförderungen (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "SPz",
+          "id": "12.5-abbreviations-spz",
+          "meaning": [
+            {
+              "text": "Schützenpanzer — Gepanzertes Gefechtsfahrzeug der Panzergrenadiere (z. B. Puma)."
+            }
+          ]
+        },
+        {
+          "abbr": "StFw",
+          "id": "12.5-abbreviations-stfw",
+          "meaning": [
+            {
+              "text": "Stabsfeldwebel — Feldwebeldienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "StGefr",
+          "id": "12.5-abbreviations-stgefr",
+          "meaning": [
+            {
+              "text": "Stabsgefreiter — Mannschaftsdienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "StKorp",
+          "id": "12.5-abbreviations-stkorp",
+          "meaning": [
+            {
+              "text": "Stabskorporal — Höchster Mannschaftsdienstgrad, 2021 eingeführt (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "StOFw",
+          "id": "12.5-abbreviations-stofw",
+          "meaning": [
+            {
+              "text": "Standortfeldwebel — Feldwebel mit standortbezogenen Verwaltungs-/Organisationsaufgaben."
+            }
+          ]
+        },
+        {
+          "abbr": "StOÜbPl",
+          "id": "12.5-abbreviations-stouebpl",
+          "meaning": [
+            {
+              "text": "Standortübungsplatz — Übungsgelände nahe der Kaserne für die tägliche Ausbildung – kleiner als ein Truppenübungsplatz."
+            }
+          ]
+        },
+        {
+          "abbr": "StUffz",
+          "id": "12.5-abbreviations-stuffz",
+          "meaning": [
+            {
+              "text": "Stabsunteroffizier — Unteroffiziersdienstgrad (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "SUV",
+          "id": "12.5-abbreviations-suv",
+          "meaning": [
+            {
+              "text": "Soldatinnen- und Soldatenurlaubsverordnung — Regelt Erholungs- und Sonderurlaub für Soldat:innen (siehe Modul 9)."
+            }
+          ]
+        },
+        {
+          "abbr": "SVG",
+          "id": "12.5-abbreviations-svg",
+          "meaning": [
+            {
+              "text": "Soldatenversorgungsgesetz — Regelt die Versorgung nach der Dienstzeit, u. a. Berufsförderung und Absicherung bei Wehrdienstbeschädigung."
+            }
+          ]
+        },
+        {
+          "abbr": "TG",
+          "id": "12.5-abbreviations-tg",
+          "meaning": [
+            {
+              "text": "Trennungsgeld — Mögliche Entschädigung, wenn du dienstlich bedingt getrennt vom Wohnort leben musst (siehe Modul 4)."
+            }
+          ]
+        },
+        {
+          "abbr": "TPz",
+          "id": "12.5-abbreviations-tpz",
+          "meaning": [
+            {
+              "text": "Transportpanzer — Geschütztes Radfahrzeug für Transportaufgaben (z. B. Fuchs)."
+            }
+          ]
+        },
+        {
+          "abbr": "TrArzt",
+          "id": "12.5-abbreviations-trarzt",
+          "meaning": [
+            {
+              "text": "Truppenarzt/Truppenärztin — Deine erste medizinische Anlaufstelle im Dienst (siehe Modul 8)."
+            }
+          ]
+        },
+        {
+          "abbr": "TrÜbPl",
+          "id": "12.5-abbreviations-truebpl",
+          "meaning": [
+            {
+              "text": "Truppenübungsplatz — Großes Übungsgelände für Schieß- und Gefechtsausbildung, oft mit mehrtägigem Aufenthalt (siehe Glossar)."
+            }
+          ]
+        },
+        {
+          "abbr": "TSK",
+          "id": "12.5-abbreviations-tsk",
+          "meaning": [
+            {
+              "text": "Teilstreitkraft — z. B. Heer, Luftwaffe, Marine."
+            }
+          ]
+        },
+        {
+          "abbr": "UA",
+          "id": "12.5-abbreviations-ua",
+          "meaning": [
+            {
+              "text": "Unteroffizieranwärter:in — Statusbezeichnung während der Ausbildung für die Unteroffizierlaufbahn (siehe Modul 3)."
+            }
+          ]
+        },
+        {
+          "abbr": "Uffz",
+          "id": "12.5-abbreviations-uffz",
+          "meaning": [
+            {
+              "text": "Unteroffizier — Dienstgradgruppe der Unteroffiziere."
+            }
+          ]
+        },
+        {
+          "abbr": "UKV",
+          "id": "12.5-abbreviations-ukv",
+          "meaning": [
+            {
+              "text": "Umzugskostenvergütung — Mögliche Erstattung der Kosten bei einem dienstlich veranlassten Umzug (siehe Modul 4)."
+            }
+          ]
+        },
+        {
+          "abbr": "UniBw",
+          "id": "12.5-abbreviations-unibw",
+          "meaning": [
+            {
+              "text": "Universität der Bundeswehr — Hochschulen der Bundeswehr in München und Hamburg, an denen v. a. Offizieranwärter:innen studieren."
+            }
+          ]
+        },
+        {
+          "abbr": "USG",
+          "id": "12.5-abbreviations-usg",
+          "meaning": [
+            {
+              "text": "Unterhaltssicherungsgesetz — Regelt finanzielle Leistungen zur Sicherung des Lebensunterhalts bei bestimmten Wehrdiensten (siehe Modul 4)."
+            }
+          ]
+        },
+        {
+          "abbr": "UvD",
+          "id": "12.5-abbreviations-uvd",
+          "meaning": [
+            {
+              "text": "Unteroffizier vom Dienst — Diensthabende:r Unteroffizier:in mit Aufsichts- und Ordnungsaufgaben in der Einheit (Dienstposten im Innendienst)."
+            }
+          ]
+        },
+        {
+          "abbr": "UZwGBw",
+          "id": "12.5-abbreviations-uzwgbw",
+          "meaning": [
+            {
+              "text": "Gesetz über die Anwendung unmittelbaren Zwanges und die Ausübung besonderer Befugnisse durch Soldaten der Bundeswehr und verbündeter Streitkräfte sowie zivile Wachpersonen — Rechtsgrundlage für Wach-/Sicherungsaufgaben."
+            }
+          ]
+        },
+        {
+          "abbr": "VS-NfD",
+          "id": "12.5-abbreviations-vs-nfd",
+          "meaning": [
+            {
+              "text": "Verschlusssache – Nur für den Dienstgebrauch — Niedrigste Geheimhaltungsstufe; solche Informationen darfst du nicht weitergeben."
+            }
+          ]
+        },
+        {
+          "abbr": "WachBtl",
+          "id": "12.5-abbreviations-wachbtl",
+          "meaning": [
+            {
+              "text": "Wachbataillon beim BMVg — Verband für das protokollarische Zeremoniell, z. B. bei Staatsbesuchen, Gelöbnissen und dem Großen Zapfenstreich."
+            }
+          ]
+        },
+        {
+          "abbr": "WBK",
+          "id": "12.5-abbreviations-wbk",
+          "meaning": [
+            {
+              "text": "Waffenbesitzkarte — Erlaubnis zum Besitz erlaubnispflichtiger Schusswaffen und Munition."
+            }
+          ]
+        },
+        {
+          "abbr": "WBO",
+          "id": "12.5-abbreviations-wbo",
+          "meaning": [
+            {
+              "text": "Wehrbeschwerdeordnung — Regelt das Beschwerderecht der Soldat:innen."
+            }
+          ]
+        },
+        {
+          "abbr": "WDB",
+          "id": "12.5-abbreviations-wdb",
+          "meaning": [
+            {
+              "text": "Wehrdienstbeschädigung — Gesundheitliche Schädigung durch den Wehrdienst; kann Versorgungsansprüche auslösen – melde so etwas immer über deine Dienststelle."
+            }
+          ]
+        },
+        {
+          "abbr": "WDO",
+          "id": "12.5-abbreviations-wdo",
+          "meaning": [
+            {
+              "text": "Wehrdisziplinarordnung — Regelt Anerkennung besonderer Leistungen und Ahndung von Dienstvergehen."
+            }
+          ]
+        },
+        {
+          "abbr": "WPflG",
+          "id": "12.5-abbreviations-wpflg",
+          "meaning": [
+            {
+              "text": "Wehrpflichtgesetz — Gesetzliche Grundlage der Wehrpflicht; der verpflichtende Grundwehrdienst ist seit 2011 ausgesetzt (siehe Modul 6)."
+            }
+          ]
+        },
+        {
+          "abbr": "WSG",
+          "id": "12.5-abbreviations-wsg",
+          "meaning": [
+            {
+              "text": "Wehrsoldgesetz — Regelt Geld- und Sachbezüge für bestimmte Wehrdienstverhältnisse; was für dich gilt, hängt von deinem Status ab (siehe Modul 4)."
+            }
+          ]
+        },
+        {
+          "abbr": "WStG",
+          "id": "12.5-abbreviations-wstg",
+          "meaning": [
+            {
+              "text": "Wehrstrafgesetz — Strafrecht speziell für Soldat:innen, z. B. bei eigenmächtiger Abwesenheit oder Gehorsamsverweigerung (siehe Modul 6)."
+            }
+          ]
+        },
+        {
+          "abbr": "ZAW",
+          "id": "12.5-abbreviations-zaw",
+          "meaning": [
+            {
+              "text": "Zivilberufliche Aus- und Weiterbildung — Geförderte zivile Qualifizierung für Soldat:innen auf Zeit in bestimmten Verwendungen (siehe Modul 11)."
+            }
+          ]
+        },
+        {
+          "abbr": "ZDv",
+          "id": "12.5-abbreviations-zdv",
+          "meaning": [
+            {
+              "text": "Zentrale Dienstvorschrift — Verbindliche Vorschrift der Bundeswehr (das Vorschriftenwesen wurde teils modernisiert, z. B. „Allgemeine Regelung\"/„Zentralrichtlinie\")."
+            }
+          ]
+        },
+        {
           "abbr": "Zg",
           "id": "12.5-abbreviations-zg",
           "meaning": [
@@ -683,29 +1664,29 @@
           ]
         },
         {
-          "abbr": "Gru",
-          "id": "12.5-abbreviations-gru",
+          "abbr": "ZgFhr",
+          "id": "12.5-abbreviations-zgfhr",
           "meaning": [
             {
-              "text": "Gruppe — Kleinste Gliederungseinheit."
+              "text": "Zugführer:in — Führt einen Zug – meist Offizier oder erfahrene:r Feldwebel (siehe Modul 3)."
             }
           ]
         },
         {
-          "abbr": "DZE",
-          "id": "12.5-abbreviations-dze",
+          "abbr": "ZInFü",
+          "id": "12.5-abbreviations-zinfue",
           "meaning": [
             {
-              "text": "Dienstzeitende — Ende der Dienstzeit/des Wehrdienstverhältnisses."
+              "text": "Zentrum Innere Führung — Ausbildungs- und Kompetenzzentrum der Bundeswehr für Innere Führung (Koblenz)."
             }
           ]
         },
         {
-          "abbr": "DU",
-          "id": "12.5-abbreviations-du",
+          "abbr": "ZSanDstBw",
+          "id": "12.5-abbreviations-zsandstbw",
           "meaning": [
             {
-              "text": "Dienstunfähigkeit / Direktunterstützung — Mehrdeutig: meist „Dienstunfähigkeit\" (gesundheitlich, vorübergehend), in der Logistik auch „Direktunterstützung\". Welche Lesart gemeint ist, ergibt sich aus dem Zusammenhang – frag im Zweifel nach."
+              "text": "Zentraler Sanitätsdienst der Bundeswehr — Bislang eigener Organisationsbereich für die medizinische Versorgung; seit der Reform 2024/25 dem Unterstützungsbereich zugeordnet."
             }
           ]
         }
@@ -807,11 +1788,128 @@
         {
           "definition": [
             {
-              "text": "Dein dienstlicher Ausweis; u. a. nötig für Kasernenzutritt und kostenloses Bahnfahren in Uniform."
+              "text": "Sich auf Kommando geordnet in Formation aufstellen. Strukturiert den Tag – z. B. morgens zur Befehlsausgabe (siehe Modul 2)."
             }
           ],
-          "id": "12.7-glossary-truppenausweis",
-          "term": "Truppenausweis"
+          "id": "12.7-glossary-antreten",
+          "term": "Antreten"
+        },
+        {
+          "definition": [
+            {
+              "text": "Regelt, welcher Anzug (z. B. Feldanzug, Dienstanzug, Sportanzug) wann getragen wird. Was für den Tag gilt, erfährst du über Dienstplan und Befehlsausgabe (siehe Modul 10)."
+            }
+          ],
+          "id": "12.7-glossary-anzugordnung",
+          "term": "Anzugordnung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Das Verlassen der Kaserne in der dienstfreien Zeit. Ob und wann Ausgang möglich ist, regelt deine Einheit – gerade in der Grundausbildung kann er eingeschränkt sein (siehe Modul 9)."
+            }
+          ],
+          "id": "12.7-glossary-ausgang",
+          "term": "Ausgang"
+        },
+        {
+          "definition": [
+            {
+              "text": "Im Gesetz nur als Möglichkeit angelegt; könnte aktiviert werden, falls Bedarf nicht freiwillig gedeckt wird – aktuell keine allgemeine Wehrpflicht (Quelle: bundesregierung.de, Stand 2026)."
+            }
+          ],
+          "id": "12.7-glossary-bedarfswehrpflicht",
+          "term": "Bedarfswehrpflicht"
+        },
+        {
+          "definition": [
+            {
+              "text": "Anweisung einer/eines militärischen Vorgesetzten zu einem bestimmten Verhalten. Befehle sind grundsätzlich zu befolgen – mit klaren rechtlichen Grenzen (siehe Gehorsamspflicht und Modul 6)."
+            }
+          ],
+          "id": "12.7-glossary-befehl",
+          "term": "Befehl"
+        },
+        {
+          "definition": [
+            {
+              "text": "Regelmäßige Ansage (oft morgens oder am Vorabend), was ansteht: Zeiten, Anzug, Aufgaben, Besonderheiten. Zuhören und mitschreiben lohnt sich."
+            }
+          ],
+          "id": "12.7-glossary-befehlsausgabe",
+          "term": "Befehlsausgabe"
+        },
+        {
+          "definition": [
+            {
+              "text": "Zustand erhöhter Verfügbarkeit: Du musst kurzfristig dienst- bzw. einsatzbereit sein. Wann und wie, regelt deine Einheit."
+            }
+          ],
+          "id": "12.7-glossary-bereitschaft",
+          "term": "Bereitschaft"
+        },
+        {
+          "definition": [
+            {
+              "text": "Förmliches Rechtsmittel nach der Wehrbeschwerdeordnung (WBO), wenn du dich falsch behandelt fühlst. Daneben ist jederzeit eine Eingabe an die:den Wehrbeauftragte:n möglich – ohne Dienstweg (siehe Modul 6)."
+            }
+          ],
+          "id": "12.7-glossary-beschwerde",
+          "term": "Beschwerde"
+        },
+        {
+          "definition": [
+            {
+              "text": "Leben und Übernachten im Gelände während einer Übung – im Zelt oder unter freiem Himmel. Fester Bestandteil der Grundausbildung (siehe Modul 2)."
+            }
+          ],
+          "id": "12.7-glossary-biwak",
+          "term": "Biwak"
+        },
+        {
+          "definition": [
+            {
+              "text": "Eidesform für Soldat:innen auf Zeit und Berufssoldat:innen."
+            }
+          ],
+          "id": "12.7-glossary-diensteid",
+          "term": "Diensteid"
+        },
+        {
+          "definition": [
+            {
+              "text": "Zwei verschiedene Dinge: Der Dienstgrad ist dein Rang (z. B. Gefreiter), der Dienstposten die konkrete Funktion, auf der du eingesetzt bist (siehe Modul 3)."
+            }
+          ],
+          "id": "12.7-glossary-dienstgrad-und-dienstposten",
+          "term": "Dienstgrad und Dienstposten"
+        },
+        {
+          "definition": [
+            {
+              "text": "Legt fest, wann welcher Dienst stattfindet. Änderungen sind normal – maßgeblich ist die aktuelle Fassung bzw. die Befehlsausgabe."
+            }
+          ],
+          "id": "12.7-glossary-dienstplan",
+          "term": "Dienstplan"
+        },
+        {
+          "definition": [
+            {
+              "text": "Der vorgesehene Weg für Anliegen und Anträge: zuerst über die nächste Vorgesetztenebene. Gesetzliche Ausnahmen gibt es, z. B. die Eingabe an die:den Wehrbeauftragte:n (siehe Modul 6)."
+            }
+          ],
+          "id": "12.7-glossary-dienstweg",
+          "term": "Dienstweg"
+        },
+        {
+          "definition": [
+            {
+              "text": "Ahndung eines Dienstvergehens nach der Wehrdisziplinarordnung, z. B. Verweis, Ausgangsbeschränkung oder Disziplinarbuße. Dabei hast du Rechte, u. a. auf Anhörung und Rechtsmittel (siehe Modul 6)."
+            }
+          ],
+          "id": "12.7-glossary-disziplinarmassnahme",
+          "term": "Disziplinarmaßnahme"
         },
         {
           "definition": [
@@ -825,20 +1923,29 @@
         {
           "definition": [
             {
-              "text": "Von den Soldat:innen gewählte Interessenvertretung gegenüber den Vorgesetzten."
+              "text": "Das offizielle Dokument zu Beginn, Ort und Ablauf deines Dienstantritts. Lies es genau – was dort steht, ist verbindlich (siehe Modul 5)."
             }
           ],
-          "id": "12.7-glossary-vertrauensperson",
-          "term": "Vertrauensperson"
+          "id": "12.7-glossary-einberufungsbescheid-einberufungsschreiben",
+          "term": "Einberufungsbescheid / Einberufungsschreiben"
         },
         {
           "definition": [
             {
-              "text": "Leitbild der Bundeswehr vom „Staatsbürger in Uniform\"; bestimmt Werte und Umgang."
+              "text": "Die Ausgabe von Uniform und Ausrüstung („auf der Kammer“) in den ersten Tagen. Du quittierst, was du erhältst – und gibst es am Ende der Dienstzeit zurück (siehe Modul 1)."
             }
           ],
-          "id": "12.7-glossary-innere-fuehrung",
-          "term": "Innere Führung"
+          "id": "12.7-glossary-einkleidung",
+          "term": "Einkleidung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Metallmarke mit persönlicher Kennung, die bei bestimmten Anlässen (v. a. Übungen und Einsätze) getragen wird und im Notfall der Identifizierung dient."
+            }
+          ],
+          "id": "12.7-glossary-erkennungsmarke",
+          "term": "Erkennungsmarke"
         },
         {
           "definition": [
@@ -852,11 +1959,20 @@
         {
           "definition": [
             {
-              "text": "Eidesform für Soldat:innen auf Zeit und Berufssoldat:innen."
+              "text": "Der Tarnanzug ist dein Arbeitsanzug in Ausbildung und Einsatz. Als Gefechtsanzug bezeichnet man die Kombination mit der persönlichen Ausrüstung – Details regelt die Anzugordnung."
             }
           ],
-          "id": "12.7-glossary-diensteid",
-          "term": "Diensteid"
+          "id": "12.7-glossary-feldanzug-gefechtsanzug",
+          "term": "Feldanzug / Gefechtsanzug"
+        },
+        {
+          "definition": [
+            {
+              "text": "Die Militärpolizei der Bundeswehr: u. a. militärischer Ordnungsdienst, Verkehrsdienst und Ermittlungen."
+            }
+          ],
+          "id": "12.7-glossary-feldjaeger",
+          "term": "Feldjäger"
         },
         {
           "definition": [
@@ -879,11 +1995,227 @@
         {
           "definition": [
             {
+              "text": "Die Pflicht, Befehle gewissenhaft auszuführen (Soldatengesetz). Sie hat klare Grenzen: Befehle, die die Menschenwürde verletzen oder eine Straftat bedeuten würden, dürfen bzw. müssen nicht befolgt werden (siehe Modul 6)."
+            }
+          ],
+          "id": "12.7-glossary-gehorsamspflicht",
+          "term": "Gehorsamspflicht"
+        },
+        {
+          "definition": [
+            {
+              "text": "Das Wohnen in der Kaserne. Während der Grundausbildung ist das in der Regel verpflichtend (siehe Modul 10)."
+            }
+          ],
+          "id": "12.7-glossary-gemeinschaftsunterkunft",
+          "term": "Gemeinschaftsunterkunft"
+        },
+        {
+          "definition": [
+            {
+              "text": "Umgangssprachlicher Name der Vorschrift zum äußeren Erscheinungsbild (Haare, Bärte u. a.). Verbindlich ist die aktuelle Fassung – im Zweifel vor dem ersten Tag nachfragen (siehe Modul 10)."
+            }
+          ],
+          "id": "12.7-glossary-haar-und-barterlass",
+          "term": "Haar- und Barterlass"
+        },
+        {
+          "definition": [
+            {
               "text": "Unentgeltliche medizinische Versorgung durch den Sanitätsdienst der Bundeswehr."
             }
           ],
           "id": "12.7-glossary-heilfuersorge-truppenaerztliche-versorgung",
           "term": "Heilfürsorge / truppenärztliche Versorgung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Dienstbetrieb innerhalb der Unterkunft/Kaserne – Ordnung, Verwaltung, Ausbildung im Haus – im Unterschied zum Dienst im Gelände."
+            }
+          ],
+          "id": "12.7-glossary-innendienst",
+          "term": "Innendienst"
+        },
+        {
+          "definition": [
+            {
+              "text": "Leitbild der Bundeswehr vom „Staatsbürger in Uniform\"; bestimmt Werte und Umgang."
+            }
+          ],
+          "id": "12.7-glossary-innere-fuehrung",
+          "term": "Innere Führung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Im Soldatengesetz verankerte Pflicht: Zusammenhalt, gegenseitige Achtung und Hilfe – unabhängig von Dienstgrad und Herkunft (siehe Modul 6)."
+            }
+          ],
+          "id": "12.7-glossary-kameradschaft",
+          "term": "Kameradschaft"
+        },
+        {
+          "definition": [
+            {
+              "text": "Umfriedeter militärischer Sicherheitsbereich mit Unterkünften, Ausbildungs- und Versorgungseinrichtungen. Zutritt nur mit Berechtigung (z. B. Truppenausweis)."
+            }
+          ],
+          "id": "12.7-glossary-kaserne",
+          "term": "Kaserne"
+        },
+        {
+          "definition": [
+            {
+              "text": "Wenn du krank bist, meldest du dich nach dem Verfahren deiner Einheit krank – rechtzeitig und auf dem vorgegebenen Weg (siehe Modul 8)."
+            }
+          ],
+          "id": "12.7-glossary-krankmeldung",
+          "term": "Krankmeldung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Die drei großen Karriereschienen: Mannschaften, Unteroffiziere und Offiziere – mit jeweils eigenen Voraussetzungen und Dienstgraden (siehe Modul 3)."
+            }
+          ],
+          "id": "12.7-glossary-laufbahn-laufbahngruppen",
+          "term": "Laufbahn / Laufbahngruppen"
+        },
+        {
+          "definition": [
+            {
+              "text": "Geordnete Fortbewegung der Truppe – zu Fuß oder mit Fahrzeugen. Fußmärsche mit Gepäck gehören fest zur Grundausbildung (siehe Modul 2)."
+            }
+          ],
+          "id": "12.7-glossary-marsch",
+          "term": "Marsch"
+        },
+        {
+          "definition": [
+            {
+              "text": "Verpflegung zum Mitnehmen (z. B. Lunchpakete oder EPa), wenn die Truppenküche nicht erreichbar ist – etwa bei Übungen und Märschen."
+            }
+          ],
+          "id": "12.7-glossary-marschverpflegung",
+          "term": "Marschverpflegung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Formalisierte, knappe Mitteilung an Vorgesetzte nach festem Schema. Wie richtig gemeldet wird, lernst du in der Grundausbildung (siehe Modul 2)."
+            }
+          ],
+          "id": "12.7-glossary-meldung",
+          "term": "Meldung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Übliche Bezeichnung für Soldat:innen während der Grundausbildung."
+            }
+          ],
+          "id": "12.7-glossary-rekrut-in",
+          "term": "Rekrut:in"
+        },
+        {
+          "definition": [
+            {
+              "text": "Nach der aktiven Dienstzeit kannst du als Reservist:in weiter Dienst leisten. „Beordert“ bist du, wenn du fest auf einem Dienstposten der Reserve eingeplant bist (siehe Modul 11)."
+            }
+          ],
+          "id": "12.7-glossary-reservist-in-beorderung",
+          "term": "Reservist:in / Beorderung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Die medizinische Anlaufstelle in der Kaserne („Sanibereich“): Truppenarzt/-ärztin, Sprechstunde, Krankmeldung (siehe Modul 8)."
+            }
+          ],
+          "id": "12.7-glossary-sanitaetsbereich",
+          "term": "Sanitätsbereich"
+        },
+        {
+          "definition": [
+            {
+              "text": "Gesetzlich geregelte Überprüfung vor Verwendungen mit Zugang zu Verschlusssachen (in Stufen). Ohne abgeschlossene Überprüfung sind bestimmte Posten nicht möglich."
+            }
+          ],
+          "id": "12.7-glossary-sicherheitsueberpruefung",
+          "term": "Sicherheitsüberprüfung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Deine Geldbezüge. Wie sie heißen und wie sie sich zusammensetzen, hängt von deinem Status ab (siehe Modul 4)."
+            }
+          ],
+          "id": "12.7-glossary-sold-besoldung",
+          "term": "Sold / Besoldung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Dein abschließbarer Schrank auf der Stube für Uniform und persönliche Sachen. Ordnung im Spind wird kontrolliert – nach welchem Schema, sagt dir deine Einheit (siehe Modul 10)."
+            }
+          ],
+          "id": "12.7-glossary-spind",
+          "term": "Spind"
+        },
+        {
+          "definition": [
+            {
+              "text": "Ort mit Bundeswehr-Dienststellen. Viele Einrichtungen sind standortbezogen organisiert, z. B. der Standortübungsplatz."
+            }
+          ],
+          "id": "12.7-glossary-standort",
+          "term": "Standort"
+        },
+        {
+          "definition": [
+            {
+              "text": "Dein Mehrbettzimmer in der Unterkunft – Wohn- und Rückzugsort zugleich. Die Regeln dazu stehen in der Stubenordnung (siehe Modul 10)."
+            }
+          ],
+          "id": "12.7-glossary-stube",
+          "term": "Stube"
+        },
+        {
+          "definition": [
+            {
+              "text": "Ein:e Soldat:in der Stube, die/der als Ansprechperson benannt wird und auf Ordnung achtet. Die genaue Handhabung unterscheidet sich je Einheit."
+            }
+          ],
+          "id": "12.7-glossary-stubenaelteste-r",
+          "term": "Stubenälteste:r"
+        },
+        {
+          "definition": [
+            {
+              "text": "Kontrolle von Stube und Spind auf Ordnung und Sauberkeit – in der Grundausbildung regelmäßig (siehe Modul 10)."
+            }
+          ],
+          "id": "12.7-glossary-stubendurchgang-stubenappell",
+          "term": "Stubendurchgang („Stubenappell“)"
+        },
+        {
+          "definition": [
+            {
+              "text": "Vorgaben, wie Stube und Spind auszusehen haben (Ordnung, Sauberkeit, Sicherheit). Die konkrete Ausgestaltung regelt deine Einheit (siehe Modul 10)."
+            }
+          ],
+          "id": "12.7-glossary-stubenordnung",
+          "term": "Stubenordnung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Die regelmäßige tägliche Dienstzeit deiner Einheit. Grundlage der Arbeitszeitregeln ist die SAZV; Ausnahmen (z. B. Übung, Wache, Einsatz) sind möglich (siehe Modul 9)."
+            }
+          ],
+          "id": "12.7-glossary-tagesdienstzeit",
+          "term": "Tagesdienstzeit"
         },
         {
           "definition": [
@@ -897,11 +2229,92 @@
         {
           "definition": [
             {
-              "text": "Im Gesetz nur als Möglichkeit angelegt; könnte aktiviert werden, falls Bedarf nicht freiwillig gedeckt wird – aktuell keine allgemeine Wehrpflicht (Quelle: bundesregierung.de, Stand 2026)."
+              "text": "Dein dienstlicher Ausweis; u. a. nötig für Kasernenzutritt und kostenloses Bahnfahren in Uniform."
             }
           ],
-          "id": "12.7-glossary-bedarfswehrpflicht",
-          "term": "Bedarfswehrpflicht"
+          "id": "12.7-glossary-truppenausweis",
+          "term": "Truppenausweis"
+        },
+        {
+          "definition": [
+            {
+              "text": "Die Kantine der Kaserne mit Gemeinschaftsverpflegung. Zeiten und Abläufe erfährst du vor Ort."
+            }
+          ],
+          "id": "12.7-glossary-truppenkueche",
+          "term": "Truppenküche"
+        },
+        {
+          "definition": [
+            {
+              "text": "Großes, gesperrtes Übungsgelände für Schieß- und Gefechtsausbildung, oft mit mehrtägigen Aufenthalten. Nicht zu verwechseln mit dem kleineren Standortübungsplatz an der Kaserne."
+            }
+          ],
+          "id": "12.7-glossary-truppenuebungsplatz",
+          "term": "Truppenübungsplatz"
+        },
+        {
+          "definition": [
+            {
+              "text": "Erholungs- und Sonderurlaub sind in der Soldatinnen- und Soldatenurlaubsverordnung (SUV) geregelt; beantragt wird über den Dienstweg. In der Grundausbildung gelten oft Besonderheiten (siehe Modul 9)."
+            }
+          ],
+          "id": "12.7-glossary-urlaub",
+          "term": "Urlaub"
+        },
+        {
+          "definition": [
+            {
+              "text": "Die förmliche Verpflichtung der Wache vor Beginn des Wachdienstes – ab dann gelten die besonderen Rechte und Pflichten der Wache."
+            }
+          ],
+          "id": "12.7-glossary-vergatterung",
+          "term": "Vergatterung"
+        },
+        {
+          "definition": [
+            {
+              "text": "Von den Soldat:innen gewählte Interessenvertretung gegenüber den Vorgesetzten."
+            }
+          ],
+          "id": "12.7-glossary-vertrauensperson",
+          "term": "Vertrauensperson"
+        },
+        {
+          "definition": [
+            {
+              "text": "Wer wem Befehle erteilen darf, ist rechtlich genau geregelt (Vorgesetztenverordnung) – über Dienststellung, in bestimmten Fällen Dienstgrad oder besondere Anordnung (siehe Modul 3)."
+            }
+          ],
+          "id": "12.7-glossary-vorgesetzte-r",
+          "term": "Vorgesetzte:r"
+        },
+        {
+          "definition": [
+            {
+              "text": "Bewachung und Sicherung von Kasernen und Anlagen durch Soldat:innen – mit besonderen Befugnissen und Pflichten (u. a. nach dem UZwGBw). Vorher wirst du ausgebildet und vergattert (siehe Modul 10)."
+            }
+          ],
+          "id": "12.7-glossary-wachdienst",
+          "term": "Wachdienst"
+        },
+        {
+          "definition": [
+            {
+              "text": "Historisch das Signal zum Beginn der Nachtruhe. Der Große Zapfenstreich ist heute das feierlichste Zeremoniell der Bundeswehr – mit Fackeln, Militärmusik und festem Ablauf."
+            }
+          ],
+          "id": "12.7-glossary-zapfenstreich-grosser-zapfenstreich",
+          "term": "Zapfenstreich / Großer Zapfenstreich"
+        },
+        {
+          "definition": [
+            {
+              "text": "Klassische Form der zentralen Vorschriften der Bundeswehr. Das Vorschriftenwesen wurde modernisiert (u. a. „Allgemeine Regelungen“); viele bekannte Regeln stammen weiterhin aus ZDv."
+            }
+          ],
+          "id": "12.7-glossary-zentrale-dienstvorschrift-zdv",
+          "term": "Zentrale Dienstvorschrift (ZDv)"
         }
       ],
       "title": "Glossar der wichtigsten Begriffe",
@@ -1004,6 +2417,9 @@
     },
     {
       "label": "Konkrete Telefonnummern, Adressen und dienststellenspezifische Checklisten variieren je Einheit/Dienststelle; wir erfinden hier nichts, sondern verweisen offen auf deine Einheit, dein Einberufungsschreiben und die offiziellen Webseiten."
+    },
+    {
+      "label": "Erweiterung des Abkürzungs-Lexikons und des Glossars (2026-07): ergänzt auf Basis öffentlich dokumentierter Bezeichnungen – bundeswehr.de (Organisation, Dienstgrade, Truppengattungen, Ämter), gesetze-im-internet.de (u. a. SG, WStG, WDO, WBO, SBG, SUV, SAZV, SLV, SVG, USG, WSG, BBesG, ArbPlSchG, WPflG) und Wikipedia „Liste militärischer Abkürzungen“; abgerufen 2026-07. Nicht zuverlässig belegbare Abkürzungen und Begriffe wurden bewusst weggelassen."
     }
   ],
   "title": "Praktisches, Orga & Nachschlagewerk",

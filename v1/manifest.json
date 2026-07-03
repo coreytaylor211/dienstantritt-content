@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026.07.04",
+  "contentVersion": "2026.07.05",
   "generatedAt": "2026-07-03T00:00:00Z",
   "keyId": "k1",
   "modules": [
@@ -103,8 +103,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 31562,
-      "checksum": "sha256:ae6231743e721862cb80242f51ce9a9847d9b6b0b8e1af3c851f10aeb151fd6f",
+      "bytes": 80094,
+      "checksum": "sha256:b7388f84e429b8d46bbf2d8777366c6fe7915400cb8d1077c765be8aa30d2573",
       "file": "modules/module-12.json",
       "id": 12,
       "title": "Praktisches, Orga & Nachschlagewerk",
