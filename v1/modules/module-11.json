@@ -10,7 +10,7 @@
         {
           "spans": [
             {
-              "text": "Die Grundausbildung hat ein klares Ende — dein Dienst geht danach aber erst richtig los. Dieses Modul zeigt dir, was kommt: die Versetzung in deine Stammeinheit, die Ausbildung für deinen eigentlichen Dienstposten, die Wege vom freiwilligen Wehrdienst in eine längere Verpflichtung — und der geordnete Ausstieg, wenn du gehen willst."
+              "text": "Die Heimatschutzausbildung hat ein klares Ende — dein Dienst geht danach aber erst richtig los. Dieses Modul zeigt dir, was kommt: mögliche Fortgeschrittenenausbildung im Heimatschutz, die Versetzung in deine Stammeinheit, die Ausbildung für deinen eigentlichen Dienstposten, die Wege vom freiwilligen Wehrdienst in eine längere Verpflichtung — und der geordnete Ausstieg, wenn du gehen willst."
             }
           ],
           "type": "paragraph"
@@ -34,14 +34,14 @@
         {
           "spans": [
             {
-              "text": "Nach der Grundausbildung wirst du in der Regel in deine "
+              "text": "Nach der Heimatschutzausbildung folgt für viele zunächst die Fortgeschrittenenausbildung im Heimatschutz; wann du in deine "
             },
             {
               "bold": true,
               "text": "Stammeinheit"
             },
             {
-              "text": " versetzt — die Einheit, in der du deinen eigentlichen Dienst leistest. Das kann am selben Standort sein oder ein Umzug quer durchs Land; das hängt von deiner Verwendung und der Personalplanung ab, nicht von deinem Wunschzettel allein. Wohin es geht, erfährst du verbindlich von deiner Einheit bzw. deiner personalführenden Stelle."
+              "text": " wechselst, hängt von Ausbildungsweg und Verwendung ab. Die Stammeinheit ist die Einheit, in der du deinen eigentlichen Dienst leistest. Das kann am selben Standort sein oder ein Umzug quer durchs Land; das hängt von deiner Verwendung und der Personalplanung ab, nicht von deinem Wunschzettel allein. Den verbindlichen Ablauf erfährst du von deiner Einheit bzw. personalführenden Stelle."
             }
           ],
           "type": "paragraph"
@@ -64,7 +64,7 @@
         {
           "spans": [
             {
-              "text": "Praktisch heißt die Versetzung: neue Vorgesetzte, neue Abläufe, oft neue Stube. Vieles aus der Grundausbildung gilt weiter (Anrede und Dienstgrade: Modul 3), aber der Alltag wird meist normaler — weniger Formaldienst, mehr echter Job."
+              "text": "Praktisch heißt die Versetzung: neue Vorgesetzte, neue Abläufe, oft neue Stube. Vieles aus der Heimatschutzausbildung gilt weiter (Anrede und Dienstgrade: Modul 3), aber der Alltag wird meist normaler — weniger Formaldienst, mehr echter Job."
             }
           ],
           "type": "paragraph"
@@ -196,6 +196,21 @@
           ],
           "ordered": false,
           "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Ein Wechsel nach oben ist möglich — der "
+            },
+            {
+              "bold": true,
+              "text": "Laufbahnwechsel"
+            },
+            {
+              "text": " ist ein normaler Weg, kein Ausnahmefall. Voraussetzung sind in der Regel Eignung, Bewertungen, Lehrgänge und freie Stellen. Für Mannschaften nennt § 11 der Soldatenlaufbahnverordnung konkrete Mindestdienstzeiten, ab denen eine Beförderung zulässig ist; sie begründen keine automatische Beförderung. Den Überblick findest du in Modul 3, die verbindliche Einordnung deines Falls bei der personalführenden Stelle."
+            }
+          ],
+          "type": "paragraph"
         }
       ],
       "id": "11.4",
@@ -231,6 +246,15 @@
               },
               {
                 "text": " Manche militärische Qualifikationen haben zivile Entsprechungen oder lassen sich anerkennen (z. B. im Fahr-, Sanitäts- oder Technikbereich). Das variiert stark je nach Bereich — kläre es konkret für deine Verwendung."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Berufsförderungsdienst (BFD):"
+              },
+              {
+                "text": " Der BFD unterstützt SaZ und in geringerem Umfang auch FWDL bei Bildung und Übergang ins zivile Berufsleben. Welche Beratung, Maßnahme oder Kostenübernahme dir konkret offensteht, hängt unter anderem von Status, Wehrdienstzeit, Förderplan und anwendbarem Recht ab. Leite deshalb aus einer allgemeinen Übersicht keinen festen Anspruch ab, sondern lass ihn früh direkt vom BFD feststellen."
               }
             ],
             [
@@ -326,7 +350,7 @@
                 "text": "nach"
               },
               {
-                "text": " der Grundausbildung — nicht in Woche 2, sondern in Monat 4?"
+                "text": " der Heimatschutzausbildung — nicht in Woche 2, sondern in Monat 4?"
               }
             ],
             [
@@ -372,19 +396,25 @@
       "label": "Bundeswehr: Karriere-Themenseiten zu Laufbahnen (Mannschaften, Unteroffiziere, Offiziere) und zum Karrierecenter (bundeswehr.de), abgerufen 2026."
     },
     {
-      "label": "gesetze-im-internet.de: Soldatenlaufbahnverordnung (SLV) — Laufbahnen und Beförderungsvoraussetzungen; konkrete Fristen im Modul bewusst als [PRÜFEN] markiert."
+      "label": "Bundeswehr: „Heimatschutzausbildung bei der Bundeswehr: die neue Grundausbildung\", veröffentlicht 11.08.2026 — für viele anschließend 200 Stunden Fortgeschrittenenausbildung",
+      "url": "https://www.bundeswehr.de/de/menschen-karrieren/grundausbildung-bundeswehr"
+    },
+    {
+      "label": "Soldatenlaufbahnverordnung § 11 — Mindestdienstzeiten für Beförderungen der Mannschaften",
+      "url": "https://www.gesetze-im-internet.de/slv_2021/__11.html"
     },
     {
       "label": "gesetze-im-internet.de: Soldatenversorgungsgesetz (SVG) — gesetzliche Grundlage der Berufsförderung (BFD); keine Rechtsberatung."
     },
     {
-      "label": "Bundeswehr: Themenseite Reserve/Reservistendienst (bundeswehr.de), abgerufen 2026."
+      "label": "Bundeswehr: Berufsförderungsdienst (Statusabhängigkeit der Leistungen):  Themenseite Reserve/Reservistendienst (bundeswehr.de), abgerufen 2026.",
+      "url": "https://www.bundeswehr.de/de/menschen-karrieren/der-berufsfoerderungsdienst-der-bundeswehr-bfd;"
     },
     {
       "label": "Wo Abläufe je Einheit, Verwendung und Standort variieren (Versetzung, Dienstpostenausbildung, Übernahmechancen), sagen wir das offen — verbindlich sind deine Einheit und deine personalführende Stelle."
     }
   ],
-  "title": "Nach der Grundausbildung — wie es weitergeht",
+  "title": "Nach der Heimatschutzausbildung — wie es weitergeht",
   "updateNeed": "mittel",
   "version": "1.0.0"
 }

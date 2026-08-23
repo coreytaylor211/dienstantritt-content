@@ -18,7 +18,7 @@
         {
           "spans": [
             {
-              "text": "Dieses Modul erklärt dir die Grundzüge: wie viel Erholungsurlaub dir zusteht, wie du ihn beantragst, was die Soldatenarbeitszeitverordnung regelt, wie du deinen Dienstplan liest und was in der Grundausbildung an Ausgang und Wochenenden realistisch ist."
+              "text": "Dieses Modul erklärt dir die Grundzüge: wie viel Erholungsurlaub dir zusteht, wie du ihn beantragst, was die Soldatenarbeitszeitverordnung regelt, wie du deinen Dienstplan liest und was in der Heimatschutzausbildung an Ausgang und Wochenenden realistisch ist."
             }
           ],
           "type": "paragraph"
@@ -95,6 +95,15 @@
               {
                 "text": " — nicht die vollen 30 Tage. Wie viele Tage dir konkret zustehen, rechnet dir deine personalbearbeitende Stelle aus."
               }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Resturlaub:"
+              },
+              {
+                "text": " Für nicht genommenen Urlaub gelten Übertragungs- und Fristenregeln aus dem jeweils anwendbaren Urlaubsrecht. Welche Frist in deinem Fall läuft, hängt unter anderem von Status und Urlaubsjahr ab. Lass dir Reststand und spätesten Nutzungszeitpunkt rechtzeitig von der personalbearbeitenden Stelle bestätigen, statt den Urlaub auf unbestimmte Zeit zu verschieben."
+              }
             ]
           ],
           "ordered": false,
@@ -155,7 +164,7 @@
             [
               {
                 "bold": true,
-                "text": "In der Grundausbildung"
+                "text": "In der Heimatschutzausbildung"
               },
               {
                 "text": " ist Erholungsurlaub oft gesperrt oder stark eingeschränkt, damit alle die Ausbildung durchgehend mitmachen. Ob und wie — das variiert je Dienststelle; verbindlich ist deine Einheit."
@@ -176,6 +185,28 @@
         {
           "spans": [
             {
+              "text": "Die "
+            },
+            {
+              "bold": true,
+              "text": "Soldatenarbeitszeitverordnung (SAZV)"
+            },
+            {
+              "text": " regelt die Arbeitszeit für Soldat:innen. Bei Vollzeit beträgt die regelmäßige wöchentliche Arbeitszeit grundsätzlich "
+            },
+            {
+              "bold": true,
+              "text": "41 Stunden"
+            },
+            {
+              "text": "; § 5 SAZV nennt begrenzte Möglichkeiten einer Verkürzung und legt zusätzlich eine durchschnittliche Höchstarbeitszeit fest. Das bedeutet nicht, dass jede Woche oder jeder Tag gleich aussieht."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
               "text": "Aber: Die SAZV kennt "
             },
             {
@@ -183,13 +214,36 @@
               "text": "Ausnahmen"
             },
             {
-              "text": ". Bei Übungen, Wachdienst, Einsätzen und vergleichbaren Tätigkeiten gelten Sonderregeln — dann kann der Dienst deutlich länger dauern, auch nachts und am Wochenende. In der Grundausbildung wirst du beides erleben: normale Dienstwochen und einzelne Phasen (Übungsplatz, Wache), in denen die reguläre Zählung ausgesetzt ist."
+              "text": ". Bei Übungen, Wachdienst, Einsätzen und vergleichbaren Tätigkeiten gelten Sonderregeln — dann kann der Dienst deutlich länger dauern, auch nachts und am Wochenende. In der Heimatschutzausbildung wirst du beides erleben: normale Dienstwochen und einzelne Phasen (Übungsplatz, Wache), in denen die reguläre Zählung ausgesetzt ist."
             }
           ],
           "type": "paragraph"
         }
       ],
       "id": "9.4",
+      "subsections": [
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Rechtliche "
+                },
+                {
+                  "bold": true,
+                  "text": "Mehrarbeit"
+                },
+                {
+                  "text": " ist nicht einfach jede gefühlt lange Dienstzeit, sondern muss angeordnet, befohlen oder genehmigt sein. Sie wird gesondert erfasst und grundsätzlich durch Dienstbefreiung ausgeglichen — möglichst belastungsnah, spätestens innerhalb von zwölf Monaten. Nur wenn zwingende dienstliche Gründe dem entgegenstehen, kann nach den besoldungsrechtlichen Regeln ein finanzieller Ausgleich in Betracht kommen (§ 15 SAZV). Wie die Erfassung praktisch läuft (Listen, Software, wer einträgt), ist je Einheit verschieden — frag früh nach, wie es bei euch dokumentiert wird."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "9.4.1",
+          "title": "Mehrarbeit & Freizeitausgleich"
+        }
+      ],
       "title": "Arbeitszeit: die SAZV als Rahmen",
       "type": "text"
     },
@@ -259,12 +313,12 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Ausgang & Freizeit in der Grundausbildung",
+      "anchorSearchTitle": "Ausgang & Freizeit in der Heimatschutzausbildung",
       "blocks": [
         {
           "spans": [
             {
-              "text": "Nach Dienstschluss beginnt grundsätzlich deine Freizeit. In der Grundausbildung gibt es dafür aber Regeln: "
+              "text": "Nach Dienstschluss beginnt grundsätzlich deine Freizeit. In der Heimatschutzausbildung gibt es dafür aber Regeln: "
             },
             {
               "bold": true,
@@ -279,7 +333,7 @@
         {
           "spans": [
             {
-              "text": "Rechne realistisch: Ein Teil der „Freizeit\" geht in der Grundausbildung für Vorbereitung drauf — Stiefel, Wäsche, Spind, Lernen für den nächsten Tag. Plane auch Schlaf bewusst ein; müde Rekrut:innen machen mehr Fehler."
+              "text": "Rechne realistisch: Ein Teil der „Freizeit\" geht in der Heimatschutzausbildung für Vorbereitung drauf — Stiefel, Wäsche, Spind, Lernen für den nächsten Tag. Plane auch Schlaf bewusst ein; müde Rekrut:innen machen mehr Fehler."
             }
           ],
           "type": "paragraph"
@@ -301,7 +355,37 @@
         }
       ],
       "id": "9.6",
-      "title": "Ausgang & Freizeit in der Grundausbildung",
+      "title": "Ausgang & Freizeit in der Heimatschutzausbildung",
+      "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Sonderurlaub: wenn im Leben etwas passiert",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Neben dem Erholungsurlaub gibt es "
+            },
+            {
+              "bold": true,
+              "text": "Sonderurlaub"
+            },
+            {
+              "text": ". Die SUV verweist dafür grundsätzlich auf die Regeln für Bundesbeamt:innen; ob ein Anlass erfasst ist, ob Bezüge fortgezahlt werden und wie viele Tage möglich sind, richtet sich nach der konkreten Vorschrift und deinem Fall. Wenn zu Hause etwas Gravierendes passiert, melde dich "
+            },
+            {
+              "bold": true,
+              "text": "sofort"
+            },
+            {
+              "text": " bei deinen Vorgesetzten und schildere die Lage, ohne dir selbst eine bestimmte Zahl freier Tage zu versprechen. Weitere Ansprechstellen findest du in Modul 12."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "9.7",
+      "title": "Sonderurlaub: wenn im Leben etwas passiert",
       "type": "text"
     },
     {
@@ -338,16 +422,18 @@
   ],
   "sources": [
     {
-      "label": "gesetze-im-internet.de: Soldatinnen- und Soldatenurlaubsverordnung (SUV) in Verbindung mit der Erholungsurlaubsverordnung (EUrlV) — Erholungsurlaub 30 Arbeitstage bei Fünf-Tage-Woche, anteiliger Anspruch, Sonderurlaub; siehe auch Modul 13."
+      "label": "Amtliches Urlaubsrecht: Soldatinnen- und Soldatenurlaubsverordnung  in Verbindung mit der Erholungsurlaubsverordnung https://www.gesetze-im-internet.de/burlv/ und, für Sonderurlaub über § 9 SUV, der Sonderurlaubsverordnung https://www.gesetze-im-internet.de/surlv_2016/ — siehe auch Modul 13.",
+      "url": "https://www.gesetze-im-internet.de/soldurlv/"
     },
     {
-      "label": "gesetze-im-internet.de: Soldatenarbeitszeitverordnung (SAZV) — Rahmen der Wochenarbeitszeit, Ausnahmen bei Übungen, Wache und Einsatz, Ausgleich von Mehrdienst."
+      "label": "Soldatenarbeitszeitverordnung: § 5 (regelmäßig 41 Wochenstunden)  und § 15 (Mehrarbeit/Ausgleich) https://www.gesetze-im-internet.de/sazv/__15.html",
+      "url": "https://www.gesetze-im-internet.de/sazv/__5.html"
     },
     {
       "label": "Bundeswehr (bundeswehr.de): Themenseiten zum Dienstalltag und „Neuer Wehrdienst\", abgerufen 2026 — allgemeine Beschreibung von Dienstbetrieb und Urlaub."
     },
     {
-      "label": "Wo Regeln je Einheit/Standort variieren (Urlaubssperren in der Grundausbildung, Ausgangsregelungen, Erfassung von Mehrarbeit, Feiertagsdienste), sagen wir das offen statt zu schätzen — verbindlich ist deine Einheit."
+      "label": "Wo Regeln je Einheit/Standort variieren (Urlaubssperren in der Heimatschutzausbildung, Ausgangsregelungen, Erfassung von Mehrarbeit, Feiertagsdienste), sagen wir das offen statt zu schätzen — verbindlich ist deine Einheit."
     }
   ],
   "title": "Urlaub, Arbeitszeit & Freizeit",

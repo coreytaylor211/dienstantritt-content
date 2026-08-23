@@ -248,6 +248,14 @@
           ],
           "ordered": false,
           "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Dazu kommt das Thema Sicherheit: Hinweise zum Tragen der Uniform in Bahn und Öffentlichkeit können sich mit der Lage ändern. Maßgeblich sind die aktuellen Belehrungen und Anordnungen deiner Einheit. Auch die Berechtigung zum kostenlosen Bahnfahren in Uniform ersetzt keine Sicherheitsvorgabe — halte dich an die aktuelle Ansage, selbst wenn ältere Tipps oder Erfahrungen aus dem Netz etwas anderes sagen."
+            }
+          ],
+          "type": "paragraph"
         }
       ],
       "id": "10.5",
@@ -420,13 +428,16 @@
   ],
   "sources": [
     {
-      "label": "gesetze-im-internet.de: Soldatengesetz (SG) — § 14 (Verschwiegenheit), § 15 (politische Betätigung, Uniformverbot bei politischen Veranstaltungen), § 17 (Verhalten im und außer Dienst); keine Rechtsberatung."
+      "label": "Soldatengesetz: § 14 Verschwiegenheit  § 15 politische Betätigung https://www.gesetze-im-internet.de/sg/__15.html und § 17 Verhalten im und außer Dienst https://www.gesetze-im-internet.de/sg/__17.html; keine Rechtsberatung.",
+      "url": "https://www.gesetze-im-internet.de/sg/__14.html"
     },
     {
-      "label": "gesetze-im-internet.de: UZwGBw — Befugnisse von Wachen in militärischen Sicherheitsbereichen der Bundeswehr."
+      "label": "UZwGBw — Befugnisse von Wachen in militärischen Sicherheitsbereichen",
+      "url": "https://www.gesetze-im-internet.de/uzwbwg/"
     },
     {
-      "label": "Bundeswehr: „Grundausbildung\" (bundeswehr.de), abgerufen 2026 — Ausbildungsinhalte, u. a. Wachausbildung."
+      "label": "Bundeswehr: „Heimatschutzausbildung bei der Bundeswehr: die neue Grundausbildung\", veröffentlicht 11.08.2026 — Ausbildungsinhalte, u. a. Wachausbildung",
+      "url": "https://www.bundeswehr.de/de/menschen-karrieren/grundausbildung-bundeswehr"
     },
     {
       "label": "Wo Regeln je Einheit/Standort variieren (Besuch, Stubenordnung, Handy- und Fotoregeln, Alkohol/Rauchen in der Unterkunft, aktuelle Uniform-Empfehlungen), sagen wir das offen — verbindlich sind deine Einheit und ihre Belehrungen."

@@ -10,7 +10,7 @@
         {
           "spans": [
             {
-              "text": "Wie viel Geld bekommst du, und was ist gratis? Dieses Modul erklärt den Unterschied zwischen FWDL und SaZ, zeigt die amtlichen Tabellen und sagt dir, was gestellt wird und was du selbst zahlst."
+              "text": "Wie viel Geld bekommst du, und welche Leistungen werden gestellt oder günstig angeboten? Dieses Modul erklärt den Unterschied zwischen FWDL und SaZ, zeigt die amtlichen Tabellen und sagt dir, was gestellt wird und was du selbst zahlst."
             }
           ],
           "type": "paragraph"
@@ -1184,7 +1184,7 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Was kostenlos ist (Sachleistungen)",
+      "anchorSearchTitle": "Was gestellt oder günstig angeboten wird",
       "blocks": [
         {
           "spans": [
@@ -1222,17 +1222,17 @@
             [
               [
                 {
-                  "text": "Freie Verpflegung"
+                  "text": "Gemeinschaftsverpflegung"
                 }
               ],
               [
                 {
-                  "text": "unentgeltlich, dreimal täglich; Wert ≈ 10 €/Tag; Sachbezugswert 345 €/Monat (11,51 €/Tag)"
+                  "text": "dreimal täglich angeboten; für die Rundum-Verpflegung insgesamt etwa 10 €/Tag, nicht pauschal kostenlos"
                 }
               ],
               [
                 {
-                  "text": "bundeswehr.de; SvEV 2026 (gültig 01.01.2026)"
+                  "text": "bundeswehr.de „Neuer Wehrdienst\""
                 }
               ]
             ],
@@ -1301,14 +1301,14 @@
         {
           "spans": [
             {
-              "text": "Die freie Verpflegung gilt als Sachbezug und kann auf deinen Bezügen erscheinen – wie genau, klärt deine Bezügestelle."
+              "text": "Plane für die Gemeinschaftsverpflegung ungefähr 10 € pro Tag ein. Welcher Betrag in deinem konkreten Fall abgerechnet wird und ob bei einer angeordneten Teilnahme eine Sonderregel greift, klärst du mit Truppenküche bzw. zuständiger Verwaltungs- oder Bezügestelle."
             }
           ],
           "type": "paragraph"
         }
       ],
       "id": "4.6",
-      "title": "Was kostenlos ist (Sachleistungen)",
+      "title": "Was gestellt oder günstig angeboten wird",
       "type": "text"
     },
     {
@@ -1645,13 +1645,17 @@
       "label": "bundeswehr.de „Neuer Wehrdienst\" (19.12.2025), „Gehalt in der Bundeswehr\" (20.02.2025), „Führerschein: Zuschuss\", „Freie Bahnfahrt\"; bahn.de „Bundeswehr – Fragen & Antworten\"; abgerufen 2026-06-01."
     },
     {
+      "label": "Bundeswehr: „Neuer Wehrdienst\" — kostenfreie Unterkunft und Gemeinschaftsverpflegung für insgesamt etwa 10 €/Tag",
+      "url": "https://www.bundeswehr.de/de/menschen-karrieren/neuer-wehrdienst"
+    },
+    {
       "label": "§ 3 AuslVZV (AVZ-Tagessätze, sechs Stufen 54–153 €); § 5 BRKG / TGV i. V. m. BRKG (Reisebeihilfe Heimfahrten je 14 Tage, 0,20 €/km max. 130 €, BVA); § 3 Abs. 4 BBesG (Bezüge monatlich im Voraus); abgerufen 2026-06-02."
     },
     {
       "label": "Wo eine amtliche Erhöhung noch aussteht (Besoldungsanpassung 2025/2026 +3,0 %/+2,8 %, erst nach BGBl-Verkündung) oder Inhalte sich seriös nicht beziffern lassen (Amtszulagen-Beträge, Netto-Beträge), sagen wir das offen statt zu schätzen – maßgeblich ist deine Bezügeabrechnung."
     }
   ],
-  "title": "Geld – Sold, Bezahlung & was frei ist",
+  "title": "Geld – Sold, Bezahlung & was gestellt ist",
   "updateNeed": "hoch",
   "version": "1.0.0"
 }

@@ -380,7 +380,7 @@
           "id": "12.5-abbreviations-aga",
           "meaning": [
             {
-              "text": "Allgemeine Grundausbildung — Frühere (bis Ende 2011) Bezeichnung der Grundausbildung; umgangssprachlich weiter gebräuchlich (siehe Modul 2)."
+              "text": "Allgemeine Grundausbildung — Historische und weiterhin umgangssprachliche Bezeichnung. Die Bundeswehr nennt den militärischen Einstieg seit 2026 Heimatschutzausbildung (siehe Modul 2)."
             }
           ]
         },
@@ -722,7 +722,7 @@
           "id": "12.5-abbreviations-ga",
           "meaning": [
             {
-              "text": "Grundausbildung — Erste rund drei Monate der militärischen Ausbildung; vermittelt soldatische Grundfertigkeiten (siehe Modul 2). Bis Ende 2011 „AGA\"."
+              "text": "Grundausbildung — Frühere Bezeichnung des militärischen Einstiegs; seit 2026 offiziell Heimatschutzausbildung: drei Monate mit 500 Ausbildungsstunden, im Heer Teil der Basisausbildung (siehe Modul 2)."
             }
           ]
         },
@@ -803,7 +803,7 @@
           "id": "12.5-abbreviations-grpfhr",
           "meaning": [
             {
-              "text": "Gruppenführer:in — Führt eine Gruppe; in der Grundausbildung oft deine direkteste Führungsperson (siehe Modul 3)."
+              "text": "Gruppenführer:in — Führt eine Gruppe; in der Heimatschutzausbildung oft deine direkteste Führungsperson (siehe Modul 3)."
             }
           ]
         },
@@ -992,7 +992,7 @@
           "id": "12.5-abbreviations-kp",
           "meaning": [
             {
-              "text": "Kompanie — Truppeneinheit aus mehreren Zügen; deine „Heimat\" in der Grundausbildung."
+              "text": "Kompanie — Truppeneinheit aus mehreren Zügen; deine „Heimat\" in der Heimatschutzausbildung."
             }
           ]
         },
@@ -1764,13 +1764,13 @@
               "text": "Geländeübung mit Übernachtung im Feld (scherzhaft aufgelöst als „Bundeswehr im Wald außer Kontrolle\")."
             }
           ],
-          "id": "12.6-slang-biwak-biwak",
-          "term": "Biwak\" / „BiWaK"
+          "id": "12.6-slang-biwak",
+          "term": "Biwak"
         },
         {
           "explanation": [
             {
-              "text": "spöttische Verdrehung von „AGA\" für die Grundausbildung."
+              "text": "historischer, spöttischer Ausdruck zur früheren Bezeichnung „AGA\"."
             }
           ],
           "id": "12.6-slang-gaga",
@@ -1805,7 +1805,7 @@
         {
           "definition": [
             {
-              "text": "Das Verlassen der Kaserne in der dienstfreien Zeit. Ob und wann Ausgang möglich ist, regelt deine Einheit – gerade in der Grundausbildung kann er eingeschränkt sein (siehe Modul 9)."
+              "text": "Das Verlassen der Kaserne in der dienstfreien Zeit. Ob und wann Ausgang möglich ist, regelt deine Einheit – gerade in der Heimatschutzausbildung kann er eingeschränkt sein (siehe Modul 9)."
             }
           ],
           "id": "12.7-glossary-ausgang",
@@ -1859,7 +1859,7 @@
         {
           "definition": [
             {
-              "text": "Leben und Übernachten im Gelände während einer Übung – im Zelt oder unter freiem Himmel. Fester Bestandteil der Grundausbildung (siehe Modul 2)."
+              "text": "Leben und Übernachten im Gelände während einer Übung – im Zelt oder unter freiem Himmel. Bestandteil der Heimatschutzausbildung (siehe Modul 2)."
             }
           ],
           "id": "12.7-glossary-biwak",
@@ -1949,7 +1949,7 @@
         {
           "definition": [
             {
-              "text": "Feierliches Versprechen der Wehrdienstleistenden, oft Höhepunkt der Grundausbildung."
+              "text": "Feierliches Versprechen der Wehrdienstleistenden, oft Höhepunkt der Heimatschutzausbildung."
             }
           ],
           "id": "12.7-glossary-feierliches-geloebnis",
@@ -2003,7 +2003,7 @@
         {
           "definition": [
             {
-              "text": "Das Wohnen in der Kaserne. Während der Grundausbildung ist das in der Regel verpflichtend (siehe Modul 10)."
+              "text": "Das Wohnen in der Kaserne. Während der Heimatschutzausbildung ist das in der Regel verpflichtend (siehe Modul 10)."
             }
           ],
           "id": "12.7-glossary-gemeinschaftsunterkunft",
@@ -2084,7 +2084,7 @@
         {
           "definition": [
             {
-              "text": "Geordnete Fortbewegung der Truppe – zu Fuß oder mit Fahrzeugen. Fußmärsche mit Gepäck gehören fest zur Grundausbildung (siehe Modul 2)."
+              "text": "Geordnete Fortbewegung der Truppe – zu Fuß oder mit Fahrzeugen. Fußmärsche mit Gepäck gehören zur Heimatschutzausbildung (siehe Modul 2)."
             }
           ],
           "id": "12.7-glossary-marsch",
@@ -2102,7 +2102,7 @@
         {
           "definition": [
             {
-              "text": "Formalisierte, knappe Mitteilung an Vorgesetzte nach festem Schema. Wie richtig gemeldet wird, lernst du in der Grundausbildung (siehe Modul 2)."
+              "text": "Knappe, wahrheitsgemäße dienstliche Mitteilung. Das für deine Situation vorgesehene Schema lernst du in der Heimatschutzausbildung (siehe Modul 2)."
             }
           ],
           "id": "12.7-glossary-meldung",
@@ -2111,7 +2111,7 @@
         {
           "definition": [
             {
-              "text": "Übliche Bezeichnung für Soldat:innen während der Grundausbildung."
+              "text": "Übliche Bezeichnung für Soldat:innen während der Heimatschutzausbildung."
             }
           ],
           "id": "12.7-glossary-rekrut-in",
@@ -2192,7 +2192,7 @@
         {
           "definition": [
             {
-              "text": "Kontrolle von Stube und Spind auf Ordnung und Sauberkeit – in der Grundausbildung regelmäßig (siehe Modul 10)."
+              "text": "Kontrolle von Stube und Spind auf Ordnung und Sauberkeit – in der Heimatschutzausbildung regelmäßig (siehe Modul 10)."
             }
           ],
           "id": "12.7-glossary-stubendurchgang-stubenappell",
@@ -2255,7 +2255,7 @@
         {
           "definition": [
             {
-              "text": "Erholungs- und Sonderurlaub sind in der Soldatinnen- und Soldatenurlaubsverordnung (SUV) geregelt; beantragt wird über den Dienstweg. In der Grundausbildung gelten oft Besonderheiten (siehe Modul 9)."
+              "text": "Erholungs- und Sonderurlaub sind in der Soldatinnen- und Soldatenurlaubsverordnung (SUV) geregelt; beantragt wird über den Dienstweg. In der Heimatschutzausbildung gelten oft Besonderheiten (siehe Modul 9)."
             }
           ],
           "id": "12.7-glossary-urlaub",
@@ -2390,6 +2390,374 @@
       "id": "12.8",
       "title": "Hinweis auf Notfall-/Kontaktstellen",
       "type": "text"
+    },
+    {
+      "anchorSearchTitle": "NATO-Buchstabieralphabet A–Z",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Das NATO-Buchstabieralphabet ordnet jedem Buchstaben ein international festgelegtes Codewort zu. Es hilft, Buchstaben bei Lärm, schlechter Verbindung oder unterschiedlicher Aussprache eindeutig zu übermitteln. In der Heimatschutzausbildung gehört es zum Lernstoff; konkrete Sprechfunkverfahren und dienstliche Kennungen lernst du ausschließlich in deiner Einheit."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "columns": [
+            "Buchstabe",
+            "Codewort"
+          ],
+          "rows": [
+            [
+              [
+                {
+                  "text": "A"
+                }
+              ],
+              [
+                {
+                  "text": "Alfa"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "B"
+                }
+              ],
+              [
+                {
+                  "text": "Bravo"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "C"
+                }
+              ],
+              [
+                {
+                  "text": "Charlie"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "D"
+                }
+              ],
+              [
+                {
+                  "text": "Delta"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "E"
+                }
+              ],
+              [
+                {
+                  "text": "Echo"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "F"
+                }
+              ],
+              [
+                {
+                  "text": "Foxtrot"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "G"
+                }
+              ],
+              [
+                {
+                  "text": "Golf"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "H"
+                }
+              ],
+              [
+                {
+                  "text": "Hotel"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "I"
+                }
+              ],
+              [
+                {
+                  "text": "India"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "J"
+                }
+              ],
+              [
+                {
+                  "text": "Juliett"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "K"
+                }
+              ],
+              [
+                {
+                  "text": "Kilo"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "L"
+                }
+              ],
+              [
+                {
+                  "text": "Lima"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "M"
+                }
+              ],
+              [
+                {
+                  "text": "Mike"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "N"
+                }
+              ],
+              [
+                {
+                  "text": "November"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "O"
+                }
+              ],
+              [
+                {
+                  "text": "Oscar"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "P"
+                }
+              ],
+              [
+                {
+                  "text": "Papa"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "Q"
+                }
+              ],
+              [
+                {
+                  "text": "Quebec"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "R"
+                }
+              ],
+              [
+                {
+                  "text": "Romeo"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "S"
+                }
+              ],
+              [
+                {
+                  "text": "Sierra"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "T"
+                }
+              ],
+              [
+                {
+                  "text": "Tango"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "U"
+                }
+              ],
+              [
+                {
+                  "text": "Uniform"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "V"
+                }
+              ],
+              [
+                {
+                  "text": "Victor"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "W"
+                }
+              ],
+              [
+                {
+                  "text": "Whiskey"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "X"
+                }
+              ],
+              [
+                {
+                  "text": "X-ray"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "Y"
+                }
+              ],
+              [
+                {
+                  "text": "Yankee"
+                }
+              ]
+            ],
+            [
+              [
+                {
+                  "text": "Z"
+                }
+              ],
+              [
+                {
+                  "text": "Zulu"
+                }
+              ]
+            ]
+          ],
+          "type": "table"
+        },
+        {
+          "spans": [
+            {
+              "bold": true,
+              "text": "So nutzt du es:"
+            },
+            {
+              "text": " Sprich das Codewort anstelle des einzelnen Buchstabens, ruhig und in gleichmäßigem Tempo. Beispiel: "
+            },
+            {
+              "bold": true,
+              "text": "NATO = November – Alfa – Tango – Oscar"
+            },
+            {
+              "text": ". Bei einer Rückfrage wiederholst du die Angabe so, wie es die dienstliche Ausbildung vorgibt."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
+              "bold": true,
+              "text": "Sichere Übung:"
+            },
+            {
+              "text": " Nimm eine neutrale Folge aus vier bis sechs Buchstaben. Eine Person buchstabiert, die andere schreibt mit; danach vergleicht ihr und wechselt die Rollen. Beginne mit leicht verwechselbaren Paaren wie M/N oder B/P. Übe öffentlich nicht mit echten dienstlichen Rufzeichen, Koordinaten, Kennungen oder Zugangsdaten."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "12.9",
+      "title": "NATO-Buchstabieralphabet A–Z",
+      "type": "text"
     }
   ],
   "sources": [
@@ -2410,6 +2778,18 @@
     },
     {
       "label": "Bundeswehr: „Spieße – die Mütter der Kompanien\" (bundeswehr.de), abgerufen 2026-06-01 – Funktion Kompaniefeldwebel."
+    },
+    {
+      "label": "Bundeswehr: „NATO-Alphabet: Bedeutungen und Buchstabiertafel\" (Veröffentlichung 06.02.2026)",
+      "url": "https://www.bundeswehr.de/de/auftrag/verteidigung/nato-alphabet"
+    },
+    {
+      "label": "NATO: „The NATO phonetic alphabet – Alfa, Bravo, Charlie …\" (offizielle A–Z-Schreibweise, u. a. Alfa, Juliett, X-ray)",
+      "url": "https://www.nato.int/cps/en/natohq/declassified_136216.htm?selectedLocale=en"
+    },
+    {
+      "label": "Bundeswehr: „Heimatschutzausbildung bei der Bundeswehr: die neue Grundausbildung\", veröffentlicht 11.08.2026 — Begriffswechsel und Ausbildungsumfang",
+      "url": "https://www.bundeswehr.de/de/menschen-karrieren/grundausbildung-bundeswehr"
     },
     {
       "label": "Abkürzungs-Lexikon: Wikipedia „Liste militärischer Abkürzungen\" und Fachartikel (Grundausbildung, Wachdienst, Waffenbesitzkarte, Wehrdisziplinarordnung), agabund.de, einstellungstest-bundeswehr.de sowie gesetze-im-internet.de (SG, WDO, WBO, SAZV); abgerufen 2026-06-02. Die verbindliche Primärquelle (Datenbank für Abkürzungen der Bundeswehr, DBAbkBw) ist nur im Bundeswehr-Intranet zugänglich. Mehrdeutige/unbestätigte Einträge (z. B. „DU\", „EAKK\") bleiben offen bzw. weggelassen."

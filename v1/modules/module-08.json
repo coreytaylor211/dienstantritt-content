@@ -131,7 +131,7 @@
               "text": "Geh vor dem Antritt zum Zahnarzt."
             },
             {
-              "text": " Zahnprobleme aus der Grundausbildung heraus zu regeln ist mühsam."
+              "text": " Zahnprobleme aus der Heimatschutzausbildung heraus zu regeln ist mühsam."
             }
           ],
           "type": "paragraph"
@@ -214,6 +214,14 @@
     {
       "anchorSearchTitle": "Krank am Wochenende oder zu Hause",
       "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Wirst du krank, während du am Wochenende oder im Urlaub zu Hause bist, musst du dich trotzdem unverzüglich bei deiner Einheit melden — dein Fernbleiben muss dienstlich geklärt sein. Kontaktweg, geforderte Nachweise und das weitere medizinische Vorgehen gibt deine Dienststelle vor. In einem akuten Notfall geht die medizinische Hilfe vor; informiere die Einheit anschließend so schnell wie möglich und folge ihren weiteren Anweisungen."
+            }
+          ],
+          "type": "paragraph"
+        },
         {
           "spans": [
             {
@@ -329,7 +337,7 @@
               "text": "Wehrdienstbeschädigung"
             },
             {
-              "text": ". Die rechtlichen Details regeln das Soldatenversorgungsrecht und deine zuständigen Stellen; dein Beitrag ist eine saubere, zeitnahe Meldung. Was nie gemeldet wurde, lässt sich Jahre später kaum belegen. Der Sozialdienst (Modul 12) hilft bei Fragen dazu."
+              "text": ". Seit 2025 ist dafür insbesondere das Soldatenentschädigungsgesetz (SEG) maßgeblich; ob dessen Voraussetzungen erfüllt sind und welcher Verfahrensweg gilt, entscheidet die zuständige Stelle. Dein Beitrag ist eine saubere, zeitnahe Meldung und Dokumentation. Was nie gemeldet wurde, lässt sich später schwerer belegen. Der Sozialdienst (Modul 12) hilft bei Fragen dazu."
             }
           ],
           "type": "paragraph"
@@ -544,7 +552,8 @@
   ],
   "sources": [
     {
-      "label": "gesetze-im-internet.de: Soldatengesetz (SG) — u. a. Anspruch auf unentgeltliche truppenärztliche Versorgung; keine Rechtsberatung."
+      "label": "Amtliche Grundlagen der truppenärztlichen Versorgung: § 16 WSG  und Bundeswehr-Heilfürsorgeverordnung https://www.gesetze-im-internet.de/bwhfv/; keine Rechtsberatung.",
+      "url": "https://www.gesetze-im-internet.de/wsg_2020/__16.html"
     },
     {
       "label": "Bundeswehr (bundeswehr.de): Themenseiten zum Sanitätsdienst der Bundeswehr und zur truppenärztlichen Versorgung, abgerufen 2026."
@@ -553,7 +562,8 @@
       "label": "Bundeswehr (bundeswehr.de): Themenseiten zu Psychologischem Dienst, Militärseelsorge und Sozialdienst, abgerufen 2026 — Details und Ansprechstellen siehe Modul 12."
     },
     {
-      "label": "Regelungen zur Versorgung bei Wehrdienstbeschädigung: Soldatenversorgungsrecht (gesetze-im-internet.de) — [PRÜFEN: aktuell einschlägige Rechtsgrundlage (SVG bzw. neueres Entschädigungsrecht) und Antragsweg]; im Text bewusst nur generisch beschrieben."
+      "label": "Soldatenentschädigungsgesetz (SEG), insbesondere § 3 Wehrdienstbeschädigung und § 8 Antragserfordernis:  Bundeswehr-Informationsseite zur Soldatenentschädigung: https://www.bundeswehr.de/de/menschen-karrieren/gehalt-bundeswehr-besoldung-entgelt-zulagen-tabellen/informationsseite-seg/versehrtentransport",
+      "url": "https://www.gesetze-im-internet.de/seg/;"
     },
     {
       "label": "Konkrete Meldewege, Nachweispflichten und Abläufe bei Krankmeldung variieren je Dienststelle — wir erfinden hier nichts; verbindlich sind deine Einheit und dein Sanitätsbereich."

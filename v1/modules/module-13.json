@@ -73,7 +73,14 @@
         {
           "answer": [
             {
-              "text": "Unterkunft, Dienstkleidung, Ausrüstung und medizinische Versorgung sind gestellt. Selbst zahlst du Persönliches (Hygiene über Standard, Freizeit, Handyvertrag, private Kleidung). Details in Modul 4."
+              "text": "Unterkunft, Dienstkleidung, Ausrüstung und medizinische Versorgung sind gestellt. Die Gemeinschaftsverpflegung ist günstig, aber nicht pauschal kostenlos: Für drei Mahlzeiten zusammen nennt die Bundeswehr "
+            },
+            {
+              "bold": true,
+              "text": "etwa 10 € pro Tag"
+            },
+            {
+              "text": ". Den tatsächlich bei dir abgerechneten Betrag klärst du vor Ort. Selbst zahlst du außerdem Persönliches (Hygiene über Standard, Freizeit, Handyvertrag, private Kleidung). Details in Modul 4."
             }
           ],
           "id": "13.2-faq-muss-ich-fuer-irgendetwas-zahlen",
@@ -82,14 +89,14 @@
         {
           "answer": [
             {
-              "text": "Der Dienst ist freiwillig, aber eine Verpflichtung mit Mindestdauer 6 Monate. Der freiwillige Wehrdienst dauert 6–11 Monate; die "
+              "text": "Die ersten sechs Dienstmonate sind eine Bewährungs- bzw. Probezeit. Nach der aktuellen Bundeswehr-Information können FWDL sowie SaZ mit "
             },
             {
               "bold": true,
-              "text": "ersten sechs Monate sind Probezeit"
+              "text": "widerruflicher Verpflichtungserklärung"
             },
             {
-              "text": " (§ 58b SG, Stand 2026). Daneben gibt es geregelte Gründe für eine vorzeitige Entlassung (z. B. auf Antrag bei besonderer Härte, für SaZ § 55 Abs. 3 SG). Was für dich gilt, hängt von Status und Vertrag ab – kläre es mit der zuständigen Stelle. (Quelle: gesetze-im-internet.de, § 58b/§ 55 SG, abgerufen 2026-06-02; keine Rechtsberatung)"
+              "text": " in den ersten fünf Dienstmonaten mit einer Frist von einem Monat zum 15. oder Monatsletzten kündigen. Im sechsten Dienstmonat kann die Entlassung zum 15. oder Monatsletzten ohne Einhaltung einer Frist beantragt werden. Für andere Verpflichtungserklärungen, Zeitpunkte oder Entlassungsgründe gelten andere Voraussetzungen. Lass Status, Frist, Adressat und Zugang deines Schreibens von der zuständigen Personalstelle bestätigen. (Quelle: Bundeswehr „Einberufung\", https://www.bundeswehr.de/de/menschen-karrieren/neuer-wehrdienst/einberufung; § 58b SG https://www.gesetze-im-internet.de/sg/__58b.html; keine Rechtsberatung)"
             }
           ],
           "id": "13.2-faq-kann-ich-den-dienst-vorzeitig-beenden",
@@ -107,7 +114,7 @@
         {
           "answer": [
             {
-              "text": "Oft ja, dann kannst du nach Hause (in Uniform gratis Bahn). In der Grundausbildung und bei Wachdiensten/Übungen kann das eingeschränkt sein. Die genauen Regelungen zu Wochenend-/Heimfahrten und Ausgang variieren je Einheit. Verlass dich auf den Plan deiner Einheit."
+              "text": "Oft ja, dann kannst du nach Hause (in Uniform gratis Bahn). In der Heimatschutzausbildung und bei Wachdiensten/Übungen kann das eingeschränkt sein. Die genauen Regelungen zu Wochenend-/Heimfahrten und Ausgang variieren je Einheit. Verlass dich auf den Plan deiner Einheit."
             }
           ],
           "id": "13.2-faq-habe-ich-am-wochenende-frei",
@@ -239,6 +246,24 @@
         {
           "answer": [
             {
+              "text": "Für Haare, Bart und das äußere Erscheinungsbild gelten aktuelle dienstliche Vorgaben sowie Sicherheitsanforderungen der jeweiligen Ausbildung und Schutzausrüstung. Die Detailfassung und ihre Umsetzung erklärt dir deine Einheit. Starte gepflegt, aber triff allein wegen älterer Internetlisten keine vorschnelle, irreversible Entscheidung — frage bei Unsicherheit vor dem Antritt die im Einberufungsschreiben genannte Stelle."
+            }
+          ],
+          "id": "13.2-faq-wie-kurz-muessen-die-haare-sein-und-darf-ich-ein",
+          "question": "Wie kurz müssen die Haare sein — und darf ich einen Bart tragen?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Tätowierungen und Piercings werden nach den aktuellen dienstlichen Vorgaben, dem soldatischen Eintreten für die freiheitliche demokratische Grundordnung und den Sicherheitsanforderungen der konkreten Tätigkeit beurteilt. Schmuck kann etwa bei Sport, Ausbildung oder Schutzausrüstung zum Sicherheitsproblem werden. Verfassungsfeindliche Kennzeichen sind keine harmlose Frage des Erscheinungsbilds. Bei sichtbaren Motiven oder nicht leicht ablegbarem Schmuck: vor dem Start offen die zuständige Stelle fragen und die Belehrung der Einheit befolgen."
+            }
+          ],
+          "id": "13.2-faq-sind-tattoos-und-piercings-ein-problem",
+          "question": "Sind Tattoos und Piercings ein Problem?"
+        },
+        {
+          "answer": [
+            {
               "text": "Spontan in die Kaserne spazieren kann niemand — es gelten Zutritts- und Sicherheitsregeln. Ob und wie Besuch möglich ist (z. B. zu Veranstaltungen wie dem Gelöbnis oder an Besuchstagen), variiert je Dienststelle. In der Freizeit außerhalb der Kaserne kannst du dich natürlich frei verabreden."
             }
           ],
@@ -253,6 +278,22 @@
           ],
           "id": "13.2-faq-wer-waescht-meine-waesche",
           "question": "Wer wäscht meine Wäsche?"
+        },
+        {
+          "answer": [
+            {
+              "text": "In Kasernen gibt es Truppenküchen mit Gemeinschaftsverpflegung. Die Bundeswehr nennt für Frühstück, Mittag- und Abendessen zusammen "
+            },
+            {
+              "bold": true,
+              "text": "etwa 10 € pro Tag"
+            },
+            {
+              "text": ". Der tatsächlich abgerechnete Betrag und Sonderfälle richten sich nach deiner konkreten Situation und den Vorgaben vor Ort. Nimm für den Start Karte bzw. etwas Bargeld mit und frag bei Truppenküche oder Verwaltung nach dem Abrechnungsweg."
+            }
+          ],
+          "id": "13.2-faq-wie-ist-das-essen-und-was-kostet-es",
+          "question": "Wie ist das Essen — und was kostet es?"
         },
         {
           "answer": [
@@ -275,6 +316,15 @@
         {
           "answer": [
             {
+              "text": "Ob ein Schwimmnachweis oder eine Schwimmausbildung verlangt wird, hängt von Ausbildung und Verwendung ab; hier wird deshalb keine pauschale bundeseinheitliche Mindestleistung versprochen. Wenn du nicht oder nur unsicher schwimmst, sag es der Ausbildung früh und ehrlich. Versuche keine Übung auf eigene Faust, die über dein sicheres Können hinausgeht."
+            }
+          ],
+          "id": "13.2-faq-muss-ich-schwimmen-koennen",
+          "question": "Muss ich schwimmen können?"
+        },
+        {
+          "answer": [
+            {
               "text": "Kein Hindernis. Nimm eine Ersatzbrille und ggf. deinen Brillenpass mit; für bestimmte Ausbildungsabschnitte (z. B. mit Schutzmaske) gibt es dienstliche Lösungen. Kontaktlinsen sind im Feld nicht immer praktisch — eine robuste Brille als Backup ist Gold wert."
             }
           ],
@@ -293,7 +343,7 @@
         {
           "answer": [
             {
-              "text": "Sport ist fester Teil der Grundausbildung (Dienstsport, Märsche, BFT — siehe Modul 2). Niemand erwartet Bestwerte am ersten Tag; bewertet wird auch die Entwicklung. Wer vorher etwas trainiert (Modul 5), hat es leichter — und bei Überlastung gilt: ansprechen statt verstecken, dafür sind Ausbilder und Sanitätsbereich da."
+              "text": "Sport ist fester Teil der Heimatschutzausbildung (Dienstsport, Märsche, BFT — siehe Modul 2). Niemand erwartet Bestwerte am ersten Tag; bewertet wird auch die Entwicklung. Wer vorher etwas trainiert (Modul 5), hat es leichter — und bei Überlastung gilt: ansprechen statt verstecken, dafür sind Ausbilder und Sanitätsbereich da."
             }
           ],
           "id": "13.2-faq-wie-viel-sport-habe-ich-und-was-wenn-ich-unsport",
@@ -320,6 +370,15 @@
         {
           "answer": [
             {
+              "text": "Ja, je nach Dienstposten, Status und Dienstzeit kommen interne Lehrgänge oder Angebote des Berufsförderungsdienstes (BFD) infrage. SaZ haben gesetzliche Berufsförderungsansprüche; FWDL können abhängig von ihrer Wehrdienstzeit ebenfalls Angebote nutzen, aber nicht im selben Umfang. Welche konkrete Maßnahme oder Kostenübernahme möglich ist, stellt der BFD im Beratungsgespräch fest — nicht eine allgemeine Tabelle in dieser App."
+            }
+          ],
+          "id": "13.2-faq-kann-ich-mich-waehrend-des-dienstes-weiterbilden",
+          "question": "Kann ich mich während des Dienstes weiterbilden?"
+        },
+        {
+          "answer": [
+            {
               "text": "Zivil, bequem und wettertauglich — du bist den Tag über viel unterwegs (Anmeldung, Wege über das Gelände, Beginn der Einkleidung). Uniform bekommst du gestellt (Modul 1). Ein überzogener Auftritt ist unnötig; sauber und ordentlich reicht völlig."
             }
           ],
@@ -329,7 +388,16 @@
         {
           "answer": [
             {
-              "text": "Realistisch planen: In den ersten Wochen bleibt oft nur abends kurz Zeit, und Handy-Regeln schränken die Nutzung im Dienst ein. Kündige das vorher an (Modul 5), verabrede feste Telefon-Zeitfenster und nutze die Wochenenden. Nach der Grundausbildung wird es deutlich entspannter."
+              "text": "Die medizinische Versorgung läuft über den Sanitätsdienst. Für anerkannte gesundheitliche Folgen einer Wehrdienstbeschädigung regelt seit 2025 insbesondere das Soldatenentschädigungsgesetz (SEG) eigene Leistungen. Ob eine Wehrdienstbeschädigung vorliegt und welche Leistung zusteht, entscheidet die zuständige Stelle im Verfahren. Wichtig für dich: Verletzungen und Unfälle sofort melden, medizinisch erfassen und dienstlich dokumentieren lassen; der Sozialdienst kann beim weiteren Weg helfen."
+            }
+          ],
+          "id": "13.2-faq-bin-ich-abgesichert-wenn-mir-im-dienst-etwas-pas",
+          "question": "Bin ich abgesichert, wenn mir im Dienst etwas passiert?"
+        },
+        {
+          "answer": [
+            {
+              "text": "Realistisch planen: In den ersten Wochen bleibt oft nur abends kurz Zeit, und Handy-Regeln schränken die Nutzung im Dienst ein. Kündige das vorher an (Modul 5), verabrede feste Telefon-Zeitfenster und nutze die Wochenenden. Nach der Heimatschutzausbildung wird es meist deutlich entspannter."
             }
           ],
           "id": "13.2-faq-wie-halte-ich-kontakt-zu-familie-und-partner-in",
@@ -357,7 +425,8 @@
       "label": "Wehrsoldgesetz (WSG, Anlage, gültig ab 01.01.2026) und Anlage IV BBesG (Stand 01.03.2024), gesetze-im-internet.de, abgerufen 2026-06-02 – Wehrsold FWDL (rund 2.600 €), Besoldung SaZ (A 3/1 = 2.706,99 €); Details in Modul 4."
     },
     {
-      "label": "Bundeswehr: „Neuer Wehrdienst\", „Führerschein\", „Grundausbildung\", „Sozialdienst/Militärseelsorge\" (bundeswehr.de), abgerufen 2026-06-01."
+      "label": "Bundeswehr: „Neuer Wehrdienst\", „Führerschein\", „Heimatschutzausbildung\" und „Sozialdienst/Militärseelsorge\" (bundeswehr.de); Heimatschutzausbildung, Stand 11.08.2026",
+      "url": "https://www.bundeswehr.de/de/menschen-karrieren/grundausbildung-bundeswehr"
     },
     {
       "label": "BMVg/Bundeswehr/bahn.de: kostenloses Bahnfahren in Uniform, abgerufen 2026-06-01 – Abdeckung Fern-/Nahverkehr, Voraussetzungen."
@@ -369,10 +438,30 @@
       "label": "Bundeswehr: Merkblatt für Soldatinnen und Soldaten bei Erkrankung und Unfällen; bundeswehr.de „Neuer Wehrdienst\" (Verlängerung/Wechsel zum SaZ), abgerufen 2026-06-02."
     },
     {
+      "label": "Bundeswehr „Neuer Wehrdienst\" — Gemeinschaftsverpflegung etwa 10 €/Tag",
+      "url": "https://www.bundeswehr.de/de/menschen-karrieren/neuer-wehrdienst"
+    },
+    {
+      "label": "Bundeswehr „Einberufung\" — Kündigung in den ersten fünf Monaten bzw. Entlassungsantrag im sechsten Monat",
+      "url": "https://www.bundeswehr.de/de/menschen-karrieren/neuer-wehrdienst/einberufung"
+    },
+    {
+      "label": "Soldatengesetz § 8 (Eintreten für die demokratische Grundordnung) und § 17 (Verhalten):  und https://www.gesetze-im-internet.de/sg/__17.html",
+      "url": "https://www.gesetze-im-internet.de/sg/__8.html"
+    },
+    {
+      "label": "Bundeswehr: Berufsförderungsdienst und statusabhängige Leistungen",
+      "url": "https://www.bundeswehr.de/de/menschen-karrieren/der-berufsfoerderungsdienst-der-bundeswehr-bfd"
+    },
+    {
+      "label": "Soldatenentschädigungsgesetz (SEG), insbesondere §§ 3 und 8",
+      "url": "https://www.gesetze-im-internet.de/seg/"
+    },
+    {
       "label": "Wo Inhalte je Status/Dienststelle variieren (Netto-Gehalt, Wochenende/Heimfahrten, BFT-Wiederholung, Handy- und Stubenregeln) oder sich seriös nicht beziffern lassen, sagen wir das offen statt zu schätzen – verbindlich ist deine Einheit bzw. deine Bezügeabrechnung."
     },
     {
-      "label": "Erweiterung 2026-07 (Alltags-FAQ Haare/Bart, Tattoos, Besuch, Wäsche, Essen, WLAN, Auto, Schwimmen, Brille, Alkohol, Sport, Mobbing, Frauen, Weiterbildung, Kleidung Tag 1, Absicherung, Kontakt, Feiertage): bewusst zurückhaltend formuliert; Punkte ohne belastbare amtliche Quelle tragen einen [PRÜFEN]-Marker bzw. verweisen ausdrücklich auf die je Dienststelle geltenden Regeln. Anlaufstellen (Vertrauensperson, Wehrbeauftragte:r, Sozialdienst) wie in Modul 12 belegt."
+      "label": "Erweiterung 2026-07 (Alltags-FAQ Haare/Bart, Tattoos, Besuch, Wäsche, Essen, WLAN, Auto, Schwimmen, Brille, Alkohol, Sport, Mobbing, Frauen, Weiterbildung, Kleidung Tag 1, Absicherung, Kontakt, Feiertage): bewusst zurückhaltend formuliert; bei variablen Details wird ausdrücklich auf die je Dienststelle geltenden Regeln und zuständigen Stellen verwiesen. Anlaufstellen (Vertrauensperson, Wehrbeauftragte:r, Sozialdienst) wie in Modul 12 belegt."
     }
   ],
   "title": "FAQ für Neue",

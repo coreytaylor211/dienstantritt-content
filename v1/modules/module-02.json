@@ -10,7 +10,14 @@
         {
           "spans": [
             {
-              "text": "Die Grundausbildung ist dein Einstieg. Hier lernst du die militärischen Grundlagen, die alle beherrschen müssen. Dieses Modul zeigt dir Inhalte, Tests und wie du gut durchkommst."
+              "text": "Die "
+            },
+            {
+              "bold": true,
+              "text": "Heimatschutzausbildung"
+            },
+            {
+              "text": " ist dein militärischer Einstieg. Bis 2026 hieß dieser Abschnitt bei der Bundeswehr Grund- oder Basisausbildung; „AGA\" wird umgangssprachlich weiter benutzt. Hier lernst du militärische Grundlagen. Dieses Modul zeigt dir Inhalte, Tests und wie du gut durchkommst."
             }
           ],
           "type": "paragraph"
@@ -18,7 +25,7 @@
         {
           "spans": [
             {
-              "text": "Ehrlich: Die AGA ist anstrengend – körperlich und mental. Aber sie ist machbar, und du wächst gemeinsam mit deiner Gruppe rein."
+              "text": "Ehrlich: Die Heimatschutzausbildung ist anstrengend – körperlich und mental. Aber sie ist machbar, und du wächst gemeinsam mit deiner Gruppe rein."
             }
           ],
           "type": "paragraph"
@@ -29,7 +36,7 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Was ist die Grundausbildung?",
+      "anchorSearchTitle": "Was ist die Heimatschutzausbildung?",
       "blocks": [
         {
           "spans": [
@@ -38,7 +45,7 @@
               "text": "Ziel:"
             },
             {
-              "text": " Du lernst die wichtigsten militärischen Grundfertigkeiten – dich in der militärischen Ordnung bewegen, sicher mit Ausrüstung und Waffe umgehen, dich und andere schützen, im Team funktionieren (Quelle: bundeswehr.de, „Grundausbildung\", Stand 2026)."
+              "text": " Du lernst militärisches Basiswissen und Grundfertigkeiten – dich in der militärischen Ordnung bewegen, sicher mit Ausrüstung und Waffe umgehen, dich und andere schützen und im Team funktionieren (Quelle: bundeswehr.de, „Heimatschutzausbildung\", Stand 11.08.2026)."
             }
           ],
           "type": "paragraph"
@@ -47,46 +54,38 @@
           "spans": [
             {
               "bold": true,
-              "text": "Dauer (Quelle: bundeswehr.de, abgerufen 2026):"
-            }
-          ],
-          "type": "paragraph"
-        },
-        {
-          "items": [
-            [
-              {
-                "bold": true,
-                "text": "Heer:"
-              },
-              {
-                "text": " sechsmonatige Basisausbildung."
-              }
-            ],
-            [
-              {
-                "bold": true,
-                "text": "Luftwaffe, Marine, Cyber- und Informationsraum, Unterstützung:"
-              },
-              {
-                "text": " rund drei Monate Grundausbildung + anschließende Spezialgrundausbildung."
-              }
-            ]
-          ],
-          "ordered": false,
-          "type": "list"
-        },
-        {
-          "spans": [
+              "text": "Dauer und Einordnung (Quelle: bundeswehr.de, Stand 11.08.2026):"
+            },
             {
-              "text": "Die Inhalte sind großteils gleich; die Schwerpunkte unterscheiden sich (z. B. Heer: Fitness und Waffe; Marine: Dienst an Bord). Die Grundausbildung ist nur der "
+              "text": " Die bundeswehrweit harmonisierte Heimatschutzausbildung dauert "
             },
             {
               "bold": true,
-              "text": "erste Abschnitt"
+              "text": "drei Monate"
             },
             {
-              "text": " deiner Dienstzeit (Mindestdienst 6 Monate), nicht die ganze."
+              "text": " und umfasst "
+            },
+            {
+              "bold": true,
+              "text": "500 Ausbildungsstunden"
+            },
+            {
+              "text": ". Sie findet im Heer — dort als Teil der Basisausbildung — sowie in Luftwaffe, Marine, Cyber- und Informationsraum und Unterstützungsbereich statt. Für viele folgt eine "
+            },
+            {
+              "bold": true,
+              "text": "Fortgeschrittenenausbildung im Heimatschutz"
+            },
+            {
+              "text": " mit weiteren "
+            },
+            {
+              "bold": true,
+              "text": "200 Stunden"
+            },
+            {
+              "text": ". Danach schließen sich je nach Laufbahn und Verwendung dienstpostenbezogene Ausbildung oder Lehrgänge an. Die Heimatschutzausbildung ist also der erste Abschnitt, nicht deine gesamte Dienstzeit."
             }
           ],
           "type": "paragraph"
@@ -95,55 +94,17 @@
           "spans": [
             {
               "bold": true,
-              "text": "Grober Ablauf (bundeswehr.de, Stand 2026):"
-            }
-          ],
-          "type": "paragraph"
-        },
-        {
-          "items": [
-            [
-              {
-                "bold": true,
-                "text": "Anfang:"
-              },
-              {
-                "text": " Einkleidung, Formaldienst, erste Waffenausbildung."
-              }
-            ],
-            [
-              {
-                "bold": true,
-                "text": "Mitte:"
-              },
-              {
-                "text": " Schießausbildung, feierliches Gelöbnis, Gefechtsdienst."
-              }
-            ],
-            [
-              {
-                "bold": true,
-                "text": "Ende:"
-              },
-              {
-                "text": " vertiefter Gefechtsdienst, abschließende Überprüfung."
-              }
-            ]
-          ],
-          "ordered": false,
-          "type": "list"
-        },
-        {
-          "spans": [
+              "text": "Grober Aufbau:"
+            },
             {
-              "text": "Das ist ein grobes Muster – dein konkreter Plan kann abweichen."
+              "text": " Nach Einkleidung, Formaldienst und Rechtsgrundlagen folgen aufeinander aufbauende Ausbildungsanteile, unter anderem Gefechts- und Schießausbildung, Sanitätsausbildung, ABC-Abwehr, Sport, militärische Sicherheit, Wachdienst und Cyber-Awareness. Gegen Ende findet in der Regel das feierliche Gelöbnis statt. Reihenfolge, Tagesplan und konkrete Ausgestaltung legt deine Ausbildungseinheit fest."
             }
           ],
           "type": "paragraph"
         }
       ],
       "id": "2.2",
-      "title": "Was ist die Grundausbildung?",
+      "title": "Was ist die Heimatschutzausbildung?",
       "type": "text"
     },
     {
@@ -237,14 +198,14 @@
         {
           "spans": [
             {
-              "text": "Im Neuen Wehrdienst liegt ein Schwerpunkt auf "
+              "text": "Ein Schwerpunkt liegt auf dem "
             },
             {
               "bold": true,
               "text": "Heimatschutz"
             },
             {
-              "text": ": Alle werden zu Wach- und Sicherungssoldat:innen ausgebildet (z. B. Schutz kritischer Infrastruktur) (Quelle: bundeswehr.de, „Neuer Wehrdienst\", abgerufen 2026)."
+              "text": ". Die Heimatschutzausbildung vermittelt unter anderem die Befähigung für Sicherungs- und Wachaufgaben; welche Aufgabe du anschließend tatsächlich wahrnimmst, richtet sich nach Verwendung und Einheit (Quelle: bundeswehr.de, „Heimatschutzausbildung\", Stand 11.08.2026)."
             }
           ],
           "type": "paragraph"
@@ -316,7 +277,7 @@
             {
               "spans": [
                 {
-                  "text": "Der gesamte Test ist in 90 Minuten zu absolvieren. Im Heer sollen die Anforderungen nach den ersten sechs Wochen erreicht werden. Tipp: Geh nicht „kalt\" rein – etwas Lauf- und Krafttraining vorab hilft."
+                  "text": "Der gesamte Test ist in 90 Minuten zu absolvieren. Wann und in welchem Ausbildungsabschnitt du ihn ablegst, sagt dir deine Einheit. Tipp: Geh nicht „kalt\" rein – etwas Lauf- und Krafttraining vorab hilft."
                 }
               ],
               "type": "paragraph"
@@ -349,14 +310,14 @@
         {
           "spans": [
             {
-              "text": "Höhepunkt der Grundausbildung ist oft das "
+              "text": "Höhepunkt der Heimatschutzausbildung ist oft das "
             },
             {
               "bold": true,
               "text": "feierliche Gelöbnis"
             },
             {
-              "text": " – ein formeller, oft öffentlicher Akt, zu dem Angehörige eingeladen werden können (Quelle: bundeswehr.de, Stand 2026)."
+              "text": " – ein formeller, oft öffentlicher Akt, zu dem Angehörige eingeladen werden können (Quelle: bundeswehr.de, Stand 11.08.2026)."
             }
           ],
           "type": "paragraph"
@@ -420,7 +381,7 @@
         {
           "spans": [
             {
-              "text": "Die AGA fordert dich (frühes Aufstehen, körperliche Anstrengung, wenig Privatsphäre), ist aber zeitlich begrenzt. Praktische Tipps:"
+              "text": "Die Heimatschutzausbildung fordert dich (frühes Aufstehen, körperliche Anstrengung, wenig Privatsphäre), ist aber zeitlich begrenzt. Praktische Tipps:"
             }
           ],
           "type": "paragraph"
@@ -494,11 +455,108 @@
       "id": "2.6",
       "title": "Wie du gut durchkommst",
       "type": "text"
+    },
+    {
+      "anchorSearchTitle": "Befehl, Kommando und Meldung — sicher lernen",
+      "blocks": [
+        {
+          "spans": [
+            {
+              "text": "Die drei Begriffe klingen ähnlich, erfüllen aber unterschiedliche Aufgaben:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Befehl:"
+              },
+              {
+                "text": " eine Anweisung eines militärischen Vorgesetzten an Untergebene zu einem bestimmten Verhalten, erteilt mit Anspruch auf Gehorsam. Rechtmäßige Befehle sind vollständig, gewissenhaft und unverzüglich auszuführen. Die gesetzlichen Grenzen aus Modul 6 gelten immer: Ein Befehl zu einer Straftat darf nicht befolgt werden; auch Menschenwürde und dienstlicher Zweck setzen Grenzen."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Kommando:"
+              },
+              {
+                "text": " ein kurzes, in der Ausbildung festgelegtes Signalwort für einen eingeübten Ablauf, zum Beispiel im Formaldienst. Wortlaut, Reaktion und Zeitpunkt lernst du praktisch in deiner Einheit — diese App ersetzt die Einweisung nicht."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Meldung:"
+              },
+              {
+                "text": " eine knappe, wahrheitsgemäße dienstliche Mitteilung. Sie soll den entscheidenden Sachverhalt verständlich machen, nicht Vermutungen als Tatsachen ausgeben. Das konkrete Meldeschema gibt dir deine Ausbildung vor."
+              }
+            ]
+          ],
+          "ordered": false,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Zwei sichere Lernhilfen — ausdrücklich "
+            },
+            {
+              "bold": true,
+              "text": "keine amtlichen Formeln"
+            },
+            {
+              "text": ":"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "items": [
+            [
+              {
+                "bold": true,
+                "text": "Aufnehmen – Verstehen – Klären – Handeln:"
+              },
+              {
+                "text": " Hör vollständig zu, erfasse Auftrag und Rahmen, frage bei einer echten Unklarheit rechtzeitig nach und handle dann gewissenhaft. Eine Wiederholung oder Bestätigung gibst du so, wie es deine Ausbildung verlangt."
+              }
+            ],
+            [
+              {
+                "bold": true,
+                "text": "Anlass – Kernfakt – Handlungsbedarf:"
+              },
+              {
+                "text": " Ordne vor einer Meldung kurz, warum du meldest, was sicher feststeht und ob sofort etwas benötigt wird. Bleib knapp, aber lass sicherheitsrelevante Tatsachen nicht weg."
+              }
+            ]
+          ],
+          "ordered": true,
+          "type": "list"
+        },
+        {
+          "spans": [
+            {
+              "text": "Übe das zunächst mit ungefährlichen Alltagssituationen: Eine Person nennt einen organisatorischen Auftrag, die andere fasst ihn ohne Ergänzungen zusammen; danach wird eine kurze, sachliche Rückmeldung formuliert. Verfahren an Waffen, Geräten, im Wach- oder Funkdienst gehören ausschließlich in die dienstliche Ausbildung unter Aufsicht und werden hier bewusst nicht nachgebildet."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "id": "2.7",
+      "title": "Befehl, Kommando und Meldung — sicher lernen",
+      "type": "text"
     }
   ],
   "sources": [
     {
-      "label": "Bundeswehr: „Grundausbildung bei der Bundeswehr\" / „kurz zusammengefasst\" (bundeswehr.de), abgerufen 2026-06-01 – Ziel, Dauer (Heer sechs Monate, übrige rund drei Monate), Ablauf, Inhalte, Gelöbnis."
+      "label": "Bundeswehr: „Heimatschutzausbildung bei der Bundeswehr: die neue Grundausbildung\", veröffentlicht 11.08.2026 — neue Bezeichnung, drei Monate/500 Ausbildungsstunden, im Heer Teil der Basisausbildung, für viele anschließend 200 Stunden Fortgeschrittenenausbildung, Inhalte und Gelöbnis",
+      "url": "https://www.bundeswehr.de/de/menschen-karrieren/grundausbildung-bundeswehr"
     },
     {
       "label": "Bundeswehr: „Der Basis-Fitness-Test (BFT)\" (bundeswehr.de), abgerufen 2026-06-01 – Anforderungen (Sprint ≤60 s, Klimmhang ≥5 s, 1.000 m <6:30 min; 90 Min. Gesamtzeit)."
@@ -513,10 +571,18 @@
       "label": "gesetze-im-internet.de: § 9 Soldatengesetz (SG), abgerufen 2026-06-01 – Diensteid und Gelöbnis."
     },
     {
+      "label": "Wehrstrafgesetz § 2 (amtliche Definition „Befehl\")",
+      "url": "https://www.gesetze-im-internet.de/wstrg/__2.html"
+    },
+    {
+      "label": "Soldatengesetz § 11 (Gehorsam und Grenzen) und § 13 (Wahrheit/Meldung):  und https://www.gesetze-im-internet.de/sg/__13.html",
+      "url": "https://www.gesetze-im-internet.de/sg/__11.html"
+    },
+    {
       "label": "Wo Inhalte je Einheit variieren (welche Pflicht-Leistungsnachweise gelten, wie Wiederholungen ablaufen), sagen wir das offen statt zu schätzen – verbindlich sagt es dir deine Ausbildung."
     }
   ],
-  "title": "Allgemeine Grundausbildung (AGA)",
+  "title": "Heimatschutzausbildung (ehemals Grundausbildung/AGA)",
   "updateNeed": "mittel",
   "version": "1.0.0"
 }

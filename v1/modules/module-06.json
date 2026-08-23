@@ -179,7 +179,7 @@
         {
           "spans": [
             {
-              "text": "Im Alltag der Grundausbildung wirst du diese Grenzen praktisch nie brauchen — die allermeisten Befehle sind banale Organisation. Aber du sollst wissen, dass es sie gibt. Kommt dir ein Befehl unrechtmäßig vor, darfst du sachlich "
+              "text": "Im Alltag der Heimatschutzausbildung wirst du diese Grenzen praktisch nie brauchen — die allermeisten Befehle sind banale Organisation. Aber du sollst wissen, dass es sie gibt. Kommt dir ein Befehl unrechtmäßig vor, darfst du sachlich "
             },
             {
               "bold": true,
@@ -491,6 +491,27 @@
           ],
           "id": "6.8.1",
           "title": "Die Vertrauensperson"
+        },
+        {
+          "blocks": [
+            {
+              "spans": [
+                {
+                  "text": "Willst du neben dem Dienst Geld verdienen (Nebenjob, eigenes Gewerbe), kläre das "
+                },
+                {
+                  "bold": true,
+                  "text": "vorher"
+                },
+                {
+                  "text": " mit deiner Einheit. Für SaZ und Berufssoldat:innen sind entgeltliche Nebentätigkeiten nach § 20 SG grundsätzlich vorher genehmigungspflichtig; dort stehen auch Ausnahmen und reine Anzeigefälle. Für FWDL gilt eine andere Regel: Ihre Nebentätigkeit kann untersagt werden, wenn sie die Dienstfähigkeit gefährdet oder dienstlichen Erfordernissen zuwiderläuft. Deshalb gilt unabhängig vom Status: nicht auf eigene Annahmen verlassen, Status nennen und den richtigen Genehmigungs- oder Meldeweg vor Aufnahme bestätigen lassen. Zum Zusammenspiel mit deinem Sold siehe Modul 4."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "id": "6.8.2",
+          "title": "Nebentätigkeit vorher klären"
         }
       ],
       "title": "Vertrauensperson und Nebentätigkeit",
@@ -499,7 +520,8 @@
   ],
   "sources": [
     {
-      "label": "gesetze-im-internet.de: Soldatengesetz (SG) — Grundpflichten, politische Betätigung, Nebentätigkeit, abgerufen 2026."
+      "label": "gesetze-im-internet.de: Soldatengesetz (SG) — Grundpflichten, politische Betätigung und § 20 Nebentätigkeit:  (abgerufen 2026).",
+      "url": "https://www.gesetze-im-internet.de/sg/__20.html"
     },
     {
       "label": "gesetze-im-internet.de: Wehrbeschwerdeordnung (WBO) — Beschwerderecht und Fristen, abgerufen 2026."

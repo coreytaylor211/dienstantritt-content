@@ -106,6 +106,21 @@
             {
               "spans": [
                 {
+                  "text": "Während des Dienstes wirst du medizinisch über die "
+                },
+                {
+                  "bold": true,
+                  "text": "truppenärztliche Versorgung (freie Heilfürsorge)"
+                },
+                {
+                  "text": " der Bundeswehr versorgt (siehe Modul 12, Glossar). Informiere deine Krankenkasse über den Dienstantritt und lass dir schriftlich bestätigen, wie sie deine Mitgliedschaft in dieser Zeit führt. Ob etwa eine Unterbrechung, Fortführung oder Anwartschaft relevant ist, hängt von deinem bisherigen Versicherungsverhältnis und deinem Status ab; verbindlich entscheidet das nur die zuständige Krankenkasse."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "spans": [
+                {
                   "text": "Wirf außerdem einen Blick auf deine privaten Versicherungen (z. B. Haftpflicht, Unfall, Zusatzversicherungen): Manche Tarife haben Regelungen für den Wehrdienst. Frag im Zweifel kurz beim Anbieter nach — schriftlich ist besser als telefonisch."
                 }
               ],
@@ -196,7 +211,7 @@
                     "text": "vor"
                   },
                   {
-                    "text": " dem Antritt — aus der Grundausbildung heraus ist das mühsam."
+                    "text": " dem Antritt — aus der Heimatschutzausbildung heraus ist das mühsam."
                   }
                 ]
               ],
@@ -217,7 +232,7 @@
         {
           "spans": [
             {
-              "text": "In der Grundausbildung erwartet dich der "
+              "text": "In der Heimatschutzausbildung erwartet dich der "
             },
             {
               "bold": true,
@@ -268,7 +283,7 @@
             ],
             [
               {
-                "text": "Steigere langsam. Eine Zerrung in Woche 1 der Grundausbildung ist der schlechteste Start."
+                "text": "Steigere langsam. Eine Zerrung in Woche 1 der Heimatschutzausbildung ist der schlechteste Start."
               }
             ]
           ],
@@ -520,6 +535,10 @@
     },
     {
       "label": "gesetze-im-internet.de: Arbeitsplatzschutzgesetz (ArbPlSchG) — Ruhen des Arbeitsverhältnisses und Kündigungsschutz beim Wehrdienst; keine Rechtsberatung."
+    },
+    {
+      "label": "Amtliche Grundlagen der truppenärztlichen Versorgung: § 16 WSG  und Bundeswehr-Heilfürsorgeverordnung https://www.gesetze-im-internet.de/bwhfv/",
+      "url": "https://www.gesetze-im-internet.de/wsg_2020/__16.html"
     },
     {
       "label": "Bundeswehr (bundeswehr.de): öffentlich beschriebene Inhalte zum Basis-Fitness-Test (Disziplinen Sprinttest, Klimmhang, 1.000-m-Lauf) — Details siehe Modul 2 samt Quellen."

@@ -42,7 +42,7 @@
         {
           "spans": [
             {
-              "text": "Die Grundausbildung ist dicht getaktet: früh Wecken, viel Programm, abends müde. In den ersten Wochen wirst du dich seltener melden, als alle es gewohnt sind — nicht, weil du nicht willst, sondern weil kaum Zeit und Energie da sind."
+              "text": "Die Heimatschutzausbildung ist dicht getaktet: früh Wecken, viel Programm, abends müde. In den ersten Wochen wirst du dich seltener melden, als alle es gewohnt sind — nicht, weil du nicht willst, sondern weil kaum Zeit und Energie da sind."
             }
           ],
           "type": "paragraph"
@@ -321,6 +321,28 @@
         {
           "spans": [
             {
+              "text": "Für bestimmte dienstlich veranlasste Ortswechsel gibt es als Instrumente "
+            },
+            {
+              "bold": true,
+              "text": "Trennungsgeld"
+            },
+            {
+              "text": " und "
+            },
+            {
+              "bold": true,
+              "text": "Umzugskostenvergütung"
+            },
+            {
+              "text": ". Die Trennungsgeldverordnung nennt dafür konkrete Maßnahmen und Voraussetzungen und erfasst ausdrücklich Berufssoldat:innen und SaZ; bei FWDL oder anderen Konstellationen können andere Grundlagen maßgeblich sein. Aus der bloßen Entfernung zwischen Wohnort und Kaserne folgt deshalb kein pauschaler Anspruch. Lass deinen Status, die konkrete Personalmaßnahme und die nötigen Nachweise früh von der zuständigen Verwaltungsstelle prüfen."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "spans": [
+            {
               "text": "Konkrete Beträge nennen wir hier bewusst nicht. Was du tun kannst: früh fragen, ob dein Fall infrage kommt, und Belege von Anfang an sammeln. Den Überblick über dein Geld insgesamt findest du in Modul 4."
             }
           ],
@@ -471,7 +493,8 @@
       "label": "Bundeswehr: Themenseiten zu Betreuung und Fürsorge, Familienbetreuung und Sozialdienst der Bundeswehr (bundeswehr.de), abgerufen 2026."
     },
     {
-      "label": "gesetze-im-internet.de: Trennungsgeldverordnung (TGV) und Bundesumzugskostengesetz (BUKG) — als Existenznachweis der Instrumente; Anspruch im Einzelfall klärt die zuständige Stelle, keine Rechtsberatung."
+      "label": "Amtliche Rechtsgrundlagen: Trennungsgeldverordnung  und Bundesumzugskostengesetz https://www.gesetze-im-internet.de/bukg_1990/ — Anspruch im Einzelfall klärt die zuständige Stelle; keine Rechtsberatung.",
+      "url": "https://www.gesetze-im-internet.de/tgv_1986/"
     },
     {
       "label": "Kostenloses Bahnfahren in Uniform: Beleg und Details siehe Modul 13 samt dortigen Quellen."
