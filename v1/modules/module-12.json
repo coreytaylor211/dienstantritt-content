@@ -5,7 +5,7 @@
   "schemaVersion": 2,
   "sections": [
     {
-      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "anchorSearchTitle": "Überblick",
       "blocks": [
         {
           "spans": [
@@ -17,7 +17,7 @@
         }
       ],
       "id": "12.1",
-      "title": "Worum es in diesem Modul geht",
+      "title": "Überblick",
       "type": "text"
     },
     {
@@ -1694,7 +1694,7 @@
       "type": "abbreviations"
     },
     {
-      "anchorSearchTitle": "Soldatensprache / Slang – kurz erklärt",
+      "anchorSearchTitle": "Soldatensprache und gebräuchliche Begriffe",
       "id": "12.6",
       "items": [
         {
@@ -1777,7 +1777,7 @@
           "term": "GaGa"
         }
       ],
-      "title": "Soldatensprache / Slang – kurz erklärt",
+      "title": "Soldatensprache und gebräuchliche Begriffe",
       "type": "slang"
     },
     {
@@ -2801,7 +2801,7 @@
       "label": "Erweiterung des Abkürzungs-Lexikons und des Glossars (2026-07): ergänzt auf Basis öffentlich dokumentierter Bezeichnungen – bundeswehr.de (Organisation, Dienstgrade, Truppengattungen, Ämter), gesetze-im-internet.de (u. a. SG, WStG, WDO, WBO, SBG, SUV, SAZV, SLV, SVG, USG, WSG, BBesG, ArbPlSchG, WPflG) und Wikipedia „Liste militärischer Abkürzungen“; abgerufen 2026-07. Nicht zuverlässig belegbare Abkürzungen und Begriffe wurden bewusst weggelassen."
     }
   ],
-  "title": "Praktisches, Orga & Nachschlagewerk",
+  "title": "Organisation und Nachschlagewerk",
   "updateNeed": "mittel",
   "version": "1.0.0"
 }

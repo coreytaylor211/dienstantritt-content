@@ -5,7 +5,7 @@
   "schemaVersion": 2,
   "sections": [
     {
-      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "anchorSearchTitle": "Überblick",
       "blocks": [
         {
           "spans": [
@@ -40,7 +40,7 @@
         }
       ],
       "id": "6.1",
-      "title": "Worum es in diesem Modul geht",
+      "title": "Überblick",
       "type": "text"
     },
     {
@@ -287,7 +287,7 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Wenn du dich ungerecht behandelt fühlst: dein Beschwerderecht",
+      "anchorSearchTitle": "Beschwerderecht bei ungerechter Behandlung",
       "blocks": [
         {
           "spans": [
@@ -377,11 +377,11 @@
         }
       ],
       "id": "6.6",
-      "title": "Wenn du dich ungerecht behandelt fühlst: dein Beschwerderecht",
+      "title": "Beschwerderecht bei ungerechter Behandlung",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Wenn du selbst Mist gebaut hast: Disziplinarrecht in Grundzügen",
+      "anchorSearchTitle": "Grundzüge des Disziplinarrechts",
       "blocks": [
         {
           "spans": [
@@ -464,7 +464,7 @@
         }
       ],
       "id": "6.7",
-      "title": "Wenn du selbst Mist gebaut hast: Disziplinarrecht in Grundzügen",
+      "title": "Grundzüge des Disziplinarrechts",
       "type": "text"
     },
     {

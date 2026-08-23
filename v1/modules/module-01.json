@@ -5,7 +5,7 @@
   "schemaVersion": 2,
   "sections": [
     {
-      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "anchorSearchTitle": "Überblick",
       "blocks": [
         {
           "spans": [
@@ -25,7 +25,7 @@
         }
       ],
       "id": "1.1",
-      "title": "Worum es in diesem Modul geht",
+      "title": "Überblick",
       "type": "text"
     },
     {

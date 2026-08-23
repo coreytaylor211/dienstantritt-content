@@ -5,7 +5,7 @@
   "schemaVersion": 2,
   "sections": [
     {
-      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "anchorSearchTitle": "Überblick",
       "blocks": [
         {
           "spans": [
@@ -25,7 +25,7 @@
         }
       ],
       "id": "4.1",
-      "title": "Worum es in diesem Modul geht",
+      "title": "Überblick",
       "type": "text"
     },
     {
@@ -1353,7 +1353,7 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Extra: Bahn & Führerschein",
+      "anchorSearchTitle": "Bahnfahrten und Führerschein-Zuschuss",
       "id": "4.8",
       "subsections": [
         {
@@ -1522,11 +1522,11 @@
           "title": "Führerschein-Zuschuss (ab 12 Monaten Dienst)"
         }
       ],
-      "title": "Extra: Bahn & Führerschein",
+      "title": "Bahnfahrten und Führerschein-Zuschuss",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Praxis: Auszahlung & Abrechnung",
+      "anchorSearchTitle": "Auszahlung und Abrechnung",
       "blocks": [
         {
           "spans": [
@@ -1615,7 +1615,7 @@
         }
       ],
       "id": "4.9",
-      "title": "Praxis: Auszahlung & Abrechnung",
+      "title": "Auszahlung und Abrechnung",
       "type": "text"
     }
   ],

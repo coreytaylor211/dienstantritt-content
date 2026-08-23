@@ -5,7 +5,7 @@
   "schemaVersion": 2,
   "sections": [
     {
-      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "anchorSearchTitle": "Überblick",
       "blocks": [
         {
           "spans": [
@@ -18,7 +18,7 @@
         {
           "spans": [
             {
-              "text": "Dieses Modul erklärt dir die wichtigsten Alltagsregeln: Zutritt und Besuch, Wache und Dienste, Stubenordnung, Uniform draußen, Handy und Fotos, Alkohol, Schweigen über Dienstliches und der Umgang mit deiner Ausrüstung."
+              "text": "Dieses Modul erklärt die wichtigsten Alltagsregeln: Zutritt und Besuch, Wache und Dienste, Stubenordnung, Uniform außerhalb der Kaserne, Handy und Fotos, Alkohol, den Umgang mit dienstlichen Informationen und mit der persönlichen Ausrüstung."
             }
           ],
           "type": "paragraph"
@@ -33,7 +33,7 @@
         }
       ],
       "id": "10.1",
-      "title": "Worum es in diesem Modul geht",
+      "title": "Überblick",
       "type": "text"
     },
     {
@@ -92,7 +92,7 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Wache und Dienste: UvD, GvD und Co.",
+      "anchorSearchTitle": "Wache und Dienste (UvD, GvD)",
       "blocks": [
         {
           "spans": [
@@ -152,7 +152,7 @@
         }
       ],
       "id": "10.3",
-      "title": "Wache und Dienste: UvD, GvD und Co.",
+      "title": "Wache und Dienste (UvD, GvD)",
       "type": "text"
     },
     {
@@ -263,7 +263,7 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Handy, Fotos und Schweigen über Dienstliches",
+      "anchorSearchTitle": "Handy, Fotos und dienstliche Informationen",
       "id": "10.6",
       "subsections": [
         {
@@ -335,10 +335,10 @@
             }
           ],
           "id": "10.6.2",
-          "title": "Geheimschutz light"
+          "title": "Grundlagen des Geheimschutzes"
         }
       ],
-      "title": "Handy, Fotos und Schweigen über Dienstliches",
+      "title": "Handy, Fotos und dienstliche Informationen",
       "type": "text"
     },
     {

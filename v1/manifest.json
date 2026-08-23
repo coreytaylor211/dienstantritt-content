@@ -1,11 +1,11 @@
 {
-  "contentVersion": "2026.08.23",
-  "generatedAt": "2026-08-23T00:00:00Z",
+  "contentVersion": "2026.08.23.32632683096.1",
+  "generatedAt": "2026-08-23T10:03:21Z",
   "keyId": "k1",
   "modules": [
     {
-      "bytes": 14514,
-      "checksum": "sha256:4ecebc4a1690643850d55fcf733257fa68d898edcff8c21150f1c1affdf22e27",
+      "bytes": 14476,
+      "checksum": "sha256:11ce599929ff62449d6d6aa4c5c416de6f6b6a719001b4ea62a71b7f5bbabda1",
       "file": "modules/module-01.json",
       "id": 1,
       "title": "Ankommen & erste Tage",
@@ -13,8 +13,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 20733,
-      "checksum": "sha256:225ce51e4acbe43cf2586738456cd8c876afee3b3e750d971fb14b5498f84325",
+      "bytes": 20679,
+      "checksum": "sha256:a96132ad3b494ae36972cf2176a97d0dbea749ee6f4503a91f19f0eb60e92c81",
       "file": "modules/module-02.json",
       "id": 2,
       "title": "Heimatschutzausbildung (ehemals Grundausbildung/AGA)",
@@ -22,8 +22,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 14636,
-      "checksum": "sha256:1e941df5dc6ebe3a16995e2736943a1577f2087328433540185481f1fba08ce3",
+      "bytes": 14598,
+      "checksum": "sha256:194dfde1ae045a0ee968a6d789bed330094c90d76dc2b50517aeadefaf8921b1",
       "file": "modules/module-03.json",
       "id": 3,
       "title": "Dienstgrade, Vorgesetzte & Umgangsformen",
@@ -31,8 +31,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 48082,
-      "checksum": "sha256:0e132caa55152b70798c3acd771a4cf3303e6eed2887d3b5d01c5a851ed0ee7c",
+      "bytes": 48054,
+      "checksum": "sha256:797ca7e5fc8e3f38eea56ca231833b3fe771bf5364b99a08f50a2114ac2c36d8",
       "file": "modules/module-04.json",
       "id": 4,
       "title": "Geld – Sold, Bezahlung & was gestellt ist",
@@ -40,8 +40,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 19057,
-      "checksum": "sha256:484d5c904c5606fb36d639f21a238ed2ecea68ff33e2006b46559fa71971bb4b",
+      "bytes": 19035,
+      "checksum": "sha256:0973800b969e379a4f3851086c3805fdaa8c9702debd3d801eb8a645b50f85a3",
       "file": "modules/module-05.json",
       "id": 5,
       "title": "Vor dem ersten Tag",
@@ -49,8 +49,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 18777,
-      "checksum": "sha256:c6c8fd1b9083759a72e703d912b3e6ce5692b5bfe9c8ff74a4a27acd81df2acc",
+      "bytes": 18635,
+      "checksum": "sha256:3b6e56bda5bacd4511c0532171bb21e874bbc8eabc58eb8c4cc3729b0fe5cd7d",
       "file": "modules/module-06.json",
       "id": 6,
       "title": "Rechte & Pflichten",
@@ -58,8 +58,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 17678,
-      "checksum": "sha256:e41468c0549af5853b1274fe278686409296a71a4120981b43f45f22c4f0267e",
+      "bytes": 17597,
+      "checksum": "sha256:172d6181065d4a42c63cb70ad7a2f521d17891be6a4db75eaa9160a113abfd6a",
       "file": "modules/module-07.json",
       "id": 7,
       "title": "Familie, Partnerschaft & Pendeln",
@@ -67,8 +67,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 19382,
-      "checksum": "sha256:1246fc978dec66b4177fdf6df8c928a96445a71b43ef0040ff651e4fa37c6f94",
+      "bytes": 19266,
+      "checksum": "sha256:f42b2776e59fb77976b93968eae0d9b8ea160dda78cb700079536352ab3204ef",
       "file": "modules/module-08.json",
       "id": 8,
       "title": "Gesundheit & Krankmeldung",
@@ -76,8 +76,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 16416,
-      "checksum": "sha256:ae1a3d3ecdbabd289d224ddcce4a768aadd0e46b2ef8677b0c1a9a53b3149aee",
+      "bytes": 16372,
+      "checksum": "sha256:50b1fc7f8570528b6f782e5f7f4facbf57d5a4ea6eb9eeb016b6b46e6d6ff667",
       "file": "modules/module-09.json",
       "id": 9,
       "title": "Urlaub, Arbeitszeit & Freizeit",
@@ -85,8 +85,8 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 16088,
-      "checksum": "sha256:a60426c71dba2655e6b68864ea8489db4bd2f139e8fe0fcf1bf3446fa3b28897",
+      "bytes": 16064,
+      "checksum": "sha256:80aeb43789cf329322b6f1e4c3728a6a8f265f280bfec45eb5fc6c2f3e24512c",
       "file": "modules/module-10.json",
       "id": 10,
       "title": "Kasernenalltag & Regeln",
@@ -94,29 +94,29 @@
       "version": "1.0.0"
     },
     {
-      "bytes": 16094,
-      "checksum": "sha256:b65ebbdf7b25a6308969e0d0c3368d6f7cef6499d0dfab97ccdee48e3eefe0e9",
+      "bytes": 15926,
+      "checksum": "sha256:8ec64b7772da2609151c343cd0f580677cc216af9943349cd5a19c652c331e6d",
       "file": "modules/module-11.json",
       "id": 11,
-      "title": "Nach der Heimatschutzausbildung — wie es weitergeht",
+      "title": "Nach der Heimatschutzausbildung",
       "updateNeed": "mittel",
       "version": "1.0.0"
     },
     {
-      "bytes": 88962,
-      "checksum": "sha256:18495d591e754f6b46bb26e2ebd8113d278f5918e40c306b3d5f237a15e201d5",
+      "bytes": 88925,
+      "checksum": "sha256:8acd34109240271da31d14e4230de3a7598ad43dd87b56bbb1726e8c7b30c9c6",
       "file": "modules/module-12.json",
       "id": 12,
-      "title": "Praktisches, Orga & Nachschlagewerk",
+      "title": "Organisation und Nachschlagewerk",
       "updateNeed": "mittel",
       "version": "1.0.0"
     },
     {
-      "bytes": 26154,
-      "checksum": "sha256:314bd9398c4312efca7e7bfbae79fcdcb73931e7d5be9c18a70f35a2efd3d8d0",
+      "bytes": 26136,
+      "checksum": "sha256:719e41034c839fd77a51c4f2a2411468211313da1a7a759330a85155eb32ce09",
       "file": "modules/module-13.json",
       "id": 13,
-      "title": "FAQ für Neue",
+      "title": "Häufige Fragen zum Dienstantritt",
       "updateNeed": "mittel",
       "version": "1.0.0"
     }

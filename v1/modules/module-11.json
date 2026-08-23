@@ -5,7 +5,7 @@
   "schemaVersion": 2,
   "sections": [
     {
-      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "anchorSearchTitle": "Überblick",
       "blocks": [
         {
           "spans": [
@@ -25,7 +25,7 @@
         }
       ],
       "id": "11.1",
-      "title": "Worum es in diesem Modul geht",
+      "title": "Überblick",
       "type": "text"
     },
     {
@@ -75,7 +75,7 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Vom FWDL zum SaZ — verlängern oder verpflichten",
+      "anchorSearchTitle": "Wechsel vom FWDL zum SaZ",
       "blocks": [
         {
           "spans": [
@@ -150,11 +150,11 @@
         }
       ],
       "id": "11.3",
-      "title": "Vom FWDL zum SaZ — verlängern oder verpflichten",
+      "title": "Wechsel vom FWDL zum SaZ",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Laufbahngruppen kurz erklärt",
+      "anchorSearchTitle": "Laufbahngruppen",
       "blocks": [
         {
           "spans": [
@@ -214,7 +214,7 @@
         }
       ],
       "id": "11.4",
-      "title": "Laufbahngruppen kurz erklärt",
+      "title": "Laufbahngruppen",
       "type": "text"
     },
     {
@@ -329,7 +329,7 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Bleiben oder gehen — eine ehrliche Entscheidungshilfe",
+      "anchorSearchTitle": "Entscheidung über die weitere Dienstzeit",
       "blocks": [
         {
           "spans": [
@@ -387,7 +387,7 @@
         }
       ],
       "id": "11.7",
-      "title": "Bleiben oder gehen — eine ehrliche Entscheidungshilfe",
+      "title": "Entscheidung über die weitere Dienstzeit",
       "type": "text"
     }
   ],
@@ -414,7 +414,7 @@
       "label": "Wo Abläufe je Einheit, Verwendung und Standort variieren (Versetzung, Dienstpostenausbildung, Übernahmechancen), sagen wir das offen — verbindlich sind deine Einheit und deine personalführende Stelle."
     }
   ],
-  "title": "Nach der Heimatschutzausbildung — wie es weitergeht",
+  "title": "Nach der Heimatschutzausbildung",
   "updateNeed": "mittel",
   "version": "1.0.0"
 }

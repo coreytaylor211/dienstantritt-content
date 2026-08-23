@@ -5,7 +5,7 @@
   "schemaVersion": 2,
   "sections": [
     {
-      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "anchorSearchTitle": "Überblick",
       "blocks": [
         {
           "spans": [
@@ -25,11 +25,11 @@
         }
       ],
       "id": "5.1",
-      "title": "Worum es in diesem Modul geht",
+      "title": "Überblick",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Dein Einberufungsschreiben — die eine Pflichtlektüre",
+      "anchorSearchTitle": "Einberufungsschreiben prüfen",
       "blocks": [
         {
           "spans": [
@@ -84,7 +84,7 @@
         }
       ],
       "id": "5.2",
-      "title": "Dein Einberufungsschreiben — die eine Pflichtlektüre",
+      "title": "Einberufungsschreiben prüfen",
       "type": "text"
     },
     {
@@ -227,7 +227,7 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Fit für Tag 1: der BFT als Ziel",
+      "anchorSearchTitle": "Vorbereitung auf den Basis-Fitness-Test (BFT)",
       "blocks": [
         {
           "spans": [
@@ -300,11 +300,11 @@
         }
       ],
       "id": "5.4",
-      "title": "Fit für Tag 1: der BFT als Ziel",
+      "title": "Vorbereitung auf den Basis-Fitness-Test (BFT)",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Anreise & die letzten Tage planen",
+      "anchorSearchTitle": "Anreise und letzte Vorbereitungen",
       "blocks": [
         {
           "items": [
@@ -355,11 +355,11 @@
         }
       ],
       "id": "5.5",
-      "title": "Anreise & die letzten Tage planen",
+      "title": "Anreise und letzte Vorbereitungen",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Kopf & Umfeld vorbereiten",
+      "anchorSearchTitle": "Persönliche und organisatorische Vorbereitung",
       "blocks": [
         {
           "items": [
@@ -405,7 +405,7 @@
         }
       ],
       "id": "5.6",
-      "title": "Kopf & Umfeld vorbereiten",
+      "title": "Persönliche und organisatorische Vorbereitung",
       "type": "text"
     },
     {

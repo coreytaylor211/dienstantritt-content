@@ -5,7 +5,7 @@
   "schemaVersion": 2,
   "sections": [
     {
-      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "anchorSearchTitle": "Überblick",
       "blocks": [
         {
           "spans": [
@@ -17,7 +17,7 @@
         }
       ],
       "id": "13.1",
-      "title": "Worum es in diesem Modul geht",
+      "title": "Überblick",
       "type": "text"
     },
     {
@@ -188,8 +188,8 @@
               "text": " (Lkw, C/C1). Es gelten Fristen (Antrag frühestens ab 01.01.2027) und Nachweispflichten (Quelle: bundeswehr.de, „Führerschein\", abgerufen 2026). Details in Modul 4."
             }
           ],
-          "id": "13.2-faq-bekomme-ich-wirklich-einen-fuehrerschein-bezahlt",
-          "question": "Bekomme ich wirklich einen Führerschein bezahlt?"
+          "id": "13.2-faq-gibt-es-einen-zuschuss-zum-fuehrerschein",
+          "question": "Gibt es einen Zuschuss zum Führerschein?"
         },
         {
           "answer": [
@@ -197,8 +197,8 @@
               "text": "Ja. In Uniform fährst du gratis – Fernverkehr und über die Vor-/Nachlauf-Regelung auch Nahverkehr (über 90 % der Verbindungen, auch in der Freizeit). Nötig: gültiger Truppenausweis, getragene Uniform und ein (kostenfreies, personalisiertes) Ticket über das Buchungsportal (Quelle: bundeswehr.de / bahn.de, abgerufen 2026-06-01)."
             }
           ],
-          "id": "13.2-faq-stimmt-es-mit-dem-kostenlosen-bahnfahren",
-          "question": "Stimmt es mit dem kostenlosen Bahnfahren?"
+          "id": "13.2-faq-welche-regeln-gelten-fuer-kostenlose-bahnfahrten",
+          "question": "Welche Regeln gelten für kostenlose Bahnfahrten?"
         },
         {
           "answer": [
@@ -464,7 +464,7 @@
       "label": "Erweiterung 2026-07 (Alltags-FAQ Haare/Bart, Tattoos, Besuch, Wäsche, Essen, WLAN, Auto, Schwimmen, Brille, Alkohol, Sport, Mobbing, Frauen, Weiterbildung, Kleidung Tag 1, Absicherung, Kontakt, Feiertage): bewusst zurückhaltend formuliert; bei variablen Details wird ausdrücklich auf die je Dienststelle geltenden Regeln und zuständigen Stellen verwiesen. Anlaufstellen (Vertrauensperson, Wehrbeauftragte:r, Sozialdienst) wie in Modul 12 belegt."
     }
   ],
-  "title": "FAQ für Neue",
+  "title": "Häufige Fragen zum Dienstantritt",
   "updateNeed": "mittel",
   "version": "1.0.0"
 }

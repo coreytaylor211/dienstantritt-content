@@ -5,7 +5,7 @@
   "schemaVersion": 2,
   "sections": [
     {
-      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "anchorSearchTitle": "Überblick",
       "blocks": [
         {
           "spans": [
@@ -18,7 +18,7 @@
         {
           "spans": [
             {
-              "text": "Dieses Modul hilft dir, diese Umstellung bewusst zu gestalten: realistische Erwartungen für die erste Zeit, ein Kommunikations-Rhythmus, der für alle funktioniert, eine Pendel-Routine — und die Anlaufstellen, wenn Heimweh oder eine Beziehungskrise größer werden als gedacht."
+              "text": "Dieses Modul behandelt realistische Erwartungen für die erste Zeit, regelmäßige Kommunikation, die Planung von Pendelstrecken und Anlaufstellen bei Heimweh oder persönlichen Krisen."
             }
           ],
           "type": "paragraph"
@@ -33,11 +33,11 @@
         }
       ],
       "id": "7.1",
-      "title": "Worum es in diesem Modul geht",
+      "title": "Überblick",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Die erste Zeit getrennt",
+      "anchorSearchTitle": "Trennung in den ersten Dienstwochen",
       "blocks": [
         {
           "spans": [
@@ -114,11 +114,11 @@
         }
       ],
       "id": "7.2",
-      "title": "Die erste Zeit getrennt",
+      "title": "Trennung in den ersten Dienstwochen",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Wochenendpendeln: Planung & Puffer",
+      "anchorSearchTitle": "Wochenendpendeln planen",
       "blocks": [
         {
           "spans": [
@@ -187,11 +187,11 @@
         }
       ],
       "id": "7.3",
-      "title": "Wochenendpendeln: Planung & Puffer",
+      "title": "Wochenendpendeln planen",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Fernbeziehung praktisch",
+      "anchorSearchTitle": "Fernbeziehung während des Dienstes",
       "blocks": [
         {
           "spans": [
@@ -254,11 +254,11 @@
         }
       ],
       "id": "7.4",
-      "title": "Fernbeziehung praktisch",
+      "title": "Fernbeziehung während des Dienstes",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Familie einbinden & Eltern beruhigen",
+      "anchorSearchTitle": "Familie und Angehörige informieren",
       "blocks": [
         {
           "spans": [
@@ -312,11 +312,11 @@
         }
       ],
       "id": "7.5",
-      "title": "Familie einbinden & Eltern beruhigen",
+      "title": "Familie und Angehörige informieren",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Geld beim Pendeln: nur ein Wegweiser",
+      "anchorSearchTitle": "Fahrtkosten und Trennungsgeld beim Pendeln",
       "blocks": [
         {
           "spans": [
@@ -350,11 +350,11 @@
         }
       ],
       "id": "7.6",
-      "title": "Geld beim Pendeln: nur ein Wegweiser",
+      "title": "Fahrtkosten und Trennungsgeld beim Pendeln",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Wenn Heimweh oder Krisen kommen",
+      "anchorSearchTitle": "Heimweh und persönliche Krisen",
       "blocks": [
         {
           "spans": [
@@ -412,11 +412,11 @@
         }
       ],
       "id": "7.7",
-      "title": "Wenn Heimweh oder Krisen kommen",
+      "title": "Heimweh und persönliche Krisen",
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Checkliste „Pendel-Routine\"",
+      "anchorSearchTitle": "Checkliste für regelmäßiges Pendeln",
       "id": "7.8",
       "items": [
         {
@@ -484,7 +484,7 @@
           ]
         }
       ],
-      "title": "Checkliste „Pendel-Routine\"",
+      "title": "Checkliste für regelmäßiges Pendeln",
       "type": "checklist"
     }
   ],

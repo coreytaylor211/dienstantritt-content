@@ -5,7 +5,7 @@
   "schemaVersion": 2,
   "sections": [
     {
-      "anchorSearchTitle": "Worum es in diesem Modul geht",
+      "anchorSearchTitle": "Überblick",
       "blocks": [
         {
           "spans": [
@@ -33,7 +33,7 @@
         }
       ],
       "id": "9.1",
-      "title": "Worum es in diesem Modul geht",
+      "title": "Überblick",
       "type": "text"
     },
     {
@@ -359,7 +359,7 @@
       "type": "text"
     },
     {
-      "anchorSearchTitle": "Sonderurlaub: wenn im Leben etwas passiert",
+      "anchorSearchTitle": "Sonderurlaub aus persönlichen Gründen",
       "blocks": [
         {
           "spans": [
@@ -385,7 +385,7 @@
         }
       ],
       "id": "9.7",
-      "title": "Sonderurlaub: wenn im Leben etwas passiert",
+      "title": "Sonderurlaub aus persönlichen Gründen",
       "type": "text"
     },
     {
